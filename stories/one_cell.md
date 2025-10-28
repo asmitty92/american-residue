@@ -58,7 +58,7 @@ He showered and dressed, though it was still before six. His wife, Caroline, sle
 
 He made coffee and sat at the kitchen table with his phone in front of him. Every few minutes he picked it up and tried Josh's number again. Nothing.
 
-By seven he was pacing. By eight, when he should have been heading to his engineering firm downtown, he was googling the area code, trying to narrow down where Josh might have been calling from. The old neighborhood. Definitely the old neighborhood.
+By seven he was pacing. By eight, when he should have been heading to his engineering firm downtown, he was trying to figure out where Josh might be. He googled the number Josh had called from but found nothing - just a generic carrier message about privacy settings. The old neighborhood still pulled at the edges of his thoughts though. If Josh was in trouble, that's where it would have started.
 
 He hadn't been back there in fifteen years.
 
@@ -130,7 +130,7 @@ Jeff dialed Tommy's number. It rang six times before someone picked up.
 
 "Yeah." The voice was phlegmy and irritated.
 
-"Uncle Tommy? It's Jeff. Jeff Carver."
+"Uncle Tommy? It's Jeff. Jeff Callahan."
 
 Silence. Then, "Jesus Christ. What do you want?"
 

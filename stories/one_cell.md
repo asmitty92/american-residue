@@ -159,3 +159,183 @@ Jeff sat at the table holding his phone. The coffee maker gurgled in the corner.
 Josh had called him at 5:47 to say goodbye.
 
 His brother had known he was going to die.
+
+## Two
+
+The funeral home sat on a corner lot between a check-cashing place and a laundromat. Jeff pulled his Accord into the cracked parking lot and sat for a moment looking at the peeling white paint on the building's facade. A hand-painted sign above the door read "Mahoney & Sons" in faded gold letters.
+
+He'd told Caroline he was going alone. She'd offered to come, offered to bring Emma, but he'd declined. This wasn't the kind of neighborhood where he wanted his family. Rachel's warning still echoed in his head.
+
+The lot held maybe a dozen cars, most of them at least ten years old. A rusted Cadillac sat near the entrance. Uncle Tommy's car, still running after all these years.
+
+Jeff got out and straightened his tie. He wore the same dark suit he'd worn to his mother's funeral eight years ago. It fit a little tighter now around the middle.
+
+Inside, the funeral home smelled like lilies and old carpet. A woman in a black dress pointed him toward a room at the end of the hall. He could hear voices—not many, but enough to make him hesitate at the doorway.
+
+The casket sat at the far end of the room, closed. Jeff felt a small relief at that. He wasn't sure he wanted to see his brother's face again after all these years, especially not like this.
+
+Maybe fifteen people scattered among the folding chairs. Jeff recognized a few faces from the old neighborhood—people who'd aged badly, their features weathered by lives he'd worked hard to escape. Uncle Tommy stood near the casket talking to a woman Jeff didn't know. His uncle had aged too. The man who'd seemed imposing in Jeff's childhood now looked shrunken, his suit hanging loose on his frame.
+
+Tommy saw him and stopped mid-sentence. The woman followed his gaze, then excused herself quietly.
+
+"Didn't think you'd show," Tommy said as Jeff approached.
+
+"He was my brother."
+
+"Yeah." Tommy's eyes were red-rimmed but dry. "Guess he was."
+
+They stood in uncomfortable silence. Up close, Jeff could smell the whiskey on his uncle's breath. Not fresh—probably from last night—but present enough to notice.
+
+"Who found him," Jeff asked.
+
+"Couple of kids cutting through the alley on their way to school." Tommy's voice was flat, mechanical. "Cops said he'd been dead maybe three, four hours by then."
+
+Three or four hours after the phone call. Josh had known exactly what was coming.
+
+"Do they know who did it?"
+
+Tommy gave him a look. "You really want to talk about this here?"
+
+"I want to know what happened to my brother."
+
+"Your brother got himself killed doing what he did. That's what happened." Tommy turned back toward the casket. "You been gone a long time, Jeff. You don't know how things work anymore."
+
+"Then tell me."
+
+Tommy shook his head. "Later. After. Come find me after and we'll talk."
+
+A priest Jeff didn't recognize entered the room and began organizing papers at a small podium. People started taking their seats. Jeff found a chair in the back row while Tommy moved to the front.
+
+The service was brief. The priest clearly hadn't known Josh—his eulogy consisted of generic platitudes about a life taken too soon and God's mysterious plans. A few people got up to speak. One woman talked about Josh helping her move furniture last year. A man with a scar across his cheek mentioned that Josh had been a good friend, always there when you needed him.
+
+Nobody mentioned what Josh had done for a living. Nobody talked about Uncle Tommy or the life Josh had led after leaving home at thirteen. It was as if the past twenty-five years had been carefully edited out of existence.
+
+Jeff watched his uncle sit rigid in the front row, staring at the casket. Tommy didn't cry. Didn't speak. Just sat there with his hands folded in his lap.
+
+When it ended, people filed past the casket. Jeff joined the line, moving slowly toward the front. When his turn came, he stood looking at the polished wood surface and tried to remember the last time he'd actually seen Josh's face. That court appearance six years ago? Seven? His brother had looked tired then, worn down by a life that had been grinding at him since childhood.
+
+"I'm sorry," Jeff said quietly. He didn't know if he was apologizing for not being there or for something else entirely.
+
+Behind him, someone cleared their throat. Jeff moved on.
+
+Outside, the afternoon sun felt too bright after the dim funeral home. Jeff loosened his tie and looked for Tommy. His uncle stood by the Cadillac smoking a cigarette and talking to two men Jeff didn't recognize. When he saw Jeff approaching, he said something to the men and they drifted away.
+
+"You still want to talk," Tommy asked.
+
+"Yes."
+
+Tommy took a long drag on his cigarette and flicked the ash onto the pavement. "Get in the car. We'll go somewhere quieter."
+
+Jeff hesitated. Getting into a car with his drunk uncle to drive to some unknown location in his old neighborhood probably wasn't the smartest decision. But he got in anyway.
+
+The Cadillac's interior smelled like cigarettes and old fast food. Tommy drove without speaking, navigating streets Jeff half-remembered from childhood. They passed the elementary school he and Josh had attended—now surrounded by chain-link fence and graffiti. The corner store where they'd bought candy had bars on the windows.
+
+Tommy pulled into the parking lot of a dive bar called Mickey's. Even in the afternoon, a few cars sat outside.
+
+"Seriously?" Jeff asked.
+
+"You wanted to talk. I need a drink." Tommy got out without waiting for a response.
+
+Inside, the bar was dark and nearly empty. A bartender nodded at Tommy like he was a regular. Probably was. Tommy ordered a whiskey neat and looked at Jeff.
+
+"Nothing for me," Jeff said.
+
+They took a booth in the back. Tommy downed half his drink in one swallow and set the glass on the scarred table between them.
+
+"Josh was doing collections," Tommy said without preamble. "Working for a guy named Viktor Petrov. You know what collections means?"
+
+"Loan sharking."
+
+"More or less." Tommy finished his drink and signaled for another. The bartender brought it over without a word. "Josh was good at it. He could be persuasive without being violent. Most of the time, anyway."
+
+"What happened?"
+
+Tommy leaned back in the booth. "There was this woman. Single mother, two kids. She'd borrowed money for her kid's medical bills and fallen behind on payments. Viktor wanted Josh to lean on her. Make her understand that debt doesn't just go away."
+
+Jeff waited.
+
+"Josh paid her debt himself," Tommy continued. "Not just once. Three, four times over the past six months. Viktor found out last week."
+
+"And killed him for it?"
+
+"Viktor doesn't do his own wet work. He's got people for that." Tommy stared into his glass. "But yeah. That's why Josh is dead. Because he couldn't just do the job."
+
+The bar's jukebox played something country and mournful. Jeff felt the weight of it settling on him—his brother had died trying to protect someone. Just like he'd always done.
+
+"The police know this?"
+
+Tommy laughed, bitter and short. "The police don't give a shit about Josh Callahan. Small-time criminal gets shot in an alley? Case'll be open maybe two weeks before it goes cold."
+
+"So whoever did this just walks away."
+
+"That's how it works." Tommy met Jeff's eyes. "You should go home to your nice house and your nice family and forget about all this. Josh made his choices. He knew the risks."
+
+"He called me that morning. Before he died."
+
+Something shifted in Tommy's expression. "What'd he say?"
+
+"That he didn't blame me. For Mom sending him away." Jeff paused. "And he talked about us being twins. About how we came from one cell before we split."
+
+Tommy was quiet for a long moment. "He talked about that sometimes. When he'd had too much to drink. About you being twins. About how different your lives turned out." He finished his second drink. "He never blamed you, you know. For getting out. He was proud of you, actually. Thought you were smart for leaving all this behind."
+
+"I should have stayed in touch."
+
+"Maybe. Maybe not." Tommy stood up. "Come on. I'll drive you back to your car."
+
+They drove in silence. When Tommy pulled into the funeral home parking lot, he kept the engine running.
+
+"Go home, Jeff," he said. "There's nothing for you here."
+
+Jeff got out but leaned back in through the open door. "Who's Viktor Petrov? Where would I find him?"
+
+Tommy's face hardened. "You're not listening."
+
+"Josh was my brother."
+
+"And he's dead. You going after Viktor won't change that. It'll just get you killed too." Tommy reached over and pulled the door closed. "Go home."
+
+Jeff stood in the parking lot watching the Cadillac pull away. The sun was lower now, throwing long shadows across the cracked pavement. His phone buzzed in his pocket. A text from Caroline asking how it went.
+
+He didn't reply. Instead, he got in his car and sat there thinking about Josh paying a stranger's debt over and over until it killed him. About his brother calling to say goodbye because he knew what was coming and accepted it.
+
+About the one cell they'd come from before splitting into two very different people.
+
+Jeff pulled out his phone and searched for Viktor Petrov. Nothing came up except a few social media profiles that looked like dead ends. He tried searching for loan sharks in the old neighborhood. That was useless too.
+
+He needed someone who knew the neighborhood. Someone still connected to that world but willing to talk. His cousin Rachel had lived there her whole life. She'd know people.
+
+Jeff found her number and called.
+
+"Hey," she said, surprised. "How was the funeral?"
+
+"Sad. Short." He paused. "Rachel, I need to ask you something. Do you know anyone named Viktor Petrov?"
+
+The line went quiet.
+
+"Rachel?"
+
+"Why are you asking about Viktor?" Her voice had changed, become careful.
+
+"Tommy said Josh was working for him. That's why he got killed."
+
+"Jeff, you need to leave this alone."
+
+"I can't."
+
+"Yes, you can. You absolutely can." Rachel's voice rose slightly. "Viktor Petrov is not someone you want to mess with. He's got connections, Jeff. Real connections. People don't cross him and live to talk about it."
+
+"I'm not trying to cross him. I just want to understand what happened."
+
+"Josh understood what happened. He made a choice and he paid for it. That's all you need to know."
+
+"Rachel—"
+
+"No. I'm serious. Go home to Caroline and Emma. Remember Josh however you want to remember him. But do not go looking for Viktor Petrov." She hung up.
+
+Jeff sat in his car as the sun continued its descent. The funeral home was dark now, everyone gone. Just him alone in a parking lot in a neighborhood he'd spent half his life trying to forget.
+
+He should listen to Tommy. To Rachel. Go home and let the police handle it, even if they never did.
+
+But Josh had called him that morning for a reason. Had talked about the one cell, about being brothers, about protection. Josh had known he was going to die and had wanted Jeff to know something. What exactly, Jeff wasn't sure yet.
+
+He started the car and drove home. But he didn't stop thinking about Viktor Petrov.

@@ -346,9 +346,9 @@ Jeff made it two days before going back.
 
 He'd tried to focus on work. Sat through meetings about load calculations and structural integrity while his mind drifted to alleyways and closed caskets. Caroline asked him twice if he was okay. He told her he was fine.
 
-On Wednesday afternoon, he left the office early and drove east toward the old neighborhood. He told himself he was just looking around. Seeing how things had changed. He didn't have a plan.
+On Wednesday afternoon, he left the office early and drove south toward the old neighborhood. He told himself he was just looking around. Seeing how things had changed. He didn't have a plan.
 
-The Git n Go sat boarded up like a headstone. He drove past it slowly, taking in the changes. Some buildings had been torn down. Others had new paint and new purposes. On the corner where the old hardware store used to be, a small restaurant called Lacona's had taken its place.
+The Git n Go sat boarded up like a headstone. He drove past it slowly, taking in the changes. Some buildings had been torn down. Others had new paint and new purposes. On the corner where John Scali's barber shop used to be, a small restaurant called Lacona's had taken its place.
 
 Jeff recognized the name. Mrs. Lacona had run a diner two blocks over when he was a kid. He and Josh used to go there after school sometimes. She'd give them free sodas if they were polite.
 
@@ -364,7 +364,7 @@ Jeff raised a hand in a small wave. After a moment, she walked over.
 
 "Sit anywhere," she said quietly. "I'll be with you in a minute."
 
-He took a booth in the back. The younger woman brought him water and a menu. He ordered a sandwich he didn't particularly want and waited.
+He took a booth by the window facing the parking lot. The younger woman brought him water and a menu. He ordered an Italian beef sandwich he didn't particularly want and waited.
 
 Mrs. Lacona came to his table five minutes later. She slid into the seat across from him without asking.
 
@@ -378,7 +378,7 @@ Mrs. Lacona came to his table five minutes later. She slid into the seat across 
 
 She smiled, sad and tired. "You don't have to call me ma'am. You're not eleven anymore." She folded her hands on the table. "I went to the service. I saw you there, but you left quickly."
 
-"I didn't know many people anymore."
+"I don't know many people anymore."
 
 "No, I suppose you wouldn't." She looked at him carefully. "What are you doing back here?"
 
@@ -386,13 +386,13 @@ She smiled, sad and tired. "You don't have to call me ma'am. You're not eleven a
 
 "That's not why you came into my restaurant."
 
-He didn't have a good lie ready. "Josh called me the morning he died. He said some things that didn't make sense. I'm trying to understand."
+He didn't have a good lie ready. "Josh called me the morning he died. He said some things that didn't make sense... I'm just trying to understand."
 
-Mrs. Lacona was quiet for a moment. "Your brother came by here about a week before he died. Sat right where you're sitting now. He asked me if I remembered the day your father died."
+Mrs. Lacona was quiet for a moment. "Your brother was a regular here. He came in about a week before he died. Sat right where you're sitting now. He asked me if I remembered the day your father died."
 
 Jeff's throat tightened. "What did you tell him?"
 
-"I told him the truth. That I saw him that day, walking past the old diner around lunchtime. He should have been in school, but he was alone." She paused. "He seemed relieved when I said that. Like it was important that someone else remembered."
+"I told him the truth. That I saw him that day, walking past the old diner just before lunchtime. He should have been in school, but he was alone." She paused. "He seemed relieved when I said that. Like it was important that someone else remembered."
 
 "Did he say why he was asking?"
 
@@ -412,17 +412,13 @@ Jeff pulled out his phone and searched for the address of Lawrence Bender Elemen
 
 The building looked smaller than he remembered. Most things did. The brick facade had darkened with age and the playground equipment had been updated, but the basic shape remained the same. He and Josh had spent six years inside those walls.
 
-The day their father died, Jeff had left school at lunch. Told the teacher he felt sick. She'd let him go without calling home. He'd walked the eight blocks to their house knowing his father would be there. Knowing what he had to do.
-
-Josh had been in class. At least, that's what Jeff had always believed. The police had questioned both of them. Their mother had been at work. Uncle Tommy had been somewhere else. Only the boys had been home that day.
-
-Except Josh hadn't been home. He'd been walking through the neighborhood. Mrs. Castillo had seen him.
+The day their father died, the boys walked to school together. But they weren't both there all day. Mrs. Lacona had seen Josh walking away from the school that morning. Their mother had been at work. Their father, who worked nights, was home asleep when someone entered their house and stabbed him in his bed with a knife from their kitchen.
 
 Jeff's phone rang. Caroline.
 
 "Hey," he said.
 
-"Where are you? Emma's soccer practice ended twenty minutes ago."
+"Where are you? Emma's soccer practice ended ten minutes ago."
 
 He'd forgotten. Completely forgotten. "I'm sorry. I got caught up with something. Can you pick her up?"
 
@@ -434,13 +430,13 @@ Silence on the other end. Then, "I'm at the hospital, Jeff. That's why you were 
 
 He looked at the elementary school. At the chain-link fence and the darkened brick. "Running errands. I'll get Emma. I'm sorry."
 
-He hung up before she could ask more questions. The soccer field was forty minutes away if traffic was light. He'd be late, but not terribly late.
+He hung up before she could ask more questions. The soccer field was thirty minutes away if traffic was light. He'd be late, but not terribly late.
 
-As he pulled away from the school, he glanced in the rearview mirror. A man stood on the corner near the playground, watching him. Jeff couldn't make out the details from this distance, but something about the way the man stood—still, focused—made his hands tighten on the wheel.
+As he pulled away from the school, he glanced in the rearview mirror. A man stood on the corner near the playground, watching him. Jeff couldn't make out the details from this distance, but something about the way the man stood, stock—still and focused—made his hands tighten on the wheel.
 
 He turned the corner and the man disappeared from view.
 
-Jeff picked up Emma thirty minutes late. She sat on the bleachers with her coach, both of them looking annoyed. He apologized to them both. Emma didn't speak to him on the drive home.
+Jeff picked up Emma thirty minutes later. She sat on the bleachers with her coach, both of them looking annoyed. He apologized to them both. Emma didn't speak to him on the drive home.
 
 "I said I was sorry," he told her.
 
@@ -452,7 +448,7 @@ She stared out the window. She was twelve and getting better at silence as a wea
 
 At home, Caroline was already making dinner. She gave him a look that said they'd talk about this later. Emma went straight to her room.
 
-Jeff helped with dinner in silence. Set the table. Poured drinks. Normal movements in a normal evening, but nothing felt normal. His mind kept going back to Mrs. Castillo. To Josh asking about their father. To the man on the corner watching him drive away.
+Jeff helped with dinner in silence. Set the table. Poured drinks. Normal movements in a normal evening, but nothing felt normal. His mind kept going back to Mrs. Lacona. To Josh asking about their father. To the man on the corner watching him drive away.
 
 After dinner, after Emma had gone to bed, Caroline found him on the back porch.
 
@@ -462,15 +458,15 @@ After dinner, after Emma had gone to bed, Caroline found him on the back porch.
 
 "You forgot to pick up our daughter. You're never late for her. Not ever."
 
-He didn't have a good answer. Or he had one, but he couldn't say it. That he'd been sitting outside their old elementary school trying to remember which one of them had actually killed their father.
+He didn't have a good answer. Or he had one, but he couldn't say it. That he'd been sitting outside their old elementary school trying to put together puzzle pieces that just didn't quite fit.
 
 "I'm sorry," he said. "It won't happen again."
 
 Caroline sat down next to him. "This is about Josh, isn't it?"
 
-"He was my brother."
+His silence was all the answer she needed.
 
-"I know. And I know you're grieving. But you can't let it pull you away from us." She took his hand. "Emma needs you here. I need you here."
+"I know you're grieving. But you can't let it pull you away from us." She took his hand. "Emma needs you here. I need you here."
 
 "I am here."
 
@@ -484,7 +480,7 @@ His phone buzzed. A text from a number he didn't recognize.
 
 That was all it said. No name. No context. Just four words.
 
-Jeff stared at the message. He'd only talked to Mrs. Castillo. And she wouldn't have told anyone. Would she?
+Jeff stared at the message. He'd only talked to Mrs. Lacona. And she wouldn't have told anyone. Would she?
 
 He thought about the man on the corner. About being watched.
 

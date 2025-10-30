@@ -612,7 +612,7 @@ Sean's expression darkened. "Sophie Martinez. Two kids, seven and nine. Her youn
 
 "Josh paid it for her."
 
-"Yeah. First time, Viktor didn't notice. But Josh kept doing it. Every week, he'd pay Sofia's vig out of his own pocket. Figured Viktor wouldn't know the difference." Sean shook his head. "But Viktor knows everything. He's got eyes everywhere. When he found out, he called Josh in."
+"Yeah. First time, Viktor didn't notice. But Josh kept doing it. Every week, he'd pay Sophie's vig out of his own pocket. Figured Viktor wouldn't know the difference." Sean shook his head. "But Viktor knows everything. He's got eyes everywhere. When he found out, he called Josh in."
 
 "What happened?"
 

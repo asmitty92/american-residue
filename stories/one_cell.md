@@ -684,6 +684,166 @@ He hung up and sat staring at the empty parking lot. He should go home. Should l
 
 Josh had protected that woman. Had died to protect her. Trying to live up to some impossible standard.
 
+He needed to find Sophie Martinez.
+
+## Five
+
+Finding Sophie Martinez turned out to be easier than Jeff expected. There were only three Sophie Martinezes in the area, and only one with children the right age.
+
+She lived in a two-bedroom apartment on the eastern edge of the neighborhood. Not the worst part, but close. Jeff drove past it twice before parking half a block away. He needed to be careful. If Viktor's men were watching him, they might be watching her too.
+
+The apartment building was red brick, four stories, with external stairs and a shared courtyard. Kids' toys littered the grass. A basketball hoop missing its net hung crooked over a parking space.
+
+Jeff sat in his car for twenty minutes, watching. No black sedans. No men standing on corners. Just a woman coming home with groceries and two kids riding bikes in circles.
+
+He got out and walked to the building. The directory by the front door listed S. Martinez in apartment 3B. No buzzer system—the front door was propped open with a brick.
+
+Inside, the hallway smelled like stale cooking oil. Jeff took the stairs to the third floor and found 3B at the end of the corridor. He could hear a television through the door. Cartoons, probably.
+
+He knocked.
+
+Footsteps. The sound of a chain being fastened. Then the door opened a crack.
+
+A woman in her early thirties looked out at him. Dark hair pulled back in a ponytail. Tired eyes. She wore scrubs—nurse or hospital tech, maybe.
+
+"Can I help you?"
+
+"Sophie Martinez?"
+
+Her expression closed off immediately. "Who's asking?"
+
+"My name is Jeff Conroy. As you cn see, I'm Josh's brother."
+
+She stared at him. "I didn't know Josh had a brother."
+
+"He did. We weren't close. I hadn't seen him in years." Jeff kept his hands visible, non-threatening. "I'm trying to understand what happened to him."
+
+"The police already came by. I told them I don't know anything."
+
+"I'm not the police."
+
+"Then you should go." She started to close the door.
+
+"Please. Just five minutes. Josh died because of you, and I need to know why."
+
+The door stopped. Sophie's face went pale. "What did you say?"
+
+"Josh paid your debts. Viktor Petrov found out and had him killed for it." Jeff's voice was quiet. "I'm not blaming you. I just want to understand."
+
+Sophie stood frozen for a moment. Then she unlatched the chain and opened the door wider. "Come in. But be quick. My kids will be home from school soon."
+
+Jeff followed her into the small apartment. The living room was clean but worn. A couch with duct tape over one cushion. A TV on a stand. Children's drawings taped to the walls. Through an open doorway he could see a kitchen, dishes drying in a rack.
+
+Sophie didn't sit. Just stood with her arms crossed. "I didn't know Josh was paying my debts. Not at first."
+
+"When did you find out?"
+
+"About a month ago. I asked the guy who came to collect why the amount kept staying the same. He told me someone was covering the interest." She looked away. "I figured it out. Josh was the only one who knew I was behind."
+
+"How did you know Josh?"
+
+"He came by every week. To collect." Sophie's voice was flat. "The first few times, he was all business. But then he found out my son is sick. He needed surgery. That's why I borrowed the money in the first place. Josh saw the medical bills on my table. After that, he started asking how my son was doing. If I needed anything."
+
+"And you told him you couldn't pay?"
+
+"I didn't have to tell him. He could see it." She sat down on the couch, suddenly looking exhausted. "I work two jobs. I pay what I can. But the interest—the juice—it never went down. I was drowning."
+
+Jeff sat in the chair across from her. "Did Josh tell you he was paying it?"
+
+"No. He just kept coming by, telling me everything was okay. That I had time." Sophie looked at him. "You look just like him. It's strange."
+
+"We were twins."
+
+"He mentioned that once. Said he had a brother who got out. Made something of himself." She smiled, sad. "He seemed proud of that."
+
+Jeff felt the weight of it. Josh talking about him to a stranger. Proud.
+
+"Why didn't you leave? After you found out Josh was paying?"
+
+"Where would I go?" Sophie spread her hands. "I don't have money for a deposit on a new place. Don't have family who can take us in. This is it." She paused. "And I thought—I thought maybe Josh worked something out with Viktor. That it was okay."
+
+"It wasn't okay."
+
+"I know that now." Her voice cracked. "The morning after Josh died, two men came to my door. They told me my debt was cleared. Paid in full. Said Josh took care of it." She wiped her eyes. "They said I should remember that. Remember what it cost."
+
+Jeff's hands tightened on the chair arms. "Did they threaten you?"
+
+"They didn't have to. The message was clear. Josh paid my debt with his life, and I shouldn't talk about it."
+
+They sat in silence. From somewhere in the building, Jeff could hear music playing. Someone laughing. Normal sounds of people living their lives, unaware of the violence that lurked at the edges.
+
+"I'm sorry," Sophie said finally. "I'm sorry your brother died because of me."
+
+"It wasn't because of you. It was because of Viktor. And maybe a little bit because of me."
+
+"Does that make a difference?"
+
+Jeff didn't have an answer for that.
+
+A key turned in the lock. The front door opened and two kids came in—a girl maybe nine, a boy seven. They stopped when they saw Jeff.
+
+"Mom?" the girl said.
+
+Sophie stood up quickly, putting herself between Jeff and her children. "It's okay. This is Mr. Conroy. He's leaving."
+
+Jeff stood too. He looked at the boy. Dark hair, big eyes. Still thin from being sick, probably. This was the kid Josh had died for. A seven-year-old who needed surgery.
+
+"I should go," Jeff said.
+
+He stopped and turned to face her one more time. "You know, I only made it out of this neighborhood because my mother married up when she re-married. By then, Josh was living with our uncle Tommy, so he stayed." 
+
+Sophie walked him to the door. In the hallway, she spoke quietly. "Whatever you're planning to do about Viktor, don't. He'll kill you like he killed Josh."
+
+"I'm not planning anything."
+
+"Yes, you are. I can see it." She touched his arm. "Josh was a good man. I don't know what he did before he started helping me, but he was trying to be better. Don't waste your life on revenge."
+
+"It's not revenge. It's—" Jeff stopped. He didn't know what it was.
+
+Sophie shook her head. "Go home to your family, Mr. Conroy. That's what Josh would want."
+
+She closed the door. Jeff heard the chain slide into place.
+
+He stood in the hallway for a moment, then walked back to his car. The sun was setting, throwing long shadows across the parking lot. He got in and sat there, staring at Sophie's apartment building.
+
+Josh had saved that woman and her kids. Had chosen them over his own life. And for what? So Sophie could keep living in a rundown apartment, working two jobs, barely scraping by?
+
+No. Josh had done it because it was the right thing. Because someone needed protecting and he was there to do it.
+
+Jeff pulled out his phone. He had one more person to talk to. Someone who might actually know where to find Viktor.
+
+He called Rachel again.
+
+"Jesus, Jeff, what now?" She sounded annoyed.
+
+"I need to know where Viktor Petrov operates. Where his office is, or his house, or wherever he conducts business."
+
+"Are you insane?"
+
+"Probably. But I need to know."
+
+"Why?"
+
+"Because Josh called me that morning for a reason. Because he talked about the one cell. Because someone has to—" He stopped. "Please, Rachel. This is the last thing I'll ask."
+
+She was quiet for a long time. "He has a social club on Harrison Street. Second floor above that Chinese restaurant—Golden Dragon. That's where he meets people."
+
+"Thank you."
+
+"Jeff, wait—"
+
+He hung up before she could finish.
+
+Golden Dragon. Harrison Street. He knew where that was. Twenty minutes away, maybe.
+
+Jeff started the car. He should go home. Should go back to Caroline and Emma. Should forget about all of this and let the police handle it, even though they wouldn't.
+
+But Josh had called him that morning. Had talked about being brothers. Had reminded him about the one cell they'd come from before splitting into two different people.
+
+And now Jeff understood what Josh had been trying to say.
+
+They weren't different. Not really. They'd just taken different paths to the same place. Josh had spent his life protecting people, even when it cost him everything. Even when it killed him.
+
 Now it was Jeff's turn.
 
-He needed to find Sophie Martinez.
+He drove toward Harrison Street.

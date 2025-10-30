@@ -712,7 +712,7 @@ A woman in her early thirties looked out at him. Dark hair pulled back in a pony
 
 Her expression closed off immediately. "Who's asking?"
 
-"My name is Jeff Conroy. As you cn see, I'm Josh's brother."
+"My name is Jeff Conroy. As you can see, I'm Josh's brother."
 
 She stared at him. "I didn't know Josh had a brother."
 

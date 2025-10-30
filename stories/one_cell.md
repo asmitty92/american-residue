@@ -24,7 +24,7 @@ Jeff sat up. His brother's name hit him harder than the water soaking into the s
 
 "For Mom sending me to live with Uncle Tommy. I know you didn't have anything to do with that. She made that call on her own."
 
-Jeff's throat tightened. "Josh, that was twenty-five years ago."
+Jeff's throat tightened. "Josh, that was twenty-seven years ago."
 
 "I know." Another pause. "But I wanted you to know anyway. You were a good brother. The best brother. You always protected me when we were kids."
 
@@ -208,7 +208,7 @@ A priest Jeff didn't recognize entered the room and began organizing papers at a
 
 The service was brief. The priest clearly hadn't known Josh—his eulogy consisted of generic platitudes about a life taken too soon and God's mysterious plans. A few people got up to speak. One woman talked about Josh helping her move furniture last year. A man with a scar across his cheek mentioned that Josh had been a good friend, always there when you needed him.
 
-Nobody mentioned what Josh had done for a living. Nobody talked about Uncle Tommy or the life Josh had led between leaving home at thirteen and reaching adulthood. It was as if those years had been carefully edited out of existence.
+Nobody mentioned what Josh had done for a living. Nobody talked about Uncle Tommy or the life Josh had led between leaving home at eleven and reaching adulthood. It was as if those years had been carefully edited out of existence.
 
 Jeff watched his uncle sit rigid in the front row, staring at the casket. Tommy didn't cry. Didn't speak. Just sat there with his hands folded in his lap.
 
@@ -246,7 +246,7 @@ They took a booth in the back. Tommy downed half his drink in one swallow and se
 
 "Loan sharking."
 
-"That and he collected from deliquent gamblers for Petrov's bookmakers." Tommy finished his drink and signaled for another. The bartender brought over the bottle and refilled Tommy's glass. "Josh was good at it. He could be persuasive without being violent. Most of the time, anyway."
+"That and he collected from delinquent gamblers for Petrov's bookmakers." Tommy finished his drink and signaled for another. The bartender brought over the bottle and refilled Tommy's glass. "Josh was good at it. He could be persuasive without being violent. Most of the time, anyway."
 
 "What happened?"
 
@@ -276,7 +276,7 @@ Something shifted in Tommy's expression. "What'd he say?"
 
 "That he didn't blame me. For Mom sending him away." Jeff paused. "And he talked about us being twins. About how we came from one cell before we split."
 
-Tommy was quiet for a long moment. "He talked about that sometimes. When he'd had too much to drink. About you being twins. About how different your lives turned out. And sometimes other things....about your dad." He finished his second drink. "No, he never blamed you. He was proud of you. He admired your instinct to protect people. I think it was something he tried to live up to."
+Tommy was quiet for a long moment. "He talked about that sometimes. When he'd had too much to drink. About you being twins. About how different your lives turned out. And sometimes other things...about your dad." He finished his second drink. "No, he never blamed you. He was proud of you. He admired the example you set. I think it was something he tried to live up to."
 
 "I should have stayed in touch."
 

@@ -497,3 +497,193 @@ But Josh had called him that morning for a reason. Had talked about the one cell
 And now someone was threatening him for asking questions.
 
 Jeff closed his eyes but didn't sleep.
+
+## Four
+
+The next morning, Jeff called his assistant to tell her he wouldn't be in. She didn't question it.
+
+Caroline had already left for an early shift when he got up. Emma was at a friend's house for the night. The empty house felt like permission.
+
+He made coffee and sat at the kitchen table with his laptop. The threatening texts had been deleted, but he remembered every word. Someone was watching him. Someone knew he'd been asking questions.
+
+Good.
+
+He needed to find someone who'd known Josh. Someone who'd worked with him. But he didn't have names, didn't know where to start.
+
+He called Rachel.
+
+"Jeff, it's seven in the morning," she said, groggy.
+
+"I need a favor."
+
+Silence. Then, "I told you to leave this alone."
+
+"I can't. Someone threatened me last night. Told me to stop asking questions."
+
+"Jesus, Jeff." He heard her moving, probably sitting up in bed. "That's exactly why you need to stop."
+
+"Who would Josh have worked with? Someone close to him. Someone who'd know about Viktor."
+
+"I'm not helping you get yourself killed."
+
+"Rachel, please. Just a name. That's all I'm asking."
+
+She was quiet for a long time. "There's a guy named Sean Delahunt. He and Josh ran together sometimes. He drinks at that bar on Maple, the one with the shamrock sign."
+
+"Mickey's?"
+
+"Yeah. How'd you know?"
+
+"Lucky guess." Jeff paused. "Thank you."
+
+"Don't thank me. If you get yourself killed, I'm going to feel responsible." She hung up.
+
+Jeff looked up Sean Delahunt. Found a couple of arrest records going back fifteen years. Petty theft, assault, possession. Nothing recent. Either he'd cleaned up or gotten better at not getting caught.
+
+The bar wouldn't be open until noon. Jeff had a few hours to kill.
+
+He spent them reading about Viktor Petrov. Not much online—the man kept a low profile. A few mentions in local news articles about loan sharking operations, always as an unnamed associate. One article from three years ago mentioned a Viktor Petrov being questioned in connection with a missing bookkeeper. No charges filed.
+
+At eleven-thirty, Jeff got in his car and drove south.
+
+Mickey's looked worse in daylight. The paint was peeling, the parking lot full of potholes. Only two cars sat outside. Jeff parked and went in.
+
+The interior was dark despite the afternoon sun. It took a moment for his eyes to adjust. A bartender—different from the one who'd served Tommy—stood behind the bar wiping glasses. Two men sat at separate tables, both nursing beers.
+
+"We just opened," the bartender said. "Kitchen's not running yet."
+
+"That's fine. Just a beer." Jeff sat at the bar. "Whatever's on tap."
+
+The bartender poured him something amber and set it down. Jeff paid in cash.
+
+"I'm looking for Sean Delahunt," he said.
+
+The bartender's expression didn't change, but something shifted in his posture. "Don't know him."
+
+"He drinks here. My cousin told me."
+
+"Your cousin's wrong." The bartender went back to wiping glasses.
+
+Jeff sipped his beer. It was terrible. He waited.
+
+After ten minutes, one of the men at the tables got up and left. The other stayed, watching Jeff in the mirror behind the bar. He was about Jeff's age, heavy-set, with thinning hair and a nose that had been broken more than once.
+
+Jeff caught his eye in the mirror. "You Sean Delahunt?"
+
+The man didn't answer. Just kept watching.
+
+Jeff turned on his stool to face him. "I'm Jeff Conroy. Josh's brother."
+
+"I know who you are," Sean said. His voice was rough, worn down by cigarettes or years or both. "You look just like him."
+
+"Can I buy you a drink?"
+
+Sean studied him for a long moment. Then he nodded at the empty chair across from him.
+
+Jeff brought his beer over and sat down. Up close, Sean looked older. His hands shook slightly as he lifted his glass.
+
+"I'm sorry about Josh," Sean said. "He was a good guy. Didn't deserve what he got."
+
+"What did he get?"
+
+"You don't know?"
+
+"I know he's dead. I know Viktor Petrov is responsible. I want to know why."
+
+Sean shook his head. "You shouldn't be asking about that."
+
+"So I've been told." Jeff leaned forward. "But I'm asking anyway."
+
+Sean drank the rest of his beer in one long swallow and signaled the bartender for another. When it came, he took a long pull before speaking.
+
+"Josh and I did collections together. Worked for Viktor for about two years. It was good money, you know? Not great, but steady. Viktor had a route—people who borrowed, people who gambled, people who owed. We'd make the rounds, collect what was due, rough up anyone who got too far behind."
+
+"Josh didn't seem like the type to rough people up."
+
+"He wasn't. That was mostly me." Sean held up his right hand. Three fingers were normal. The pinky and ring finger were shorter, ending at the first knuckle. "When I screwed up, Viktor made sure I remembered. Josh was smarter. He talked to people. Convinced them. Most of the time it worked."
+
+Jeff's stomach turned. "What happened when it didn't work?"
+
+"Then I'd step in." Sean looked at his mangled hand. "Josh hated that part. He'd try every way he could to get people to pay before it came to that."
+
+"Tell me about the woman. The single mother."
+
+Sean's expression darkened. "Sophie Martinez. Two kids, seven and nine. Her youngest needed some kind of surgery. She borrowed five grand from one of Viktor's guys. Couldn't keep up with the juice."
+
+"Josh paid it for her."
+
+"Yeah. First time, Viktor didn't notice. But Josh kept doing it. Every week, he'd pay Sofia's vig out of his own pocket. Figured Viktor wouldn't know the difference." Sean shook his head. "But Viktor knows everything. He's got eyes everywhere. When he found out, he called Josh in."
+
+"What happened?"
+
+"Josh told him to go to hell. Said he wasn't going to squeeze a woman who was just trying to save her kid." Sean finished his second beer. "Viktor doesn't accept that kind of disrespect. You work for him, you do what he says. No exceptions."
+
+"So he had Josh killed."
+
+"Not right away. First he sent me to talk to Josh. Tell him to get back in line. But Josh wouldn't listen." Sean's voice got quieter. "He said he was done. Done with all of it. He told me he'd been thinking about his brother. About how different your lives turned out. Said maybe it wasn't too late for him to be different too."
+
+Jeff felt something tighten in his chest. "When was this?"
+
+"About two weeks before he died." Sean met his eyes. "He asked about you. Wanted to know if I thought you'd want to hear from him after all these years."
+
+"What did you tell him?"
+
+"I told him family's family. That blood matters, even when everything else is shit." Sean looked away. "I didn't know he was going to call you that morning. Didn't know Viktor had already put out the order."
+
+"Who killed him?"
+
+Sean shook his head. "I can't tell you that."
+
+"Can't or won't?"
+
+"Both." Sean stood up slowly. "Listen to me. Josh was my friend. One of the few good people I knew in this whole goddamn world. But he's gone now, and you going after Viktor won't bring him back. It'll just get you killed too."
+
+"I'm not afraid of Viktor."
+
+"Then you're an idiot." Sean put a hand on Jeff's shoulder. "Josh talked about you like you were something special. Like you were a goddamn superhero who could take on the the whole world. But, this ain't a comic book. In the real world, guys like Viktor always win. Don't get yourself killed just because you're angry."
+
+"I'm not angry. I'm—" Jeff stopped. He didn't know what he was.
+
+"Yeah, you are. I can see it." Sean squeezed his shoulder once and let go. "Go home, Jeff. Take care of your family. Let Josh rest."
+
+Sean walked out of the bar, leaving Jeff alone with his shitty beer and the bartender who was definitely listening to every word.
+
+Jeff sat there for another ten minutes before getting up and walking out the door.
+
+In his car, he pulled out his phone. He had Sophie Martinez's name now. A real person Josh had died protecting. He could find her, talk to her, understand what had been so important that his brother had chosen death over compliance.
+
+But Sean's words echoed in his head. Go home. Take care of your family. Let Josh rest.
+
+Jeff started the car but didn't drive anywhere. Just sat in the parking lot watching Mickey's front door. After a while, a black sedan pulled up. Two men got out and went inside. They didn't look like afternoon drinkers.
+
+One of them looked familiar. Not someone Jeff knew, but someone he'd seen before. Recently.
+
+It took him a moment to place it. The man who'd been watching him at the elementary school. Same build, same way of moving. Deliberate. Focused.
+
+Jeff's hands tightened on the steering wheel. They were following him. Or they'd followed Sean. Either way, Viktor knew he'd been here.
+
+The men came out five minutes later. One of them looked directly at Jeff's car. Made eye contact. Smiled.
+
+Then they got in their sedan and drove away.
+
+Jeff sat there for another minute, his heart pounding. Then he pulled out his phone and called Caroline.
+
+"Hey," she said. She sounded tired. "How are you feeling?"
+
+"Better. Listen, I was thinking maybe we should take Emma somewhere this weekend. Get out of town for a few days."
+
+"Jeff, I'm working all weekend. You know that."
+
+"Right. I forgot." He hadn't forgotten. He just didn't want them here if things got dangerous. "Never mind."
+
+"Are you sure you're okay? You sound strange."
+
+"I'm fine. I'll see you tonight."
+
+He hung up and sat staring at the empty parking lot. He should go home. Should let this go. But Josh's voice kept playing in his head. The one cell. Being brothers. Protection.
+
+Josh had protected that woman. Had died to protect her. Trying to live up to some impossible standard.
+
+Now it was Jeff's turn.
+
+He needed to find Sophie Martinez.

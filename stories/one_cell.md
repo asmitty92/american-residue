@@ -810,40 +810,72 @@ Josh had saved that woman and her kids. Had chosen them over his own life. And f
 
 No. Josh had done it because it was the right thing. Because someone needed protecting and he was there to do it.
 
-Jeff pulled out his phone. He had one more person to talk to. Someone who might actually know where to find Viktor.
+Jeff's phone rang. Unknown number.
 
-He called Rachel again.
+He almost didn't answer. But something made him pick up.
 
-"Jesus, Jeff, what now?" She sounded annoyed.
+"Mr. Conroy." The voice was calm, measured. Faintly accented—Eastern European, maybe Russian. "I hope I'm not catching you at a bad time."
 
-"I need to know where Viktor Petrov operates. Where his office is, or his house, or wherever he conducts business."
+Jeff's hand tightened on the phone. "Who is this?"
 
-"Are you insane?"
+"My name is Viktor Petrov. I believe you've been looking for me."
 
-"Probably. But I need to know."
+The parking lot seemed to tilt. Jeff forced himself to breathe normally. "Have I?"
 
-"Why?"
+"Please. Let's not insult each other's intelligence." Viktor's tone remained pleasant, almost friendly. "You've been asking questions. Talking to people. Mrs. Lacona. Sean Delahunt. And now Sophie Martinez. I admire your persistence."
 
-"Because Josh called me that morning for a reason. Because he talked about the one cell. Because someone has to—" He stopped. "Please, Rachel. This is the last thing I'll ask."
+"You've been watching me."
 
-She was quiet for a long time. "He has a social club on Harrison Street. Second floor above that Chinese restaurant—Golden Dragon. That's where he meets people."
+"Of course. You're driving a silver Honda Accord, license plate—well, I won't bore you with details you already know. You're parked half a block from Sophie's apartment building. You've been sitting there for three minutes now."
 
-"Thank you."
+Jeff scanned the parking lot, the street. He didn't see anyone. No black sedan. No men on corners.
 
-"Jeff, wait—"
+"What do you want?"
 
-He hung up before she could finish.
+"The same thing you want, I think. To talk." Viktor paused. "Your brother was a good man, Mr. Conroy. Misguided, but good. I understand why you want to know what happened to him."
 
-Golden Dragon. Harrison Street. He knew where that was. Twenty minutes away, maybe.
+"You had him killed."
 
-Jeff started the car. He should go home. Should go back to Caroline and Emma. Should forget about all of this and let the police handle it, even though they wouldn't.
+"I had him killed, yes." No hesitation. No attempt to deny it. "He made mistakes that left me no choice. Surely you understand that. You're an engineer, yes? You solve problems. Sometimes the solution is... unpleasant."
 
-But Josh had called him that morning. Had talked about being brothers. Had reminded him about the one cell they'd come from before splitting into two different people.
+Jeff said nothing.
+
+"I know about your life," Viktor continued. "Your wife Caroline, she's a surgical nurse. Your daughter Emma plays soccer. You live in a very nice neighborhood. You've built something good for yourself. Something clean. You should be proud."
+
+The threat was there, wrapped in compliments. Jeff's throat went dry.
+
+"Why are you calling me?"
+
+"Because I think we can help each other avoid an unfortunate situation." Viktor's voice remained calm, reasonable. "You're not like your brother, Mr. Conroy. Josh was... emotional. He let his feelings cloud his judgment. But you—you're educated. Rational. And I think you understand how this world works even if you don't live in it anymore."
+
+"I understand you murdered my brother."
+
+"I understand you're grieving. That's natural. That's human." Viktor paused. "Come see me. Let's talk face to face. I think you'll find I'm not the monster you imagine."
+
+"Where?"
+
+"I have a social club on Harrison Street. Second floor, above the Golden Dragon restaurant. Do you know it?"
+
+"I do."
+
+"Good. Come tonight. Nine o'clock. Just you, of course. No police, no foolish gestures." The pleasantness in Viktor's voice sharpened slightly. "You strike me as a smart man, Mr. Conroy. Smart men know when to listen. Smart men protect what matters to them."
+
+The line went dead.
+
+Jeff sat holding his phone. His heart hammered in his chest. Viktor knew where he was. Knew about Caroline and Emma. Had been watching him this whole time.
+
+He should go home. Should call the police. Should do anything except drive to Harrison Street at nine o'clock.
+
+But Josh had called him that morning for a reason. Had talked about being brothers. Had reminded him about the one cell they'd come from before splitting into two different people.
 
 And now Jeff understood what Josh had been trying to say.
 
-They weren't different. Not really. They'd just taken different paths to the same place. Josh had spent his life protecting people, even when it cost him everything. Even when it killed him.
+They weren't different. Not really. They'd just taken different paths to the same place. Josh had aspired to spend his life protecting people, even when it cost him everything. Even when it killed him.
 
 Now it was Jeff's turn.
 
-He drove toward Harrison Street.
+He looked at the clock on his dashboard. 5:45. He had time to go home first. To see Caroline and Emma one more time before—
+
+Before what?
+
+Jeff started the car and drove toward his house. He needed to think. He needed a plan. And he needed to decide what he was willing to do when he walked into Viktor Petrov's office in less than four hours.

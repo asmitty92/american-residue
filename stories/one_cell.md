@@ -1140,7 +1140,7 @@ He typed back: "I'll be there."
 
 Jeff turned onto the main road and headed north, away from the old neighborhood. Toward his family. Toward whatever came next.
 
-The one cell had split thirty-six years ago into two different people who'd lived two different lives. But maybe Josh had been right. Maybe they'd always been the same.
+The one cell had split thirty-eight years ago into two different people who'd lived two different lives. But maybe Josh had been right. Maybe they'd always been the same.
 
 Maybe some things were inescapable.
 

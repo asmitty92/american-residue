@@ -292,7 +292,15 @@ Tommy's face hardened. "You're not listening."
 
 "Josh was my brother."
 
-"And he's dead. You asking around after Viktor won't change that. It'll just get you killed too." Tommy reached over and pulled the door closed. "Go home."
+Tommy looked carefully at Jeff for a moment before reaching under the front seat. "If you're going to keep pushing this, you should take this. It was Josh's. You might need it."
+
+Jeff looked at Tommy's outstretched hand and saw he was holding a handgun out for Jeff to take.
+
+"I don't think I'll need that," Jeff said. 
+
+"If you're gonna keep askin around after Viktor, you just might. He keeps a low profile on purpose. You go messin that up, and you're gonna roust something. Mind you, I'm not endorsin that plan. I still think you should go home and leave it alone."
+
+Jeff reached out and took the gun. It was lighter than he expected. After he took it, Tommy abruptly shut the door and unceremoniously drove away.
 
 Jeff stood in the parking lot watching the Cadillac pull away. The sun was lower now, throwing long shadows across the cracked pavement. His phone buzzed in his pocket. A text from Caroline asking how it went.
 

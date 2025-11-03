@@ -892,7 +892,7 @@ Jeff started the car and drove toward his house. He needed to think. He needed a
 
 Jeff arrived home at six-fifteen. Caroline's car was in the driveway. The porch light was on. Everything looked normal.
 
-He sat in the car for a moment, his mind drifting to Josh's gun in his glove compartment. He'd checked it before driving away from Sophie's apartment. He didn't know much about guns, but he knew enough. But life isn't a movie and taking a gun to a meeting with a man like Viktor would be beyond foolish for an ordinary joe.
+He sat in the car for a moment, his mind drifting to Josh's gun in his glove compartment. He'd checked it before driving away from Sophie's apartment. He didn't know much about guns, but he knew enough. But life isn't a movie and taking a gun to a meeting with a man like Viktor would be beyond foolish.
 
 Inside, Caroline was making dinner. Emma sat at the kitchen table doing homework. Normal. Peaceful.
 
@@ -918,7 +918,7 @@ At eight-thirty, he told Caroline he needed to run an errand.
 
 She studied his face. "This is about Josh, isn't it?"
 
-He didn't answer. He saw concern in her expression but also anger. Did she know more than she let on about what he'd been doing.
+He didn't answer. He saw concern in her expression but also anger. Did she know more than she let on about what he'd been doing?
 
 "Jeff, whatever you're doing, please be careful," she said tersely.
 
@@ -934,11 +934,9 @@ He went upstairs and looked in on Emma. She was in bed reading. He stood in the 
 
 "Goodnight."
 
-"Love you, kiddo."
+As Jeff turned to leave, he heard her voice pop up one more time. "Hey dad, sleep well tonight."
 
-"Love you too. Sleep well tonight dad."
-
-"I hope I will. You sleep well too."
+"I hope I will. Sleep well kiddo."
 
 Jeff closed her door and went back downstairs. Caroline was on the couch with her phone. She looked up as he headed for the door.
 
@@ -960,308 +958,192 @@ Jeff parked across the street. Eight fifty-five.
 
 He could still leave. Drive home. Call the police. Do the smart thing.
 
-Instead, he got out of the car.
+Instead, he got out of the car and crossed the street.
 
 An exterior staircase ran up the side of the building. Second floor. A door at the top with no sign, just a number: 247. Light showed through the frosted glass window.
 
-Jeff climbed the stairs. His hand found the gun in his pocket. He left it there.
-
-He knocked.
+Jeff climbed the stairs and knocked.
 
 Footsteps. The door opened.
 
-A man stood there—mid-forties, muscular, wearing a dark suit. One of the men from the black sedan. He looked at Jeff without expression.
+Viktor Petrov stood there alone. No bodyguard. No muscle. Just him in his dark suit and clean white shirt. With his tie pulled loose and his top button unbuttoned, he looked like a businessman finishing a late night at the office.
 
-"Mr. Conroy. Come in."
+"Mr. Conroy." Viktor smiled and stepped aside. "Thank you for coming. Please."
 
-Jeff stepped inside. The man patted him down professionally, found the gun, removed it.
+Jeff hesitated, then stepped inside. The waiting area was empty. Just worn furniture and a desk with papers scattered across it.
 
-"Arms at your sides, please."
+"No one working with you tonight?" Jeff asked.
 
-The room was a waiting area. Worn furniture, a few chairs, a desk. Another door at the far end. The man gestured toward it.
+"I gave theym the evening off." Viktor walked to the far door and opened it. "I thought we could speak privately. Just the two of us."
 
-"Mr. Petrov is expecting you."
+Jeff followed him into the office. It was surprisingly ordinary. A desk. Filing cabinets. A window overlooking the street.
 
-Jeff walked to the door and opened it.
-
-The office beyond was surprisingly ordinary. A desk. Filing cabinets. A window overlooking the street. Viktor Petrov sat behind the desk, reading something on a laptop. He looked up when Jeff entered.
-
-He was younger than Jeff expected. Maybe fifty. Fit, well-dressed in a dark suit and crisp white shirt. Graying hair cut short. He had the face of a businessman, not a killer. Intelligent eyes that took in everything.
-
-"Mr. Conroy." Viktor stood and extended his hand. "Thank you for coming."
-
-Jeff didn't shake. Just stood there.
-
-Viktor smiled slightly and gestured to a chair. "Please. Sit."
+Viktor gestured to a chair. "Please. Sit."
 
 Jeff remained standing.
 
-"As you wish." Viktor sat back down. "Can I offer you something? Coffee? Water?"
+"As you wish." Viktor moved behind his desk but didn't sit. "Can I offer you something? Coffee? Water?"
 
 "No."
 
-"Straight to business, then. I appreciate that." Viktor leaned back in his chair. "Your brother worked for me for two years. He was reliable. Effective. I paid him well. He had no complaints."
+"Straight to business, then." Viktor leaned against the edge of his desk, casual. "Your brother worked for me for two years. He was reliable. Effective. I paid him well."
 
-"Until he did."
+"Until he wasn't."
 
-"Yes. Until he did." Viktor's expression didn't change. "Sophie Martinez. A sad case, really. Two children, medical bills. She borrowed money she couldn't repay. These things happen."
+"Until he made a choice." Viktor's expression remained neutral. "Sophie Martinez. Two children, medical bills. She borrowed money she couldn't repay. Josh decided to help her. On my dime."
 
-"Josh paid her debts."
+"He paid her debts."
 
-"Josh exceeded his authority." Viktor's voice remained calm. "He was an employee, Mr. Conroy. Not a charity. When you employ someone, you expect them to follow instructions. Surely you understand that."
+"He exceeded his authority." Viktor folded his arms. "I gave him opportunities to correct his mistake. He refused. So I removed the problem."
 
-"I understand you killed him for it."
+Jeff's hands clenched. "You had him killed."
 
-"I removed a liability." Viktor folded his hands on his desk. "Josh made his choice. He knew the consequences. I gave him opportunities to correct his mistake. He refused."
+"I did." No hesitation. No attempt to soften it. "Your brother was no stranger to violent reprisal. Heknew the consequences of his actions. He accepted them."
 
-Jeff's hand twitched toward his pocket, remembered the gun was gone.
+"He died protecting someone who needed it."
 
-Viktor noticed. Smiled slightly. "You brought a weapon. I expected that. You're grieving, angry. It's natural to want... resolution."
+"He died...for idealistic nonsense." Viktor's voice remained calm. "Sophie still struggles. Still works two jobs. Josh threw away his life for sentiment. For emotion." He paused. "You know, it's interesting. Of the two of you, Josh was always the one more familiar with violence. He understood it. Knew how to use it when necessary, even if he preferred to avoid it. But you—you built a nice life far away from all that. Engineer. Suburban home. Soccer practice."
 
-"You think I came here to kill you."
+Jeff said nothing.
 
-"Didn't you?"
+"I've done my research, Mr. Conroy. You're the brother who got out. The one who escaped." Viktor smiled slightly. "So I have to wonder what you think you're doing here. What you imagine this conversation will accomplish."
 
-Jeff didn't answer.
+"I wanted to understand."
 
-"Let me tell you something about your brother," Viktor said. "Josh was a good man in a bad situation. He wanted to do right. But he was weak. He let emotion guide him. That's why he's dead."
+"And do you? Do you understand why men like Josh die while men like me survive?" Viktor pushed off the desk and walked to the window. "It's because I understand reality. Josh never did. He thought sentiment mattered. That protection mattered. That doing the right thing made a difference."
 
-"He wasn't weak."
+"It does matter."
 
-"No?" Viktor raised an eyebrow. "He threw away his life for a woman he barely knew. For children that weren't his. That's not strength, Mr. Conroy. That's sentiment."
+"Does it?" Viktor turned back. "You're proof it doesn't. You escaped this world by being smart. By being rational. By not letting emotion cloud your judgment." He moved closer. "You're not like your brother, Mr. Conroy. You're like me."
 
-"He was protecting someone who needed it."
+"I'm nothing like you."
 
-"And what good did it do?" Viktor spread his hands. "Sophie still lives in that apartment. Still works two jobs. Still struggles. Josh accomplished nothing except getting himself killed."
+"No?" Viktor's smile widened. "Then why are you here? What did you think would happen when you walked through that door?"
 
-"He saved her."
+Jeff met his eyes. "I'm here because twenty-seven years ago, someone killed our father. Stabbed him in his bed with a kitchen knife. Josh was eleven years old. So was I."
 
-"For how long?" Viktor leaned forward. "She'll borrow again. She'll fall behind again. And next time, there won't be a Josh to help her. Your brother died for nothing."
+Viktor's smile faded slightly. "I know the story. Josh disappeared from school that day. Teresa Lacona saw him near your house. Your mother suspected him. That's why she sent him away to be raised by her brother."
 
-Jeff felt something cold settle in his chest. "You really believe that."
+"Josh didn't kill our father," Jeff said quietly. "I did. You may have done your research, but I bet it didn't reveal that."
 
-"I know it." Viktor's voice was certain. "This is why you and I are different men, Mr. Conroy. You escaped. You built something. You're smart enough to know that sentiment is a luxury. Josh never learned that lesson."
-
-"You think I'm like you."
-
-"I think you understand reality better than your brother did." Viktor stood and walked to the window. "You've seen what I've built. An organization that works. Rules that are followed. Order. Your brother tried to insert chaos into that order. I couldn't allow it."
-
-"So you had him executed."
-
-"I removed a problem." Viktor turned back to face him. "And now you're here, believing you can do... what? Avenge him? Kill me? And then what, Mr. Conroy? You go home to your wife and daughter? You think there won't be consequences?"
-
-"You threatening my family?"
-
-"I'm explaining reality." Viktor moved back to his desk. "You walk out of here tonight, we never speak again. You forget about this. I forget about you. Your wife, your daughter—they stay safe. You keep your nice life. That's the smart choice."
-
-"And if I don't make the smart choice?"
-
-Viktor's expression hardened slightly. "Then you're as foolish as your brother. And you'll end up the same way."
-
-They stood in silence. Jeff could hear the clock on the wall ticking. Traffic sounds from the street below.
-
-"You really don't get it," Jeff said quietly.
-
-"Get what?"
-
-"Why I'm here."
-
-Viktor smiled. "You're here because you're angry. You want justice for your brother. It's understandable. But understanding something and acting on it are different things."
-
-"I'm here," Jeff said, "because twenty-seven years ago, someone killed our father. Stabbed him in his bed with a kitchen knife. Josh was eleven years old. So was I."
-
-Viktor's smile faded slightly. "I'm aware of your family history."
-
-"Are you?" Jeff took a step closer. 
-
-"Everyone thought Josh did it," Viktor recounted. "He disappeared from school that day. Mrs. Lacona saw him leaving. The police questioned him. Your own mother believed he'd done it. That's why she sent him to live with her brother."
-
-"That's the basic story, yes. That's why our lives split apart."
-
-"I'm not sure what this has to do with—"
-
-"Josh didn't kill our father," Jeff said. "I did."
-
-The room went very still.
+The room went still.
 
 Viktor stared at him. "What?"
 
-"I left school that morning. Walked home. My father was asleep. I took a knife from the kitchen and went upstairs." Jeff's voice was steady, almost clinical. "He didn't wake up until I was already stabbing him. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father."
+"I left school that morning. Walked home. My father was asleep—he worked nights. I took a knife from the kitchen and went upstairs." Jeff's voice was steady, clinical. "He didn't wake up until I was already stabbing him. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father."
 
-Viktor said nothing.
+Viktor's expression shifted. Calculation replacing certainty.
 
-"Josh figured out what I was planning to do. When I disappeared from school that morning and pretended to be me. Sat in my desk. Answered to my name. Made sure everyone saw 'Jeff' at school that day."
+"When I left school, I think Josh realized what I was planning.  So he pretended to be me. Sat in my desk. Answered to my name. Made sure everyone saw 'Jeff' at school that day." Jeff took a step closer. "Our father was a bully and a fiend. And Josh was his favorite target. He beat him. Terrorized him. I didn't feel fear like Josh did. I felt rage. And I acted on it. To protect my brother."
 
-"Why?" Viktor asked quietly.
+"Why are you telling me this?"
 
-"To protect me." Jeff's throat tightened. "Our father was a bully and a fiend. And Josh was his favorite target. Josh lived in fear every minute at home. I don't remember ever feeling afraid. Only seething hatred. I spent my childhood trying to draw my father's wrath away from Josh because I could take it. He couldn't." 
+"Because you miscalculated." Jeff's voice was quiet. "You thought Josh was the brother familiar with violence. But Josh spent his whole life trying to be better than what we came from. Trying to protect people. Me—I just learned to hide what I am."
 
-"Your brother took the blame for murder."
+Viktor's hand moved toward his desk drawer. Fast.
 
-"Our mother never proved anything. Never went to the police with her suspicions. But she knew. Or thought she knew. She couldn't look at Josh anymore. Couldn't keep him in the house. So she sent him away." Jeff paused. "Josh spent twenty-seven years living with the consequences of protecting me. He never told anyone and made me promise I wouldn't either. Never blamed me. Not once."
+Jeff moved faster.
 
-Viktor sat down slowly. For the first time, he looked uncertain.
+He grabbed Viktor's wrist, twisted hard. Viktor grunted and swung with his other hand. The punch glanced off Jeff's shoulder. Jeff didn't react. Didn't flinch. He drove his knee into Viktor's stomach, then slammed him face-first onto the desk.
 
-"He called me the morning he died," Jeff continued. "Talked about how we came from one cell before we split. About how identical twins start as one thing before becoming two. You know what he was telling me?"
+Viktor struggled. Jeff pressed his forearm across the back of Viktor's neck, pinning him. His movements were precise. Mechanical. Like solving an engineering problem—identify the load-bearing points, apply pressure, maintain control.
 
-Viktor didn't answer.
+"Stop—" Viktor gasped.
 
-"That we were always the same person. That the only difference between us was circumstance. That he wasn't the weak one and I wasn't the strong one. We were both just trying to protect people." Jeff's voice was quiet. "You killed him because you thought he was weak. Because you thought sentiment was foolish. But you were wrong."
+Jeff grabbed Viktor's reaching arm and wrenched it behind his back. Viktor cried out. Jeff maintained steady pressure, his face calm, emotionless.
 
-"Mr. Conroy—"
+"You were right about one thing," Jeff said quietly. "Josh and I did understand violence differently. He tried to escape it. Me—I just learned when to use it."
 
-"You should have expected me to come here," Jeff said. "After all, we used to be one cell."
+He released Viktor and stepped back. Viktor sagged against the desk, breathing hard, his arm hanging at an awkward angle.
 
-The door behind Jeff opened. The bodyguard stepped in, holding Josh's gun.
+Jeff reached into his jacket and pulled out Josh's gun. He chambered a round. The sound was loud in the small office.
 
-"Everything okay, boss?"
+Viktor turned slowly, his face pale. "You're making a mistake."
 
-Viktor looked at Jeff for a long moment. Then he nodded at the gun.
+"No. Josh made a mistake. He thought he could be better than our father. Better than what we came from." Jeff's hand was steady. "I always thought once he was gone, we'd be able to escape the shadow of our father's violent nature. But I guess I was wrong."
 
-"Give it back to him."
+"Wait—"
 
-The bodyguard hesitated. "Sir?"
+The shot was deafening in the enclosed space.
 
-"Give Mr. Conroy his weapon and leave us."
+Viktor fell backward, hitting the filing cabinet before sliding to the floor. His eyes were wide, surprised.
 
-"Boss, I don't think—"
+Jeff fired again.
 
-"Now."
+Then he lowered the gun. Stood there for a moment, breathing normally. His hands weren't shaking. He felt nothing. Just the familiar emptiness he'd felt at eleven years old, standing over his father's body.
 
-The bodyguard handed Jeff the gun and left, closing the door behind him.
+He wiped down the gun with his shirt, set it on Viktor's desk, and walked out.
 
-Jeff stood there holding Josh's gun. Viktor sat behind his desk, watching him.
+The staircase was empty. The street was quiet. Jeff got in his car and drove away, taking side streets, staying under the speed limit. Normal. Careful.
 
-"So," Viktor said quietly. "What now?"
+By the time he pulled into his driveway, his heart rate was steady. Caroline's car was still there. The porch light still on. Everything normal.
 
-Jeff looked at the gun in his hand. It would be easy. One bullet. Maybe two. Viktor was unarmed. The bodyguard was outside, and by the time he came back, it would be over.
+He went inside. Caroline looked up from the couch.
 
-He thought about Josh calling him that morning. About the one cell. About protection.
+"You're back," she said.
 
-Josh had spent his whole life protecting people. Had died doing it. 
+"Yeah."
 
-Jeff raised the gun.
+"Everything okay?"
 
-Viktor didn't flinch. Just watched him with those intelligent eyes.
+"Yeah. Just had to take care of one last thing."
 
-"Your brother," Viktor said, "died trying to prove something. Died trying to be better than what he was. And for what?"
+She studied his face for a long moment. Then she nodded and went back to her phone.
 
-"He died because you couldn't tolerate someone trying to do right," Jeff said. "Couldn't stand that he cared more about a stranger's kid than your rules."
+Jeff went upstairs. Checked on Emma—still sleeping. Went to his room. Lay down next to Caroline when she came to bed an hour later.
 
-"And now you'll kill me? Become a murderer twice over?"
-
-Jeff's finger rested on the trigger. Twenty-seven years. That's how long Josh had carried the weight of protecting him. That's how long his brother had lived as an outcast because of a choice Jeff had made.
-
-And now Josh was dead. Shot twice in the head in an alley. Alone.
-
-Jeff lowered the gun slightly.
-
-"No," he said. "I'm not going to kill you."
-
-Viktor's expression shifted. Something that might have been relief. Or contempt.
-
-Jeff set the gun on Viktor's desk and turned to leave.
-
-"That's it?" Viktor said behind him. "You came all this way just to tell me a story?"
-
-Jeff stopped at the door. Looked back.
-
-"I came here because my brother called me that morning for a reason. Because he reminded me about the one cell. Because he wanted me to understand something."
-
-"What's that?"
-
-"That protection matters. That doing right matters. Even when it costs everything." Jeff pulled out his phone. "Josh protected people with his body. With his life. But I'm an engineer. I solve problems differently."
-
-He showed Viktor the screen. Sent emails. Time-stamped from the parking lot outside Sophie's apartment.
-
-"Federal Bureau of Investigation. State Attorney General's Office. And a reporter at the Tribune who's been investigating loan sharking operations." Jeff's voice was calm. "Everything Josh told Uncle Tommy. Everything Sean Delahunt told me. Everything I found. Names. Addresses. Operations. Bank accounts. All of it."
-
-Viktor went very still. His face drained of color.
-
-"You can kill me," Jeff said. "But it won't matter. It's already done. They're probably reading it right now. Deciding which agency moves first. How many warrants to get." He paused. "Killing me just adds another murder charge when they come for you."
-
-"You stupid—" Viktor lunged for the gun on his desk.
-
-Jeff was faster. He grabbed Viktor's wrist, twisted hard. The gun clattered to the floor.
-
-They struggled briefly. Viktor was strong, trained, but Jeff had twenty-seven years of rage behind him. All the guilt. All the grief. All of it.
-
-He slammed Viktor against the wall. Held him there.
-
-"Josh died protecting someone," Jeff said through gritted teeth. "I'm doing the same thing. Just smarter."
-
-He let go. Viktor slid down the wall, gasping.
-
-Jeff picked up Josh's gun and walked to the door. The bodyguard was there, hand on his weapon.
-
-"Your boss needs you," Jeff said.
-
-He walked past, down the stairs, across the street to his car. His hands were shaking. He sat behind the wheel, breathing hard.
-
-His phone rang. Caroline.
-
-"Hey," he said.
-
-"You coming home?"
-
-"Yeah. I'm coming home."
-
-"Good." A pause. "Jeff?"
-
-"Yeah?"
-
-"I love you."
-
-"I love you too."
-
-He hung up and started the car. In the rearview mirror, he saw police cars turning onto Harrison Street, lights flashing.
-
-Jeff drove away.
+He stared at the ceiling until morning.
 
 ---
 
-Three weeks later, Jeff stood at Josh's grave. The marker was simple: Joshua Thomas Conroy. Beloved Son and Brother.
+Four weeks later, Jeff stood at Josh's grave. The marker was simple: Joshua Thomas Conroy. Beloved Son and Brother.
 
 Uncle Tommy had picked it out. Paid for it too, though he'd never said as much.
 
-Jeff set down the flowers and knelt in the grass.
+Jeff set down the flowers and knelt in the grass. The cemetery was empty except for a groundskeeper working several rows away.
 
-"They arrested Viktor yesterday," he said quietly. "Federal charges. Racketeering, conspiracy to commit murder. The reporter found other victims willing to testify. It's going to stick."
+"They found Viktor Petrov dead in his office," Jeff said quietly. "Suicide, they're saying. Two shots. His own gun." He paused. "Nobody's looking too hard. Nobody cares."
 
 A breeze moved through the cemetery trees.
 
-"Sophie and her kids are okay. I set up a fund for them. Anonymous. Her son's surgery went well. He's going to be fine."
+"Sophie and her kids are okay. I set up a fund for them. Anonymous. Her son's surgery went well."
 
 Jeff touched the cold stone marker.
 
-"I'm sorry I let you take the blame. I'm sorry I never told anyone. I'm sorry for all of it." His voice caught. "You spent your whole life protecting me, and I never thanked you."
+"Caroline's pregnant. We just found out." He stopped. Swallowed. "Twins. Identical twins. The doctor confirmed it yesterday."
+
+The groundskeeper's mower hummed in the distance.
+
+"I keep thinking about what you said. About the one cell. About how we used to be the same thing before we split." Jeff's voice was quiet. "You spent your whole life trying to be better. Trying to protect people. Trying to escape what we came from."
 
 He sat back on his heels.
 
-"Caroline's pregnant. We just found out. If it's a boy, we're going to name him Joshua. I think you'd like that."
+"I thought I'd escaped too. Thought I'd built something different. Something clean." He looked at his hands. "But I killed our father, Josh. And then I killed Viktor. And I didn't feel anything either time. Just that same cold emptiness."
 
 A car passed on the road beyond the cemetery.
 
-"I don't know if I did the right thing. With Viktor. Maybe I should have just..." He trailed off. "But I wanted to try it your way. To protect people. Just smarter. The way you said I was."
+"Caroline doesn't know. Emma doesn't know. Nobody knows except you, and you're gone." Jeff stood slowly. "And now I'm going to have sons. Two of them. Identical. Starting as one cell, then splitting. Just like us."
 
-Jeff stood up. Brushed off his pants.
+He brushed off his pants.
 
-"I'll come back soon. I promise." He paused. "We used to be one cell. Maybe we still are. Just in different ways."
+"I don't know if I can be better than our father was. I don't know if I can protect them from what's inside me. From what might be inside them." He paused. "I don't know what they'll get from me. Maybe it's inescapable."
 
-He walked back to his car. As he drove out of the cemetery, he looked in the rearview mirror one last time at the grave.
+Jeff stood there for another moment, looking at his brother's name carved in stone.
+
+Then he walked back to his car. As he drove out of the cemetery, he didn't look back.
 
 His phone buzzed. A text from Caroline.
 
-"Lunch at Lacona's? Emma wants Italian beef."
+"Doctor's appointment at 2. Don't forget."
 
-He smiled. Typed back: "See you there in twenty."
+He typed back: "I'll be there."
 
-Jeff turned onto the main road and headed south, toward the old neighborhood. Toward his family. Toward whatever came next.
+Jeff turned onto the main road and headed north, away from the old neighborhood. Toward his family. Toward whatever came next.
 
-The one cell had split twenty-seven years ago into two different people who'd lived two different lives. But maybe Josh had been right. Maybe they'd always been the same. Just taking different paths to the same place.
+The one cell had split thirty-six years ago into two different people who'd lived two different lives. But maybe Josh had been right. Maybe they'd always been the same.
 
-Protecting people. Doing right. Even when it cost everything.
+Maybe some things were inescapable.
 
-Jeff thought Josh would be proud of that.
+Jeff thought Josh would understand that.
 
 He hoped so.

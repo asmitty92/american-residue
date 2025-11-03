@@ -892,7 +892,7 @@ Jeff started the car and drove toward his house. He needed to think. He needed a
 
 Jeff arrived home at six-fifteen. Caroline's car was in the driveway. The porch light was on. Everything looked normal.
 
-He sat in the car for a moment, his mind drifting to Josh's gun in his glove compartment. He'd checked it before driving away from Sophie's apartment. He didn't know much about guns, but he knew enough. But life isn't a movie and taking a gun to a meeting with a man like Viktor would be beyond foolish for an ordinary joe.
+He sat in the car for a moment, Josh's gun heavy in his jacket pocket. He'd checked it in the Mickey's parking lot after the men in the sedan had driven away—loaded, safety on. He didn't know much about guns, but he knew enough.
 
 Inside, Caroline was making dinner. Emma sat at the kitchen table doing homework. Normal. Peaceful.
 
@@ -918,9 +918,9 @@ At eight-thirty, he told Caroline he needed to run an errand.
 
 She studied his face. "This is about Josh, isn't it?"
 
-He didn't answer. He saw concern in her expression but also anger. Did she know more than she let on about what he'd been doing.
+He didn't answer.
 
-"Jeff, whatever you're doing, please be careful," she said tersely.
+"Jeff, whatever you're doing, please be careful."
 
 "I will." He kissed her forehead. "I love you."
 
@@ -936,9 +936,7 @@ He went upstairs and looked in on Emma. She was in bed reading. He stood in the 
 
 "Love you, kiddo."
 
-"Love you too. Sleep well tonight dad."
-
-"I hope I will. You sleep well too."
+"Love you too."
 
 Jeff closed her door and went back downstairs. Caroline was on the couch with her phone. She looked up as he headed for the door.
 
@@ -950,7 +948,7 @@ He turned.
 
 "I will."
 
-He wasn't sure if she believed it.
+He wasn't sure if he believed it.
 
 ---
 
@@ -1072,11 +1070,7 @@ Viktor smiled. "You're here because you're angry. You want justice for your brot
 
 Viktor's smile faded slightly. "I'm aware of your family history."
 
-"Are you?" Jeff took a step closer. 
-
-"Everyone thought Josh did it," Viktor recounted. "He disappeared from school that day. Mrs. Lacona saw him leaving. The police questioned him. Your own mother believed he'd done it. That's why she sent him to live with her brother."
-
-"That's the basic story, yes. That's why our lives split apart."
+"Are you?" Jeff took a step closer. "Everyone thought Josh did it. He wasn't in school that day. Mrs. Lacona saw him walking through the neighborhood. The police questioned him. Our mother believed he'd done it. That's why she sent him to live with Uncle Tommy. That's why our lives split apart."
 
 "I'm not sure what this has to do with—"
 
@@ -1086,19 +1080,19 @@ The room went very still.
 
 Viktor stared at him. "What?"
 
-"I left school that morning. Walked home. My father was asleep. I took a knife from the kitchen and went upstairs." Jeff's voice was steady, almost clinical. "He didn't wake up until I was already stabbing him. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father."
+"I left school that morning. Told my teacher I was sick. Walked home. My father was asleep. I took a knife from the kitchen and went upstairs." Jeff's voice was steady, almost clinical. "He didn't wake up until I was already stabbing him. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father."
 
 Viktor said nothing.
 
-"Josh figured out what I was planning to do. When I disappeared from school that morning and pretended to be me. Sat in my desk. Answered to my name. Made sure everyone saw 'Jeff' at school that day."
+"Josh figured out what I'd done. He wasn't in school that day because he was looking for me. When he couldn't find me, he went back to school and pretended to be me. Sat in my classes. Answered to my name. Made sure everyone saw 'Jeff' at school that day."
 
 "Why?" Viktor asked quietly.
 
-"To protect me." Jeff's throat tightened. "Our father was a bully and a fiend. And Josh was his favorite target. Josh lived in fear every minute at home. I don't remember ever feeling afraid. Only seething hatred. I spent my childhood trying to draw my father's wrath away from Josh because I could take it. He couldn't." 
+"To protect me." Jeff's throat tightened. "Because that's what Josh did. He protected people. Always. Even when it cost him everything."
 
 "Your brother took the blame for murder."
 
-"Our mother never proved anything. Never went to the police with her suspicions. But she knew. Or thought she knew. She couldn't look at Josh anymore. Couldn't keep him in the house. So she sent him away." Jeff paused. "Josh spent twenty-seven years living with the consequences of protecting me. He never told anyone and made me promise I wouldn't either. Never blamed me. Not once."
+"Our mother never proved anything. Never went to the police with her suspicions. But she knew. Or thought she knew. She couldn't look at Josh anymore. Couldn't keep him in the house. So she sent him away." Jeff paused. "Josh spent twenty-seven years living with the consequences of protecting me. And he never told anyone. Never blamed me. Not once."
 
 Viktor sat down slowly. For the first time, he looked uncertain.
 

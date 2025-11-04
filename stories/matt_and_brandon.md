@@ -166,11 +166,11 @@ Matt had watched the same footage half a dozen times. The angle was poor, most o
 
 "What else?" Matt asked.
 
-"He had a plan. This wasn't opportunistic. He knew she'd be there."
+"I'm pretty sure this wasn't opportunistic. That he knew she'd be there."
 
 "How could he know that? The car breaking down was random."
 
-Brandon shook his head. "The car didn't break down. He disabled it."
+Brandon shook his head. "The car didn't break down. He sabotaged it."
 
 Matt set his phone on the table. "That wasn't in any of the reports."
 
@@ -184,7 +184,7 @@ Matt set his phone on the table. "That wasn't in any of the reports."
 
 "Battery was dead when they found her purse. Another convenience."
 
-Matt leaned back in the booth. Three years working with Brandon Gray, and he still couldn't pin down how his partner assembled these narratives. Sometimes it felt like guesswork elevated to an art form. Other times—most times—it turned out to be exactly right.
+Matt leaned back in the booth. Three years working with Brandon Gray, and he still couldn't pin down how his partner assembled these narratives. Sometimes it felt like guesswork elevated to an art form. Other times—most times—it turned out to be uncannily accurate.
 
 "Okay," Matt said. "Let's say you're right. He tampered with her car. Drained her phone battery or took it and replaced it with a dead one. He's been planning this. Which means he's someone who had access to her car and her phone. Someone close enough to learn her routine."
 
@@ -194,7 +194,7 @@ Matt leaned back in the booth. Three years working with Brandon Gray, and he sti
 
 "Possibly."
 
-Dottie brought their food. The meatloaf came with a side of mac and cheese Matt hadn't ordered, along with a basket of rolls. Brandon's burger looked like it had been cooked that afternoon and reheated. Neither of them touched their plates right away.
+Dottie brought their food. The meatloaf came swimming in brown gravy, with real mashed potatoes—not the instant kind—and green beans that still had some snap to them. A basket of rolls arrived with actual butter, not the plastic packets. Brandon's burger was thick and hand-formed, cheese melted perfectly over the edges. The kind of food that justified a small town diner's existence.
 
 "So where do we start?" Matt asked. "Coworkers at the library? Regular customers? Ex-boyfriends?"
 
@@ -206,11 +206,7 @@ Matt made notes. "Kowalski said they checked every Silverado owner in three coun
 
 "That's half the town."
 
-"Closer to a quarter. The truck narrows it. So does the age range. And the fact that he's comfortable committing a violent crime in a semi-public location." Brandon finally took a drink of his Coke. "He's done this before. Or thought about it enough that he's confident he can."
-
-Matt's appetite had diminished. He cut into the meatloaf anyway. "You think there are other victims?"
-
-"I think we should check."
+"Closer to a quarter. The truck narrows it. So does the age range. And the fact that he's comfortable committing a violent crime in a semi-public location." Brandon finally took a drink of his Coke. "I don't think he's done this before, but he's thought about it a lot. This act...it has meaning to him."
 
 They ate in silence for a while. The diner had emptied out further. Just them and an older couple at the counter nursing coffee. A country song played from a speaker somewhere, too quiet to make out the words.
 
@@ -220,7 +216,7 @@ Brandon looked up. "What makes you say that?"
 
 "The way you're working it. You've been different since we took the call." Matt gestured with his fork. "Usually you're clinical. Going through the steps. This one's getting to you."
 
-Brandon was quiet long enough that Matt thought he might not answer. Then: "There was a case in Missouri. Ashford. Small town like this one. Woman was abducted from a payphone outside a convenience store. Her boyfriend was inside. Didn't see it happen. Came out two minutes later, she was gone."
+Brandon was quiet long enough that Matt thought he might not answer. Then: "There was a case in Missouri. Ashford. Small town like this one. Woman was abducted from a payphone in the center of town. She was on the phone with her boyfriend because he was stuck home babysitting his little brother. He heard her get taken. Rushed out of the house and tried to get there in time."
 
 "When was this?"
 
@@ -234,7 +230,7 @@ There was something else there. Matt could see it in the way Brandon's jaw tight
 
 "Similar circumstances don't mean the same perpetrator," Matt said carefully. "Ashford to here is what, six or seven hours?"
 
-"Six and a half." Brandon looked toward the window again. "I know it's not the same guy. Wrong profile. Eighteen years is too long between victims if he's active. And the Missouri case had different markers. Different approach."
+"Six and a half." Brandon looked toward the window again. "I know it's not the same guy. Wrong profile. And it was eighteen years ago; the Missouri perp would be too old at this point to be our guy. Plus that case had different markers. Different approach."
 
 "But it reminds you."
 
@@ -252,7 +248,7 @@ Dottie brought the check. Matt paid cash and left a twenty percent tip. Outside,
 
 "Fine." Brandon got in the passenger seat.
 
-They drove back to the motel—a Quality Inn just off Route 39, the only lodging in Thorndale with more than six rooms. The parking lot was nearly empty. Matt pulled into a spot near their rooms. They'd booked adjoining doubles, doors that connected in case they needed to work late or share files.
+They drove back to the motel—a Quality Inn just off Route 39, the only lodging near Thorndale with more than six rooms. The parking lot was nearly empty. Matt pulled into a spot near their rooms. They'd booked adjoining doubles, doors that connected in case they needed to work late or share files.
 
 "Tomorrow we start with the library," Matt said. "Talk to her coworkers. Get a sense of who came in regularly. Who might have paid attention to her."
 
@@ -278,7 +274,7 @@ Somewhere in this town, someone knew what had happened after that. Someone who d
 
 Until it was too late.
 
-Matt's phone buzzed. A text from Brandon: *Check missing persons in three-state area. 1990-present. Similar victim profile.*
+Matt's phone buzzed. A text from Brandon: *In case I'm wrong about this being his first time, check missing persons in Indiana and the neighboring states. 2000-present. Specifically with a similar victim profile.*
 
 Matt typed back: *Will do. Get some sleep.*
 

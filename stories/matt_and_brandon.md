@@ -39,13 +39,13 @@ Ellis looked at the payphone. Gray was closer to it now, standing maybe two feet
 
 Ellis made a note on his phone. "Any leads on the truck?"
 
-"Dark green or dark blue Chevy Silverado, probably mid-to-late nineties. We put out a BOLO, checked every registration in three counties. Found seventeen trucks that matched. Talked to every owner. Nothing stuck."
+"Dark green or dark blue Chevy. Most likely a Silverado, probably mid-to-late nineties. We put out a BOLO, checked every registration in three counties. Found seventeen trucks that matched. Talked to every owner. Nothing stuck."
 
 Gray had moved to the door of the mini-mart. He stood in the entrance, looking back toward where the payphone was mounted on the wall. The angle put the phone about thirty feet from the door, slightly around the corner of the building.
 
 "And no trace of Sarah since?"
 
-"Nothing. No activity on her bank cards, no phone pings, no sightings. It's like she disappeared." Kowalski folded the gum wrapper into a small square. "Sheriff reopened it as a cold case last month. That's when he reached out to you guys."
+"Nothing. No activity on her bank cards, no phone pings, no sightings. It's like she vanished into thin air." Kowalski folded the gum wrapper into a small square. "Sheriff reopened it as a cold case last month. That's when he reached out to you guys."
 
 Ellis thanked him and walked toward the mini-mart. Gray had gone inside. Through the window, Ellis could see him standing near the register, talking to the clerk—a heavyset man in his sixties wearing a Colts jersey.
 

@@ -182,7 +182,7 @@ Matt set his phone on the table. "That wasn't in any of the reports."
 
 "Her cell phone?"
 
-"It was missing when they found her purse. It was eventually found at the library but not until a week later. I think he stole it the day she disappeared then went back later and put it back."
+"It was missing when they found her purse. It was eventually found at the library but not until a week later. I think he stole it the day she disappeared and then planted it back at the library later."
 
 Matt leaned back in the booth. Three years working with Brandon Gray, and he still couldn't pin down how his partner assembled these narratives. Sometimes it felt like guesswork elevated to an art form. Other times—most times—it turned out to be uncannily accurate.
 

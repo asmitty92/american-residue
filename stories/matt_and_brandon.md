@@ -178,11 +178,11 @@ Matt set his phone on the table. "That wasn't in any of the reports."
 
 "That's a big assumption."
 
-"It's the only thing that makes sense." Brandon finally looked at his Coke but didn't drink it. "He knew her routine. Knew she'd stop at the Crossroads for gas on her way home. Knew she'd use the payphone if her cell died."
+"It's the only thing that makes sense." Brandon finally looked at his Coke but didn't drink it. "He knew her routine. Knew she'd stop at the Crossroads for gas on her way home. Knew she'd use the payphone if she didn't have her cell phone."
 
-"Her cell died too?"
+"Her cell phone?"
 
-"Battery was dead when they found her purse. Another convenience."
+"It was missing when they found her purse. It was eventually found at the library but not until a week later. I think he stole it the day she disappeared then went back later and put it back."
 
 Matt leaned back in the booth. Three years working with Brandon Gray, and he still couldn't pin down how his partner assembled these narratives. Sometimes it felt like guesswork elevated to an art form. Other times—most times—it turned out to be uncannily accurate.
 

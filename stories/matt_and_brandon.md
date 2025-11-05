@@ -186,7 +186,7 @@ Matt set his phone on the table. "That wasn't in any of the reports."
 
 Matt leaned back in the booth. Three years working with Brandon Gray, and he still couldn't pin down how his partner assembled these narratives. Sometimes it felt like guesswork elevated to an art form. Other times—most times—it turned out to be uncannily accurate.
 
-"Okay," Matt said. "Let's say you're right. He tampered with her car. Drained her phone battery or took it and replaced it with a dead one. He's been planning this. Which means he's someone who had access to her car and her phone. Someone close enough to learn her routine."
+"Okay," Matt said. "Let's say you're right. He tampered with her car. Swiped her phone. He's been planning this. Which means he's someone who had access to her car and her phone. Someone close enough to learn her routine."
 
 "Or someone who's been watching her long enough to know it without being close."
 

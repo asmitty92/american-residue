@@ -120,7 +120,7 @@ A waitress appeared—sixties, reading glasses on a chain, nametag that said Dot
 
 "Please," Matt said. "And a Coke for him."
 
-Brandon didn't correct him. Matt had learned his patterns over the past three years. Coffee after midnight when they were working late. Coke any other time. Water if he was trying to think through something complicated.
+Brandon didn't correct him. Matt had learned his patterns over the past three years. Coffee first thing in the morning and after midnight when they were working late. Coke any other time. Water if he was trying to think through something complicated.
 
 "We got meatloaf tonight," Dottie said. "Comes with mashed potatoes and green beans. Chef's special."
 

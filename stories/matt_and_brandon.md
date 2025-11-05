@@ -1,5 +1,5 @@
 # Prologue
-**Wednesday October 22, 2008 4:00PM**
+**Wednesday October 19, 2011 4:00PM**
 
 The Crossroads Mini-Mart sat at the intersection of County Road 400 and State Route 39, three miles south of Thorndale, Indiana. It was the kind of place that survived on lottery tickets, fountain drinks, and the handful of locals who stopped for gas on their way to somewhere else. The building hadn't been updated since the early nineties—faded red brick, a hand-painted sign advertising "Live Bait & Tackle," and a payphone mounted on the exterior wall that hadn't worked in over a decade.
 
@@ -220,9 +220,9 @@ Brandon was quiet long enough that Matt thought he might not answer. Then: "Ther
 
 "When was this?"
 
-"Eighteen years ago. April." Brandon pushed his plate away. Most of the burger was still there. "Never solved. No body. No leads. Just gone."
+"Twenty-one years ago. April." Brandon pushed his plate away. Most of the burger was still there. "Never solved. No body. No leads. Just gone."
 
-Matt did the math. Eighteen years put it at 1990. Before he'd joined the Bureau. Before Brandon had, for that matter. "You worked that case?"
+Matt did the math. Twenty-one years put it at 1990. Before he'd joined the Bureau. Brandon would have been a kid. "You worked that case?"
 
 "No. I just... heard about it." Brandon's fingers found the sugar packet again. "It stayed with me."
 
@@ -230,7 +230,7 @@ There was something else there. Matt could see it in the way Brandon's jaw tight
 
 "Similar circumstances don't mean the same perpetrator," Matt said carefully. "Ashford to here is what, six or seven hours?"
 
-"Six and a half." Brandon looked toward the window again. "I know it's not the same guy. Wrong profile. And it was eighteen years ago; the Missouri perp would be too old at this point to be our guy. Plus that case had different markers. Different approach."
+"Six and a half." Brandon looked toward the window again. "I know it's not the same guy. Wrong profile. And it was twenty-one years ago; the Missouri perp would be too old at this point to be our guy. Plus that case had different markers. Different approach."
 
 "But it reminds you."
 
@@ -293,13 +293,13 @@ Brandon Gray had been awake since four-thirty. Not unusual. Sleep came in fragme
 
 By six he was dressed and downstairs in the Quality Inn's breakfast area, a corner room off the lobby with industrial carpet and fluorescent lights that hummed at a frequency most people didn't notice. Brandon noticed. He'd positioned himself at a table in the back corner, away from the windows, with a clear view of the entrance and the coffee station.
 
-The case files were spread across the table in front of him, arranged in a specific order that would look random to anyone else. Witness statements on the left, organized by proximity to the scene. Security footage stills in the center, sequenced by timestamp. Victimology on the right—Sarah Carpenter's life in documents and photographs.
+The case files were spread across the table in front of him, arranged in an order that would look haphazerd to anyone else. Witness statements on the left, organized by proximity to the scene. Security footage stills in the center, sequenced by timestamp. Victimology on the right—Sarah Carpenter's life in documents and photographs.
 
-He had a cup of black coffee cooling in front of him. His second. The first he'd made in his room at five-fifteen using the single-serve machine that produced something that tasted like heated dishwater but contained caffeine.
+He had a cup of black coffee cooling in front of him. His second. The first he'd made in his room at five-fifteen using the single-serve machine that produced something that tasted like heated dishwater.
 
-Three other people occupied the breakfast area. An older couple near the waffle maker, talking quietly about their grandson's football game. A man in his forties at a table by the window, reading something on his phone while eating a bagel. The man wore a wedding ring but had a tan line that suggested it was a recent addition. Or a recent return to his finger. Reconciliation, maybe. Or an affair that had ended.
+Three other people occupied the breakfast area. An older couple near the waffle maker, talking quietly about their grandson's football game. A man in his forties at a table by the window, reading the local newspaper while eating a bagel. The man wore no wedding ring but had a tan line that suggested there should be one there. Recent divorce, or possibly a man looking to cheat while on the road.
 
-Brandon returned his attention to the files. Sarah Carpenter's face looked up at him from her library ID photo—twenty-two, dark blonde hair pulled back, blue eyes, the kind of smile that made you want to smile back. She'd started at the Thorndale Public Library three years ago, right after community college. Circulation desk, children's programs, whatever needed doing. Her supervisor called her reliable. Her coworker called her sweet. Her mother called her gone.
+Brandon returned his attention to the files. Sarah Carpenter's face looked up at him from her library ID photo—twenty-two, dark blonde hair pulled back, blue eyes, the kind of smile that made you want to smile back. She'd started at the Thorndale Public Library three years ago, right after high school. Circulation desk, children's programs, whatever needed doing. Her supervisor called her reliable. Her coworker called her sweet. Her mother called her gone.
 
 The phone records showed her last three calls: AAA at 8:12 PM, her mother at 8:14 PM, Jessica Holt at 8:17 PM. The third call had gone to voicemail. The transcript of the recovered message was in the file. *Hey Jess, it's me. My car died at the Crossroads and I'm waiting for a tow but it's going to be like an hour and I'm freezing out here. Any chance you could—*
 
@@ -313,15 +313,15 @@ He thought about the moments before an abduction. The victim's awareness shiftin
 
 The physiological response to that realization: elevated heart rate, adrenaline spike, pupils dilating, time distortion. Some victims later reported those seconds feeling like minutes. The brain processing threat assessment at accelerated speed. Fight, flight, or freeze.
 
-Sarah had frozen. Or tried to talk her way out. The purse left behind suggested she hadn't run. The lack of defensive wounds—they'd never found her, but the absence of blood at the scene suggested no immediate violence—meant she hadn't fought. She'd gone with him. Maybe thinking she still had a chance to de-escalate. To reason with someone she knew.
+Sarah had frozen. Or tried to talk her way out. The purse left behind suggested she hadn't run. The absence of blood at the scene suggested no immediate violence...meant she hadn't fought. She'd gone with him. Maybe thinking she still had a chance to de-escalate. To reason with someone she knew.
 
 She'd been wrong.
 
 Brandon set the coffee down and pulled out his phone. He opened the photos he'd taken yesterday at the Crossroads. The payphone. The angle from the mini-mart door. The spot where Sarah's car had been parked.
 
-He'd stood there for ninety minutes, not moving, barely breathing, letting the scene speak to him the way it always did. Not psychometry. Nothing paranormal. Just attention. Most people looked at crime scenes and saw what was there. Brandon looked at what had been there. The ghost of the event, still present if you knew how to see it.
+He'd stood there for ninety minutes, not moving, barely breathing, letting the scene speak to him the way it always did. Not psychometry. Nothing paranormal. Just attention. Most people looked at crime scenes and saw what was there. Brandon looked at what had been there. The ghost of the event, still present if you knew how to see it. <!-- Does this get too close to revealing what Brandon sees? I like this paragraph, but I think we might need to re-word slightly -->
 
-He'd seen Sarah standing by the phone, receiver to her ear, shifting her weight from foot to foot because it was cold and she was impatient. He'd seen the truck pull in, dark paint catching the security light. He'd seen the driver's door open, someone stepping out. Someone Sarah recognized.
+He'd seen Sarah standing by the phone, receiver to her ear, shifting her weight from foot to foot because it had been a chilly spring evening and she was impatient. He'd seen the truck pull in, dark paint catching the security light. He'd seen the driver's door open, someone stepping out. Someone Sarah recognized. <!-- Should this be more subtle. Perhaps word this as him visualizing in his head rather than saying 'He'd seen' over and over again. -->
 
 Her body language had changed. Still relaxed, but curious. A small wave, maybe. A question forming.
 
@@ -341,11 +341,11 @@ Matt sat down across from him, surveying the spread of files. "Learn anything ne
 
 "Which made her easy to watch."
 
-"And easy to intercept." Brandon gathered the files into a stack, his system disrupted now that Matt was there. "If he tampered with her car, he did it while she was inside the library. That's a narrow window. Her shift ended at eight. She left by eight-oh-five according to her coworker. Car was parked in the employee lot behind the building. He would have had maybe ten minutes to disable the starter or drain the battery. Maybe less if he didn't want to be seen."
+"And easy to intercept." Brandon gathered the files into a stack, his system disrupted now that Matt was there. "If he tampered with her car, he did it while she was at the library. That's a narrow window. Her shift ended at eight. She left by eight-oh-five according to her coworker. Car was parked in the employee lot behind the building. He would have had maybe ten minutes to disable the starter or drain the battery. Maybe less if he didn't want to be seen."
 
 "So he knew the library's layout. Knew where employees parked."
 
-"Or he'd been watching long enough to learn it." Brandon closed the last file. "We need to talk to her coworkers. See who paid attention to her. Who asked questions."
+"Or he'd been watching long enough to learn it." Brandon closed the last file. "We need to talk to her co-workers. See who paid attention to her. Who asked questions."
 
 Matt cut into his waffle. "That's the plan. Library opens at nine. I called ahead—the head librarian said she'd make time for us."
 
@@ -359,9 +359,9 @@ Brandon looked at him.
 
 Brandon stood. Matt was right—he often forgot to eat when he was working. His body didn't send the same hunger signals other people seemed to get. He'd go hours without noticing, then feel lightheaded and realize he'd skipped meals.
 
-He walked to the breakfast bar and picked up a banana and a container of yogurt. When he returned to the table, Matt had moved some of the files aside to make room.
+He walked to the breakfast bar and picked up a banana, a bagel, and a container of cream cheese. When he returned to the table, Matt had moved some of the files aside to make room.
 
-They ate in silence for a few minutes. The older couple left, waving goodbye to the front desk clerk. The man by the window remained, still scrolling through his phone. Brandon watched him peripherally. The way he hunched over the screen. The tension in his shoulders. Whatever he was reading wasn't good news.
+They ate in silence for a few minutes. The older couple left, waving goodbye to the front desk clerk. The man by the window remained. He was focused on the screen of his phone, probably reading a text message. Brandon watched him peripherally. The way he hunched over the screen. The tension in his shoulders. Whatever he was reading wasn't good news.
 
 "You mentioned Missouri last night," Matt said quietly. "Ashford."
 
@@ -369,15 +369,15 @@ Brandon peeled the banana. "Yeah."
 
 "You want to talk about it?"
 
-"Not much to talk about. Unsolved abduction. Eighteen years old."
+"Not much to talk about. Unsolved abduction. Twenty-one years old."
 
-"Eighteen years is a long time to remember a case you didn't work."
+"Twenty-one years is a long time to remember a case you were far too young to have worked."
 
 Brandon took a bite of banana. Chewed. Swallowed. "Some cases stick with you."
 
-Matt waited, but Brandon didn't elaborate. After a moment, Matt returned to his waffle. He knew when to push and when to let something sit. It was one of the things that made him a good partner.
+Matt waited, but Brandon didn't elaborate. After a moment, Matt returned to his waffle. He knew when to push and when to let something sit. It was one of the things that made him a good partner. <!-- Is this obviously Brandon's POV? I think the line about it making him a good partner makes that clear, but I'm unsure. -->
 
-Brandon finished the banana and opened the yogurt. Strawberry. Too sweet, but it was calories. He ate it mechanically while thinking about the library. Small town facility, probably built in the early 1900s. Carnegie library if he had to guess, based on the address and the architectural style common to that era. Limited staff. Everyone would know everyone. If someone had been paying unusual attention to Sarah, her coworkers would have noticed.
+Brandon finished the banana and prepared his bagel. The cream cheese was strawberry. Too sweet, but it was calories. He ate it mechanically while thinking about the library. Small town facility, probably built in the early 1900s. Carnegie library if he had to guess, based on the address and the architectural style common to that era. Limited staff. Everyone would know everyone. If someone had been paying unusual attention to Sarah, her coworkers would have noticed.
 
 Unless the person had been careful. Unless they'd blended in so well that their attention seemed normal until it was too late.
 
@@ -389,7 +389,7 @@ Matt looked up. "Yeah?"
 
 "Good idea."
 
-They finished breakfast and went back to their rooms to gather their things. Brandon brushed his teeth, checked that his badge and weapon were secure, and grabbed his jacket. The gray oxford shirt from yesterday was wrinkled beyond saving. He'd brought a spare—light blue, still wrinkled but less noticeably. He left it untucked.
+They finished breakfast and went back to their rooms to gather their things. Brandon brushed his teeth, checked that his badge and weapon were secure, and grabbed his jacket. The gray oxford shirt from yesterday was wrinkled beyond saving. He'd brought a spare—light blue, still wrinkled but less noticeably. He tucked it in only on the right for access to his weapon.
 
 At seven-fifteen they met at the car. Brandon took the driver's seat. Matt handed him a travel mug of coffee from the lobby.
 
@@ -403,7 +403,7 @@ The drive took twelve minutes. Brandon timed it. The library sat on Main Street,
 
 He parked on the street and sat for a moment, looking at the building. Sarah had worked here. Had climbed these steps every day. Had unlocked the front door, turned on the lights, started the coffee in the break room. Had shelved books and helped patrons and planned children's story time.
 
-Had driven home every Thursday evening, stopping at the Crossroads for gas because it was on her way and the prices were a few cents cheaper than the station in town.
+She'd worked the late shift, until closing every Thursday evening, Had driven home, stopping at the Crossroads for gas because it was on her way and the prices were a few cents cheaper than the station in town.
 
 Until one Thursday when her car wouldn't start.
 
@@ -413,13 +413,13 @@ Brandon nodded. They got out of the car and walked around to the back of the lib
 
 "He could have worked on her car here without being seen," Matt said. "Especially if he did it after dark."
 
-"She worked until eight. It would have been dark by seven-thirty this time of year." Brandon walked to the middle of the lot, turned in a slow circle. Trees lined the back of the property, creating a natural screen from the residential street beyond. "No witnesses. No cameras. If he knew she parked here, this would be the place."
+"She worked until eight. It would have already been dark that time of year." Brandon walked to the middle of the lot, turned in a slow circle. Trees lined the back of the property, creating a natural screen from the residential street beyond. "No witnesses. No cameras. If he knew she parked here, this would be the place."
 
 They walked back around to the front. Main Street was starting to wake up—a few cars, some early morning joggers, a woman opening the bakery three doors down. The smell of fresh bread drifted on the cold air.
 
 Brandon and Matt walked south, following the route Sarah would have driven. Past the elementary school. Past the post office. Past the Bluebird Diner where they'd eaten last night. At the edge of town, Main Street became Route 39 again. They stopped at the town limit sign.
 
-"Three miles to the Crossroads from here," Matt said. "Farm fields on both sides. No houses. No businesses. Just road."
+"Three miles to the Crossroads from here," Matt said. "Farm fields on both sides. A few scattered houses. No businesses."
 
 Brandon looked south down the empty highway. "Isolated. If he'd taken her somewhere between here and there, no one would have seen."
 
@@ -445,7 +445,7 @@ A bulletin board with a poster-sized photo of Sarah Carpenter in the center. Can
 
 Brandon approached slowly. Matt hung back, giving him space.
 
-The notes were what you'd expect. *We miss you. You were the best. Heaven gained an angel. Thinking of you always.* Most were dated from April and May of last year, written in the immediate aftermath of her disappearance. A few from summer. One from August.
+The notes were what you'd expect. *We miss you. You were the best. Heaven gained an angel. Thinking of you always.* Most were dated from April and May of last year, written in the immediate aftermath of her disappearance. A few from summer. One from August of last year.
 
 And one from September. Last month.
 
@@ -457,7 +457,7 @@ Brandon pulled out his phone and took a photo of the note. Then he opened the co
 
 He flipped through the pages slowly. Most entries from April. A few scattered through the summer. And on the last page with writing, another unsigned entry: *I think about you every day. I'm sorry I couldn't help you.*
 
-Different handwriting than the note on the board. Or the same person trying to disguise it.
+Different handwriting than the note on the board. Or perhaps the same person trying to disguise it.
 
 Brandon photographed this page too.
 
@@ -473,11 +473,11 @@ Brandon glanced back at the memorial one more time before following her.
 
 The meeting room was small—just a table with six chairs, a whiteboard on one wall, and a window that looked out onto the employee parking lot. Patricia gestured for them to sit and closed the door.
 
-"I've been expecting you," she said, settling into a chair across from them. "Sheriff Garrett called yesterday, said the FBI was taking another look at Sarah's case. I'll help however I can, though I don't know what more I can tell you than I told the deputies last year."
+"I've been expecting you," she said, settling into a chair across from them. "Sheriff Garrett called yesterday, said the FBI was taking a fresh look at Sarah's case. I'll help however I can, though I don't know what more I can tell you than I told the deputies last year."
 
 Matt pulled out a notebook. "We appreciate that. Sometimes a fresh perspective can reveal new details. Can you tell us about Sarah? What kind of employee was she?"
 
-Patricia's expression softened. "She was wonderful. Truly. Started here right out of community college, and I honestly don't know what we would have done without her. She was good with the patrons, especially the children. Patient. Kind. Always had time for people."
+Patricia's expression softened. "She was wonderful. Truly. Started here right out of high school, and I honestly don't know what we would have done without her. She was good with the patrons, especially the children. Patient. Kind. Always had time for people."
 
 "What were her responsibilities?" Brandon asked.
 
@@ -485,7 +485,7 @@ Patricia's expression softened. "She was wonderful. Truly. Started here right ou
 
 "So she interacted with a lot of people."
 
-"Every day. We're a small library, but we're busy. People come in for books, internet access, newspapers. Sarah knew most of the regulars by name."
+"Every day. We're a small library, but many of the smaller towns in the county don't have one. We stay busy. People come in for books, internet access, newspapers. Sarah knew most of the regulars by name."
 
 Brandon leaned forward slightly. "Did anyone pay unusual attention to her? Ask personal questions, try to get to know her outside of work?"
 
@@ -521,7 +521,7 @@ Patricia blinked. "I... yes, I think so. Blue or green, maybe? I don't pay atten
 
 "When was the last time he came in?"
 
-"Recently, actually. Earlier this week. Maybe Tuesday or Wednesday."
+"Recently, actually. Earlier this week. Monday...or maybe Tuesday."
 
 Matt and Brandon exchanged a glance.
 
@@ -529,7 +529,7 @@ Matt and Brandon exchanged a glance.
 
 "I don't think so. Let me check the system." Patricia stood and walked to the door. "I'll be right back."
 
-When she was gone, Matt leaned closer. "Kovacs fits the profile. Mid-forties, knew Sarah, made her uncomfortable, drives the right vehicle."
+When she was gone, Matt leaned closer. "Kovacs fits the profile. Knew Sarah, made her uncomfortable, drives the right vehicle."
 
 "And he's been in recently," Brandon added. "After the case was reopened."
 
@@ -537,7 +537,7 @@ When she was gone, Matt leaned closer. "Kovacs fits the profile. Mid-forties, kn
 
 "Or feeling guilty."
 
-Patricia returned a moment later. "He was here yesterday morning. Checked out three books. I have his information pulled up if you need it."
+Patricia returned a moment later. "He was here two days ago. Checked out three books. I have his information pulled up if you need it."
 
 They followed her to the circulation desk. She turned the computer monitor so they could see. Dale Kovacs, 46, address on County Road 275. Current checkouts: *Field Guide to Edible Plants of the Midwest*, *Topographical Maps of Southern Indiana*, and *Wilderness Survival Skills*.
 
@@ -547,9 +547,9 @@ Brandon felt something cold settle in his stomach.
 
 "I'll print it for you."
 
-While Patricia worked the printer, Brandon scanned the library. A few patrons browsed the stacks. An elderly man read a newspaper. Two teenagers worked on homework at a table. And in the far corner, at one of the public computer terminals—
+While Patricia worked the printer, Brandon scanned the library. A few patrons browsed the stacks. An elderly man read a newspaper. Two teenagers worked on homework at a table. And in the far corner, at one of the public computer terminals— <!--It's a Thursday morning in fall. Why aren't the teenagers in school. Need to re-work. -->
 
-Dale Kovacs.
+Dale Kovacs. <!-- They don't know what he looks like. How do they know it's him at the computers. -->
 
 Brandon's hand moved to Matt's arm, a brief touch. Matt followed his gaze.
 
@@ -685,7 +685,7 @@ Brandon thought about the memorial board. The unsigned notes. The weight of unan
 
 "Did Sarah ever mention wanting to leave Thorndale?" he asked. "Going back to school, moving away?"
 
-Amy looked up, surprised. "Yeah. She was thinking about it. She wanted to study library science, maybe become a librarian at a university somewhere. She was saving money. She just needed a little more time."
+Amy looked up, surprised. "Yeah. She'd applied to Indiana State in Terre Haute for the fall semester. She wanted to study English first, then a master's in library science, maybe become a librarian at a university somewhere. She'd been saving up for it. She just needed more time."
 
 Time she never got.
 
@@ -723,7 +723,7 @@ But something was wrong. Some piece didn't fit.
 
 "You think Kovacs wrote them?"
 
-"Maybe. Or someone else who feels guilty." He turned to face Matt. "Someone who knew something and didn't speak up. Or someone who helped."
+"Maybe, but unlikely. He wasn't secretive about his interest in Sarah. It's more likely someone else who feels guilty." He turned to face Matt. "Someone who knew something and didn't speak up. Or someone who helped."
 
 "An accomplice?"
 
@@ -749,7 +749,7 @@ He thought about Missouri. About a payphone and a boyfriend who couldn't get the
 
 He thought about all the people who disappeared and never came home.
 
-"Let's go," he said. "I want to see where Kovacs lives."
+"Let's go," he said. "I want to drive the route to the Crossroads then see where Kovacs lives."
 
 They got in the car. Brandon drove, his hands steady on the wheel, his mind already mapping the route, calculating distances, imagining scenarios.
 

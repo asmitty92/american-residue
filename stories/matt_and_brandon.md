@@ -2,8 +2,10 @@
 **Wednesday October 19, 2011 4:00PM**
 
 The Crossroads Mini-Mart sat at the intersection of County Road 400 and State Route 39, three miles south of Thorndale, Indiana. It was the kind of place that survived on lottery tickets, fountain drinks, and the handful of locals who stopped for gas on their way to somewhere else. The building hadn't been updated since the early nineties—faded red brick, a hand-painted sign advertising "Live Bait & Tackle," and a payphone mounted on the exterior wall that hadn't worked in over a decade.
+> COMMENT (Strength): Strong, concrete opening. The physical specificity sells the small-town setting immediately.
 
 The black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The first, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
+> COMMENT: Consider a small sensory anchor here to make the entrance more cinematic: the crunch of gravel under shoes, the cold breath of an October wind. Little details help orient the reader.
 
 A sheriff's deputy leaned against his cruiser near the entrance, arms crossed. He straightened when he saw them approaching.
 
@@ -16,6 +18,7 @@ The deputy shook Ellis's hand, then nodded at Gray, who had moved past them towa
 "Usually," Ellis said. "You're Deputy...?"
 
 "Kowalski. I was first on scene back in April of last year." He pulled a pack of gum from his pocket and offered it. Ellis declined. "Sheriff said you wanted to see where it happened. Not much to see after eighteen months."
+> COMMENT (Voice): The realistic back-and-forth is good — dialogue feels natural. This procedural voice suits the prologue.
 
 "We appreciate you meeting us." Ellis glanced back at Gray, who stood near the payphone, hands in his pockets, head tilted slightly as if listening to something. "Can you walk me through what we know?"
 
@@ -104,6 +107,7 @@ Gray opened the passenger door but didn't get in. He stood there, looking back a
 Ellis waited, but Gray offered nothing else. He climbed into the car and closed the door.
 
 They drove back to Thorndale in silence as the last light bled from the sky.
+> COMMENT (Prose): Good restraint in the reveal — the withheld detail builds tension. Consider trimming one or two sentences earlier where the same fact is repeated to tighten this beat.
 
 # Chapter One
 **Wednesday Evening**
@@ -121,6 +125,8 @@ A waitress appeared—sixties, reading glasses on a chain, nametag that said Dot
 "Please," Matt said. "And a Coke for him."
 
 Brandon didn't correct him. Matt had learned his patterns over the past three years. Coffee first thing in the morning and after midnight when they were working late. Coke any other time. Water if he was trying to think through something complicated.
+
+> COMMENT (Character-building suggestion for Matt): This is a good opportunity to add a short recurring beat that signals Matt’s humanity — a quirk that appears when he’s with Brandon. Example insertion: "Matt's thumb tapped a nervous rhythm against the table edge — an old habit when he was counting details in his head." That tiny, repeatable image will make Matt present across chapters without stealing focus.
 
 "We got meatloaf tonight," Dottie said. "Comes with mashed potatoes and green beans. Chef's special."
 
@@ -151,6 +157,8 @@ Matt made a note. "So she's mid-voicemail, not paying full attention. Someone pu
 "What makes her realize?"
 
 Brandon was quiet for a moment. His gaze drifted toward the window, where the last of the daylight had faded completely. "The way he was looking at her. The way he moved. She tried to end the call. Dropped the phone."
+
+> COMMENT (Show vs tell): Brandon’s moment here is introspective — it's effective to have Brandon describe the physical cues that tipped Sarah off. Since this is Matt's chapter (Matt POV), keep Brandon's comment short and let Matt observe Brandon's face in reaction (showing Matt’s perspective), rather than summarizing how Brandon "was quiet." Small show beats keep Matt's voice active.
 
 Dottie returned with their drinks. Matt thanked her. Brandon ignored his Coke.
 
@@ -185,6 +193,8 @@ Matt set his phone on the table. "That wasn't in any of the reports."
 "It was missing when they found her purse. It was eventually found at the library but not until a week later. I think he stole it the day she disappeared and then planted it back at the library later."
 
 Matt leaned back in the booth. Three years working with Brandon Gray, and he still couldn't pin down how his partner assembled these narratives. Sometimes it felt like guesswork elevated to an art form. Other times—most times—it turned out to be uncannily accurate.
+
+> COMMENT (Keep POV distinct): This paragraph is a nice place to show Matt’s POV — instead of telling "he still couldn't pin down...", show a small behavior (Matt rubbing the bridge of his nose, or his eyes drifting to a particular photo on his screen) to indicate puzzlement. This keeps the voice immediate and Matt-centered.
 
 "Okay," Matt said. "Let's say you're right. He tampered with her car. Swiped her phone. He's been planning this. Which means he's someone who had access to her car and her phone. Someone close enough to learn her routine."
 
@@ -228,7 +238,11 @@ Matt did the math. Twenty-one years put it at 1990. Before he'd joined the Burea
 
 There was something else there. Matt could see it in the way Brandon's jaw tightened, the way he wouldn't quite meet Matt's eyes. But pushing didn't work with Gray. He'd share what he wanted to share when he was ready.
 
+> COMMENT (Character/depth): Good hinting at Brandon's deeper engagement. If you want Brandon to be the more haunted lead, leave this as-is; if you want Matt more present, consider having Matt ask one incisive question here that nudges Brandon into a reveal — that one line will increase Matt's presence and agency.
+
 "Similar circumstances don't mean the same perpetrator," Matt said carefully. "Ashford to here is what, six or seven hours?"
+
+> COMMENT (continuity/nitpick): Double-check timeline references as you revise (the prologue date vs. "last year" phrasing). I note this here because similar time references repeat later; consistency will reduce small reader stumbles.
 
 "Six and a half." Brandon looked toward the window again. "I know it's not the same guy. Wrong profile. And it was twenty-one years ago; the Missouri perp would be too old at this point to be our guy. Plus that case had different markers. Different approach."
 
@@ -375,7 +389,9 @@ Brandon peeled the banana. "Yeah."
 
 Brandon took a bite of banana. Chewed. Swallowed. "Some cases stick with you."
 
-Matt waited, but Brandon didn't elaborate. After a moment, Matt returned to his waffle. He knew when to push and when to let something sit. Brandon appreciated that. It was one of the things that made him a good partner. 
+Matt waited, but Brandon didn't elaborate. After a moment, Matt returned to his waffle. He knew when to push and when to let something sit. Brandon appreciated that. It was one of the things that made him a good partner.
+
+> COMMENT (POV technique): Brandon's chapters are where you can lean into associative memory and physical sensations. That fits his character. Keep Matt's interventions (like the prompt about Ashford) as short, clarifying beats so the reader keeps track of whose head we're in.
 
 Brandon finished the banana and prepared his bagel. The cream cheese was strawberry. Too sweet, but it was calories. He ate it mechanically while thinking about the library. Small town facility, probably built in the early 1900s. Carnegie library if he had to guess, based on the address and the architectural style common to that era. Limited staff. Everyone would know everyone. If someone had been paying unusual attention to Sarah, her coworkers would have noticed.
 

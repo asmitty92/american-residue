@@ -319,15 +319,15 @@ She'd been wrong.
 
 Brandon set the coffee down and pulled out his phone. He opened the photos he'd taken yesterday at the Crossroads. The payphone. The angle from the mini-mart door. The spot where Sarah's car had been parked.
 
-He'd stood there for ninety minutes, not moving, barely breathing, letting the scene speak to him the way it always did. Not psychometry. Nothing paranormal. Just attention. Most people looked at crime scenes and saw what was there. Brandon looked at what had been there. The ghost of the event, still present if you knew how to see it. <!-- Does this get too close to revealing what Brandon sees? I like this paragraph, but I think we might need to re-word slightly -->
+He'd stood there for ninety minutes, not moving, barely breathing, letting the scene settle in his mind the way it always did. Not intuition, exactly. Just intense focus. Most people looked at crime scenes and cataloged evidence. Brandon tried to reconstruct the event itself—imagining movements, psychology, the sequence of actions that left the traces behind.
 
-He'd seen Sarah standing by the phone, receiver to her ear, shifting her weight from foot to foot because it had been a chilly spring evening and she was impatient. He'd seen the truck pull in, dark paint catching the security light. He'd seen the driver's door open, someone stepping out. Someone Sarah recognized. <!-- Should this be more subtle. Perhaps word this as him visualizing in his head rather than saying 'He'd seen' over and over again. -->
+In his mind, he could picture Sarah standing by the phone, receiver to her ear, shifting her weight from foot to foot because it had been a chilly spring evening and she was impatient. The truck pulling in, dark paint catching the security light. The driver's door opening, someone stepping out. Someone Sarah recognized.
 
-Her body language had changed. Still relaxed, but curious. A small wave, maybe. A question forming.
+Her body language changed. Still relaxed, but curious. A small wave, maybe. A question forming.
 
 Then the shift. Subtle at first. Her posture straightening. The hand not holding the phone moving slightly away from her body—unconscious preparation to defend herself or create distance.
 
-But by then it was already too late.
+But by then it would have been already too late.
 
 "You're up early."
 
@@ -375,7 +375,7 @@ Brandon peeled the banana. "Yeah."
 
 Brandon took a bite of banana. Chewed. Swallowed. "Some cases stick with you."
 
-Matt waited, but Brandon didn't elaborate. After a moment, Matt returned to his waffle. He knew when to push and when to let something sit. It was one of the things that made him a good partner. <!-- Is this obviously Brandon's POV? I think the line about it making him a good partner makes that clear, but I'm unsure. -->
+Matt waited, but Brandon didn't elaborate. After a moment, Matt returned to his waffle. He knew when to push and when to let something sit. Brandon appreciated that. It was one of the things that made him a good partner. 
 
 Brandon finished the banana and prepared his bagel. The cream cheese was strawberry. Too sweet, but it was calories. He ate it mechanically while thinking about the library. Small town facility, probably built in the early 1900s. Carnegie library if he had to guess, based on the address and the architectural style common to that era. Limited staff. Everyone would know everyone. If someone had been paying unusual attention to Sarah, her coworkers would have noticed.
 
@@ -539,7 +539,7 @@ When she was gone, Matt leaned closer. "Kovacs fits the profile. Knew Sarah, mad
 
 Patricia returned a moment later. "He was here two days ago. Checked out three books. I have his information pulled up if you need it."
 
-They followed her to the circulation desk. She turned the computer monitor so they could see. Dale Kovacs, 46, address on County Road 275. Current checkouts: *Field Guide to Edible Plants of the Midwest*, *Topographical Maps of Southern Indiana*, and *Wilderness Survival Skills*.
+They followed her to the circulation desk. She turned the computer monitor so they could see. Dale Kovacs, 46, address on County Road 275. A small photo showed a man with plain features, receding brown hair, the kind of face that would disappear in a crowd. Current checkouts: *Field Guide to Edible Plants of the Midwest*, *Topographical Maps of Southern Indiana*, and *Wilderness Survival Skills*.
 
 Brandon felt something cold settle in his stomach.
 
@@ -547,9 +547,9 @@ Brandon felt something cold settle in his stomach.
 
 "I'll print it for you."
 
-While Patricia worked the printer, Brandon scanned the library. A few patrons browsed the stacks. An elderly man read a newspaper. Two teenagers worked on homework at a table. And in the far corner, at one of the public computer terminals— <!--It's a Thursday morning in fall. Why aren't the teenagers in school. Need to re-work. -->
+While Patricia worked the printer, Brandon scanned the library. A few patrons browsed the stacks. An middle-aged woman read a romance novel in a comfy chair. Two elderly men sat facing each other intently over a game of chess. And in the far corner, at one of the public computer terminals— 
 
-Dale Kovacs. <!-- They don't know what he looks like. How do they know it's him at the computers. -->
+The man from the photo. Dale Kovacs.
 
 Brandon's hand moved to Matt's arm, a brief touch. Matt followed his gaze.
 

@@ -4,7 +4,7 @@
 
 The phone woke Jeff at 5:47 in the morning.
 
-He reached for it in the dark, knocking over the glass of water on his nightstand. The cold splash barely registered as he squinted at the screen. The number wasn’t saved in his contacts, but he recognized the area code. Back home. Central Indiana.
+He reached for it in the dark, knocking over the glass of water on his nightstand. The cold splash barely registered as he squinted at the screen. The number wasn’t saved in his contacts, but he recognized the area code. Back home. Millstone.
 
 “Hello?”
 
@@ -58,7 +58,7 @@ He showered and dressed, though it was still before six. His wife, Caroline, sle
 
 He made coffee and sat at the kitchen table with his phone in front of him. Every few minutes he picked it up and tried Josh’s number again. Nothing.
 
-By seven he was pacing. By eight, when he should have been heading to his engineering firm downtown, he was trying to figure out where Josh might be. He googled the number Josh had called from but found nothing—just a generic carrier message about privacy settings. The old town still pulled at the edges of his thoughts though. If Josh was in trouble, that’s where it would have started.
+By seven he was pacing. By eight, when he should have been heading to his civil engineering firm downtown, he was trying to figure out where Josh might be. He googled the number Josh had called from but found nothing—just a generic carrier message about privacy settings. The old town still pulled at the edges of his thoughts though. If Josh was in trouble, that’s where it would have started.
 
 He hadn’t been back there in fifteen years.
 
@@ -246,11 +246,14 @@ They took a booth in the back. Tom downed half his drink in one swallow and set 
 
 “Loan sharking.”
 
+> COMMENT: Loan sharking isn't a realistic crime for a small town in my opinion. Is there a way to word illegally lending money to fit the small town motif. Otherwise, should we change it to something else? Maybe he was collecting money from local businesses that Vernon extorted "protection" money from.
+
 “That and collecting debts from folks who gambled and couldn’t pay.” Tom finished his drink and signaled for another. The bartender brought over the bottle and refilled Tom’s glass. “Josh was good at it. He could be persuasive without being violent. Most of the time, anyway.”
 
 “What happened?”
 
-Tom leaned back in the booth. “There was this woman. Single mother, two kids. She’d borrowed money for her kid’s medical bills and fallen behind on payments. Vernon wanted Josh to lean on her. Make her understand that debt doesn’t just go away.”
+Tom leaned back in the booth. “There was this woman. Widowed mother, two kids. She’d borrowed money for her kid’s medical bills and fallen behind on payments. Vernon wanted Josh to lean on her. Make her understand that debt doesn’t just go away.”
+>COMMENT: Changing Sophie to a widow because single mothers are rarer in small towns.
 
 Jeff waited.
 
@@ -260,15 +263,16 @@ Jeff waited.
 
 “Not Vernon himself.” Tom stared into his glass. “But yeah. That’s why Josh is dead. Because he couldn’t get in line and just do the job.”
 
-The bar’s jukebox played something country and mournful. Jeff felt the weight of it settling on him—his brother had died trying to protect someone. Just like he’d always done.
+The bar’s jukebox played something country and mournful. Jeff felt the weight of it settling on him—his brother had died trying to protect someone who felt scared and helpless.
+>COMMENT: call out that Josh was protecting someone who felt "scared and helpless." Will potentially circle back to Josh being "scared and helpless" when Jeff protected him from their father at age 11.
 
-“The police know this?”
+“The sheriff know?”
 
-Tom laughed, bitter and short. “The sheriff’s department don’t give a shit about Josh Denlon. Small-time criminal gets shot in a ditch? Case is already going cold.”
+Tom laughed, bitter and short. “The sheriff’s department don’t give a single shit about Josh Denlon. Small-time criminal gets shot in a ditch? Case is already going cold.”
 
 “So Vernon and whoever did the dirty work just walk away.”
 
-“That’s how it works.” Tom met Jeff’s eyes. “You should go home to your nice house and your nice family and forget about all this. Your brother made his choices. He knew the risks.”
+“That’s how it works.” Tom met Jeff’s eyes. “You should go home to your nice house and your nice family and forget about all this. Your brother made his choices. He knew the risks crossing Pike.”
 
 “He called me that morning. Before he died.”
 
@@ -276,31 +280,31 @@ Something shifted in Tom’s expression. “What’d he say?”
 
 “That he didn’t blame me. For Mama sending him away.” Jeff paused. “And he talked about us being twins. About how we came from one cell before we split.”
 
-Tom was quiet for a long moment. “He talked about that sometimes. When he’d had too much to drink. About you being twins. About how different your lives turned out. And sometimes other things…about your daddy.” He finished his second drink. “No, he never blamed you. He was proud of you. Talked about you like you’d done something special, getting out.”
+Tom was quiet for a long moment. “He'd mention that sometimes. When he'd been hitting the whiskey too hard. About you being twins. About how different you turned out. And sometimes other things…about your daddy.” He finished his second drink. “No, he never blamed you. He was proud-a you. Talked about you like you’d done something special, leaving town.”
 
 “I should have stayed in touch.”
 
-“Maybe. Maybe not. It’s too late now.” Tom stood up. “Come on. I’ll drive you back to your car.”
+“Maybe. Maybe not. It’s too late now.” Tom stood up. “Come on. I’ll haul you back to your car.”
 
 They drove in silence. When Tom pulled into the funeral home parking lot, he kept the engine running.
 
-“Go home, Jeff,” he said. “There’s nothing for you here anymore.”
+“Go home, Jeff,” he said. “There ain't nothing for ya here anymore.”
 
-Jeff got out but leaned back in through the open window. “Who’s Vernon Pike? Where would I find him?”
+Jeff got out but leaned back in through the open window. “Where would I find Vernon Pike these days?”
 
-Tom’s face hardened. “You’re not listening.”
+Tom’s face hardened. “You thick boy or just not listenin.”
 
 “Josh was my brother.”
 
-Tom looked carefully at Jeff for a moment before reaching under the front seat. “If you’re going to keep pushing this, you should take this. It was Josh’s. You might need it.”
+Tom looked carefully at Jeff for a moment before reaching under the front seat. “If yer gonna keep pushing this, you oughtta take this. It was Josh’s. You might need it.”
 
 Jeff looked at Tom’s outstretched hand and saw he was holding a handgun out for Jeff to take.
 
 “I don’t think I’ll need that,” Jeff said.
 
-“If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose. You go messing that up, and you’re gonna roust something. Mind you, I’m not endorsing that plan. I still think you should go home and leave it alone.”
+“If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose. You go messing that up, and you’re gonna roust something. Mind you, I’m not endorsin that. I still think you should go home and leave it alone.”
 
-Jeff reached out and took the gun. It was lighter than he expected. After he took it, Tom abruptly shut the door and unceremoniously drove away.
+Jeff reached out and took the gun. It was heavier than he expected. After he took it, Tom abruptly shut the door and unceremoniously drove away.
 
 Jeff stood in the parking lot watching the Silverado pull away. The sun was lower now, throwing long shadows across the gravel. His phone buzzed in his pocket. A text from Caroline asking how it went.
 
@@ -309,14 +313,17 @@ He didn’t reply. Instead, he got in his car and sat there thinking about Josh 
 About the one cell they’d come from before splitting into two very different people.
 
 Jeff pulled out his phone and searched for Vernon Pike. Nothing came up except a few social media profiles that looked like dead ends. He tried searching for loan sharks in the county. That was useless too.
+>COMMENT: I don't think Jeff needs to search for Vernon Pike. First, how successful is googling a small town person. Plus, I think Jeff knows Pike. Knows who he is. He grew up in this small town and in that setting guys like Pike are always known.
 
 He needed someone who knew the area. Someone still connected to that world but willing to talk. His cousin Rena had lived there her whole life. She’d know people.
 
 Jeff pulled up her number and called.
 
 “Hey,” she said, surprised. “How was the funeral?”
+>COMMENT: why wasn't Rena at the funeral? If she's Jeff's cousin, she's Josh's. 
 
-“Sad. Short.” He paused. “Rena, I need to ask you something. Do you know anyone named Vernon Pike?”
+“Sad. Short.” He paused. “Rena, I need to ask you something. Do you know where I can find Vernon Pike?”
+>COMMENT: Again, I feel Jeff should already know Vernon Pike. He can't be someone who took control out of nowhere in a setting like this. I updated to he asking where to find him instead of who he is. I'm not 100% sure that's enough, but it might be.
 
 The line went quiet.
 
@@ -330,7 +337,7 @@ The line went quiet.
 
 “I can’t.”
 
-“Yes, you can. You absolutely can.” Rena’s voice rose slightly. “Vernon Pike is not someone you want to mess with. He’s mean, Jeff. Real mean. People don’t cross him and live to talk about it.”
+“Yes, you can. You absolutely can.” Rena’s voice rose slightly. “Vernon Pike is not someone you want to mess with. He’s mean, Jeff. Meaner than a snake. People don’t cross him and live to talk about it.”
 
 “I’m not trying to cross him. I just want to understand what happened.”
 
@@ -350,15 +357,15 @@ He started the car and drove home. But he didn’t stop thinking about Vernon Pi
 
 ## Three
 
-Jeff made it two days before going back.
+Jeff made it two days before going back to Millstone.
 
-He’d tried to focus on work. Sat through meetings about load calculations and structural integrity while his mind drifted to ditches and closed caskets. Caroline asked him twice if he was okay. He told her he was fine.
+He’d tried to focus on work. Sat through meetings client meetings about load calculations and structural integrity while his mind drifted to ditches and closed caskets. Caroline asked him twice if he was okay. He told her he was fine.
 
-On Wednesday afternoon, he left the office early and drove south toward home. He told himself he was just looking around. Seeing how things had changed. He didn’t have a plan.
+On Wednesday afternoon, he left the office early and drove southeast toward home. He told himself he was just looking around. Seeing how things had changed. He didn’t have a plan.
 
-The Dollar General sat boarded up like a headstone. He drove past it slowly, taking in the changes. Some buildings had been torn down. Others had new paint and new purposes. On the corner where Scali’s barber shop used to be, a small restaurant called Pritchard’s had taken its place.
+The Dollar General sat boarded up like a headstone. He drove past it slowly, taking in the changes. Some buildings had been torn down. Others had new paint and new purposes. On the corner where Mizell’s barber shop used to be, a small restaurant called Pritchard’s had taken its place.
 
-Jeff recognized the name. Mrs. Pritchard had run a diner on Main Street when he was a kid. He and Josh used to go there after school sometimes. She’d give them free sodas if they were polite.
+Jeff recognized the name. Mrs. Pritchard had run a diner on Main Street when he was a kid. He and Josh used to go there after school sometimes. Mrs. Pritchard was an old friend of their mom. She’d give them free sodas if they were polite.
 
 He pulled into the lot and went inside.
 
@@ -386,7 +393,7 @@ Mrs. Pritchard came to his table five minutes later. She slid into the seat acro
 
 She smiled, sad and tired. “You don’t have to call me ma’am. You’re not eleven anymore.” She folded her hands on the table. “I went to the service. I saw you there, but you left quickly.”
 
-“I don’t know many people anymore.”
+“I don’t know many people around here anymore.”
 
 “No, I suppose you wouldn’t.” She looked at him carefully. “What are you doing back here?”
 
@@ -394,7 +401,7 @@ She smiled, sad and tired. “You don’t have to call me ma’am. You’re not 
 
 “That’s not why you came into my restaurant.”
 
-He didn’t have a good lie ready. “Josh called me the morning he died. He said some things that didn’t make sense. I’m just trying to understand.”
+He didn’t have a good lie ready. “I spoke with Josh the morning he died. He said some things that didn’t make sense. I’m just trying to understand.”
 
 Mrs. Pritchard was quiet for a moment. “Your brother was a regular here. He came in about a week before he died. Sat right where you’re sitting now. He asked me if I remembered the day your father died.”
 
@@ -404,7 +411,7 @@ Jeff’s throat tightened. “What did you tell him?”
 
 “Did he say why he was asking?”
 
-“No. But he looked troubled. More than usual.” Mrs. Pritchard’s voice softened. “Your brother had a hard life, Jeff. Everyone knew it. He tried to do good sometimes, but the world he lived in didn’t make that easy.”
+“No. But he looked troubled. More than usual.” Mrs. Pritchard’s voice softened. “Your brother had a hard life, Jeff. Everyone knew it. He tried to do good sometimes, but the people around him didn’t make that easy.”
 
 The younger woman brought Jeff’s sandwich. Mrs. Pritchard waited until she’d left before continuing.
 
@@ -420,7 +427,7 @@ Jeff pulled out his phone and searched for the address of the consolidated schoo
 
 The building looked smaller than he remembered. Most things did. The brick facade had darkened with age and the playground equipment was rusted, but the basic shape remained the same. He and Josh had spent six years inside those walls.
 
-The day their father died, the boys walked to school together. But they weren’t both there all day. Mrs. Pritchard had seen Josh walking away from the school that morning. Their mother had been at work at the nursing home. Their father, who worked nights at the grain elevator, was home asleep when someone entered their house and stabbed him in his bed with a knife from their kitchen.
+The day their father died, the boys walked to school together. But they weren’t both there all day. Mrs. Pritchard had seen Josh walking away from the school that morning. Their mother had been at work at the nursing home. Their father, who worked nights at the grain elevator, was home asleep when someone entered their house and stabbed him in his bed with his own Buck knife.
 
 Jeff’s phone rang. Caroline.
 
@@ -438,7 +445,7 @@ Silence on the other end. Then, “I’m at the hospital, Jeff. That’s why you
 
 He looked at the school. At the rusted playground and the darkened brick. “Running errands. I’ll get Emma. I’m sorry.”
 
-He hung up before she could ask more questions. The soccer field was thirty minutes away if traffic was light. He’d be late, but not terribly late.
+He hung up before she could ask more questions. The soccer field was forty minutes away. Thirty if he ignored the speed limits. He’d be late, but not terribly late.
 
 As he pulled away from the school, he glanced in the rearview mirror. A man stood on the corner near the playground, watching him. Jeff couldn’t make out the details from this distance, but something about the way the man stood—stock-still and focused—made his hands tighten on the wheel.
 
@@ -466,7 +473,7 @@ After dinner, after Emma had gone to bed, Caroline found him on the back porch.
 
 “You forgot to pick up our daughter. You’re never late for her. Not ever.”
 
-He didn’t have a good answer. Or he had one, but he couldn’t say it. That he’d been sitting outside their old school trying to put together puzzle pieces that didn’t quite fit.
+He could hear the anger in her voice. And the disappointment. He didn’t have a good answer. Or he had one, but he couldn’t say it. That he’d been sitting outside his old elementary school trying to put together puzzle pieces that didn’t quite fit.
 
 “I’m sorry,” he said. “It won’t happen again.”
 
@@ -475,6 +482,7 @@ Caroline sat down next to him. “This is about Josh, isn’t it?”
 His silence was all the answer she needed.
 
 “I know you’re grieving. But you can’t let it pull you away from us.” She took his hand. “Emma needs you here. I need you here.”
+>COMMENT: I want bigger conversation here. The gist is Caroline dismisses the different paths Jeff and Josh took as choice while Jeff, knowing it wasn't all choice, talks about how she doesn't understand losing a brother. Caroline retorts that she has siblings. Jeff retorts, "But not a twin. You can't understand that connection." The current convo makes Caroline too much of a stock suburban wife. I don't want the conversation heated. I want to retain the ending where they sit in silence before she goes inside. I just want the silence to feel more tense, less calm.
 
 “I am here.”
 
@@ -488,7 +496,8 @@ His phone buzzed. A text from a number he didn’t recognize.
 
 That was all it said. No name. No context. Just four words.
 
-Jeff stared at the message. He’d only talked to Mrs. Pritchard. And she wouldn’t have told anyone. Would she?
+Jeff stared at the message feeling his pulse pounding in his temples. He’d only talked to Mrs. Pritchard. And she wouldn’t have told anyone. Would she?
+>COMMENT: I want a physical reaction from Jeff at the message. Something that indicates surprise but not necessarily fear or anxiety. In the final confrontation, we imply Jeff's nature to be somewhat sociopathic. I don't want a physical reaction that contradicts that.
 
 He thought about the man on the corner. About being watched.
 
@@ -508,9 +517,11 @@ Jeff closed his eyes but didn’t sleep.
 
 ## Four
 
-The next morning, Jeff called his assistant to tell her he wouldn’t be in. She didn’t question it.
+The next morning, Jeff called his assistant to tell her he wouldn’t be in. She didn’t question it. He knew the associate engineers would be able to handle anything that came in without their boss looming over them.
+>COMMENT: does this adequately convey that Jeff owns the engineering firm?
 
-Caroline had already left for an early shift when he got up. Emma was at a friend’s house for the night. The empty house felt like permission.
+Caroline had already left for an early shift when he got up. Emma was already off to school. The empty house felt like permission.
+>COMMENT: I love the line, "The empty house felt like permission." It really sings
 
 He made coffee and sat at the kitchen table with his laptop. The threatening texts had been deleted, but he remembered every word. Someone was watching him. Someone knew he’d been asking questions.
 
@@ -520,7 +531,7 @@ He needed to find someone who’d known Josh. Someone who’d worked with him. B
 
 He called Rena.
 
-“Jeff, it’s seven in the morning,” she said, groggy.
+“Jeff, it’s still early,” she said, groggy.
 
 “I need a favor.”
 
@@ -550,9 +561,9 @@ Jeff looked up Dale Hutchins. Found a couple of arrest records going back fiftee
 
 The bar wouldn’t be open until noon. Jeff had a few hours to kill.
 
-He spent them reading about Vernon Pike. Not much online—the man kept a low profile. A few mentions in local news articles about loan sharking operations, always as an unnamed associate. One article from three years ago mentioned a Vernon Pike being questioned in connection with a missing bookkeeper. No charges filed.
+He spent them reading about Vernon Pike, or trying to. There wasn't much online—the man kept a low profile. A few mentions in local news articles about his legitimate businesses. One article from three years ago mentioned Pike being questioned in connection to a missing meth dealer. No charges were filed.
 
-At eleven-thirty, Jeff got in his car and drove south.
+At eleven-thirty, Jeff got in his car and drove southeast.
 
 The Painted Horse looked worse in daylight. The paint was peeling, the parking lot full of potholes. Only two trucks sat outside. Jeff parked and went in.
 
@@ -574,7 +585,7 @@ The bartender’s expression didn’t change, but something shifted in his postu
 
 Jeff sipped his beer. It was terrible. He waited.
 
-After ten minutes, one of the men at the tables got up and left. The other stayed, watching Jeff in the mirror behind the bar. He was about Jeff’s age, heavy-set, with thinning hair and a nose that had been broken more than once.
+After ten minutes, one of the men at the tables got up and left. The other stayed, watching Jeff in the mirror behind the bar. He was about Jeff’s age, heavy-set, wearing a John Deere baseball cap over thinning brown hair. Jeff could tell that his nose had been broken more than once.
 
 Jeff caught his eye in the mirror. “You Dale Hutchins?”
 
@@ -608,15 +619,15 @@ Dale drank the rest of his beer in one long swallow and signaled the bartender f
 
 “Josh didn’t seem like the type to rough people up.”
 
-“He wasn’t. That was mostly me.” Dale held up his right hand. Three fingers were normal. The pinky and ring finger were shorter, ending at the first knuckle. “When I screwed up, Vernon made sure I remembered. Josh was smarter. He talked to people. Convinced them. Most of the time it worked.”
+“That was mostly me. Josh'd do it if had to, but he didn't like it.” Dale held up his right hand. Three fingers were normal. The pinky and ring finger were shorter, ending at the first knuckle. “When I screwed up, Vernon made sure I remembered. Josh was smarter. He talked to people. Convinced them. Most of the time it worked.”
 
 Jeff’s stomach turned. “What happened when it didn’t work?”
 
 “Then I’d step in.” Dale looked at his mangled hand. “Josh hated that part. He’d try every way he could to get people to pay before it came to that.”
 
-“Tell me about the woman. The single mother.”
+“Tell me about the woman. The widow.”
 
-Dale’s expression darkened. “Sophie Martin. Two kids, seven and nine. Her youngest needed some kind of surgery. She borrowed five grand from one of Vernon’s guys. Couldn’t keep up with the interest.”
+Dale’s expression darkened. “Sophie Martin. Two kids, seven and nine. Her youngest needed some kind of surgery. She borrowed five grand from Vernon. Couldn’t keep up with the interest.”
 
 “Josh paid it for her.”
 
@@ -644,7 +655,7 @@ Dale shook his head. “I can’t tell you that.”
 
 “Can’t or won’t?”
 
-“Both.” Dale stood up slowly. “Listen to me. Josh was my friend. One of the few good people I knew in this whole goddamn world. But he’s gone now, and you going after Vernon won’t bring him back. It’ll just get you killed too.”
+“Both.” Dale stood up slowly. “Listen to me. Josh was my friend. One of the few good people I knew in this whole goddamn world. But he’s gone now, and you going after Vernon or his people won’t bring him back. It’ll just get you killed too.”
 
 “I’m not afraid of Vernon.”
 
@@ -654,7 +665,7 @@ Dale shook his head. “I can’t tell you that.”
 
 “Yeah, you are. I can see it.” Dale squeezed his shoulder once and let go. “Go home, Jeff. Take care of your family. Let Josh rest.”
 
-Dale walked out of the bar, leaving Jeff alone with his shitty beer and the bartender who was definitely listening to every word.
+Dale walked out of the bar, leaving Jeff alone with his shitty beer and the bartender who had definitely been listening to every word.
 
 Jeff sat there for another ten minutes before getting up and walking out the door.
 
@@ -669,6 +680,7 @@ One of them looked familiar. Not someone Jeff knew, but someone he’d seen befo
 It took him a moment to place it. The man who’d been watching him at the school. Same build, same way of moving. Deliberate. Focused.
 
 Jeff’s hands tightened on the steering wheel. They were following him. Or they’d followed Dale. Either way, Vernon knew he’d been here.
+>COMMENT: Reword this paragraph. This makes it absolute that the men were either following Jeff or Dale. But, we mention above that the bartender was listening to every word. The bartender could have called them.
 
 The men came out five minutes later. One of them looked directly at Jeff’s car. Made eye contact. Smiled.
 
@@ -698,11 +710,11 @@ He needed to find Sophie Martin.
 
 Finding Sophie Martin turned out to be easier than Jeff expected. There were only two Sophie Martins in the county, and only one with children the right age.
 
-She lived in a single-wide trailer on a piece of land off County Road 550. Not in a trailer park—just a mobile home on a few acres with a gravel drive. Jeff drove past it twice before parking on the shoulder half a mile down. He needed to be careful. If Vernon’s men were watching him, they might be watching her too.
+She lived in a single-wide trailer on a small piece of land off County Road 550. Not in a trailer park—just a mobile home on a half acre with a gravel drive. Jeff drove past it twice before parking on the shoulder half a mile down. He needed to be careful. If Vernon’s men were watching him, they might be watching her too.
 
-The trailer was white with rust stains around the bottom. A small wooden deck had been added to the front door. Kids’ bikes leaned against the skirting. A clothesline stretched between two trees in the yard.
+The trailer was white...or had been at some point. Rust stains were dotted around the bottom. A small wooden deck had been added to the front door. Kids’ bikes leaned against the skirting. A clothesline stretched between two trees in the yard.
 
-Jeff sat in his car for twenty minutes, watching. No black Ram. No men standing around. Just a woman coming out to check the mail and two kids playing in the dirt with toy trucks.
+Jeff sat in his car for twenty minutes, watching. No black Ram. No men standing around. Just a woman coming out to check the mail and two boys playing in the dirt with their toys.
 
 He got out and walked up the gravel drive. The woman on the deck looked up as he approached. She was in her early thirties with dark hair pulled back in a ponytail. Tired eyes. She wore scrubs—CNA or home health aide, maybe.
 
@@ -716,7 +728,7 @@ Her expression closed off immediately. “Who’s asking?”
 
 She stared at him. “I didn’t know Josh had a brother.”
 
-“He did. We weren’t close. I hadn’t seen him in years.” Jeff kept his hands visible, non-threatening. “I’m trying to understand what happened to him.”
+“Well, he did, but we weren’t close. I hadn’t seen him in years.” Jeff kept his hands visible, non-threatening. “I’m trying to understand what happened to him.”
 
 “The sheriff already came by. I told them I don’t know anything.”
 
@@ -758,7 +770,7 @@ Jeff sat in the other chair. “Did Josh tell you he was paying it?”
 
 “We were twins.”
 
-“He mentioned that once. Said he had a brother who got out. Made something of himself.” She smiled, sad. “He seemed proud of that.”
+"She smiled a bit at that. His stating of the obvious."
 
 Jeff felt the weight of it. Josh talking about him to a stranger. Proud.
 
@@ -772,7 +784,7 @@ Jeff felt the weight of it. Josh talking about him to a stranger. Proud.
 
 Jeff’s hands tightened on the chair arms. “Did they threaten you?”
 
-“They didn’t have to. The message was clear. Josh paid my debt with his life, and I shouldn’t talk about it.”
+“They didn’t have to. The message was clear. Josh paid my debt with his life, and I shouldn’t talk about it to anyone.”
 
 They sat in silence. From inside the trailer, Jeff could hear the boys arguing over something. Normal sounds of kids being kids, unaware of the violence that had touched their lives.
 
@@ -818,7 +830,7 @@ He almost didn’t answer. But something made him pick up.
 
 Jeff’s hand tightened on the phone. “Who is this?”
 
-“My name is Vernon Pike. I believe you’ve been looking for me.”
+“Name's Vernon Pike. I believe you’ve been looking for me.”
 
 The fields seemed to tilt. Jeff forced himself to breathe normally. “Have I?”
 
@@ -826,35 +838,36 @@ The fields seemed to tilt. Jeff forced himself to breathe normally. “Have I?�
 
 “You’ve been watching me.”
 
-“Of course. You’re driving a silver Honda Accord, license plate—well, I won’t bore you with details you already know. You’re parked on the shoulder of County Road 550. You’ve been sitting there for three minutes now.”
+“Of course. You’re driving a silver Honda Ridgeline, license plate—well, I won’t bore you with details you already know. You’re parked on the shoulder of County Road 550. You’ve been sitting there for just about three minutes now.”
+>COMMENT: I changed Jeff's vehicle from an Accord to a Ridgeline. I want to add something early in the story to call out that he drives a truck but that his is a stark contrast to the older American models in Millstone.
 
 Jeff scanned the fields, the road. He didn’t see anyone. No black Ram. No men standing around.
 
 “What do you want?”
 
-“The same thing you want, I think. To talk.” Vernon paused. “Your brother was a good man, Mr. Denlon. Misguided, but good. I understand why you want to know what happened to him.”
+“Same thing you want, I think. To talk.” Vernon paused. “Your brother was a good man, Mr. Denlon. Misguided, but good. I understand why you want to know what happened to him.”
 
 “You had him killed.”
 
-“I had him killed, yes.” No hesitation. No attempt to deny it. “He made mistakes that left me no choice. Surely you understand that. You’re an engineer, yes? You solve problems. Sometimes the solution is… unpleasant.”
+“I did, yes.” No hesitation. No attempt to deny it. “He made mistakes that left me no choice. Surely you understand that. You’re an engineer, right? You solve problems. Sometimes the solution is… unpleasant.”
 
 Jeff said nothing.
 
-“I know about your life,” Vernon continued. “Your wife Caroline, she’s a surgical nurse. Your daughter Emma plays soccer. You live in a very nice neighborhood up north. You’ve built something good for yourself. Something clean. You should be proud.”
+“I know about your life,” Vernon continued. “Your wife Caroline, she’s a surgical nurse. Your daughter Emma plays soccer. You live in a very nice neighborhood up near Indianapolis. You’ve built something good for yourself. Something clean. You should be proud.”
 
 The threat was there, wrapped in compliments. Jeff’s throat went dry.
 
 “Why are you calling me?”
 
-“Because I think we can help each other avoid an unfortunate situation.” Vernon’s voice remained calm, reasonable. “You’re not like your brother, Mr. Denlon. Josh was… emotional. He let his feelings cloud his judgment. But you—you’re educated. Rational. And I think you understand how this world works even if you don’t live in it anymore.”
+“Because I think we can help each other avoid an unfortunate situation.” Vernon’s voice remained calm, reasonable. “You’re not like your brother, Mr. Denlon. Josh was… emotional. He let his feelings cloud his judgment. But you—you’re educated. Rational. And I think you understand how my world works even if you don’t live in it anymore.”
 
 “I understand you murdered my brother.”
 
-“I understand you’re grieving. That’s natural. That’s human.” Vernon paused. “Come see me. Let’s talk face to face. I think you’ll find I’m not the monster you imagine.”
+“You’re grieving. That’s natural. Human.” Vernon paused. “Come see me. Let’s talk face to face. I think you’ll find I’m not the monster you imagine.”
 
 “Where?”
 
-“I have a lumberyard on Old State Road 67. Pike Lumber and Supply. You probably passed it on your way into town. Do you know it?”
+“I have a lumberyard on State Road 136. Pike Lumber and Supply. You probably passed it on your way into town. Do you know it?”
 
 “I do.”
 
@@ -864,9 +877,9 @@ The line went dead.
 
 Jeff sat holding his phone. His heart hammered in his chest. Vernon knew where he was. Knew about Caroline and Emma. Had been watching him this whole time.
 
-He should go home. Should call the sheriff. Should do anything except drive to Pike Lumber at nine o’clock.
+He should go home. Should call the sheriff. Should do just about anything except drive to Pike Lumber at nine o’clock.
 
-But Josh had called him that morning for a reason. Had talked about being brothers. Had reminded him about the one cell they’d come from before splitting into two different people.
+But Josh had called him that morning. For a reason. Had talked about being brothers. Had reminded him about the one cell they’d come from before splitting into two different people.
 
 And now Jeff understood what Josh had been trying to say.
 
@@ -882,9 +895,9 @@ Jeff started the car and drove toward his house. He needed to think. He needed a
 
 ## Six
 
-Jeff arrived home at six-fifteen. Caroline’s car was in the driveway. The porch light was on. Everything looked normal.
+Jeff arrived home at just before six-thirty. Caroline’s car was parked in the garage. The porch light was on. Everything looked normal.
 
-He sat in the car for a moment, his mind drifting to Josh’s gun in his glove compartment. He’d checked it before driving away from Sophie’s trailer. He didn’t know much about guns, but he knew enough. But life isn’t a movie and taking a gun to a meeting with a man like Vernon would be beyond foolish.
+He sat in the car for a moment, his mind drifting to Josh’s gun in his glove compartment. He’d checked it before driving away from Sophie’s trailer. He hadn't handled a gun in a long time, but he remembered how to use one. But life isn’t a movie and taking a gun to a meeting with a man like Vernon would be beyond foolish.
 
 Inside, Caroline was making dinner. Emma sat at the kitchen table doing homework. Normal. Peaceful.
 
@@ -894,7 +907,7 @@ Inside, Caroline was making dinner. Emma sat at the kitchen table doing homework
 
 She looked at him carefully. “You okay?”
 
-“Yeah. Just tired.”
+“Yeah. Just...tired.”
 
 Emma glanced up from her math worksheet. “Dad, can you help me with number seven?”
 
@@ -902,15 +915,15 @@ Jeff sat down next to her. The problem was about calculating the area of an irre
 
 After dinner, he helped clean up. Watched TV with Caroline and Emma for an hour. Went through all the motions of being present while part of him was already at Pike Lumber.
 
-At eight-thirty, he told Caroline he needed to run an errand.
+At eight-fifteen, he told Caroline he needed to run an errand.
 
 “Now?” She frowned. “It’s late.”
 
 “I know. I just—there’s something I need to take care of.”
 
-She studied his face. “This is about Josh, isn’t it?”
+She studied his face. “This is about Josh again, isn’t it?”
 
-He didn’t answer. He saw concern in her expression but also anger. Did she know more than she let on about what he’d been doing?
+He didn’t answer. He saw concern in her expression but also something else. Consternation. Anger maybe. Did she know more than she let on about what he’d been doing?
 
 “Jeff, whatever you’re doing, please be careful,” she said tersely.
 
@@ -918,7 +931,7 @@ He didn’t answer. He saw concern in her expression but also anger. Did she kno
 
 “I love you too.”
 
-He went upstairs and looked in on Emma. She was in bed reading. He stood in the doorway watching her for a moment.
+He went upstairs and looked in on Emma. She was on her bed reading. He stood in the doorway watching her for a moment.
 
 “Dad?” She looked up. “You okay?”
 
@@ -944,7 +957,7 @@ He wasn’t sure if she believed it.
 
 -----
 
-Pike Lumber and Supply sat on Old State Road 67, about a mile outside town. The main building was a long metal structure with lumber racks and equipment visible through chain-link fencing. A smaller office building sat at the front of the lot with a sign that read “Pike Lumber - Family Owned Since 1987.”
+Pike Lumber and Supply sat on State Road 136, about a mile outside town. The main building was a long metal structure with lumber racks and equipment visible through chain-link fencing. A smaller office building sat at the front of the lot with a sign that read “Pike Lumber - Family Owned Since 1987.”
 
 Jeff parked across the road. Eight fifty-five.
 
@@ -959,14 +972,15 @@ Jeff walked to the door and knocked.
 Footsteps. The door opened.
 
 Vernon Pike stood there alone. No bodyguard. No muscle. Just him in jeans and a flannel shirt with the sleeves rolled up. He looked like a businessman finishing a late night at the office, except for the hardness in his eyes.
+>COMMENT: In his jeans and flannel, he doesn't look like a businessman. Need to change this.
 
-“Mr. Denlon.” Vernon smiled and stepped aside. “Thank you for coming. Please.”
+“Mr. Denlon. Jeff.” Vernon smiled and stepped aside. “Thanks for coming. Please.”
 
 Jeff hesitated, then stepped inside. The office was small. A desk with papers. Filing cabinets. A couple of chairs. Pictures on the wall of Vernon with various local officials, all smiles and handshakes.
 
 “No one working with you tonight?” Jeff asked.
 
-“I gave them the evening off.” Vernon walked to his desk but didn’t sit. “I thought we could speak privately. Just the two of us.”
+“Lumberyard closes at 8. Everyone else has been gone since 8:30.” Vernon walked to his desk but didn’t sit. “I thought we could speak privately. Just the two of us.”
 
 Jeff remained standing near the door.
 
@@ -974,51 +988,51 @@ Jeff remained standing near the door.
 
 “No.”
 
-“Straight to business, then.” Vernon folded his arms. “Your brother worked for me for two years. He was reliable. Effective. I paid him fair.”
+“Straight to business, then.” Vernon folded his arms. “Your brother worked for me for two years. Made good money. He was reliable. Effective.”
 
 “Until he wasn’t.”
 
 “Until he made a choice.” Vernon’s expression remained neutral. “Sophie Martin. Two kids, medical bills. She borrowed money she couldn’t repay. Josh decided to help her. On my dime.”
 
-“He paid her debts.”
+“Interesting way to put it. Seems to me he did it on his dime.”
 
 “He exceeded his authority.” Vernon’s voice was calm. “I gave him opportunities to correct his mistake. He refused. So I removed the problem.”
 
-Jeff’s hands clenched. “You had him killed.”
+Jeff’s hands clenched. “You removed...the problem?”
 
 “I did.” No hesitation. No attempt to soften it. “Your brother knew the consequences of his actions. He accepted them.”
 
 “He died protecting someone who needed it.”
 
-“He died for sentiment.” Vernon’s voice remained calm. “Sophie still struggles. Still works two jobs. Josh threw away his life for feelings.” He paused. “You know, it’s interesting. Of the two of you, Josh was always the one more familiar with how things work out here. He understood it. Knew how to handle himself when necessary, even if he preferred to avoid it. But you—you built a nice life far away from all that. Engineer. Suburban home. Soccer practice.”
+“He died for a foolish ideal.” Vernon’s voice remained calm. “Sophie still struggles. Still works two jobs. Josh threw away his life for feelings.” He paused. “You know, it’s interesting. Of the two of you, Josh was always the one more familiar with how things work out here. He understood it. Knew how to handle himself when necessary, even if he preferred to avoid it. But you—you built a nice life far away from all that. Engineer. Suburban home. Soccer practice.”
 
 Jeff said nothing.
 
-“I’ve done my research, Mr. Denlon. You’re the brother who got out. The one who escaped.” Vernon smiled slightly. “So I have to wonder what you think you’re doing here. What you imagine this conversation will accomplish.”
+“I’ve done my research, Jeff. You’re the brother who left. The one who escaped.” Vernon smiled slightly. “So I have to wonder what you think you’re doing here. What you imagine all this will accomplish.”
 
 “I wanted to understand.”
 
-“And do you? Do you understand why men like Josh die while men like me survive?” Vernon pushed off the desk and walked to the window. “It’s because I understand reality. Josh never did. He thought sentiment mattered. That protection mattered. That doing the right thing made a difference.”
+“And do you? Do you understand why people like your brother die while I survive?” Vernon pushed off the desk and walked to the window. “It’s because I understand reality. Josh never did. He thought being noble mattered. That protection mattered. That doing the right thing made a difference.”
 
 “It does matter.”
 
-“Does it?” Vernon turned back. “You’re proof it doesn’t. You escaped this world by being smart. By being rational. By not letting emotion cloud your judgment.” He moved closer. “You’re not like your brother, Mr. Denlon. You’re like me.”
+“Does it?” Vernon turned back. “You’re proof it doesn’t. You escaped this town by being smart. By being rational. By not letting emotion cloud your judgment.” He moved closer. “You’re not like your brother, Mr. Denlon. You’re like me.”
 
 “I’m nothing like you.”
 
-“No?” Vernon’s smile widened. “Then why are you here? What did you think would happen when you walked through that door?”
+“No?” Vernon’s smile widened. “Then why are you here? What did you think would happen when you walked in my door?”
 
-Jeff met his eyes. “I’m here because twenty-seven years ago, someone killed our father. Stabbed him in his bed with a kitchen knife. Josh was eleven years old. So was I.”
+Jeff met his eyes. “I’m here because twenty-seven years ago, someone killed our father. Stabbed him in his bed with a Buck knife. Josh was eleven years old. So was I.”
 
-Vernon’s smile faded slightly. “I know the story. Josh disappeared from school that day. Mrs. Pritchard saw him. Your mama suspected him. That’s why she sent him away to live with her brother.”
+Vernon’s smile faded slightly. “Whole town knows the story. Josh disappeared from school that day. Mrs. Pritchard saw him. Your mama knew the truth. That’s why she sent him away to live with her brother.”
 
-“Josh didn’t kill our father,” Jeff said quietly. “I did. You may have done your research, but I bet it didn’t reveal that.”
+“Josh didn’t kill our father,” Jeff said quietly. “I did. I bet the town rumor mill never told you that.”
 
 The room went still.
 
 Vernon stared at him. “What?”
 
-“I left school that morning. Walked home. My father was asleep—he worked nights at the grain elevator. I took a knife from the kitchen and went upstairs.” Jeff’s voice was steady, clinical. “He didn’t wake up until I was already stabbing him. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father.”
+“I left school that morning. Walked home. It was me Mrs. Pritchard saw that day. My father was asleep—he worked nights at the grain elevator. I took his Buck knife  from his dresser.” Jeff’s voice was steady, clinical. “He didn’t wake up until after I'd already stabbed him. Right in the throat. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father.”
 
 Vernon’s expression shifted. Calculation replacing certainty.
 
@@ -1078,7 +1092,7 @@ He went inside. Caroline looked up from the couch.
 
 She studied his face for a long moment. Then she nodded and went back to her phone.
 
-Jeff went upstairs. Checked on Emma—still sleeping. Went to his room. Lay down next to Caroline when she came to bed an hour later.
+Jeff went upstairs. Checked on Emma—sound asleep. Went to his room. Lay down next to Caroline when she came to bed an hour later.
 
 He stared at the ceiling until morning.
 

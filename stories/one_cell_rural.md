@@ -162,7 +162,7 @@ His brother had known he was going to die.
 
 ## Two
 
-The funeral home sat on Main Street across from what used to be Pritchard’s Diner. Pritchard’s had been where all the kids hung out when Josh and Jeff were teenagers. Jeff pulled into the gravel lot and sat for a moment looking at the white clapboard building with its black shutters. A hand-painted sign above the door read ‘Breslin Funeral Home’ in faded gold letters.
+The funeral home sat on Main Street across from what used to be Pritchard’s Diner. Pritchard’s had been where all the kids hung out when Josh and Jeff were teenagers. Jeff pulled into the gravel lot. His new Honda Ridgeline stood in sharp contrast to the older Chevy and Ford trucks in the parking lot. He sat for a moment looking at the white clapboard building with its black shutters. A hand-painted sign above the door read ‘Breslin Funeral Home’ in faded gold letters.
 
 He’d told Caroline he was going alone. She’d offered to come, offered to bring Emma, but he’d declined. This wasn’t the kind of town where he wanted his family. Rena’s warning still echoed in his head.
 
@@ -253,7 +253,6 @@ They took a booth in the back. Tom downed half his drink in one swallow and set 
 “What happened?”
 
 Tom leaned back in the booth. “There was this woman. Widowed mother, two kids. She’d borrowed money for her kid’s medical bills and fallen behind on payments. Vernon wanted Josh to lean on her. Make her understand that debt doesn’t just go away.”
->COMMENT: Changing Sophie to a widow because single mothers are rarer in small towns.
 
 Jeff waited.
 
@@ -264,7 +263,6 @@ Jeff waited.
 “Not Vernon himself.” Tom stared into his glass. “But yeah. That’s why Josh is dead. Because he couldn’t get in line and just do the job.”
 
 The bar’s jukebox played something country and mournful. Jeff felt the weight of it settling on him—his brother had died trying to protect someone who felt scared and helpless.
->COMMENT: call out that Josh was protecting someone who felt "scared and helpless." Will potentially circle back to Josh being "scared and helpless" when Jeff protected him from their father at age 11.
 
 “The sheriff know?”
 
@@ -312,18 +310,13 @@ He didn’t reply. Instead, he got in his car and sat there thinking about Josh 
 
 About the one cell they’d come from before splitting into two very different people.
 
-Jeff pulled out his phone and searched for Vernon Pike. Nothing came up except a few social media profiles that looked like dead ends. He tried searching for loan sharks in the county. That was useless too.
->COMMENT: I don't think Jeff needs to search for Vernon Pike. First, how successful is googling a small town person. Plus, I think Jeff knows Pike. Knows who he is. He grew up in this small town and in that setting guys like Pike are always known.
-
 He needed someone who knew the area. Someone still connected to that world but willing to talk. His cousin Rena had lived there her whole life. She’d know people.
 
 Jeff pulled up her number and called.
 
-“Hey,” she said, surprised. “How was the funeral?”
->COMMENT: why wasn't Rena at the funeral? If she's Jeff's cousin, she's Josh's. 
+“Hey,” she said, surprised. “I saw you leave the funeral with Tom. Are you still in Millstone?”
 
-“Sad. Short.” He paused. “Rena, I need to ask you something. Do you know where I can find Vernon Pike?”
->COMMENT: Again, I feel Jeff should already know Vernon Pike. He can't be someone who took control out of nowhere in a setting like this. I updated to he asking where to find him instead of who he is. I'm not 100% sure that's enough, but it might be.
+“I am, but I'm about to head home.” He paused. “Rena, I need to ask you something. Do you know where I can find Vernon Pike?”
 
 The line went quiet.
 
@@ -481,14 +474,27 @@ Caroline sat down next to him. “This is about Josh, isn’t it?”
 
 His silence was all the answer she needed.
 
-“I know you’re grieving. But you can’t let it pull you away from us.” She took his hand. “Emma needs you here. I need you here.”
->COMMENT: I want bigger conversation here. The gist is Caroline dismisses the different paths Jeff and Josh took as choice while Jeff, knowing it wasn't all choice, talks about how she doesn't understand losing a brother. Caroline retorts that she has siblings. Jeff retorts, "But not a twin. You can't understand that connection." The current convo makes Caroline too much of a stock suburban wife. I don't want the conversation heated. I want to retain the ending where they sit in silence before she goes inside. I just want the silence to feel more tense, less calm.
+"I know you're grieving. But you can't let it pull you away from us." She took his hand. "Emma needs you here. I need you here."
 
-“I am here.”
+"I am here."
 
-“Are you?”
+"Are you? Because it seems like you're back in Millstone even when you're sitting right next to me."
 
-He didn’t answer. They sat in silence listening to crickets and distant traffic. After a while, Caroline went inside. Jeff stayed on the porch looking at nothing.
+"You don't understand—"
+
+"Then help me understand. You and Josh made different choices. He stayed, you left. That's not your fault."
+
+"Choices." Jeff pulled his hand back. "You think it was all just choices."
+
+"Wasn't it?"
+
+"You don't know what it's like. Losing a brother."
+
+Caroline's expression hardened. "I have two brothers, Jeff. I know exactly—"
+
+"No you don't. You don't. You have brothers, not a twin." His voice was quiet but firm. "You can't understand that connection. Nobody can unless they've had it."
+
+She didn't respond. They sat in silence listening to crickets and distant traffic. After a while, Caroline went inside. Jeff stayed on the porch looking at nothing.
 
 His phone buzzed. A text from a number he didn’t recognize.
 
@@ -496,8 +502,7 @@ His phone buzzed. A text from a number he didn’t recognize.
 
 That was all it said. No name. No context. Just four words.
 
-Jeff stared at the message feeling his pulse pounding in his temples. He’d only talked to Mrs. Pritchard. And she wouldn’t have told anyone. Would she?
->COMMENT: I want a physical reaction from Jeff at the message. Something that indicates surprise but not necessarily fear or anxiety. In the final confrontation, we imply Jeff's nature to be somewhat sociopathic. I don't want a physical reaction that contradicts that.
+Jeff stared at the message, his pulse ticking up—not from fear, but from something else. Recognition, maybe. The acknowledgment that things were moving forward now, becoming concrete.
 
 He thought about the man on the corner. About being watched.
 
@@ -517,11 +522,9 @@ Jeff closed his eyes but didn’t sleep.
 
 ## Four
 
-The next morning, Jeff called his assistant to tell her he wouldn’t be in. She didn’t question it. He knew the associate engineers would be able to handle anything that came in without their boss looming over them.
->COMMENT: does this adequately convey that Jeff owns the engineering firm?
+The next morning, Jeff called his assistant to tell her he wouldn’t be in. She didn't question it. As the firm's owner, Jeff had flexibility—though his associate engineers would wonder where he was.
 
 Caroline had already left for an early shift when he got up. Emma was already off to school. The empty house felt like permission.
->COMMENT: I love the line, "The empty house felt like permission." It really sings
 
 He made coffee and sat at the kitchen table with his laptop. The threatening texts had been deleted, but he remembered every word. Someone was watching him. Someone knew he’d been asking questions.
 
@@ -679,8 +682,7 @@ One of them looked familiar. Not someone Jeff knew, but someone he’d seen befo
 
 It took him a moment to place it. The man who’d been watching him at the school. Same build, same way of moving. Deliberate. Focused.
 
-Jeff’s hands tightened on the steering wheel. They were following him. Or they’d followed Dale. Either way, Vernon knew he’d been here.
->COMMENT: Reword this paragraph. This makes it absolute that the men were either following Jeff or Dale. But, we mention above that the bartender was listening to every word. The bartender could have called them.
+Jeff's hands tightened on the steering wheel. They were following him, or Dale, or maybe the bartender had made a call the second Dale walked out. Either way, Vernon knew he'd been here.
 
 The men came out five minutes later. One of them looked directly at Jeff’s car. Made eye contact. Smiled.
 
@@ -839,7 +841,6 @@ The fields seemed to tilt. Jeff forced himself to breathe normally. “Have I?�
 “You’ve been watching me.”
 
 “Of course. You’re driving a silver Honda Ridgeline, license plate—well, I won’t bore you with details you already know. You’re parked on the shoulder of County Road 550. You’ve been sitting there for just about three minutes now.”
->COMMENT: I changed Jeff's vehicle from an Accord to a Ridgeline. I want to add something early in the story to call out that he drives a truck but that his is a stark contrast to the older American models in Millstone.
 
 Jeff scanned the fields, the road. He didn’t see anyone. No black Ram. No men standing around.
 
@@ -971,8 +972,7 @@ Jeff walked to the door and knocked.
 
 Footsteps. The door opened.
 
-Vernon Pike stood there alone. No bodyguard. No muscle. Just him in jeans and a flannel shirt with the sleeves rolled up. He looked like a businessman finishing a late night at the office, except for the hardness in his eyes.
->COMMENT: In his jeans and flannel, he doesn't look like a businessman. Need to change this.
+Vernon Pike stood there alone. No bodyguard. No muscle. Just him in jeans and a flannel shirt with the sleeves rolled up. He looked like what he was—a man who made his living with his hands and his will, comfortable in his own domain.
 
 “Mr. Denlon. Jeff.” Vernon smiled and stepped aside. “Thanks for coming. Please.”
 
@@ -1036,7 +1036,7 @@ Vernon stared at him. “What?”
 
 Vernon’s expression shifted. Calculation replacing certainty.
 
-“When I left school, I think Josh realized what I was planning. So he pretended to be me. Sat in my desk. Answered to my name. Made sure everyone saw ‘Jeff’ at school that day.” Jeff took a step closer. “Our father was a drunk and a mean son of a bitch. And Josh was his favorite target. He beat him. Terrorized him. I didn’t feel fear like Josh did. I felt rage. And I acted on it. To protect my brother.”
+“When I left school, I think Josh realized what I was planning. So he pretended to be me. Sat in my desk. Answered to my name. Made sure everyone saw ‘Jeff’ at school that day.” Jeff took a step closer. “Our father was a drunk and a mean son of a bitch. And Josh was his favorite target. He beat him. Terrorized him. Josh once told me he felt scared and helpless all the time at home. I didn’t feel fear. I felt rage, quiet rage. And I acted on it. To protect my brother.”
 
 “Why are you telling me this?”
 

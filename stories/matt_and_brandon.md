@@ -307,7 +307,7 @@ Brandon Gray had been awake since four-thirty. Not unusual. Sleep came in fragme
 
 By six he was dressed and downstairs in the Quality Inn's breakfast area, a corner room off the lobby with industrial carpet and fluorescent lights that hummed at a frequency most people didn't notice. Brandon noticed. He'd positioned himself at a table in the back corner, away from the windows, with a clear view of the entrance and the coffee station.
 
-The case files were spread across the table in front of him, arranged in an order that would look haphazerd to anyone else. Witness statements on the left, organized by proximity to the scene. Security footage stills in the center, sequenced by timestamp. Victimology on the right—Sarah Carpenter's life in documents and photographs.
+The case files were spread across the table in front of him, arranged in an order that would look haphazard to anyone else. Witness statements on the left, organized by proximity to the scene. Security footage stills in the center, sequenced by timestamp. Victimology on the right—Sarah Carpenter's life in documents and photographs.
 
 He had a cup of black coffee cooling in front of him. His second. The first he'd made in his room at five-fifteen using the single-serve machine that produced something that tasted like heated dishwater.
 

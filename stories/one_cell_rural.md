@@ -242,13 +242,11 @@ Inside, the bar was dark and nearly empty. A bartender with tattooed forearms no
 
 They took a booth in the back. Tom downed half his drink in one swallow and set the glass on the scarred table between them.
 
-“Josh was doing collections,” Tom said without preamble. “Working for a fella named Vernon Pike. You know what collections means?”
+“Josh was doing collections,” Tom said without preamble. “Working for Vernon Pike. You know what collections means?”
 
-“Loan sharking.”
+“Vernon's still lending money under the table.”
 
-> COMMENT: Loan sharking isn't a realistic crime for a small town in my opinion. Is there a way to word illegally lending money to fit the small town motif. Otherwise, should we change it to something else? Maybe he was collecting money from local businesses that Vernon extorted "protection" money from.
-
-“That and collecting debts from folks who gambled and couldn’t pay.” Tom finished his drink and signaled for another. The bartender brought over the bottle and refilled Tom’s glass. “Josh was good at it. He could be persuasive without being violent. Most of the time, anyway.”
+“That and extorting money from local businesses and calling it protection.” Tom finished his drink and signaled for another. The bartender brought over the bottle and refilled Tom’s glass. “Josh was good at it. He could be persuasive without being violent. Most of the time, anyway.”
 
 “What happened?”
 

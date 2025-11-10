@@ -3,7 +3,7 @@
 
 The Crossroads Mini-Mart sat at the intersection of County Road 400 and State Route 39, three miles south of Thorndale, Indiana. It was the kind of place that survived on lottery tickets, fountain drinks, and the handful of locals who stopped for gas on their way to somewhere else. The building hadn't been updated since the early nineties—faded red brick, a hand-painted sign advertising "Live Bait & Tackle," and a payphone mounted on the exterior wall that hadn't worked in over a decade.
 
-he black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The air was cool and still, carrying the sweet-rot smell of harvested cornfields—that particular scent of October in rural Indiana, somewhere between earth and decay. The first man, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
+The black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The air was cool and still, carrying the sweet-rot smell of harvested cornfields—that particular scent of October in rural Indiana, somewhere between earth and decay. The first man, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
 
 A sheriff's deputy leaned against his cruiser near the entrance, arms crossed. He straightened when he saw them approaching.
 
@@ -873,7 +873,7 @@ Brandon stopped about ten feet from the entrance. He stood very still, rain stre
 
 Brandon didn't answer. His expression had gone distant, unfocused. Matt recognized that look—the same one Brandon got at crime scenes, when he was processing something Matt couldn't see.
 
-After a long moment, Brandon walked to the barn entrance. He grabbed the edge of the crooked door and pulled it open wider. It caught on its broken hinge and groaned as he pulled it wider..
+After a long moment, Brandon walked to the barn entrance. He grabbed the edge of the crooked door and pulled it open wider. It caught on its broken hinge and groaned audibly despite the rain.
 
 "Brandon," Matt said, louder now. "We can't go in without—"
 
@@ -1030,7 +1030,7 @@ Dunham frowned. "What about it?"
 
 "Did you search it?"
 
-"Drove by the property, saw the barn from the road. But there a lot of old barns out here. Like I said, we didn't have probable cause for a search warrant. Kovacs being creepy and driving the right truck isn't enough for a judge."
+"Drove by the property, saw the barn from the road. But there are a lot of old barns out here. Like I said, we didn't have probable cause for a search warrant. Kovacs being creepy and driving the right truck isn't enough for a judge."
 
 Matt chose his words carefully. "We drove by his property this morning. We got a bad feeling about that barn."
 

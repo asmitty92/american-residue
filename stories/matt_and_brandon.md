@@ -1111,3 +1111,340 @@ Search that barn.
 Find Sarah Carpenter.
 
 And prove that Brandon's instincts—whatever they were, however they worked—had been right all along.
+
+# Chapter Four
+**Thursday Afternoon**
+
+Brandon finished the last bite of his gas station sandwich as Matt pulled into the construction site. Turkey and swiss on wheat bread that tasted like cardboard and regret. He'd barely noticed eating it. His mind was still in that barn, replaying the impressions that had settled over him like a weight.
+
+The construction site sat on the north edge of Thorndale where Main Street became farmland. A sign near the entrance read "Hoosier Heritage Homes - Custom Building Since 1987." Beyond it, a concrete foundation had been poured for what would eventually be someone's house. Probably their dream house, given the size of the footprint. But today, with the rain still misting down and the sky the color of wet concrete, the site looked abandoned.
+
+A white pickup truck was parked near a job trailer—the kind contractors used as mobile offices. The truck had "Brennan Construction" painted on the door in fading letters. Matt had called ahead. Travis Brennan was expecting them.
+
+"You want me to take the lead on this one?" Matt asked as he put the car in park.
+
+Brandon crumpled the sandwich wrapper. "I've got it."
+
+Matt didn't argue. They'd worked together long enough that Matt knew when Brandon needed to drive an interview. Usually it was when Brandon had already formed a theory and needed to test it through careful questioning. Matt would watch, take notes, jump in if needed. But mostly he'd observe.
+
+They got out. The rain had lessened to a fine mist that hung in the air rather than falling. Brandon's shirt was still damp from the barn, and the cold settled into his bones as they walked toward the trailer.
+
+The door opened before they reached it. A man in his early thirties stepped out, wearing work boots, jeans, and a Carhartt jacket over a flannel shirt. Dark hair, stubble that suggested he'd been too busy to shave that morning. He looked tired. Not just today-tired, but the kind of tired that came from carrying something heavy for a long time.
+
+"Travis Brennan?" Matt asked, showing his badge.
+
+"Yeah." Brennan shook both their hands. His grip was firm, calloused. "FBI, right? You guys work fast. Sheriff only called me an hour ago."
+
+"We appreciate you making time," Matt said.
+
+"Not like we're getting anything done today." Brennan gestured at the gray sky. "Can't pour concrete in this weather. Can't frame either—lumber's too wet. Crew's at lunch. Figured I'd catch up on paperwork, but honestly I was just staring at invoices."
+
+"This won't take long," Brandon said. "We just have some follow-up questions about the night Sarah Carpenter disappeared."
+
+Brennan's expression shifted—something between resignation and discomfort. "I already told the deputies everything I saw. Which wasn't much."
+
+"I understand. Sometimes talking through it again helps clarify details." Brandon kept his voice even, neutral. Not pushy. Just patient. "Can we sit inside?"
+
+Brennan nodded and led them into the trailer. The interior was exactly what Brandon expected—cluttered but organized in its own way. A desk covered with blueprints and invoices, a filing cabinet, a small coffee maker on a card table, folding chairs. The space heater in the corner worked overtime, making the air stuffy and warm. It smelled like coffee and damp wood and diesel fuel.
+
+Brennan gestured to two folding chairs and took the desk chair for himself. He pulled a pack of cigarettes from his jacket pocket, then seemed to think better of it and set them on the desk.
+
+"You still smoke?" Brandon asked.
+
+"Trying to quit. Been saying that for three years." Brennan picked up a pen, turned it over in his fingers. Nervous energy. "That's why I was at the Crossroads that night. Ran out of cigarettes, needed to pick up a pack before I went home."
+
+Brandon pulled out his phone and opened the notes app. "Walk me through that night. What time did you get off work?"
+
+"Around five-thirty. We'd been working a job in Brazil—that's about forty minutes west of here. Framing a pole barn. We wrapped up, I drove back to my place in Thorndale, got home around six-fifteen."
+
+"Then what?"
+
+"Ate dinner. Watched TV. Realized I was out of cigarettes around eight. The gas station in town closes at seven, so I drove down to the Crossroads. It's open till ten."
+
+Brandon made notes, not because he needed them but because it gave Brennan something to focus on besides being interrogated. "What route did you take?"
+
+"Main Street to Route 39, then south. Same way everybody goes."
+
+"Did you see any other vehicles on the way?"
+
+Brennan frowned, thinking. "A few. Not many—it was a Thursday night, most people were home. There was a sedan going north as I headed south. Maybe a Honda or Toyota, something like that. And a farm truck pulled out of a driveway ahead of me, but he turned off onto County Road 400."
+
+"What about when you got to the Crossroads?"
+
+"Sarah's car was in the lot when I pulled in. I recognized it—she drove a red Honda Civic, had a library bumper sticker on the back. I didn't think much of it at the time. People stop there for gas all the time."
+
+"Where did you park?"
+
+"By the front door. The pumps were empty, so I had my choice of spots." Brennan set down the pen and picked up the cigarette pack, turning it over in his hands without opening it. "I went inside. Marv was behind the counter. I grabbed a pack of Marlboros, paid, and left. Maybe two minutes total."
+
+"Did you notice Sarah while you were inside?"
+
+"No. The payphone's around the side of the building. You can't see it from inside unless you're at the window, and I wasn't paying attention to windows. I was tired. Just wanted to get my cigarettes and go home."
+
+Brandon leaned forward slightly. "When you came out, what did you see?"
+
+"Her purse was on the ground by the payphone. The phone was off the hook, hanging down. Her car was still there, but she wasn't." Brennan's jaw tightened. "I called 911 right away. Stayed on the line until Deputy Kowalski showed up."
+
+"Did you hear anything while you were inside? A scream, a car door, an engine?"
+
+"No. Marv had the radio on. And I wasn't listening for anything. Why would I be?"
+
+Brandon nodded, making another note. "Let me back up. When you pulled into the lot, was there any other vehicle there besides Sarah's car?"
+
+Brennan started to shake his head, then stopped. "Wait. Yeah. There was a truck parked on the far side of the building. Away from the pumps. I didn't think about it until now."
+
+Brandon's pulse quickened, but he kept his expression neutral. "What kind of truck?"
+
+"Chevy. Older model. Dark color—blue or green, hard to tell in the security lights." Brennan's eyes went distant, like he was replaying the memory. "I only noticed it because it seemed like a weird place to park. The pumps were empty, the lot was empty. Why park way over there unless you didn't want to be visible from the road?"
+
+"Did you see anyone in or near the truck?"
+
+"No. But I wasn't looking. I assumed whoever owned it was inside the store."
+
+Matt had his notebook out now, writing quickly. Brandon maintained eye contact with Brennan. "When you came back out after buying cigarettes, was the truck still there?"
+
+Brennan closed his eyes, concentrating. "No. It was gone. I remember that now. When I saw Sarah's purse and went to call 911, I looked around to see if anyone else was there who could help. The lot was empty except for her car and mine."
+
+"So the truck left while you were inside."
+
+"Must have. Like I said, I was only in there two minutes. Maybe less."
+
+Brandon made another note, his mind already working through the timeline. Sarah on the phone. Travis inside buying cigarettes. The truck pulling out with Sarah inside it. All in the space of ninety seconds, maybe two minutes.
+
+"Did you notice anything else about the truck? Damage, bumper stickers, anything in the bed?"
+
+Brennan was quiet for a moment. Brandon watched his face—the way his eyes moved, the slight tension in his jaw. He was trying to remember, not fabricate. That was important. Witnesses who were making things up looked different. They looked up and to the left, accessing the creative parts of their brain. Brennan was looking straight ahead, accessing memory.
+
+"There was something on the back window," Brennan said slowly. "One of those decals. I couldn't tell you what it was, but there was something there. Caught the light wrong, made it stand out."
+
+"What kind of decal? Sports team? Business logo?"
+
+"I don't know. I barely registered it. Just... something white or light-colored against the dark glass."
+
+Brandon filed that away. "And you didn't see which direction it went when it left?"
+
+"No. Like I said, I was inside."
+
+"Did you happen to stop anywhere else that day? Before going to the Crossroads?"
+
+Brennan frowned. "I stopped at Thorndale Farm & Feed after work. Needed to pick up some lumber screws. Why?"
+
+"Just trying to establish your movements. What time were you there?"
+
+"Maybe six o'clock? Little after. I got home around six-fifteen, so that's about right."
+
+"See anyone you knew there?"
+
+"Jim Haskell was working the counter. We talked for a few minutes about the Colts game. That's it." Brennan leaned back in his chair. "Look, I know I didn't see much that night. I've felt guilty about it for eighteen months. If I'd come out of that store thirty seconds earlier, maybe I could have stopped it. Maybe Sarah would still be—" His voice caught.
+
+"This isn't your fault," Matt said quietly. "You couldn't have known."
+
+"Yeah, well, doesn't make it easier to sleep." Brennan picked up the cigarettes again, this time pulling one out and sticking it between his lips unlit. "Is there anything else? I've got to call the crew, let them know we're done for the day."
+
+Brandon had one more question. The important one. "When you were at the Farm & Feed, did you see a dark blue or green Chevy Silverado in the parking lot?"
+
+Brennan's eyes widened slightly. "Actually, yeah. There was a truck like that parked near the lumber yard entrance. I remember because the guy was loading something into the bed—looked heavy, maybe cement bags or something. I had to wait for him to finish before I could get through."
+
+"Did you see his face?"
+
+"Not really. He had a baseball cap on, kept his head down. Average build, average height. Nothing that stood out."
+
+"What time was this?"
+
+"Right when I got there. So around six."
+
+Brandon and Matt exchanged a glance. Kovacs at the Farm & Feed at six, buying something. At the Crossroads by eight. Two hours to do... what? Go home? Prepare? Wait?
+
+"Do you remember what he was loading?" Brandon asked.
+
+"Not specifically. Bags of something. Could have been feed, could have been cement, could have been grain. The Farm & Feed sells all that stuff."
+
+Brandon made a final note. "Thank you, Mr. Brennan. You've been very helpful."
+
+"I have?" Brennan looked genuinely surprised. "I didn't think I knew anything useful."
+
+"Sometimes the details that don't seem important are the ones that matter." Brandon stood, and Matt followed his lead. "If you remember anything else, here's my card."
+
+Brennan took the card, studied it. "You really think you're going to find her?"
+
+Brandon chose his words carefully. "We're going to find out what happened to her."
+
+It wasn't quite the same thing, but it was honest.
+
+They left Brennan in his trailer and walked back to the car. The rain had stopped completely now, leaving the air cold and damp. Brandon's shoes squelched in the mud.
+
+"Farm & Feed at six," Matt said once they were in the car. "That gives us a place to check for surveillance footage."
+
+"And it puts Kovacs in town two hours before the abduction. Long enough to tamper with Sarah's car at the library, then position himself at the Crossroads." Brandon pulled out his phone and opened the map. "The library closes at eight on Thursdays. Sarah's shift would have ended right at closing. He would have known that."
+
+"What do you think he was loading at the Farm & Feed?"
+
+"Trail cameras."
+
+Matt looked at him. "What?"
+
+"His borrowing history. Wilderness survival, topographical maps, forensic investigation. He's been studying how to monitor an area. How to track movement. How to avoid leaving evidence." Brandon's mind was working through it, connecting the pieces. "He bought trail cameras. The kind hunters use. And he's placed them somewhere."
+
+"On his property?"
+
+"Maybe. Or somewhere else. Somewhere he's watching." Brandon stared out the window at the construction site, but he wasn't seeing it. He was seeing the barn. The shadows. The impression of violence that had settled into the wood and dirt like a stain. "We need to get to the Farm & Feed before they close. Check their surveillance footage, see if we can confirm it was Kovacs. And see what he bought."
+
+Matt started the engine. "It's one-fifteen. If they close at six, we've got time. But Brandon—even if we confirm Kovacs bought trail cameras, that's still not probable cause for a warrant."
+
+"I know. But it's another piece. And pieces add up." Brandon turned to look at his partner. "We need to find out where he placed those cameras. If they're on his property, that's one thing. If they're somewhere else—"
+
+"Then he's been monitoring a location. Potentially a crime scene."
+
+"Or monitoring for someone else. Someone using his property without his knowledge."
+
+Matt pulled out of the construction site and headed back toward town. "You think he's not working alone?"
+
+"I think—" Brandon paused, choosing his words. "I think there's something about this case that doesn't add up. Kovacs fits too well. He's smart enough to know he'd be a suspect. Why would he make himself so visible? Why keep checking out books that make him look guilty? Why return to the library after the case is reopened?"
+
+"Because he's arrogant. Because he thinks he's smarter than us."
+
+"Maybe." Brandon wasn't convinced. "Or because he's trying to solve it too."
+
+Matt was quiet for a moment. "You think he knows who took Sarah but isn't saying?"
+
+"I think he knows something. And whatever it is, it's eating at him." Brandon thought about the unsigned notes at the library memorial. *I'm so sorry. I think about you every day. I'm sorry I couldn't help you.* "Guilt is a powerful motivator. Makes people do strange things."
+
+They drove through downtown Thorndale, past the library, past the elementary school, past the Bluebird Diner. The streets were nearly empty. Thursday afternoon in a small town. Everyone at work or school or home.
+
+Somewhere in this town, Sarah Carpenter's body was waiting to be found. Brandon was sure of that now. The barn had told him what he needed to know. But knowing where she'd died and proving it were two different things.
+
+"What if we're wrong?" Matt asked suddenly. "What if Kovacs isn't involved at all and we're wasting time on him while the real suspect gets away?"
+
+Brandon had asked himself the same question. "Then we follow the evidence wherever it leads. But right now, all the evidence points to Kovacs. Even if he's not the one who killed her, he's connected. And connections are what we need."
+
+The Farm & Feed sat on the south edge of town, a sprawling complex of buildings that sold everything from livestock feed to hardware to hunting gear. A hand-painted sign advertised "Hunting Season Specials - Trail Cameras 20% Off."
+
+Brandon felt something settle in his chest. Not quite satisfaction. More like confirmation.
+
+"There," he said, pointing at the sign.
+
+Matt saw it too. "Trail cameras on sale. That would explain why Kovacs came here instead of going to the sporting goods store in Rockville."
+
+They pulled into the parking lot. A few trucks scattered around the lot, mostly older models with rust and dents. Working vehicles, not show pieces. Brandon scanned them automatically, looking for dark blue or green Silverados.
+
+None. At least not now.
+
+Inside, the store smelled like feed and fertilizer and gun oil. A mix of rural Indiana commerce. The front area held registers and an office. To the left, hardware and building supplies. To the right, hunting and fishing gear. Straight back, livestock feed and farming equipment.
+
+A man in his sixties stood behind the counter, wearing overalls and a John Deere cap. He looked up when they entered, his expression friendly but curious. Probably didn't get FBI agents in here often.
+
+Matt took the lead this time. "Afternoon. We're Special Agents Ellis and Gray with the FBI. We'd like to talk to the manager about surveillance footage from April of last year."
+
+The man's eyebrows went up. "April of last year? That's a long time ago."
+
+"We understand. But we're hoping your system keeps footage on a hard drive that might still have it."
+
+"Let me get Jim. He's the owner." The man disappeared into the back office and returned a moment later with a younger man—late forties, weathered face, the look of someone who'd worked retail long enough to be skeptical of everyone.
+
+"Jim Haskell," he said, shaking their hands. "You're here about Sarah Carpenter?"
+
+"Yes sir," Matt said. "We understand you knew her?"
+
+"Small town. Knew her to say hello to. Her mom used to come in here for garden supplies." Haskell's expression turned sad. "Terrible thing. You guys have a lead?"
+
+"We're following up on several possibilities. One of them involves a customer who may have been here on April sixteenth, around six PM. We'd like to check your surveillance footage from that day if you still have it."
+
+Haskell thought for a moment. "Our system's digital. Keeps footage for two years before it gets overwritten. So April of last year—yeah, we'd still have it. But I'm going to need to see a warrant or a subpoena before I hand over surveillance footage."
+
+Brandon had expected this. "We can get that. But would you be willing to look at the footage with us here? We're trying to confirm whether a specific person was here that day."
+
+Haskell considered this. Technically, looking at his own footage with law enforcement present wasn't handing it over. He could still say no, but Brandon could see him working through it.
+
+"Who are you looking for?" Haskell asked.
+
+"Dale Kovacs. Drives a dark blue Silverado, mid-forties, brown hair."
+
+Haskell's expression shifted. Recognition, but not surprise. "Yeah, I know Dale. He comes in here maybe once a month. Usually for hunting gear or tools."
+
+"Was he here on April sixteenth?"
+
+"I couldn't tell you without checking. That was eighteen months ago." Haskell glanced at the office, then back to them. "All right. Come on back. But I'm not giving you copies without a warrant. We can just look."
+
+"That's all we're asking," Matt said.
+
+They followed Haskell into the back office. The space was cramped—desk, filing cabinets, a computer setup that looked like it had been cobbled together from parts over several years. Haskell sat at the computer and pulled up the surveillance software.
+
+"April sixteenth, 2010?" Haskell confirmed, typing.
+
+"Yes sir," Brandon said. "Between five and seven PM if possible."
+
+The screen showed a grid of six camera angles. Front entrance, parking lot, lumber yard, hunting section, registers, and loading dock. Haskell clicked on the parking lot view and started scrubbing through the footage at 4x speed.
+
+Brandon watched the screen. Cars coming and going, customers in and out. The afternoon sun casting long shadows across the lot. He checked the timestamp. 5:47 PM. Then 5:58 PM. Then 6:03 PM.
+
+"There," Matt said, pointing.
+
+A dark blue Silverado pulled into the lot and parked near the lumber yard entrance. The driver got out—average height, average build, baseball cap pulled low. He walked toward the store entrance. Thirty seconds later, he returned with a shopping cart.
+
+Haskell switched camera views to the hunting section. The man walked directly to the trail camera display, selected four boxes, and put them in the cart. Then he moved to the register.
+
+"Can you get a clear shot of his face?" Brandon asked.
+
+Haskell switched to the register camera. The man kept his head down while he paid, but when he pulled out his wallet, the angle caught his face for just a second.
+
+Dale Kovacs.
+
+"That's him," Brandon said quietly.
+
+Haskell switched back to the parking lot view. Kovacs loaded the four boxes into the bed of his truck, climbed in, and drove away. Timestamp: 6:11 PM.
+
+Four trail cameras. Purchased two hours before Sarah Carpenter was abducted.
+
+Brandon felt that familiar sensation—pieces clicking together. Not complete yet. Not enough for a warrant. But getting closer.
+
+"Can you tell what specific model he bought?" Matt asked.
+
+Haskell squinted at the screen. "Looks like the Bushnell Trophy Cam. Good cameras. Motion-activated, infrared night vision, takes both photos and video. Hunters love them. We sold a lot of them that spring."
+
+"Do you keep records of what customers buy?"
+
+"If they pay with a card, yeah. Cash purchases we don't track by name unless they use a loyalty card."
+
+"Could you check if Kovacs paid with a card?"
+
+Haskell pulled up a different program and typed for a moment. "Yeah. Credit card purchase. April sixteenth, 6:08 PM. Four Bushnell Trophy Cam HD cameras, two eight-packs of AA batteries, one package of SD cards. Total came to two hundred and thirty-six dollars."
+
+Brandon looked at Matt. "That's specific. He knew exactly what he wanted."
+
+"And he bought batteries and SD cards," Matt added. "He was planning to set them up right away."
+
+Haskell looked between them. "You think Dale did something to Sarah?"
+
+"We're investigating all possibilities," Brandon said carefully. "Would you be willing to provide us with a copy of that transaction record?"
+
+"I can print you a receipt. That's public information—what someone bought. The video footage you'll need a warrant for."
+
+"The receipt is enough for now," Matt said. "We appreciate your cooperation."
+
+Haskell printed the receipt and handed it to Matt. "Dale's always been a little strange, but I never figured him for... you know. He always seemed harmless. Quiet."
+
+"They usually do," Brandon said.
+
+They left the Farm & Feed with the receipt and a timestamp that put Kovacs buying surveillance equipment two hours before Sarah disappeared. Combined with his truck at the Crossroads, his uncomfortable relationship with Sarah, his suspicious reading materials, and the feeling Brandon couldn't shake about that barn—it was adding up.
+
+But it still wasn't enough.
+
+"Where to now?" Matt asked as they got back in the car.
+
+Brandon checked his watch. Two-thirty. "Back to the motel. We need to compile everything we have and figure out our next move. Dunham said he'd have the original case files ready tomorrow. Maybe there's something in his notes we can use."
+
+"And then?"
+
+"And then we figure out where Kovacs placed those cameras. Because that's where the answer is."
+
+They drove back to the Quality Inn in silence. The rain had started again, light but persistent. Brandon watched the fields go by, thinking about trail cameras and barns and guilt.
+
+About the difference between knowing something and proving it.
+
+About Sarah Carpenter, who just wanted to go to college and study English and become a librarian. Who called her mom to say she'd be late. Who recognized someone she shouldn't have trusted.
+
+Somewhere in this town, four trail cameras were watching something. Recording movement. Gathering evidence.
+
+Brandon just had to figure out where.
+
+And what they'd been watching for the past eighteen months.

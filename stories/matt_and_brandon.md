@@ -800,7 +800,7 @@ Matt relaxed slightly. The rain came harder. He turned on the wipers. The rhythm
 
 Matt had read Brennan's statement three times. Thirty-one years old, worked construction, had stopped for cigarettes. Saw Sarah's purse by the payphone, called 911. Told deputies he didn't see or hear anything. "You think he's hiding something?"
 
-"I think he saw more than he told them. Maybe not much more, but something. People remember details when you ask the right questions."
+"I think he saw more than he told them. Maybe not much more, but something. Sometimes you just need to ask the right questions."
 
 The GPS announced their turn. Matt slowed and turned onto County Road 275. The pavement was cracked and patched, weeds growing through the edges. Fields stretched out on both sides—corn stubble from the fall harvest, waiting for winter.
 
@@ -848,7 +848,7 @@ The driveway curved slightly, bringing them closer to the house. Matt parked abo
 
 Matt had already noticed. No vehicles visible. No lights on in the house. No movement in the windows.
 
-They got out. The rain soaked through Matt's shirt immediately. He pulled his jacket tighter and walked toward the front porch. Brandon followed a step behind.
+They got out. The rain soaked through Matt's shirt immediately. He pulled his jacket tighter and walked toward the front porch. Brandon followed a step behind. Moving slower, less bothered by the falling rain.
 
 The porch was concrete, cracked in several places. Dead leaves had collected in the corners. A window air conditioning unit sat dark in one window, plastic sheeting taped around it for winter. The front door was white metal with a small window at eye level, covered from the inside with a curtain.
 
@@ -883,6 +883,7 @@ Brandon stopped about ten feet from the entrance. He stood very still, rain stre
 Brandon didn't answer. His expression had gone distant, unfocused. Matt recognized that look—the same one Brandon got at crime scenes, when he was processing something Matt couldn't see.
 
 After a long moment, Brandon walked to the barn entrance. He grabbed the edge of the crooked door and pulled it open wider. It scraped against the ground, the sound harsh in the rain.
+>COMMENT: Should this sound harsh on the ground if Matt's shoes squelched in the muddy ground just three paragraphs back? It would only sound harsh in the rain if there was concrete or gravel for it to drag on. Can you suggest better phrasing here?
 
 "Brandon," Matt said, louder now. "We can't go in without—"
 
@@ -894,9 +895,9 @@ The interior was dark and smelled of rot and old hay. Rain came through gaps in 
 
 Brandon stood in the center of the space, turning slowly. His breathing had changed—slower, deeper. His hands hung at his sides.
 
-"Brandon," Matt said again. Quieter this time, because something about the space demanded quiet.
+"Brandon," Matt said again. Quieter this time, almost a whisper, because something about the space demanded quiet.
 
-"Something happened here." Brandon's voice was barely above a whisper.
+"Something happened here." Brandon's voice barely audible over the rain.
 
 Matt felt the hair on his arms stand up. The barn was just a barn. Old, rotting, abandoned. There was nothing obviously wrong with it.
 
@@ -905,6 +906,7 @@ But he felt it too. That same wrongness he'd felt driving past the property. Con
 Brandon walked to the back corner, where shadows were deepest. He crouched down, his hand hovering over the dirt floor without quite touching it.
 
 "What do you see?" Matt asked.
+>COMMENT: Is this too on-the-nose?
 
 Brandon didn't answer. He stayed crouched for what felt like a full minute, motionless except for his eyes tracking something across the floor. Then he stood and moved to one of the support beams. His fingers traced the wood about four feet up from the ground.
 
@@ -921,6 +923,7 @@ Brandon turned to face him. In the dim light, his expression was hard to read. "
 Matt wanted to ask how Brandon knew. Wanted concrete evidence, something he could put in a report. But Brandon was already walking toward the entrance, moving quickly now, like he needed to get out.
 
 Matt followed him back into the rain. Brandon walked several yards away from the barn and stopped, breathing hard. Not from exertion. From something else.
+>COMMENT: 'From something else.' is really strong here. It conveys the implication of the physical toll and the trauma toll.
 
 "You okay?" Matt asked.
 
@@ -948,4 +951,4 @@ And right now, every instinct Matt had—the normal ones, the ones based on obse
 
 Sarah Carpenter had been in that barn.
 
-And they needed to prove it.
+And their next step was to prove it.

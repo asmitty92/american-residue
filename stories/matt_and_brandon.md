@@ -784,114 +784,168 @@ Matt kept his eyes on the road. They'd left the library twenty minutes ago. The 
 
 "I know."
 
-"I mean it, Gray. We don't have probable cause for a search warrant. We can't even knock on his door without risking tainting anything we might find later."
+"I mean it, Gray. We don't have probable cause for a search warrant. We can't even knock on his door without risking complications later."
 
-Brandon looked up from his phone. "I'm not planning to knock on his door."
+Brandon looked up from his phone. "Understood."
 
-"But you want to."
-
-"Of course I want to." Brandon returned to the map. "But I also want a conviction that sticks."
-
-Matt relaxed slightly. Brandon's instincts were usually sound, but sometimes his focus on solving a case made him impatient with procedure. It was Matt's job to keep them on the right side of the line—the side that would hold up in court.
-
-The rain came harder. Matt turned on the wipers. The rhythmic sweep was the only sound for a moment.
+Matt relaxed slightly. The rain came harder. He turned on the wipers. The rhythmic sweep was the only sound for a moment.
 
 "What's our next move after this?" Matt asked. "Assuming we don't see anything obvious."
 
-"We talk to the sheriff. See if they have surveillance footage from any businesses on Route 39 between here and the Crossroads. Gas stations, farm supply stores, anything with cameras pointing at the road. If Kovacs drove Sarah's route that night, maybe someone caught his truck."
+"We need surveillance footage from businesses on Route 39 between here and the Crossroads. Gas stations, farm supply stores, anything with cameras pointing at the road. If Kovacs drove that route the night Sarah disappeared, maybe someone caught his truck."
 
 "That's eighteen months ago. Most places don't keep footage that long."
 
-"Some do. And we need to talk to Travis Brennan again. The witness from the Crossroads. His statement was thin."
+"Some do. Worth checking." Brandon scrolled through something on his phone. "And we need to re-interview Travis Brennan. The witness from the Crossroads. His statement was thin."
 
 Matt had read Brennan's statement three times. Thirty-one years old, worked construction, had stopped for cigarettes. Saw Sarah's purse by the payphone, called 911. Told deputies he didn't see or hear anything. "You think he's hiding something?"
 
-"I think he saw more than he told them. Maybe not much more, but something. Sometimes you just have to ask the right questions."
+"I think he saw more than he told them. Maybe not much more, but something. People remember details when you ask the right questions."
 
 The GPS announced their turn. Matt slowed and turned onto County Road 275. The pavement was cracked and patched, weeds growing through the edges. Fields stretched out on both sides—corn stubble from the fall harvest, waiting for winter.
 
 "Half a mile ahead," Brandon said.
 
-Matt eased off the gas, dropping to thirty miles per hour. His pulse kicked up slightly. This was the part of the job that required the most control—driving past a suspect's property knowing you couldn't stop, couldn't search, couldn't do anything but look.
+Matt eased off the gas, dropping to thirty miles per hour. His pulse kicked up slightly. This was the part of the job that required control—driving past a suspect's property knowing you couldn't stop, couldn't search, couldn't do anything but look.
 
 The first structure that appeared was a mailbox. Faded red with the numbers 6847 in peeling white paint. Matt noted it without slowing further.
 
 "That's it," Brandon said quietly.
 
-The property sat back from the road about a hundred feet. The driveway was gravel, rutted from use. The house itself was a small ranch-style structure, probably built in the sixties or seventies. White siding that needed washing. Black shutters. A concrete front porch with no furniture.
+The property sat back from the road about a hundred feet. The driveway was gravel, rutted from use. The house itself was a small ranch-style structure, probably built in the sixties or seventies. White siding gone gray with age and weather. Black shutters. A concrete front porch with no furniture, no welcome mat, nothing that suggested anyone cared about the property's appearance.
 
-Behind the house, partially visible through the rain, was the barn. Weathered red wood, the paint mostly gone. The roof sagged slightly in the middle.
+Behind the house, partially visible through the rain, was the barn. Weathered red wood, the paint mostly gone. The roof sagged slightly in the middle. One of the large doors hung at an angle, the bottom hinge broken or missing.
 
 Matt kept driving at a steady pace, not too slow, not too fast. Just a car passing by on a rural road.
 
-Brandon had turned in his seat, looking back at the property.
+But something felt wrong.
 
-"Gray," Matt said quietly.
+He couldn't articulate it—no specific detail he could point to. Just a weight in his chest, a tightness that said *pay attention*. The property had the look of a place where bad things happened and nobody noticed.
 
-"I know." But Brandon kept looking until the property disappeared from view.
+Brandon had turned in his seat, looking back.
 
-Matt drove another quarter mile before pulling onto a turnout—just a widened shoulder where farm equipment could wait to turn. He put the car in park and turned to face his partner.
+Matt drove another hundred yards, then pulled onto the shoulder and stopped.
 
-Brandon was staring back the way they'd come, his expression unreadable.
+"What are you doing?" Brandon asked.
 
-"What did you see?" Matt asked.
+Matt stared at the rearview mirror. Rain obscured the property now, but he could still picture it. The sagging barn. The lifeless house. The woods pressing in from the north side.
 
-"The barn."
+"We should knock and talk," Matt said.
 
-"What about it?"
+Brandon looked at him. "I thought we weren't stopping."
 
-Brandon was quiet for a long moment. When he spoke, his voice was careful, measured. "We need to come back. With a warrant."
+"We're not searching. We're just following up on our conversation at the library. Seeing if Kovacs remembered anything else." Matt put the car in reverse, backing carefully along the shoulder. "It's a legitimate investigative technique."
 
-"Based on what? We can't get a warrant just because you have a feeling."
+"Since when are you the one pushing boundaries?"
 
-"It's not a feeling."
+"Since I got a bad feeling about that barn." Matt turned into Kovacs's driveway. The gravel crunched under the tires. "You're not the only one with instincts."
 
-"Then what is it?"
+Brandon said nothing, but Matt caught the slight upturn at the corner of his partner's mouth.
 
-Brandon turned to look at Matt. His eyes had that intensity Matt had learned to recognize—the look that said Brandon had locked onto something, made a connection Matt couldn't see yet.
+The driveway curved slightly, bringing them closer to the house. Matt parked about thirty feet from the front porch, leaving room to turn around quickly if needed. He killed the engine. The rain drummed on the roof.
 
-"Something happened in that barn," Brandon said. "Something bad."
+"His truck's not here," Brandon observed.
 
-Matt wanted to ask how he knew. Wanted to push for specifics, for evidence, for something concrete he could use. But three years of partnership had taught him that Brandon couldn't always explain the how. Sometimes he just knew.
+Matt had already noticed. No vehicles visible. No lights on in the house. No movement in the windows.
 
-"We need more than that for a judge," Matt said.
+They got out. The rain soaked through Matt's shirt immediately. He pulled his jacket tighter and walked toward the front porch. Brandon followed a step behind.
 
-"I know." Brandon pulled out his phone. "Let me think."
+The porch was concrete, cracked in several places. Dead leaves had collected in the corners. A window air conditioning unit sat dark in one window, plastic sheeting taped around it for winter. The front door was white metal with a small window at eye level, covered from the inside with a curtain.
 
-Matt watched the rain streak down the windshield. They'd seen the property for maybe ten seconds. A house, a barn, some woods. Nothing obviously incriminating. Nothing that screamed probable cause.
+Matt knocked. Three solid raps. "Mr. Kovacs? FBI. We'd like to talk to you."
 
-But Brandon had seen something. Or sensed something. Or whatever it was he did when he worked a scene.
+No answer. No sound from inside.
 
-"The books," Brandon said suddenly.
+He knocked again. Waited.
 
-Matt looked over. "What?"
+Nothing.
 
-"The books Kovacs checked out. *Topographical Maps of Southern Indiana*. *Wilderness Survival Skills*. And the field guide to edible plants." Brandon's fingers moved across his phone screen. "Patricia printed his borrowing history. Let me see what else he's been reading."
+"Not home," Matt said, stating the obvious.
 
-He pulled up the photo of the printout they'd gotten from the library. Scrolled through it. His expression darkened.
+Brandon had moved to the edge of the porch, looking toward the barn. The rain made it hard to see clearly, but the structure loomed dark against the gray sky.
 
-"What?" Matt asked.
+"I'm going to look around," Brandon said.
 
-"In the past six months, he's checked out eight books on wilderness survival, four on topographical mapping, three on forensic science, and two on criminal investigation techniques."
+Matt should have stopped him. Should have said they'd done their due diligence, knocked on the door, no one home, time to leave. But that feeling in his chest hadn't gone away. If anything, it had gotten stronger.
 
-Matt felt something cold settle in his stomach. "He's educating himself."
+"Stay within plain view," Matt said. "Don't go inside anything."
 
-"Or he already did something and he's trying to figure out if he left evidence."
+Brandon stepped off the porch and walked toward the barn.
 
-"That's still not probable cause."
+Matt followed, his shoes squelching in the muddy ground. The rain had turned the yard into soft earth that stuck to his soles. He could feel water running down his collar.
 
-"No. But it's a pattern." Brandon lowered his phone. "Combined with his interest in Sarah, his presence at the library the day she disappeared, his truck matching the description, and his suspicious behavior when we talked to him—"
+The barn sat about fifty yards behind the house. As they got closer, Matt could see it was in worse shape than it had looked from the road. The wood was rotted in places. Several boards had fallen away, leaving gaps in the walls. The door that hung crooked swayed slightly in the wind.
 
-"It's still circumstantial."
+Brandon stopped about ten feet from the entrance. He stood very still, rain streaming down his face, staring at the barn.
 
-"Then we find something that isn't."
+"Gray?" Matt said quietly.
 
-Matt started the engine. "Where to?"
+Brandon didn't answer. His expression had gone distant, unfocused. Matt recognized that look—the same one Brandon got at crime scenes, when he was processing something Matt couldn't see.
 
-"Back to town. I want to talk to the sheriff about getting surveillance footage. And I want to know more about Kovacs's background. Employment history, criminal record, known associates. If he's our guy, there'll be other threads to pull."
+After a long moment, Brandon walked to the barn entrance. He grabbed the edge of the crooked door and pulled it open wider. It scraped against the ground, the sound harsh in the rain.
 
-Matt pulled back onto the road, heading toward Thorndale. The rain had settled into a steady pour. The wipers beat their rhythm. Neither of them spoke.
+"Brandon," Matt said, louder now. "We can't go in without—"
 
-But Matt kept thinking about the barn. About Brandon's certainty that something bad had happened there.
+But Brandon had already stepped inside.
 
-About how many times Brandon's certainty had been right.
+Matt swore under his breath and followed.
+
+The interior was dark and smelled of rot and old hay. Rain came through gaps in the roof, creating pools on the dirt floor. Matt's eyes adjusted slowly. He could make out wooden support beams, a hayloft above, farming equipment that looked like it hadn't been used in decades. A rusted plow. Some kind of harvester with a flat tire.
+
+Brandon stood in the center of the space, turning slowly. His breathing had changed—slower, deeper. His hands hung at his sides.
+
+"Brandon," Matt said again. Quieter this time, because something about the space demanded quiet.
+
+"Something happened here." Brandon's voice was barely above a whisper.
+
+Matt felt the hair on his arms stand up. The barn was just a barn. Old, rotting, abandoned. There was nothing obviously wrong with it.
+
+But he felt it too. That same wrongness he'd felt driving past the property. Concentrated here, in this space.
+
+Brandon walked to the back corner, where shadows were deepest. He crouched down, his hand hovering over the dirt floor without quite touching it.
+
+"What do you see?" Matt asked.
+
+Brandon didn't answer. He stayed crouched for what felt like a full minute, motionless except for his eyes tracking something across the floor. Then he stood and moved to one of the support beams. His fingers traced the wood about four feet up from the ground.
+
+"We need to come back," Brandon said. "With a warrant and a forensics team."
+
+"Based on what?"
+
+Brandon turned to face him. In the dim light, his expression was hard to read. "She was here, Matt. Sarah was here."
+
+"How do you—"
+
+"She was here." Brandon's voice was flat, certain. "And this is where she died."
+
+Matt wanted to ask how Brandon knew. Wanted concrete evidence, something he could put in a report. But Brandon was already walking toward the entrance, moving quickly now, like he needed to get out.
+
+Matt followed him back into the rain. Brandon walked several yards away from the barn and stopped, breathing hard. Not from exertion. From something else.
+
+"You okay?" Matt asked.
+
+Brandon nodded, but didn't speak.
+
+Matt looked back at the barn. Just an old structure on a rural property. Nothing obviously incriminating. Nothing a judge would accept as probable cause.
+
+But Brandon was right. Matt felt it in his gut. Something terrible had happened in that barn.
+
+"Let's go," Matt said. "We need to talk to the sheriff's office. Figure out how to get a legal search going."
+
+They walked back to the car, both soaked through. Matt started the engine and turned the heat on high. Brandon sat in the passenger seat, staring straight ahead, his jaw tight.
+
+Matt backed out of the driveway and headed toward Rockville, the county seat. Twenty-five minutes away. Where they'd meet with Chief Deputy whoever-he-was and try to explain why they needed a warrant to search a barn based on a feeling.
+
+Neither of them spoke during the drive. The rain continued. The wipers beat their rhythm.
+
+Matt kept thinking about the way Brandon had moved through that barn. The certainty in his voice when he said Sarah had died there.
+
+Three years working with Brandon Gray, and Matt still didn't understand how his partner knew the things he knew.
+
+But he'd learned to trust it.
+
+And right now, every instinct Matt had—the normal ones, the ones based on observation and experience and gut feeling—was telling him Brandon was right.
+
+Sarah Carpenter had been in that barn.
+
+And they needed to prove it.

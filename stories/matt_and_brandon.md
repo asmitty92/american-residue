@@ -2,10 +2,8 @@
 **Wednesday October 19, 2011 4:00PM**
 
 The Crossroads Mini-Mart sat at the intersection of County Road 400 and State Route 39, three miles south of Thorndale, Indiana. It was the kind of place that survived on lottery tickets, fountain drinks, and the handful of locals who stopped for gas on their way to somewhere else. The building hadn't been updated since the early nineties—faded red brick, a hand-painted sign advertising "Live Bait & Tackle," and a payphone mounted on the exterior wall that hadn't worked in over a decade.
-> COMMENT (Strength): Strong, concrete opening. The physical specificity sells the small-town setting immediately.
 
 The black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The first, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
-> COMMENT: Consider a small sensory anchor here to make the entrance more cinematic: the crunch of gravel under shoes, the cold breath of an October wind. Little details help orient the reader.
 
 A sheriff's deputy leaned against his cruiser near the entrance, arms crossed. He straightened when he saw them approaching.
 
@@ -774,3 +772,126 @@ Somewhere in this small town, Sarah Carpenter's body was waiting to be found.
 And somewhere in this small town, Dale Kovacs was waiting too.
 
 Waiting to see if they'd figure it out in time.
+
+# Chapter Three
+**Thursday Late Morning**
+
+Matt drove this time. Brandon sat in the passenger seat with his phone out, studying the satellite view of Dale Kovacs's property on Google Maps. County Road 275 ran east-west about four miles south of Thorndale, cutting through farmland and scattered residential plots. Kovacs's address put him two miles from the nearest neighbor.
+
+"Twelve acres," Brandon said, zooming in on the image. "House, barn, what looks like a garage or workshop. Heavily wooded on the north side."
+
+Matt kept his eyes on the road. They'd left the library twenty minutes ago. The sky had darkened further, and the first drops of rain hit the windshield. "We're just driving by. Observing from the road. No stop, no approach."
+
+"I know."
+
+"I mean it, Gray. We don't have probable cause for a search warrant. We can't even knock on his door without risking tainting anything we might find later."
+
+Brandon looked up from his phone. "I'm not planning to knock on his door."
+
+"But you want to."
+
+"Of course I want to." Brandon returned to the map. "But I also want a conviction that sticks. Which means we do this right."
+
+Matt relaxed slightly. Brandon's instincts were usually sound, but sometimes his focus on solving a case made him impatient with procedure. It was Matt's job to keep them on the right side of the line—the side that would hold up in court.
+
+The rain came harder. Matt turned on the wipers. The rhythmic sweep was the only sound for a moment.
+
+"What's our next move after this?" Matt asked. "Assuming we don't see anything obvious."
+
+"We talk to the sheriff. See if they have surveillance footage from any businesses on Route 39 between here and the Crossroads. Gas stations, farm supply stores, anything with cameras pointing at the road. If Kovacs drove Sarah's route that night, maybe someone caught his truck."
+
+"That's eighteen months ago. Most places don't keep footage that long."
+
+"Some do. And we need to talk to Travis Brennan again. The witness from the Crossroads. His statement was thin."
+
+Matt had read Brennan's statement three times. Thirty-one years old, worked construction, had stopped for cigarettes. Saw Sarah's purse by the payphone, called 911. Told deputies he didn't see or hear anything. "You think he's hiding something?"
+
+"I think he saw more than he told them. Maybe not much more, but something. People remember details when you ask the right questions."
+
+The GPS announced their turn. Matt slowed and turned onto County Road 275. The pavement was cracked and patched, weeds growing through the edges. Fields stretched out on both sides—corn stubble from the fall harvest, waiting for winter.
+
+"Half a mile ahead," Brandon said.
+
+Matt eased off the gas, dropping to thirty miles per hour. His pulse kicked up slightly. This was the part of the job that required the most control—driving past a suspect's property knowing you couldn't stop, couldn't search, couldn't do anything but look.
+
+The first structure that appeared was a mailbox. Faded red with the numbers 6847 in peeling white paint. Matt noted it without slowing further.
+
+"That's it," Brandon said quietly.
+
+The property sat back from the road about a hundred feet. The driveway was gravel, rutted from use. The house itself was a small ranch-style structure, probably built in the sixties or seventies. White siding that needed washing. Black shutters. A concrete front porch with no furniture.
+
+Behind the house, partially visible through the rain, was the barn. Weathered red wood, the paint mostly gone. The roof sagged slightly in the middle.
+
+Matt kept driving at a steady pace, not too slow, not too fast. Just a car passing by on a rural road.
+
+Brandon had turned in his seat, looking back at the property.
+
+"Gray," Matt said quietly.
+
+"I know." But Brandon kept looking until the property disappeared from view.
+
+Matt drove another quarter mile before pulling onto a turnout—just a widened shoulder where farm equipment could wait to turn. He put the car in park and turned to face his partner.
+
+Brandon was staring back the way they'd come, his expression unreadable.
+
+"What did you see?" Matt asked.
+
+"The barn."
+
+"What about it?"
+
+Brandon was quiet for a long moment. When he spoke, his voice was careful, measured. "We need to come back. With a warrant."
+
+"Based on what? We can't get a warrant just because you have a feeling."
+
+"It's not a feeling."
+
+"Then what is it?"
+
+Brandon turned to look at Matt. His eyes had that intensity Matt had learned to recognize—the look that said Brandon had locked onto something, made a connection Matt couldn't see yet.
+
+"Something happened in that barn," Brandon said. "Something bad."
+
+Matt wanted to ask how he knew. Wanted to push for specifics, for evidence, for something concrete he could use. But three years of partnership had taught him that Brandon couldn't always explain the how. Sometimes he just knew.
+
+"We need more than that for a judge," Matt said.
+
+"I know." Brandon pulled out his phone. "Let me think."
+
+Matt watched the rain streak down the windshield. They'd seen the property for maybe ten seconds. A house, a barn, some woods. Nothing obviously incriminating. Nothing that screamed probable cause.
+
+But Brandon had seen something. Or sensed something. Or whatever it was he did when he worked a scene.
+
+"The books," Brandon said suddenly.
+
+Matt looked over. "What?"
+
+"The books Kovacs checked out. *Topographical Maps of Southern Indiana*. *Wilderness Survival Skills*. And the field guide to edible plants." Brandon's fingers moved across his phone screen. "Patricia printed his borrowing history. Let me see what else he's been reading."
+
+He pulled up the photo of the printout they'd gotten from the library. Scrolled through it. His expression darkened.
+
+"What?" Matt asked.
+
+"In the past six months, he's checked out eight books on wilderness survival, four on topographical mapping, three on forensic science, and two on criminal investigation techniques."
+
+Matt felt something cold settle in his stomach. "He's educating himself."
+
+"Or he already did something and he's trying to figure out if he left evidence."
+
+"That's still not probable cause."
+
+"No. But it's a pattern." Brandon lowered his phone. "Combined with his interest in Sarah, his presence at the library the day she disappeared, his truck matching the description, and his suspicious behavior when we talked to him—"
+
+"It's still circumstantial."
+
+"Then we find something that isn't."
+
+Matt started the engine. "Where to?"
+
+"Back to town. I want to talk to the sheriff about getting surveillance footage. And I want to know more about Kovacs's background. Employment history, criminal record, known associates. If he's our guy, there'll be other threads to pull."
+
+Matt pulled back onto the road, heading toward Thorndale. The rain had settled into a steady pour. The wipers beat their rhythm. Neither of them spoke.
+
+But Matt kept thinking about the barn. About Brandon's certainty that something bad had happened there.
+
+About how many times Brandon's certainty had been right.

@@ -1448,3 +1448,4 @@ Somewhere in this town, four trail cameras were watching something. Recording mo
 Brandon just had to figure out where.
 
 And what they'd been watching for the past eighteen months.
+

@@ -3,7 +3,7 @@
 
 The Crossroads Mini-Mart sat at the intersection of County Road 400 and State Route 39, three miles south of Thorndale, Indiana. It was the kind of place that survived on lottery tickets, fountain drinks, and the handful of locals who stopped for gas on their way to somewhere else. The building hadn't been updated since the early nineties—faded red brick, a hand-painted sign advertising "Live Bait & Tackle," and a payphone mounted on the exterior wall that hadn't worked in over a decade.
 
-The black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The first, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
+he black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The air was cool and still, carrying the sweet-rot smell of harvested cornfields—that particular scent of October in rural Indiana, somewhere between earth and decay. The first man, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
 
 A sheriff's deputy leaned against his cruiser near the entrance, arms crossed. He straightened when he saw them approaching.
 
@@ -16,7 +16,6 @@ The deputy shook Ellis's hand, then nodded at Gray, who had moved past them towa
 "Usually," Ellis said. "You're Deputy...?"
 
 "Kowalski. I was first on scene back in April of last year." He pulled a pack of gum from his pocket and offered it. Ellis declined. "Sheriff said you wanted to see where it happened. Not much to see after eighteen months."
-> COMMENT (Voice): The realistic back-and-forth is good — dialogue feels natural. This procedural voice suits the prologue.
 
 "We appreciate you meeting us." Ellis glanced back at Gray, who stood near the payphone, hands in his pockets, head tilted slightly as if listening to something. "Can you walk me through what we know?"
 
@@ -105,7 +104,6 @@ Gray opened the passenger door but didn't get in. He stood there, looking back a
 Ellis waited, but Gray offered nothing else. He climbed into the car and closed the door.
 
 They drove back to Thorndale in silence as the last light bled from the sky.
-> COMMENT (Prose): Good restraint in the reveal — the withheld detail builds tension. Consider trimming one or two sentences earlier where the same fact is repeated to tighten this beat.
 
 # Chapter One
 **Wednesday Evening**
@@ -155,7 +153,6 @@ Matt made a note. "So she's mid-voicemail, not paying full attention. Someone pu
 "What makes her realize?"
 
 Brandon was quiet for a moment. His gaze drifted toward the window, where the last of the daylight had faded completely. "The way he was looking at her. The way he moved. She tried to end the call. Dropped the phone."
-
 > COMMENT (Show vs tell): Brandon’s moment here is introspective — it's effective to have Brandon describe the physical cues that tipped Sarah off. Since this is Matt's chapter (Matt POV), keep Brandon's comment short and let Matt observe Brandon's face in reaction (showing Matt’s perspective), rather than summarizing how Brandon "was quiet." Small show beats keep Matt's voice active.
 
 Dottie returned with their drinks. Matt thanked her. Brandon ignored his Coke.
@@ -191,7 +188,6 @@ Matt set his phone on the table. "That wasn't in any of the reports."
 "It was missing when they found her purse. It was eventually found at the library but not until a week later. I think he stole it the day she disappeared and then planted it back at the library later."
 
 Matt leaned back in the booth. Three years working with Brandon Gray, and he still couldn't pin down how his partner assembled these narratives. Sometimes it felt like guesswork elevated to an art form. Other times—most times—it turned out to be uncannily accurate.
-
 > COMMENT (Keep POV distinct): This paragraph is a nice place to show Matt’s POV — instead of telling "he still couldn't pin down...", show a small behavior (Matt rubbing the bridge of his nose, or his eyes drifting to a particular photo on his screen) to indicate puzzlement. This keeps the voice immediate and Matt-centered.
 
 "Okay," Matt said. "Let's say you're right. He tampered with her car. Swiped her phone. He's been planning this. Which means he's someone who had access to her car and her phone. Someone close enough to learn her routine."
@@ -235,12 +231,9 @@ Matt did the math. Twenty-one years put it at 1990. Before he'd joined the Burea
 "No. I just... heard about it." Brandon's fingers found the sugar packet again. "It stayed with me."
 
 There was something else there. Matt could see it in the way Brandon's jaw tightened, the way he wouldn't quite meet Matt's eyes. But pushing didn't work with Gray. He'd share what he wanted to share when he was ready.
-
 > COMMENT (Character/depth): Good hinting at Brandon's deeper engagement. If you want Brandon to be the more haunted lead, leave this as-is; if you want Matt more present, consider having Matt ask one incisive question here that nudges Brandon into a reveal — that one line will increase Matt's presence and agency.
 
 "Similar circumstances don't mean the same perpetrator," Matt said carefully. "Ashford to here is what, six or seven hours?"
-
-> COMMENT (continuity/nitpick): Double-check timeline references as you revise (the prologue date vs. "last year" phrasing). I note this here because similar time references repeat later; consistency will reduce small reader stumbles.
 
 "Six and a half." Brandon looked toward the window again. "I know it's not the same guy. Wrong profile. And it was twenty-one years ago; the Missouri perp would be too old at this point to be our guy. Plus that case had different markers. Different approach."
 
@@ -379,7 +372,7 @@ They ate in silence for a few minutes. The older couple left, waving goodbye to 
 
 Brandon peeled the banana. "Yeah."
 
-"You want to talk about it?"
+"Want to talk about it?"
 
 "Not much to talk about. Unsolved abduction. Twenty-one years old."
 
@@ -388,8 +381,6 @@ Brandon peeled the banana. "Yeah."
 Brandon took a bite of banana. Chewed. Swallowed. "Some cases stick with you."
 
 Matt waited, but Brandon didn't elaborate. After a moment, Matt returned to his waffle. He knew when to push and when to let something sit. Brandon appreciated that. It was one of the things that made him a good partner.
-
-> COMMENT (POV technique): Brandon's chapters are where you can lean into associative memory and physical sensations. That fits his character. Keep Matt's interventions (like the prompt about Ashford) as short, clarifying beats so the reader keeps track of whose head we're in.
 
 Brandon finished the banana and prepared his bagel. The cream cheese was strawberry. Too sweet, but it was calories. He ate it mechanically while thinking about the library. Small town facility, probably built in the early 1900s. Carnegie library if he had to guess, based on the address and the architectural style common to that era. Limited staff. Everyone would know everyone. If someone had been paying unusual attention to Sarah, her coworkers would have noticed.
 
@@ -882,8 +873,7 @@ Brandon stopped about ten feet from the entrance. He stood very still, rain stre
 
 Brandon didn't answer. His expression had gone distant, unfocused. Matt recognized that look—the same one Brandon got at crime scenes, when he was processing something Matt couldn't see.
 
-After a long moment, Brandon walked to the barn entrance. He grabbed the edge of the crooked door and pulled it open wider. It scraped against the ground, the sound harsh in the rain.
->COMMENT: Should this sound harsh on the ground if Matt's shoes squelched in the muddy ground just three paragraphs back? It would only sound harsh in the rain if there was concrete or gravel for it to drag on. Can you suggest better phrasing here?
+After a long moment, Brandon walked to the barn entrance. He grabbed the edge of the crooked door and pulled it open wider. It caught on its broken hinge and groaned as he pulled it wider..
 
 "Brandon," Matt said, louder now. "We can't go in without—"
 
@@ -906,7 +896,6 @@ But he felt it too. That same wrongness he'd felt driving past the property. Con
 Brandon walked to the back corner, where shadows were deepest. He crouched down, his hand hovering over the dirt floor without quite touching it.
 
 "What do you see?" Matt asked.
->COMMENT: Is this too on-the-nose?
 
 Brandon didn't answer. He stayed crouched for what felt like a full minute, motionless except for his eyes tracking something across the floor. Then he stood and moved to one of the support beams. His fingers traced the wood about four feet up from the ground.
 
@@ -923,7 +912,6 @@ Brandon turned to face him. In the dim light, his expression was hard to read. "
 Matt wanted to ask how Brandon knew. Wanted concrete evidence, something he could put in a report. But Brandon was already walking toward the entrance, moving quickly now, like he needed to get out.
 
 Matt followed him back into the rain. Brandon walked several yards away from the barn and stopped, breathing hard. Not from exertion. From something else.
->COMMENT: 'From something else.' is really strong here. It conveys the implication of the physical toll and the trauma toll.
 
 "You okay?" Matt asked.
 
@@ -952,3 +940,174 @@ And right now, every instinct Matt had—the normal ones, the ones based on obse
 Sarah Carpenter had been in that barn.
 
 And their next step was to prove it.
+
+---
+
+The Parke County Sheriff's Office sat on the west side of Rockville's courthouse square, a two-story brick building that looked like it had been built in the seventies and never updated. Matt pulled into the visitor parking lot at eleven-fifteen. The rain had lessened to a drizzle.
+
+"Let me do most of the talking," Matt said as they got out of the car. "At least at first."
+
+Brandon nodded. He'd been quiet the entire drive, staring out the window at the passing farmland. His shirt was still damp from the barn, and he'd turned the heat vent directly on himself for the last ten minutes of the drive.
+
+Inside, the building smelled like old coffee and floor wax. A reception desk sat behind bulletproof glass. A woman in her fifties with reading glasses and a sheriff's office polo looked up when they entered.
+
+Matt showed his badge. "Special Agents Ellis and Gray, FBI. We're here to see Chief Deputy—" He paused, realizing he didn't have a name.
+
+"Dunham," the woman said. "Tom Dunham. You're the ones working the Carpenter case?"
+
+"Yes, ma'am."
+
+She picked up a phone, pressed a button. "Tom, the FBI agents are here." A pause. "Okay." She hung up and pointed to a door on their right. "Through there. Second office on the left."
+
+The hallway was narrow, lined with photos of past sheriffs and deputies. Matt counted eight different sheriffs going back to 1952. At the end of the hall, a break room door stood open. Inside, someone was heating something in a microwave that smelled like burned popcorn.
+>COMMENT: I like the tactile detail of the microwave's smell but burnt popcorn is a bit cliche for it.
+
+The second office on the left had a nameplate: Chief Deputy Tom Dunham. The door was open. Matt knocked on the frame anyway.
+
+"Come in."
+
+The office was small but organized. A metal desk with a computer monitor, stacks of files arranged by some system that probably made sense to their owner, and a bookshelf holding law enforcement manuals and what looked like case binders. The walls held certificates and commendations, most from the Joliet Police Department in Illinois.
+>COMMENT: I don't like "some system that probably made sense to their owner." Dunham is a seasoned, competent investigator but not a particularly intuitive one. I think he'd have them organized in a pretty standard way like chronologically or alphabetically.
+
+Chief Deputy Tom Dunham stood and came around the desk. Late forties, maybe fifty. Average height, stocky build that suggested he'd been more muscular in his younger years. Thinning brown hair cut short. He wore khakis and a button-down shirt with a tie loosened at the collar. His handshake was firm but perfunctory.
+>COMMENT: Maybe replace "stocky build that suggested he'd been more muscular in his younger years" with "slightly overweight in a way that suggested an ex-athlete gone to seed."
+
+"Tom Dunham," he said. "Sheriff Garrett said you'd be stopping by."
+
+"Matt Ellis." Matt gestured to Brandon. "This is my partner, Brandon Gray."
+
+Dunham shook Brandon's hand, then gestured to two chairs across from his desk. "Have a seat. Coffee?"
+
+"We're good, thanks," Matt said.
+
+They sat. Dunham returned to his chair and leaned back slightly, his expression neutral but guarded. Not hostile, exactly. Just the look of someone who'd seen federal agents come and go before and wasn't particularly optimistic about the outcome.
+
+"Sheriff said the Bureau's taking a fresh look at Sarah Carpenter," Dunham said. "Eighteen months cold. That's a long time."
+
+"Sometimes fresh eyes help," Matt said. "We appreciate you reaching out to us."
+
+"That was the sheriff's call. I just work here." Dunham's tone was flat, matter-of-fact. "But yeah, I was the one who worked the case when she first disappeared. Me and Deputy Kowalski—you met him yesterday at the Crossroads."
+
+"We did. He was helpful."
+
+"He's a good kid. Still green, but he follows procedure." Dunham pulled a file from one of the stacks on his desk. Thick manila folder, Sarah Carpenter's name written on the tab. "I've got everything we compiled. Witness statements, security footage, the truck canvas, phone records. You probably already have copies, but if you need originals, they're here."
+
+Matt leaned forward slightly. "We've reviewed the files. I wanted to ask about the truck canvas. Seventeen Chevy Silverados, dark blue or green, late nineties models. You talked to all the owners?"
+
+"Every single one. Most of them personally, a few by phone if they were out of state." Dunham opened the file, flipped through pages. "Checked alibis, looked at the vehicles when we could. Nothing stood out. A couple guys were squirrelly about letting us look in their truck beds, but that turned out to be because one had an open container violation and the other was behind on registration."
+
+"What about people who had access to those trucks but weren't the registered owners?" Brandon asked. It was the first time he'd spoken since they'd arrived.
+
+Dunham looked at him. "Like who?"
+
+"Family members. Employees. Friends who borrowed vehicles."
+
+"We asked. Nobody had anything that seemed relevant." Dunham closed the file. "Look, I know what you're thinking. Small county sheriff's office, limited resources, maybe we missed something. And maybe we did. But we worked this case hard for three months. Every lead, every tip, every person who even looked at Sarah sideways. It all went nowhere."
+
+Matt kept his tone even. "We're not here to second-guess your work, Chief Deputy. We're just trying to find new angles."
+
+"Call me Tom." Dunham's expression softened slightly, though the guardedness remained. "And I get it. Really. This case—" He paused, looking at the file on his desk. "Sarah Carpenter was a good kid. Worked at the library, helped her mom pay bills, planning to go to college. She didn't deserve what happened to her. Her mother doesn't deserve to not know."
+
+"You've stayed in touch with Mrs. Carpenter?" Brandon asked.
+
+"Someone from the office checks in about once a month. Usually me. Let her know we haven't forgotten." Dunham's jaw tightened. "But eighteen months with no leads, no body, no activity on her cards or phone—it's hard to tell a mother we're still working it when we don't have anything to work."
+
+Matt glanced at Brandon, then back to Dunham. "We may have a lead. A person of interest we'd like to look into further."
+
+Dunham sat up straighter. "Who?"
+
+"Dale Kovacs. Forty-six, lives on County Road 275. He was a regular at the library where Sarah worked. Made her uncomfortable. Drives a dark blue Silverado, late nineties model. And he was at the library the day she disappeared."
+
+Dunham's expression didn't change, but Matt saw the recognition in his eyes. "Kovacs was on our list. We talked to him back in April of last year. He said he was at the library that afternoon, left around seven, went home. Lived alone, no alibi, but no direct evidence linking him to the abduction. Just happened to drive the same truck."
+
+"Did you search his property?" Brandon asked.
+
+"Didn't have cause. He was cooperative, answered questions, let us look in his truck. Nothing suspicious. No blood, no signs of a struggle, no personal items that didn't belong to him."
+
+"What about his barn?" Brandon's voice was quiet, controlled.
+
+Dunham frowned. "What about it?"
+
+"Did you search it?"
+
+"Drove by the property, saw the barn from the road. But there a lot of old barns out here. Like I said, we didn't have probable cause for a search warrant. Kovacs being creepy and driving the right truck isn't enough for a judge."
+
+Matt chose his words carefully. "We drove by his property this morning. We got a bad feeling about that barn."
+
+Dunham looked at Matt, then at Brandon. "A bad feeling."
+
+"Yes."
+
+"You want me to get you a warrant based on a bad feeling?"
+
+"We want to find Sarah Carpenter," Brandon said. His tone was level, but there was an edge underneath. "And I think she was in that barn."
+
+Dunham leaned back in his chair. "You *think*. Based on what evidence?"
+
+"Kovacs fits the profile," Matt said. "He knew Sarah, made her uncomfortable, drives the right vehicle, was present the day of the abduction. His recent library checkouts include books on wilderness survival, topographical maps, and forensic investigation techniques—"
+
+"That's still circumstantial," Dunham interrupted. "I'm not saying it's not worth looking at. I'm saying no judge in this county is going to sign a warrant based on circumstantial evidence and a gut feeling."
+
+"Even if that gut feeling is right?" Brandon asked.
+
+"Even then. Because if we search without proper cause and find something, a defense attorney will get it thrown out. And if we search and don't find anything, we've violated his Fourth Amendment rights and opened the county up to a lawsuit." Dunham's voice was firm but not unkind. "I've been doing this job for twenty-six years. Twelve of those in Joliet, Illinois, where we actually had resources and case law on our side. I know how to work a case. And I know the difference between wanting to solve something and having the legal grounds to act on it."
+
+Matt felt the frustration building but kept it off his face. "So what do you suggest?"
+
+"Keep building the case. Interview more people. Cross-reference Kovacs's movements with Sarah's routine. Find a witness who saw his truck near the Crossroads that night. Get phone records, financial records, anything that puts him at the scene or establishes a pattern of stalking behavior." Dunham tapped the desk. "Get me something concrete, and I'll take it to Judge Morrison myself. But I'm not asking for a warrant based on vibes."
+
+Brandon stood abruptly. "Excuse me." He walked out of the office.
+
+Matt stayed seated, watching Dunham's reaction.
+
+"Your partner always like that?" Dunham asked.
+
+"Sometimes. This case is getting to him."
+
+"It got to me too. Still does." Dunham's expression softened again. "Look, Agent Ellis—Matt—I want to help. I really do. If Kovacs is our guy, I want him in a cell. But I also want the conviction to stick. And that means doing everything by the book."
+
+"I understand." Matt stood. "Can we get access to the original case files, including your personal notes? Sometimes there are observations that don't make it into the official reports."
+
+"Sure. I'll have them ready for you tomorrow morning. Where are you staying?"
+
+"Quality Inn off Route 39."
+
+"I'll call when they're ready." Dunham walked Matt to the door. "For what it's worth, I hope your gut is right. I hope Sarah's in that barn and we can bring her home. But we have to do this right."
+
+"Agreed."
+
+Matt found Brandon outside, standing by the car in the drizzle. He wasn't getting in, just standing there with his hands in his pockets, staring at nothing.
+
+"You okay?" Matt asked.
+
+"He's not wrong." Brandon's voice was flat. "We need more than what we have."
+
+"So we get it. We re-interview Brennan. We track down surveillance footage. We build the case until it's airtight."
+
+Brandon turned to look at him. "And if Kovacs destroys evidence while we're building the case? If he moves the body?"
+
+"If he was going to do that, he would have done it already. It's been eighteen months."
+
+"Or maybe he's been waiting to see if anyone would come looking. And now we have." Brandon's jaw was tight. "We were at his property this morning. If he has cameras, he knows. If a neighbor saw us, word will get back to him. Small town—everyone talks."
+
+Matt hadn't thought of that. "Then we move fast. But we move legally."
+
+Brandon didn't respond. He got in the passenger seat and closed the door.
+
+Matt stood in the drizzle for a moment longer, thinking about the barn. About Brandon's certainty. About Dunham's very reasonable insistence on proper procedure.
+
+About the fact that they were probably right—both of them.
+
+He got in the car and started the engine.
+
+"Where to?" Brandon asked.
+
+Matt checked his watch. Eleven-forty. "Let's get lunch. Then we track down Travis Brennan and see what he remembers that he didn't tell the deputies the first time."
+
+They drove back toward Thorndale in silence. The rain had stopped, leaving everything wet and gray. Matt's mind was already working through the next steps. Witness interviews. Records requests. Building the legal framework that would let them do what they both knew needed to be done.
+
+Search that barn.
+
+Find Sarah Carpenter.
+
+And prove that Brandon's instincts—whatever they were, however they worked—had been right all along.

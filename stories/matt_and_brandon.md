@@ -790,7 +790,7 @@ Brandon looked up from his phone. "I'm not planning to knock on his door."
 
 "But you want to."
 
-"Of course I want to." Brandon returned to the map. "But I also want a conviction that sticks. Which means we do this right."
+"Of course I want to." Brandon returned to the map. "But I also want a conviction that sticks."
 
 Matt relaxed slightly. Brandon's instincts were usually sound, but sometimes his focus on solving a case made him impatient with procedure. It was Matt's job to keep them on the right side of the line—the side that would hold up in court.
 
@@ -806,7 +806,7 @@ The rain came harder. Matt turned on the wipers. The rhythmic sweep was the only
 
 Matt had read Brennan's statement three times. Thirty-one years old, worked construction, had stopped for cigarettes. Saw Sarah's purse by the payphone, called 911. Told deputies he didn't see or hear anything. "You think he's hiding something?"
 
-"I think he saw more than he told them. Maybe not much more, but something. People remember details when you ask the right questions."
+"I think he saw more than he told them. Maybe not much more, but something. Sometimes you just have to ask the right questions."
 
 The GPS announced their turn. Matt slowed and turned onto County Road 275. The pavement was cracked and patched, weeds growing through the edges. Fields stretched out on both sides—corn stubble from the fall harvest, waiting for winter.
 

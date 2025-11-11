@@ -1257,7 +1257,7 @@ Brandon chose his words carefully. "We're going to find out what happened to her
 
 It wasn't quite the same thing, but it was honest.
 
-As Brandon got up to leave, Travis spoke up again slowly."
+As Brandon got up to leave, Travis spoke up again slowly.
 
 "You know, that wasn't the only time I saw a dark colored Chevy that day. There was one at the Rural King blocking my way when I went to leave. A Silverado, dark blue. Guy was loading boxes into the back."
 
@@ -1409,7 +1409,7 @@ Haskell squinted at the screen. "Looks like the Bushnell Trophy Cam. Good camera
 
 "Could you check if Kovacs paid with a card?"
 
-Haskell pulled up a different program and typed for a moment. "Yeah. Credit card purchase. April sixteenth, 5:55 PM. Four Bushnell Trophy Cam HD cameras and two eight-packs of AA batteries. Total came to just over two hundred and thirty-six dollars."
+Haskell pulled up a different program and typed for a moment. "Yeah. Credit card purchase. April sixteenth, 5:55 PM. Four Bushnell Trophy Cam HD cameras and two eight-packs of AA batteries. Total came to two hundred thirty-six dollars and forty-seven cents."
 
 Brandon looked at Matt. "That's specific. He knew exactly what he wanted."
 

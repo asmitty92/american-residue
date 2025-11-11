@@ -616,11 +616,7 @@ Kovacs climbed in, started the engine, and drove away.
 
 Matt stood beside Brandon. "What do you think?"
 
-"I think he's lying."
-
-"About what?"
-
-"I don't know yet." Brandon pulled out his notebook and jotted down a note: *Dale Kovacs - watch him*.
+"I think we need to know more him." Brandon pulled out his notebook and jotted down a note: *Dale Kovacs - watch him*.
 
 A woman's voice behind them: "Can I help you find something?"
 

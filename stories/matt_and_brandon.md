@@ -448,7 +448,7 @@ Matt checked his watch. "Ten minutes."
 
 Brandon sat on the front steps. The stone was cold through his pants. He watched a school bus drive past, yellow against the gray morning. A dog barked somewhere nearby. Normal sounds in a normal town where something terrible had happened.
 
-At nine o'clock exactly, they climbed the steps and entered the library.
+At ten o'clock exactly, they climbed the steps and entered the library.
 
 The interior carried the unmistakable smell of old books. Wooden floors, high ceilings, tall frosted glass windows that let in weak daylight. The circulation desk stood directly ahead. To the left, rows of stacks. To the right, a reading area with tables and chairs. A children's section in the back corner, colorful and inviting.
 
@@ -610,51 +610,7 @@ Just a glance, nothing more. But Brandon saw the recognition flicker across his 
 
 Kovacs's expression didn't change. He walked past their table, nodded politely, and continued toward the exit.
 
-Brandon stood.
-
-"Dale Kovacs?" 
-
-Kovacs stopped, turned. His expression was open, curious. "Yes?"
-
-Brandon approached, Matt a step behind. "We're with the FBI. Working on the Sarah Carpenter case."
-
-"Oh." Kovacs's face arranged itself into appropriate sadness. "Terrible thing. I still can't believe it happened. Sarah was such a sweet girl."
-
-"You knew her?"
-
-"Just from the library. I'm here pretty often. I live out of town. Hard to get decent internet there. She always helped me find what I needed."
-
-"When was the last time you saw her?"
-
-"The day she disappeared, actually." Kovacs shook his head slowly. "I was here that evening, and she checked out some books for me. I remember thinking how normal everything seemed. And then the next day, she was gone."
-
-Matt had his notebook out. "Do you remember what time you were here?"
-
-"Maybe around seven? I left before closing. I had to get home for dinner."
-
-"And you didn't see Sarah again that evening?"
-
-"No. I went straight home." Kovacs paused. "Is there a problem? Am I a suspect or something?"
-
-"We're just gathering information," Matt said. "Talking to people who knew Sarah."
-
-"I wish I could help more. I really do. She was a nice person. Whoever did this—" Kovacs's hands clenched briefly, then relaxed. "I hope you catch them."
-
-Brandon watched his face. The expressions were right. The words were right. But something underneath wasn't. Like watching an actor play a role they'd rehearsed too many times.
-
-"One more question," Brandon said. "Do you drive a Chevy Silverado?"
-
-Kovacs blinked. "I do, yes. Dark blue. Why?"
-
-"Just trying to account for vehicles in the area that night. Where were you parked?"
-
-"Out front, I think? Or maybe on the side street. I don't remember specifically—it was over a year ago."
-
-"Of course. Thank you for your time, Mr. Kovacs."
-
-"Sure. Good luck with the investigation." Kovacs nodded to both of them and left.
-
-Through the window, Brandon watched him walk to a truck parked on the side street. Dark blue Silverado, late nineties model. A match for what the security footage had shown.
+Brandon stood and walked to the window. He watched Kovacs walk to a truck parked on the side street. A late nineties model, dark blue Silverado. A match for what the security footage had shown.
 
 Kovacs climbed in, started the engine, and drove away.
 
@@ -721,9 +677,6 @@ After Amy left, Brandon and Matt sat in silence for a moment.
 "Sometimes it is neat. Sometimes the obvious answer is the right answer."
 
 "Maybe." Brandon stood and walked to the window. The parking lot was empty except for staff vehicles. Beyond the trees, he could see a sliver of the residential street. Normal houses. Normal lives.
-
-One of those houses probably belonged to someone who knew exactly what had happened to Sarah Carpenter.
->COMMENT: I don't like this line. What's its purpose?
 
 "I want to see his property," Brandon said. "County Road 275. See if anything stands out."
 

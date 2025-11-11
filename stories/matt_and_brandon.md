@@ -2,7 +2,6 @@
 **Wednesday October 19, 2011 4:00PM**
 
 The Crossroads Mini-Mart sat at the intersection of County Road 400 and State Route 39, three miles south of Thorndale, Indiana. It was the kind of place that survived on lottery tickets, fountain drinks, and the handful of people who stopped for gas on their way to somewhere else. The building hadn't been updated since the early nineties—faded red brick, a hand-painted sign advertising "Live Bait & Tackle," and a payphone mounted on the exterior wall.
->COMMENT: The payphone didn't work? We're going to find out in just a couple of minutes that Sarah used that "non-working" phone.
 
 The black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The air was cool and still, carrying the sweet-rot smell of harvested cornfields—that particular scent of October in the rural Midwest, somewhere between earth and decay. The first man, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
 
@@ -20,8 +19,8 @@ The deputy shook Ellis's hand, then nodded at Gray, who had moved past them towa
 
 "We appreciate you meeting us." Ellis glanced back at Gray, who stood near the payphone, hands in his pockets, head tilted slightly as if listening to something. "Can you walk me through what we know?"
 
-Kowalski unwrapped a piece of gum. "Victim was Sarah Carpenter. Twenty-two. Worked at the public library in town. Stopped here April sixteenth, around eight-fifteen in the evening. She'd just finished her shift." He gestured toward the building. "Witness was Travis Brennan. He was inside getting cigarettes when it happened."
->COMMENT: Walton instead of Brennan?
+Kowalski unwrapped a piece of gum. "Victim was Sarah Carpenter. Twenty-two. Worked at the public library in town. Stopped here April sixteenth, around eight-fifteen in the evening. She'd just finished her shift." He gestured toward the building. "Witness was Travis Walton. He was inside getting cigarettes when it happened."
+>COMMENT: Walton instead of Walton?
 
 "They knew each other?"
 
@@ -35,7 +34,7 @@ Ellis looked at the payphone. Gray was closer to it now, standing maybe two feet
 
 "Movement. Most of it is just their shadows. Looks like someone gets out of the driver's side. Thirty seconds later, the truck pulls out. Heads south on 39. Sarah's gone. Her purse was still by the phone. Keys in her car."
 
-"What was Brennan doing during this?"
+"What was Walton doing during this?"
 
 "Inside, like I said. Paying for cigarettes. He comes out maybe a minute after the truck leaves, sees her purse on the ground, no Sarah. Called 911 at eight-nineteen."
 
@@ -73,7 +72,7 @@ Outside, the afternoon light was starting to fade. Gray stood by the payphone ag
 
 "How long?"
 
-"At least n hour. Maybe more."
+"At least an hour. Maybe more."
 
 Kowalski shifted his weight. "You want me to stick around?"
 
@@ -231,9 +230,6 @@ Matt did the math. Twenty-one years put it at 1990. His Air Force years, before 
 
 "No. I just... heard about it." Brandon's fingers found the sugar packet again. "It stayed with me."
 
-There was something else there. Matt could see it in the way Brandon's jaw tightened, the way he wouldn't quite meet Matt's eyes. But pushing didn't work with Gray. He'd share what he wanted to share when he was ready.
-
-<!--Alternative:
 There was something else there. Matt could see it in the way Brandon's jaw tightened, the way he wouldn't quite meet Matt's eyes. Pushing didn't usually work with Gray, but he let his curiousity get the better of him.
 
 "Were there any witnesses other than the boyfriend?" Matt asked casually. Are they definitely sure he wasn't involved."
@@ -242,9 +238,9 @@ Matt saw anger flare suddenly in Brandon's deep green eyes.
 
 "The boyfriend had nothing to do with it. He's beyond reproach."
 
-Matt was taken aback. He chose his next words carefully.
--->
-> COMMENT (Character/depth): Good hinting at Brandon's deeper engagement. If you want Brandon to be the more haunted lead, leave this as-is; if you want Matt more present, consider having Matt ask one incisive question here that nudges Brandon into a reveal — that one line will increase Matt's presence and agency.
+Matt was taken aback. Brandon's hands had clenched into fists on the table. He noticed, seemed to realize it, and deliberately relaxed them.
+
+Matt chose his next words carefully.
 
 "Similar circumstances don't mean the same perpetrator," Matt said carefully. "Ashford to here is what, six or seven hours?"
 
@@ -261,7 +257,6 @@ Matt watched his partner stare at nothing. In three years, he'd rarely seen Bran
 Brandon nodded but didn't respond.
 
 Dottie brought the check. Matt paid cash and left a twenty percent tip. Outside, the temperature had dropped into the forties. Matt's breath fogged in the air. Brandon stood by the car for a moment, looking back toward the diner like he'd forgotten something.
->COMMENT: The 20% tip feels like an oddly specific detail. Thoughts?
 
 "You okay?" Matt asked.
 
@@ -801,9 +796,9 @@ Matt relaxed slightly. The rain came harder. He turned on the wipers. The rhythm
 
 "That's eighteen months ago. Most places don't keep footage that long."
 
-"Some do. Worth checking." Brandon scrolled through something on his phone. "And we need to re-interview Travis Brennan. The witness from the Crossroads. His statement was thin."
+"Some do. Worth checking." Brandon scrolled through something on his phone. "And we need to re-interview Travis Walton. The witness from the Crossroads. His statement was thin."
 
-Matt had read Brennan's statement three times. Thirty-one years old, worked construction, had stopped for cigarettes. Saw Sarah's purse by the payphone, called 911. Told deputies he didn't see or hear anything. "You think he's hiding something?"
+Matt had read Walton's statement three times. Thirty-one years old, worked construction, had stopped for cigarettes. Saw Sarah's purse by the payphone, called 911. Told deputies he didn't see or hear anything. "You think he's hiding something?"
 
 "I think he saw more than he told them. Maybe not much more, but something. Sometimes you just need to ask the right questions."
 
@@ -1096,7 +1091,7 @@ Matt found Brandon outside, standing by the car in the drizzle. He wasn't gettin
 
 "He's not wrong." Brandon's voice was flat. "We need more than what we have."
 
-"So we get it. We re-interview Brennan. We track down surveillance footage. We build the case until it's airtight."
+"So we get it. We re-interview Walton. We track down surveillance footage. We build the case until it's airtight."
 
 Brandon turned to look at him. "And if Kovacs destroys evidence while we're building the case? If he moves the body?"
 
@@ -1116,7 +1111,7 @@ He got in the car and started the engine.
 
 "Where to?" Brandon asked.
 
-Matt checked his watch. Eleven-forty. "Let's get lunch. Then we track down Travis Brennan and see what he remembers that he didn't tell the deputies the first time."
+Matt checked his watch. Eleven-forty. "Let's get lunch. Then we track down Travis Walton and see what he remembers that he didn't tell the deputies the first time."
 
 They drove back toward Thorndale in silence. The rain had stopped, leaving everything wet and gray. Matt's mind was already working through the next steps. Witness interviews. Records requests. Building the legal framework that would let them do what they both knew needed to be done.
 
@@ -1133,7 +1128,7 @@ Brandon finished the last bite of his gas station sandwich as Matt pulled into t
 
 The construction site sat on the north edge of Thorndale where Main Street became farmland. A sign near the entrance read "Hoosier Heritage Homes - Custom Building Since 1987." Beyond it, a concrete foundation had been poured for what would eventually be someone's house. Probably their dream house, given the size of the footprint. But today, with the rain still misting down and the sky the color of wet concrete, the site looked abandoned.
 
-A white pickup truck was parked near a job trailer—the kind contractors used as mobile offices. The truck had "Brennan Construction" painted on the door in fading letters. Matt had called ahead. Travis Brennan was expecting them.
+A white pickup truck was parked near a job trailer—the kind contractors used as mobile offices. The truck had "Walton Construction" painted on the door in fading letters. Matt had called ahead. Travis Walton was expecting them.
 
 "You want me to take the lead on this one?" Matt asked as he put the car in park.
 
@@ -1143,28 +1138,27 @@ They got out. The rain had lessened to a fine mist that hung in the air rather t
 
 The door opened before they reached it. A man in his early thirties stepped out, wearing work boots, jeans, and a Carhartt jacket over a flannel shirt. Dark hair, stubble that suggested he'd been too busy to shave that morning. He looked tired. Not just today-tired, but the kind of tired that came from carrying something heavy for a long time.
 
-"Travis Brennan?" Matt asked, showing his badge.
+"Travis Walton?" Matt asked, showing his badge.
 
-"Yeah." Brennan shook both their hands. His grip was firm, calloused. "FBI, right? You boys move fast, you only called me an hour ago."
+"Yeah." Walton shook both their hands. His grip was firm, calloused. "FBI, right? You boys move fast, you only called me an hour ago."
 
 "We appreciate you making time," Matt said.
 
-"Not like we're getting anything done today." Brennan gestured at the gray sky. "Can't pour concrete in this weather. Can't frame either—lumber's too wet. Crew's at lunch. Figured I'd catch up on paperwork, but honestly I was just staring at invoices."
+"Not like we're getting anything done today." Walton gestured at the gray sky. "Can't pour concrete in this weather. Can't frame either—lumber's too wet. Crew's at lunch. Figured I'd catch up on paperwork, but honestly I was just staring at invoices."
 
 "This won't take long," Brandon said. "We just have some follow-up questions about the night Sarah Carpenter disappeared."
 
-Brennan's expression shifted—something between resignation and discomfort. "I already told the deputies everything I saw. Which wasn't much."
+Walton's expression shifted—something between resignation and discomfort. "I already told the deputies everything I saw. Which wasn't much."
 
 "I understand. Sometimes talking through it again helps clarify details." Brandon kept his voice even, neutral. Not pushy. Just patient. "Can we sit inside?"
 
-Brennan nodded and led them into the trailer. The interior was exactly what Brandon expected—cluttered but well organized. A desk covered with blueprints and invoices, a filing cabinet, a small coffee maker on a card table, folding chairs. The space heater in the corner worked overtime, making the air stuffy and warm. It smelled like diesel fuel and wood shavings.
->COMMENT: Would sawdust be a better descriptor than 'wood shavings'?
+Walton nodded and led them into the trailer. The interior was exactly what Brandon expected—cluttered but well organized. A desk covered with blueprints and invoices, a filing cabinet, a small coffee maker on a card table, folding chairs. The space heater in the corner worked overtime, making the air stuffy and warm. It smelled like diesel fuel and wood shavings.
 
-Brennan gestured to two folding chairs and took the desk chair for himself. He pulled a pack of cigarettes from his jacket pocket, then seemed to think better of it and set them on the desk.
+Walton gestured to two folding chairs and took the desk chair for himself. He pulled a pack of cigarettes from his jacket pocket, then seemed to think better of it and set them on the desk.
 
 "You still smoke?" Brandon asked.
 
-"Trying to quit. Been saying that for three years." Brennan picked up a pen, turned it over in his fingers. Nervous energy. "That's why I was at the Crossroads that night. Ran out of cigarettes, wanted to pick up a pack that night so I could get an early start the next morning."
+"Trying to quit. Been saying that for three years." Walton picked up a pen, turned it over in his fingers. Nervous energy. "That's why I was at the Crossroads that night. Ran out of cigarettes, wanted to pick up a pack that night so I could get an early start the next morning."
 
 Brandon pulled out his notebook and a pen. "Walk me through that night. What time did you get off work?"
 
@@ -1174,8 +1168,7 @@ Brandon pulled out his notebook and a pen. "Walk me through that night. What tim
 
 "No. Stopped at the Rural King in Blackburn first. Needed some supplies for the next day."
 
-Brandon made notes, letting Travis establish his own timeline. "What time were you at the Rural King?"
->COMMENT: Changed Brennan to Travis. Bouncing Brandon and Brennan off each other felt awkward when I read it out loud.
+Brandon made notes, letting Walton establish his own timeline. "What time were you at the Rural King?"
 
 "It's between Brazil and Thorndale, so I probably got there around five-forty. I didn't dilly-dally—grabbed what I needed, talked to Jim for a few, then paid and left."
 
@@ -1193,7 +1186,7 @@ Brandon nodded, writing. "Then what?"
 
 "Did you see any other vehicles on the way?"
 
-Brennan frowned, thinking. "A few. Not many—it was a Thursday night, most people were home. There was a sedan going north as I headed south. Maybe a Honda or Toyota, something like that. And a farm truck pulled out of a driveway ahead of me, but he turned off onto County Road 400."
+Walton frowned, thinking. "A few. Not many—it was a Thursday night, most people were home. There was a sedan going north as I headed south. Maybe a Honda or Toyota, something like that. And a farm truck pulled out of a driveway ahead of me, but he turned off onto County Road 400."
 
 "What about when you got to the Crossroads?"
 
@@ -1201,7 +1194,7 @@ Brennan frowned, thinking. "A few. Not many—it was a Thursday night, most peop
 
 "Where did you park?"
 
-"By the front door. The pumps were empty, so I had my choice of spots." Brennan set down the pen and picked up the cigarette pack, turning it over in his hands without opening it. "I went inside. Marv was in the cooler, but he came up front when he heard me come in. I grabbed three packs of Marlboros, paid, and left. Maybe two minutes total."
+"By the front door. The pumps were empty, so I had my choice of spots." Walton set down the pen and picked up the cigarette pack, turning it over in his hands without opening it. "I went inside. Marv was in the cooler, but he came up front when he heard me come in. I grabbed three packs of Marlboros, paid, and left. Maybe two minutes total."
 
 "Did you notice Sarah while you were inside?"
 
@@ -1209,7 +1202,7 @@ Brennan frowned, thinking. "A few. Not many—it was a Thursday night, most peop
 
 Brandon leaned forward slightly. "When you came out, what did you see?"
 
-"Her purse was on the ground by the payphone. The phone was off the hook, hanging down. Her car was still there, but she wasn't." Brennan's jaw tightened. "I called 911 right away. Stayed on the line until Deputy Kowalski showed up."
+"Her purse was on the ground by the payphone. The phone was off the hook, hanging down. Her car was still there, but she wasn't." Walton's jaw tightened. "I called 911 right away. Stayed on the line until Deputy Kowalski showed up."
 
 "Did you hear anything while you were inside? A scream, a car door, an engine?"
 
@@ -1217,19 +1210,19 @@ Brandon leaned forward slightly. "When you came out, what did you see?"
 
 Brandon nodded, making another note. "Let me back up. When you pulled into the lot, was there any other vehicle there besides Sarah's car?"
 
-Brennan started to shake his head, then stopped. "Wait. Yeah. There was a truck parked on the far side of the building. Away from the pumps. I didn't think about it until now."
+Walton started to shake his head, then stopped. "Wait. Yeah. There was a truck parked on the far side of the building. Away from the pumps. I didn't think about it until now."
 
 Brandon's pulse quickened, but he kept his expression neutral. "What kind of truck?"
 
-"Chevy. Older model. Dark color-coulda been black, blue, or green, there's no lights on that side of the building." Brennan's eyes went distant, like he was replaying the memory. "I only noticed it because it seemed like a weird place to park. The pumps were empty, the lot was empty. Why park way over there unless you didn't want to be visible from the road?"
+"Chevy. Older model. Dark color-coulda been black, blue, or green, there's no lights on that side of the building." Walton's eyes went distant, like he was replaying the memory. "I only noticed it because it seemed like a weird place to park. The pumps were empty, the lot was empty. Why park way over there unless you didn't want to be visible from the road?"
 
 "Did you see anyone in or near the truck?"
 
 "No. But I wasn't looking. I assumed whoever owned it was inside the store."
 
-Matt had his notebook out now, writing quickly. Brandon maintained eye contact with Brennan. "When you came back out after buying cigarettes, was the truck still there?"
+Matt had his notebook out now, writing quickly. Brandon maintained eye contact with Walton. "When you came back out after buying cigarettes, was the truck still there?"
 
-Brennan closed his eyes, concentrating. "No. It was gone. I remember that now. When I saw Sarah's purse and went to call 911, I looked around to see if anyone else was there who could help. The lot was empty except for her car and mine."
+Walton closed his eyes, concentrating. "No. It was gone. I remember that now. When I saw Sarah's purse and went to call 911, I looked around to see if anyone else was there who could help. The lot was empty except for her car and mine."
 
 "So the truck left while you were inside."
 
@@ -1239,9 +1232,9 @@ Brandon made another note, his mind already working through the timeline. Sarah 
 
 "Did you notice anything else about the truck? Damage, bumper stickers, anything in the bed?"
 
-Brennan was quiet for a moment. Brandon watched his face—the way his eyes moved, the slight tension in his jaw. He was trying to remember, not fabricate. That was important. Witnesses who were making things up looked different. They looked up and to the left, accessing the creative parts of their brain. Brennan was looking straight ahead, accessing memory.
+Walton was quiet for a moment. Brandon watched his face—the way his eyes moved, the slight tension in his jaw. He was trying to remember, not fabricate. That was important. Witnesses who were making things up looked different. They looked up and to the left, accessing the creative parts of their brain. Walton was looking straight ahead, accessing memory.
 
-"There was something on the back window," Brennan said slowly. "One of those decals. I couldn't tell you what it was, but there was something there. Caught the light wrong, made it stand out."
+"There was something on the back window," Walton said slowly. "One of those decals. I couldn't tell you what it was, but there was something there. Caught the light wrong, made it stand out."
 
 "What kind of decal? Sports team? Business logo?"
 
@@ -1253,19 +1246,19 @@ Brandon filed that away. "And you didn't see which direction it went when it lef
 
 "Is there anything else you remember about that night? Anything that seemed off or unusual?"
 
-Brennan shook his head slowly. "Just... I keep thinking if I'd come out of the store thirty seconds earlier at the Crossroads, maybe I could have stopped it. Maybe Sarah would still be—" His voice caught.
+Walton shook his head slowly. "Just... I keep thinking if I'd come out of the store thirty seconds earlier at the Crossroads, maybe I could have stopped it. Maybe Sarah would still be—" His voice caught.
 
 "This isn't your fault," Matt said. "You couldn't have known."
 
-"Yeah, well, doesn't make it easier to sleep." Brennan picked up the cigarettes again, this time pulling one out and sticking it between his lips unlit. "Is there anything else? I've got to call the crew, let them know we're done for the day."
+"Yeah, well, doesn't make it easier to sleep." Walton picked up the cigarettes again, this time pulling one out and sticking it between his lips unlit. "Is there anything else? I've got to call the crew, let them know we're done for the day."
 
-Brandon closed his notebook. "Thank you, Mr. Brennan. I appreciate you taking the time. This has been helpful."
+Brandon closed his notebook. "Thank you, Mr. Walton. I appreciate you taking the time. This has been helpful."
 
-"I have?" Brennan looked genuinely surprised. "I didn't think I knew anything useful."
+"I have?" Walton looked genuinely surprised. "I didn't think I knew anything useful."
 
 "Sometimes the details that don't seem important are the ones that matter." Brandon stood, and Matt followed his lead. "If you remember anything else, here's my card."
 
-Brennan took the card, studied it. "You really think you're going to find her?"
+Walton took the card, studied it. "You really think you're going to find her?"
 
 Brandon chose his words carefully. "We're going to find out what happened to her."
 
@@ -1277,13 +1270,13 @@ As Brandon got up to leave, Travis spoke up again slowly.
 
 "Can you describe the man?"
 
-"Average height, average build. He had a baseball cap on, kept his head down. I had to wait for him to move so I could get my truck out—he was blocking the drive." Brennan looked between Brandon and Matt. "I'm not sure it was the same truck from the Crossroads, but it coulda been."
+"Average height, average build. He had a baseball cap on, kept his head down. I had to wait for him to move so I could get my truck out—he was blocking the drive." Walton looked between Brandon and Matt. "I'm not sure it was the same truck from the Crossroads, but it coulda been."
 
 "I mighta seen the guy two hours before he took Sarah," Travis said wistfully.
 
 "Did you get a look at his face?"
 
-"Not really. Like I said, he had his head down. I was more focused on getting around him than looking at him." Brennan ran a hand through his hair. "I should have paid more attention. Should have—"
+"Not really. Like I said, he had his head down. I was more focused on getting around him than looking at him." Walton ran a hand through his hair. "I should have paid more attention. Should have—"
 
 "You had no way of knowing," Matt said quietly. "Can you remember what he was loading?"
 
@@ -1291,7 +1284,7 @@ As Brandon got up to leave, Travis spoke up again slowly.
 
 "Were they marked? Any logos or writing you could see?"
 
-Brennan closed his eyes again, concentrating. "I don't... maybe? There might have been something printed on them, but I was too far away to read it."
+Walton closed his eyes again, concentrating. "I don't... maybe? There might have been something printed on them, but I was too far away to read it."
 
 "What time was this?"
 
@@ -1299,7 +1292,7 @@ Brennan closed his eyes again, concentrating. "I don't... maybe? There might hav
 
 Brandon exchanged a glance with Matt. A dark blue Silverado at the Rural King around six. At the Crossroads by eight. Two hours between.
 
-They left Brennan in his trailer and walked back to the car. The rain had stopped completely now, leaving the air cold and damp. Brandon's shoes squelched in the mud.
+They left Walton in his trailer and walked back to the car. The rain had stopped completely now, leaving the air cold and damp. Brandon's shoes squelched in the mud.
 
 "Rural King at six," Matt said once they were in the car. "That gives us a place to check for surveillance footage."
 

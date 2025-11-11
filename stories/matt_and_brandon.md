@@ -20,7 +20,6 @@ The deputy shook Ellis's hand, then nodded at Gray, who had moved past them towa
 "We appreciate you meeting us." Ellis glanced back at Gray, who stood near the payphone, hands in his pockets, head tilted slightly as if listening to something. "Can you walk me through what we know?"
 
 Kowalski unwrapped a piece of gum. "Victim was Sarah Carpenter. Twenty-two. Worked at the public library in town. Stopped here April sixteenth, around eight-fifteen in the evening. She'd just finished her shift." He gestured toward the building. "Witness was Travis Walton. He was inside getting cigarettes when it happened."
->COMMENT: Walton instead of Walton?
 
 "They knew each other?"
 
@@ -488,7 +487,7 @@ Brandon glanced back at the memorial one more time before following her.
 
 The meeting room was small—just a table with six chairs, a whiteboard on one wall, and a window that looked out onto the employee parking lot. Patricia gestured for them to sit and closed the door.
 
-"I've been expecting you," she said, settling into a chair across from them. "Sheriff Garrett called yesterday, said the FBI was taking a fresh look at Sarah's case. I'll help however I can, though I don't know what more I can tell you than I told the deputies last year."
+"I've been expecting you," she said, settling into a chair across from them. "Sheriff Garrett called yesterday, said the FBI was taking a fresh look at Sarah's case. I'll help however I can, though I don't know what more I can tell you than I told the deputies last spring."
 
 Matt pulled out a notebook. "We appreciate that. Sometimes a fresh perspective can reveal new details. Can you tell us about Sarah? What kind of employee was she?"
 
@@ -1297,15 +1296,15 @@ Inside, the store smelled like feed and fertilizer and gun oil. A mix of rural I
 
 A man in his sixties stood behind the counter, wearing overalls and a John Deere cap. He looked up when they entered, his expression friendly but curious. Probably didn't get FBI agents in here often.
 
-Matt took the lead this time. "Afternoon. We're Special Agents Ellis and Gray with the FBI. We'd like to talk to the manager about a purchase from April of last year."
+Matt took the lead this time. "Afternoon. We're Special Agents Ellis and Gray with the FBI. We'd like to talk to the manager about a purchase from April of this year."
 
-The man's eyebrows went up. "April of last year? That's a long time ago."
+The man's eyebrows went up. "Last April? That's a long time ago."
 
-"We understand. But we're hoping your system keeps transaction history that long."
+"We understand. But we're hoping your system keeps transaction records long."
 
 "Let me get Jim. He's the general manager." The man disappeared into the back office and returned a moment later with a younger man—early forties, weathered face, the look of someone who'd worked retail long enough to be skeptical of everyone.
 
-"Jim Haskell," he said, shaking their hands. "Hugh said you're hear about a transaction 18 months ago. Is this about Sarah Carpenter?"
+"Jim Haskell," he said, shaking their hands. "Hugh said you're hear about a transaction six months ago. Is this about Sarah Carpenter?"
 
 "Yes sir," Matt said. "We understand you knew her?"
 
@@ -1313,7 +1312,7 @@ The man's eyebrows went up. "April of last year? That's a long time ago."
 
 "We're following up on several possibilities. One of them involves a customer who may have been here on April sixteenth, between five and six PM. We were hoping you could check your transaction history for the purchase."
 
-Haskell thought for a moment. "I can probably find the transaction. You know, corporate upgraded the surveillance system to digital two years ago. All footage is stored to a hard drive now. Nothing gets overwritten. Might have to delete at some point if the hard drive gets full, but that hasn't happened yet."
+Haskell thought for a moment. "I can probably find the transaction. You know, corporate upgraded the surveillance system to digital late last year. All footage is stored to a hard drive now. Nothing gets overwritten. Might have to delete at some point if the hard drive gets full, but that hasn't happened yet."
 
 Matt and Brandon exchanged a meaningful look. Matt spoke first.
 
@@ -1333,7 +1332,7 @@ Haskell's expression shifted. Recognition, but not surprise. "Yeah, I know Dale.
 
 "Was he here on April sixteenth?"
 
-"I couldn't tell you without checking. That was eighteen months ago." Haskell glanced at the office, then back to them. "All right. Come on back. But I'm not giving you copies without a warrant. We can just look."
+"I couldn't tell you without checking." Haskell glanced at the office, then back to them. "All right. Come on back. But I'm not giving you copies without a warrant. We can just look."
 
 "That's all we're asking," Matt said.
 
@@ -1417,4 +1416,4 @@ Somewhere in Parke County, four trail cameras were watching something. Recording
 
 Brandon just had to figure out where.
 
-And what they'd been watching for the past eighteen months.
+And what they'd been watching during the past six months.

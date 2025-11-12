@@ -1838,10 +1838,6 @@ Dunham nodded. "I'll have my team here at oh-seven-hundred. We'll brief and roll
 "Who are you bringing?" Matt asked.
 
 "Me along with Deputies Harris, Michaels, and Kowalski. Harris is good with documentation—he'll photograph and video everything. Kowalski was first on scene back in April, he knows the case. Michaels can keep Kovacs in check. Plus it's a Saturday—most of my deputies are off."
->COMMENT: added deputy Michaels to have someone to sit with Dale. Harris gets assigned both to keep Kovacs company and follow Matt for documentation.
-
-<!-- Brandon kept his expression neutral, but he filed the information away. Kowalski would be there. Good. He wanted to see how Dale reacted to him.-->
->COMMENT: Removing this. Bran has no reason to believe Kowalski will arouse Dale's suspicion
 
 "We'll need to call in forensics if we find what we think we're going to find," Matt said.
 
@@ -1935,10 +1931,9 @@ Brandon stood just inside the doorway, letting his eyes adjust. Letting himself 
 
 The impression hit him immediately, the same one he'd felt two days ago. Trauma. Terror. Death. It saturated the space like a stain.
 
-But there was more now. More detail. He could almost see it—a woman on the ground, struggling. Hands at her throat. The desperate need to do something, anything, to leave evidence. To make sure someone would know she'd been here.
->COMMENT: Is this, in combination with is find, too much?
-
 Brandon's eyes moved to the southeast corner of the barn, near where the workbench stood. The dirt there was slightly darker, slightly more disturbed.
+
+He could almost see it—a woman on the ground, struggling. Hands at her throat. The desperate need to do something, anything, to leave evidence. To make sure someone would know she'd been here.
 
 He walked toward it.
 

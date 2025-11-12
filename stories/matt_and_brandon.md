@@ -1949,7 +1949,7 @@ Brandon pulled a pair of latex gloves from his pocket and put them on. He produc
 
 "Maybe."
 
-Brandon pulled a small switchblade from his pocket and pushed the thumb slide. The blade punched forward and locked open. Using the knife, he began moving dirt carefully, methodically. Two inches down, he saw a glint of etal. He worked around it, exposing more of the object.
+Brandon pulled a small switchblade from his pocket and pushed the thumb slide. The blade punched forward and locked open. Using the knife, he began moving dirt carefully, methodically. Two inches down, he saw a glint of metal. He worked around it, exposing more of the object.
 
 A bracelet. Silver, delicate, partially tarnished. It had been buried deliberately, pressed down into the soft earth.
 

@@ -2128,3 +2128,296 @@ Brandon looked at his partner. "I think Dale was telling the truth. He was tryin
 Matt followed his gaze. "And that person is still out there."
 
 "Yes," Brandon said quietly. "They are."
+
+# Chapter Seven
+**Saturday Afternoon**
+
+Matt stood in the observation room, watching Dale Kovacs through the one-way glass. Dale sat at a metal table in Interview Room One, hands folded in front of him, still wearing the same flannel shirt and jeans from this morning. He hadn't said a word since arriving at the station two hours ago. Just sat there, staring at the table, waiting for his lawyer.
+
+Brandon stood beside Matt, silent. He'd been like that since they'd left Dale's property—present but distant, processing everything they'd found.
+
+The ISP crime scene unit had arrived right on schedule. They'd taken over the house and barn, photographing everything, collecting samples, documenting the scene with the kind of methodical precision that took hours. Matt and Brandon had given their statements about what they'd found, turned over the bracelet, and left them to their work.
+
+Now came the hard part.
+
+"You think he'll talk?" Matt asked.
+
+Brandon's eyes never left Dale. "He wants to. He's been carrying this for six months."
+
+"But?"
+
+"But he's scared. And he should be."
+
+The door to the interview room opened. A man in his late fifties walked in, carrying a worn leather briefcase. Salt-and-pepper hair, rumpled gray suit, wire-rimmed glasses. He had the look of a small-town attorney who'd been practicing in Parke County for thirty years—competent, cautious, and probably handling everything from wills to DUIs to the occasional criminal defense.
+
+Dale looked up when the lawyer entered. Relief washed over his face.
+
+"That's Gerald Hicks," Brandon said. "Local attorney. Does a little bit of everything. He's not a criminal defense specialist, but he's not incompetent either."
+
+"You looked him up?"
+
+"While we were waiting for ISP. Wanted to know who we'd be dealing with."
+
+Matt watched as Hicks sat down next to Dale and opened his briefcase. They spoke in low tones, Hicks asking questions, Dale answering with short nods or shakes of his head. After about five minutes, Hicks closed his briefcase and looked directly at the mirror.
+
+"That's our cue," Matt said.
+
+They walked down the hall and entered the interview room. Matt carried a folder with Dale's arrest report, photos from the scene, and the preliminary notes from ISP. Brandon carried nothing but his notebook and a pen.
+
+Dale looked up when they entered. His eyes were red-rimmed but focused. Hicks straightened in his chair, projecting professional competence.
+
+"Agents," Hicks said, nodding. "Gerald Hicks, representing Mr. Kovacs. I understand you're here to discuss the charges against my client."
+
+Matt sat down across from Dale and Brandon took the chair beside him. Matt placed the folder on the table but didn't open it.
+
+"Mr. Kovacs has been arrested for kidnapping," Matt said. "We found evidence at his property that Sarah Carpenter was held there against her will. We also found what appears to be her bracelet buried in his barn. We have questions."
+
+"My client is willing to cooperate," Hicks said carefully. "But I need to make something clear. Mr. Kovacs did not harm Sarah Carpenter. He did not kill her. What he did, he did with the intention of protecting her."
+
+Matt kept his expression neutral. "Protecting her from what?"
+
+Hicks looked at Dale, who nodded slightly.
+
+"From someone who wanted to hurt her," Hicks said.
+
+"Who?"
+
+Dale's jaw tightened. He looked at his lawyer, then at Matt. When he spoke, his voice was hoarse. "I don't know for certain. But I had my suspicions."
+
+Brandon leaned forward slightly. "Tell us what you do know."
+
+Dale took a deep breath. "About eight months ago—maybe late February—someone started coming onto my property at night. Killing my chickens. Not taking them, just killing them. Snapping their necks and leaving them for me to find in the morning."
+
+"Did you report this to the sheriff?" Matt asked.
+
+"No. At first I thought it was a fox or a coyote. But the kills were wrong. Too clean. Too deliberate. And always at night when I was sleeping."
+
+"What changed your mind?"
+
+"I started staying up. Watching. Never saw anyone, but I'd hear a truck sometimes on the county road late at night. Driving slow, like someone was scoping out the property. Then in the morning, another chicken would be dead."
+
+Brandon made a note. "What kind of truck?"
+
+"Couldn't tell in the dark. But it was distinct—had a bad muffler. You could hear it coming from a quarter mile away."
+
+"Did you recognize the sound?"
+
+Dale hesitated. "Maybe. But I can't be sure."
+
+Matt opened the folder and pulled out a photo of Sarah. "What does this have to do with Sarah Carpenter?"
+
+Dale's expression softened when he saw the photo. "I noticed her at the library. Started coming in more often just to see her. I know how that sounds, but it wasn't like that. I wasn't—" He paused, searching for words. "She was kind to me. We'd talk sometimes when I checked out books. Small talk, but it was nice."
+
+"Did you ask her out?"
+
+"No. I knew she wasn't interested. She was twenty-two. I'm forty-four. I'm not stupid." Dale rubbed his face. "But about a month before she disappeared, I noticed someone else watching her too. At the library. Just sitting in the parking lot in a truck."
+
+"What kind of truck?" Brandon asked.
+
+"Dark colored. Older model. I couldn't see the plates, but—" Dale stopped.
+
+"But what?" Matt prompted.
+
+"But it had a bad muffler. Same sound as the truck that had been coming by my property."
+
+Matt and Brandon exchanged a glance. Brandon's expression remained neutral, but Matt saw the slight tension in his jaw.
+
+"Did you see who was driving?" Matt asked.
+
+"No. Windows were tinted. But whoever it was, they were watching Sarah. I saw the truck there three different times over two weeks. Just sitting. Watching."
+
+"Did you tell Sarah about this?"
+
+Dale shook his head. "I didn't know what to say. 'Hey, someone's watching you, and I know because I've been watching you too'? How does that sound?"
+
+"So what did you do?" Brandon asked.
+
+"I bought the trail cameras. Thought maybe if I could catch whoever was coming on my property, I'd have evidence. Something to take to the sheriff."
+
+Matt pulled out another photo—this one of Dale's property, taken from the road. "You set up four cameras. Where did you place them?"
+
+"Two on the front of the property, watching the driveway and the road. One in back, watching the barn. One on the side, covering the approach from the east."
+
+"Did you catch anything?"
+
+"Not at first. But on April sixteenth—" Dale's voice cracked. "That morning, I checked the cameras. Someone had been on my property the night before. The camera facing the road caught a truck driving past slow around eleven PM. Too dark to see details, but I knew it was the same one."
+
+"Did you go to the sheriff then?"
+
+"I was going to. But I had to work that day—I do grounds maintenance for the county, I had a job in Rockville. I figured I'd go to the sheriff on Monday, show him the footage." Dale's hands clenched. "But then I went to the library that afternoon to return some books, and I saw Sarah's car in the parking lot. And I noticed something."
+
+"What?" Matt asked.
+
+"The hood wasn't latched properly. Like someone had opened it recently and didn't close it all the way."
+
+Brandon's eyes narrowed. "What time was this?"
+
+"Around four-thirty. Right before the library closed."
+
+"Did you check the car?"
+
+"I walked past it. The hood definitely wasn't latched right. And I got this feeling—" Dale stopped.
+
+"What kind of feeling?" Brandon asked quietly.
+
+"That someone had tampered with it. That whoever had been watching her had done something to make sure her car wouldn't start."
+
+Matt leaned back in his chair. "So what did you do?"
+
+"I waited. Sat in my truck in the parking lot. Watched. Sarah came out around six-fifteen, got in her car, tried to start it. It wouldn't catch. She tried a few times, then she got out and looked under the hood. I could see she was frustrated."
+
+"Did you approach her?"
+
+"Not then. She got her purse and went back inside—I figured she was calling someone. I waited maybe ten minutes, then she came back out, got in her car, and tried again. This time it started, but barely. She sat there for a minute, probably deciding if she should risk driving it."
+
+"And then?"
+
+"She drove off. Headed south toward Thorndale. I followed her."
+
+Matt kept his voice level. "You followed her."
+
+"I know how it sounds," Dale said quickly. "But I was worried. If her car died somewhere isolated, if whoever had tampered with it was waiting—" He shook his head. "I stayed back, kept my distance. She made it through town, then headed toward the Crossroads. Her car started acting up again about a mile from the mini-mart. She was barely keeping it running."
+
+"Did she know you were following her?"
+
+"I don't think so. I hung back."
+
+Brandon spoke, his voice very quiet. "What happened at the Crossroads?"
+
+Dale's face went pale. "She pulled into the lot. Her car died right as she parked. I saw her try to start it a few times, then she got out and went to the payphone. I figured she was calling AAA or her mom."
+
+"Where were you?"
+
+"Parked on the far side of the building. Out of sight. I was watching to make sure she was safe until help arrived."
+
+"But she wasn't safe," Matt said.
+
+"No." Dale's voice broke. "I saw another truck pull in. Same bad muffler. It parked near the payphone. Someone got out—I couldn't see clearly from where I was, but I could see Sarah's body language. She recognized whoever it was. Relaxed a little."
+
+"Then what?"
+
+"They talked for maybe thirty seconds. Then—" Dale stopped, his hands shaking. "Then he grabbed her. She tried to pull away, but he was strong. He had her in the truck in seconds. The whole thing took maybe a minute."
+
+"Why didn't you intervene?" Matt asked. The question wasn't accusatory, just direct.
+
+"By the time I realized what was happening, the truck was already pulling out. I started my truck and followed, but he was heading north and I was on the wrong side of the building. By the time I got to the road, he had a lead on me."
+
+"Did you catch up?"
+
+"No. I lost him on Route 39. He must have turned off somewhere, but I didn't see where." Dale's voice was barely a whisper now. "I drove around for an hour looking. Then I went home."
+
+Matt processed this. "You didn't call the police?"
+
+"And tell them what? That I'd been following Sarah? That I'd watched her get taken and didn't stop it? They'd think I was involved."
+
+"So what did you do?"
+
+Dale's eyes filled. "I went home. Checked my trail camera footage, hoping maybe I'd caught something that would help. And around midnight, a truck pulled onto my property. Same bad muffler. He had Sarah."
+
+The room went quiet. Matt could hear the hum of the fluorescent lights overhead, the distant sound of phones ringing in the main office.
+
+"He brought her to your property," Brandon said.
+
+Dale nodded. "He dragged her out of the truck. She was conscious but not fighting much—I think he'd drugged her. He took her toward the barn. I grabbed my shotgun and went after them."
+
+"Did you confront him?"
+
+"I tried. I came out of the house, yelled at him to let her go. He turned—" Dale stopped, his breathing shallow. "I couldn't see his face clearly. Too dark. But he saw me with the gun and he ran. Left Sarah there on the ground and ran back to his truck. Took off south toward the main road."
+
+"Did you shoot?"
+
+"I fired one shot in the air. Warning. But he was already in his truck." Dale wiped his eyes. "I went to Sarah. She was barely conscious. I got her inside, into the spare bedroom. Called a doctor I know—someone who asks questions."
+
+Hicks interjected. "My client wants it noted that his priority was Sarah's immediate safety, not proper protocol."
+
+"The doctor came, checked her out. She'd been drugged with something—he thought maybe Rohypnol or something similar. He gave her something to help her metabolize it, said she'd be okay in a few hours."
+
+"Did you call the police then?" Matt asked.
+
+"No. I was afraid. I'd followed her, I'd watched someone take her, I'd brought her to my property. It would look like I was involved."
+
+"So you kept her there," Brandon said.
+
+"To protect her," Dale said firmly. "I thought whoever had taken her would come back. I put a chain on the bedroom door so she couldn't leave while she was still drugged. I gave her food, water, books. I was trying to keep her safe until I could figure out what to do."
+
+"How long was she there?" Matt asked.
+
+Dale's voice dropped to almost nothing. "Three days. She was awake on the second day. Scared, angry. I tried to explain, but she didn't understand. She thought I was the one who'd taken her."
+
+"What happened on the third day?"
+
+Dale's face crumpled. "I had to work. I had a job I couldn't miss or I'd lose my county contract. I thought she'd be safe—I had the cameras running, watching the property. I told her I'd be back by evening, that we'd figure out what to do together."
+
+"But you came home to find—" Brandon prompted.
+
+"She was gone. The chain had been cut. The back door was open. I checked the cameras immediately." Dale's hands were shaking violently now. "Someone had come onto the property around two PM. Same truck. He'd gone straight to the house like he knew exactly where she was."
+
+"And then?"
+
+"The camera facing the barn caught them. He dragged her there. She was fighting him this time—fully awake, trying to get away. But he was bigger, stronger. They went inside the barn." Dale's voice broke completely. "The camera angle didn't show inside. But I heard the footage later—there was audio. I heard her screaming. Then nothing."
+
+The room was silent except for Dale's ragged breathing.
+
+"I got home around six-thirty," Dale continued. "Ran to the barn as soon as I saw the back door open. She was—" He couldn't finish.
+
+"She was dead," Matt said quietly.
+
+Dale nodded. "He'd strangled her. She was on the ground in the southeast corner. There was dirt under her fingernails. She'd—she'd tried to fight."
+
+Brandon's voice was barely audible. "What did you do with her body?"
+
+Dale looked at his lawyer. Hicks nodded.
+
+"I buried her," Dale said. "I know I shouldn't have. But I was terrified. If the police found her on my property, in my barn, after I'd kept her in my house for three days—" He shook his head. "They'd think I killed her. They'd never believe the truth."
+
+"Where did you bury her?" Matt asked.
+
+Dale was quiet for a long moment. Then: "In my back pasture. Under the old oak tree near the property line. About two hundred yards from the barn."
+
+Matt made a note. "We'll need to recover her remains."
+
+"I know."
+
+Brandon leaned forward. "Dale, who was driving that truck? Who killed Sarah?"
+
+Dale's jaw tightened. "I told you—I couldn't see clearly."
+
+"But you have suspicions," Brandon said. It wasn't a question.
+
+Dale looked at his lawyer again. Hicks spoke carefully. "My client has concerns about his safety if he names the individual he suspects."
+
+"Is it someone in law enforcement?" Brandon asked.
+
+The question hung in the air. Dale didn't answer, but his silence was answer enough.
+
+Matt felt something cold settle in his gut. "Someone who would have access to this investigation. Someone who could tamper with evidence or redirect our inquiries."
+
+"My client isn't prepared to name anyone without proof," Hicks said firmly.
+
+"The trail camera footage," Brandon said suddenly. "You said you watched it. Where is it?"
+
+Dale's face went even paler. "I deleted it. After I buried her. I was afraid—"
+
+"Deleted how?" Matt asked.
+
+"From the cameras. I pulled the SD cards and reformatted them. Wrote over them multiple times. Made sure nothing could be recovered."
+
+Brandon shook his head slowly. "You destroyed the evidence that would prove your story."
+
+"I destroyed the evidence that would get me killed," Dale said flatly.
+
+Matt closed the folder. His mind was racing, connecting pieces. The bad muffler. The truck that showed up at Dale's property like the driver knew exactly where Sarah was. Someone in law enforcement who'd have access to the investigation.
+
+Kowalski.
+
+Matt didn't say the name out loud. Not yet. Not without proof.
+
+"Mr. Kovacs," Matt said carefully. "We're going to need your help. We need to recover Sarah's body. We need to examine your property again, especially that barn. And we need you to tell us everything you remember about that truck—every detail, no matter how small."
+
+Dale nodded slowly. "I'll help. I'll tell you everything I know. But—" He looked between them. "You have to understand. Whoever killed Sarah knew where she was. Knew I had her. That means he was watching me. Watching my property. Maybe even now."
+
+"We'll protect you," Matt said.
+
+"You can't protect me if you don't know who you're protecting me from."
+
+Brandon stood. "Then we'll figure it out. Starting now."

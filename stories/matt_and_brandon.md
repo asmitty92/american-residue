@@ -118,13 +118,15 @@ Matt slid into the opposite side of the booth. "You order yet?"
 
 A waitress appeared—sixties, reading glasses on a chain, nametag that said Dottie. She pulled an order pad from her apron. "Coffee?"
 
-"Please," Matt said. "And another Coke for him."
+"Please," Matt said. "And a Coke for him."
 
-The glass was empty, but Matt had learned his patterns over the past three years. Coffee first thing in the morning and after midnight when they were working late. Coke any other time. Iced tea if he was trying to think through something complicated.
+Matt had learned Brandon's patterns over the past three years. Coffee first thing in the morning and after midnight when they were working late. Coke any other time. Water if he was trying to think through something complicated.
 
-"We got meatloaf tonight," Dottie said. "Comes with mashed potatoes and green beans. Chef's special."
+"We got pork chops tonight," Dottie said. "Comes with mashed potatoes and green beans. Chef's special."
 
-Matt ordered the meatloaf. Brandon asked for a burger, no pickles. Dottie collected the menus and shuffled back toward the kitchen. 
+"That sounds good. I'll have that."
+
+Brandon asked for a burger, no pickles. Dottie collected the menus and shuffled back toward the kitchen. 
 
 Matt's fingers tapped out a steady rhythm on the table top in the silence that followed. Waiting to see if Brandon had anything to say.
 
@@ -196,7 +198,7 @@ Matt leaned forward and rested his elbows on the table. His hands slowly massage
 
 "Possibly."
 
-Dottie brought their food. The meatloaf came swimming in brown gravy, with real mashed potatoes—not the instant kind—and green beans that still had some snap to them. A basket of rolls arrived with actual butter, not the plastic packets. Brandon's burger was thick and hand-formed, cheese melted perfectly over the edges. The kind of food that justified a small town diner's existence.
+Dottie brought their food. The pork chop was thick cut and not overdone, with real mashed potatoes—not the instant kind—and green beans that still had some snap to them. A basket of rolls arrived with actual butter, not the plastic packets. Brandon's burger was thick and hand-formed, cheese melted perfectly over the edges. The kind of food that justified a small town diner's existence.
 
 "So where do we start?" Matt asked. "Coworkers at the library? Regular customers? Ex-boyfriends?"
 
@@ -1171,7 +1173,7 @@ Walton started to shake his head, then stopped. "Wait. Yeah. There was a truck p
 
 Brandon's pulse quickened, but he kept his expression neutral. "What kind of truck?"
 
-"Chevy. Older model. Dark color-coulda been black, blue, or green, there's no lights on that side of the building." Walton's eyes went distant, like he was replaying the memory. "I only noticed it because it seemed like a weird place to park. The pumps were empty, the lot was empty. Why park way over there unless you didn't want to be visible from the road?"
+"Chevy. Older model. Dark color-coulda been black, but I'm almost positive it was light blue. There's no lights on that side of the building, but some of the lights over the pumps caught it." Walton's eyes went distant, like he was replaying the memory. "I only noticed it because it seemed like a weird place to park. The pumps were empty, the lot was empty. Why park way over there unless you didn't want to be visible from the road?"
 
 "Did you see anyone in or near the truck?"
 

@@ -111,7 +111,6 @@ They drove back to Thorndale in silence as the last light bled from the sky.
 The Bluebird Diner sat on the corner of Main and Second in Thorndale, a chrome-sided relic from the fifties with cracked vinyl booths and a rotating pie case by the register. Matt pulled into the gravel parking lot at seven forty-five, following the hand-lettered sign that promised "Home Cooking & Cold Beer." The interior glowed warm yellow through the windows. Only three other cars in the lot—locals, probably, based on the Purdue and Indiana State decals in the back windows.
 
 Brandon was already inside when Matt walked through the door. He'd taken a booth near the back, away from the handful of other customers scattered along the counter. A laminated menu sat untouched in front of him. He stared at the table surface like he was reading something written there.
->COMMENT: How did Brandon get here by himself before Gray. They only have one car right?
 
 Matt slid into the opposite side of the booth. "You order yet?"
 
@@ -929,8 +928,7 @@ Matt showed his badge. "Special Agents Ellis and Gray, FBI. We're here to see Ch
 
 She picked up a phone, pressed a button. "Tom, the FBI agents are here." A pause. "Okay." She hung up and pointed to a door on their right. "Through there. Second office on the left."
 
-The hallway was narrow, lined with photos of past sheriffs and deputies. Matt counted eight different sheriffs going back to 1952. At the end of the hall, a break room door stood open. Inside, someone was heating something in a microwave that smelled like burned popcorn.
->COMMENT: I like the tactile detail of the microwave's smell but burnt popcorn is a bit cliche for it.
+The hallway was narrow, lined with photos of past sheriffs and deputies. Matt counted eight different sheriffs going back to 1952. At the end of the hall, a break room door stood open. Inside, someone was heating something in a microwave that smelled like freezer burned lasagna.
 
 The second office on the left had a nameplate: Chief Deputy Tom Dunham. The door was open. Matt knocked on the frame anyway.
 
@@ -1422,8 +1420,7 @@ And what they'd been watching during the past six months.
 
 Matt pulled onto County Road 275 just after nine AM, gravel crunching under the tires. Brandon sat in the passenger seat, quiet since they'd left the motel. He'd been like that all morning—present but distant, like his mind was already at the property they were about to visit.
 
-Dale Kovacs's place sat a half-mile down the road, a white farmhouse with dark green shutters set back from the county road. The house looked well-maintained in that utilitarian way bachelor farmers kept things—paint wasn't peeling, gutters were clean, lawn was mowed, but there were no flower beds or decorative touches. A stone path led from the gravel driveway to the front porch. Beyond the house, maybe a hundred yards back, Matt could see the barn—weathered red wood, metal roof, surrounded by overgrown grass and scraggly trees.
->COMMENT: Also, in a hint to his previous marriage could there be decorative touches that are worn and faded by time? Hint the place had once had a woman's touch.
+Dale Kovacs's place sat a half-mile down the road, a white farmhouse with dark green shutters set back from the county road. The house looked well-maintained in that utilitarian way bachelor farmers kept things—paint wasn't peeling, gutters were clean, lawn was mowed. But there were hints of better days: flower boxes under the windows gone to weeds, a faded welcome mat, the remnants of what might have once been a garden bed along the porch. The kind of touches a woman might add that a man living alone would let slip.
 
 Brandon's gaze went straight to the barn when they pulled in.
 
@@ -1594,7 +1591,6 @@ Brandon was staring at the barn again. Matt noticed Dale's eyes following his ga
 "Not more recently?"
 
 Dale's breathing had quickened slightly. "What do you want from me?"
->COMMENT: Twang, Dale's breathing quickening at the suggestion he was in the barn more recently. Sarah has been dead for months.
 
 Matt kept his voice level. "We want to know what happened to Sarah Carpenter."
 

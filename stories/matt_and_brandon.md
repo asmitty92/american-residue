@@ -1839,13 +1839,15 @@ Dunham nodded. "I'll have my team here at oh-seven-hundred. We'll brief and roll
 
 "Who are you bringing?" Matt asked.
 
-"Me, Deputy Harris, and Kowalski. Harris is good with documentation—he'll photograph and video everything. Kowalski was first on scene back in April, he knows the case inside and out. Plus it's a Saturday—most of my deputies are off."
+"Me along with Deputies Harris, Michaels, and Kowalski. Harris is good with documentation—he'll photograph and video everything. Kowalski was first on scene back in April, he knows the case. Michaels can keep Kovacs in check. Plus it's a Saturday—most of my deputies are off."
+>COMMENT: added deputy Michaels to have someone to sit with Dale. Harris gets assigned both to keep Kovacs company and follow Matt for documentation.
 
-Brandon kept his expression neutral, but he filed the information away. Kowalski would be there. Good. He wanted to see how Dale reacted to him.
+<!-- Brandon kept his expression neutral, but he filed the information away. Kowalski would be there. Good. He wanted to see how Dale reacted to him.-->
+>COMMENT: Removing this. Bran has no reason to believe Kowalski will arouse Dale's suspicion
 
 "We'll need to call in forensics if we find what we think we're going to find," Matt said.
 
-"ISP has a crime scene unit in Terre Haute. I'll give them a heads-up that we might need them tomorrow." Dunham pushed off the doorframe. "You two should get some rest. Tomorrow's going to be a long day."
+"ISP has a crime scene unit in Terre Haute. I'll give them a call, make sure they're on standby for tomorrow." Dunham pushed off the doorframe. "You two should get some rest. Tomorrow's going to be a long day."
 
 After Dunham left, Matt turned to Brandon. "You find anything useful in those files?"
 
@@ -1853,15 +1855,15 @@ After Dunham left, Matt turned to Brandon. "You find anything useful in those fi
 
 "But?"
 
-Brandon tapped the photo of Sarah's purse. "Her cell phone wasn't in here. It was found at the library three days later, in the break room. She'd left it there when her shift ended."
+Brandon tapped the photo of Sarah's purse. "We talked about this the other night, but her cell phone wasn't in here. It was found at the library a week later, in the stacks. The implication being she must have left it there during her workday."
 
 "So?"
 
-"So she called AAA from the payphone at the Crossroads. But before that, she would've tried her cell first. That's what anyone would do. You don't go straight to a payphone in 2010 unless you don't have your phone."
+"So she called AAA from the payphone at the Crossroads. She would've used her cell if she'd had it with her. That's what anyone would do. You don't go straight to a payphone in 2010 unless you don't have your phone."
 
 Matt thought about this. "You think someone made sure she didn't have it?"
 
-"Or she realized she'd left it at work and didn't want to drive all the way back to get it. But it's convenient. No cell phone means no GPS tracking, no call records from that night except the landline at the Crossroads."
+"I think it's convenient for our perp that she didn't have. No cell phone means no GPS tracking, no call records from that night except the landline at the Crossroads."
 
 "You think that was planned?"
 
@@ -1901,13 +1903,13 @@ Dale stepped back from the door, pulling it open wider. "It's not what you think
 
 "What do we think, Mr. Kovacs?" Dunham asked.
 
-Dale looked at all of them again. His eyes lingered on Kowalski. "You think I hurt her. I didn't. I was trying to help."
+Dale looked at all of them again. His eyes lingered on Kowalski. "Y'all think I hurt her. I didn't. I was trying to help."
 
 "Help who?" Matt asked.
 
 Dale's mouth worked but no sound came out. Finally he just shook his head. "I want my lawyer."
 
-"That's your right," Dunham said. "You can wait in your living room or outside. Deputy Harris will stay with you. The rest of us are going to search your property."
+"That's your right," Dunham said. "You can wait in your living room or outside. Deputy Michaels will stay with you. The rest of us are going to search your property now."
 
 Dunham looked at Matt, then at Brandon. "How do you want to split up?"
 
@@ -1915,13 +1917,15 @@ Brandon spoke before Matt could. "I'll take the barn."
 
 Matt studied him for a moment, then nodded. "I'll start with the house. Dunham, you want to coordinate?"
 
-"Harris, you're with Matt for documentation. Kowalski, you go with Agent Gray to the barn." Dunham turned to Dale. "Keys to the barn?"
+Kowalski spoke up quickly, "I'll take the barn with Agent Gray."
+
+"Ok. Harris, you're with Matt for documentation." Dunham turned to Dale. "Keys to the barn?"
 
 "It's not locked."
 
 "Any animals in there we should know about?"
 
-"No. Nothing." Dale's voice was barely a whisper.
+"A couple of old barn cats. But they won't bother ya." Dale's voice was barely a whisper.
 
 They separated. Brandon walked toward the barn with Kowalski beside him. The deputy was quiet, his expression professional but curious. Brandon could feel him watching.
 
@@ -1931,9 +1935,10 @@ The space was mostly empty. Some old equipment against the far wall—a rusted p
 
 Brandon stood just inside the doorway, letting his eyes adjust. Letting himself feel.
 
-The impression hit him immediately, the same one he'd felt standing outside the barn two days ago. Trauma. Terror. Death. It saturated the space like a stain.
+The impression hit him immediately, the same one he'd felt two days ago. Trauma. Terror. Death. It saturated the space like a stain.
 
 But there was more now. More detail. He could almost see it—a woman on the ground, struggling. Hands at her throat. The desperate need to do something, anything, to leave evidence. To make sure someone would know she'd been here.
+>COMMENT: Is this, in combination with is find, too much?
 
 Brandon's eyes moved to the southeast corner of the barn, near where the workbench stood. The dirt there was slightly darker, slightly more disturbed.
 
@@ -1943,15 +1948,15 @@ He walked toward it.
 
 "Evidence," Brandon said simply.
 
-He knelt by the dark patch of dirt. Up close, it was clear that something had happened here. The ground was compressed in a pattern that didn't match the rest of the floor. And there—a slight depression, like something had been pressed down into the earth.
+He knelt by the dark patch of dirt. Up close, it was clear that something had happened here. The ground was compressed in a pattern that didn't match the rest of the floor. Something had happened in this area. And the ground had been soft when it had.
 
-Brandon pulled a pair of latex gloves from his pocket and put them on. Then he started brushing away the loose dirt with his fingers.
+Brandon pulled a pair of latex gloves from his pocket and put them on. He produced a small flashlight to illuminate the ground and started combing the area gently with his fingers.
 
 "You see something?" Kowalski moved closer.
 
 "Maybe."
 
-Brandon dug carefully, methodically. Two inches down, his fingers hit something solid. Metal. He worked around it, exposing more of the object.
+Brandon pulled a small switchblade from his pocket and pushed the thumb slide. The blade punched forward and locked open. Using the knife, he began moving dirt carefully, methodically. Two inches down, he saw a glint of etal. He worked around it, exposing more of the object.
 
 A bracelet. Silver, delicate, partially tarnished. It had been buried deliberately, pressed down into the soft earth.
 
@@ -1959,7 +1964,7 @@ Brandon pulled it free and held it up to the light. It was distinctive—a charm
 
 "How did you know that was there?" Kowalski's voice had an edge to it now. Suspicion.
 
-Brandon looked at him. Kowalski was staring at the bracelet, but his expression was wrong. Not surprise at the find. Something else. Something harder.
+Brandon looked at him. Kowalski was staring at the bracelet. He wasn't surprised at the find. He was more concerned with the how.
 
 "I didn't," Brandon said. "I was searching for evidence. I found some."
 
@@ -1969,19 +1974,17 @@ Kowalski was still watching him. "You just happened to dig in the exact right sp
 
 "The dirt was disturbed here. It stood out."
 
-It wasn't entirely a lie. The dirt was disturbed. Brandon just hadn't needed to see it to know where to look.
+It wasn't entirely a lie. The dirt was disturbed in that area.
 
 He turned and walked back toward the barn door, the bagged bracelet in his hand. Behind him, he heard Kowalski's footsteps following.
 
-As they emerged into the morning sunlight, Brandon glanced back at the barn. The impression was still there—fading now that he'd found what he'd been drawn to, but not gone. Something terrible had happened in that barn.
-
-And Kowalski knew it.
+As they emerged into the morning sunlight, Brandon glanced back at the barn. The impression was still there—fading now, but not gone. Something terrible had happened in that barn.
 
 ---
 
-Brandon walked toward the house, the evidence bag in his hand. Through the front window, he could see Matt and Dunham in what looked like a hallway, both of them staring at something. Matt was taking photos with his phone.
+Brandon walked toward the house, the evidence bag in his hand. Through the front window, he could see Matt, Harris, and Dunham in what looked like a hallway, both of them staring at something. Matt was taking photos with his phone.
 
-Dale sat on the front porch steps, Deputy Harris standing a few feet away. Dale's head was in his hands. When Brandon walked past, Dale looked up. His eyes went to the evidence bag, then to Brandon's face.
+Dale sat on the front porch steps, Deputy Michaels standing a few feet away. Dale's head was in his hands. When Brandon walked past, Dale looked up. His eyes went to the evidence bag, then to Brandon's face.
 
 "Where was it?" Dale's voice was barely audible.
 
@@ -2011,11 +2014,11 @@ Brandon held up the evidence bag with the bracelet. "Found this in the barn. Bur
 
 Matt took the bag, studying the bracelet through the plastic. "Charm bracelet. That's specific enough that Sarah's mother could probably identify it."
 
-"It was pushed into the ground," Brandon said. "Deliberately buried."
+"It was pushed into the ground," Brandon said. "Almost definitely deliberately buried."
 
 Dunham looked at him sharply. "How do you know it was deliberate?"
 
-"The way it was positioned. Someone put it there and covered it."
+"The way it was positioned, almost two inches deep. Someone pushed it down and covered it."
 
 Matt was still examining the bracelet. "If this is Sarah's, and it was in the barn..." He looked at Brandon. "She was kept in the house but killed in the barn?"
 

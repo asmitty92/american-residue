@@ -1804,8 +1804,6 @@ Of failure.
 
 Brandon was right. They weren't going to find what they expected when they searched that property.
 
-But whatever they found, Matt had a feeling it was going to change everything.
-
 # Chapter Six
 **Friday Afternoon**
 
@@ -2020,7 +2018,7 @@ Dunham looked at him sharply. "How do you know it was deliberate?"
 
 "The way it was positioned, almost two inches deep. Someone pushed it down and covered it."
 
-Matt was still examining the bracelet. "If this is Sarah's, and it was in the barn..." He looked at Brandon. "She was kept in the house but killed in the barn?"
+Matt was still examining the bracelet. "If this is Sarah's, and it was in the barn..." He looked at Brandon. "She was kept in the house but later moved to the barn?"
 
 "That's what the evidence suggests."
 
@@ -2028,7 +2026,7 @@ Matt was still examining the bracelet. "If this is Sarah's, and it was in the ba
 
 Brandon looked back at the bedroom. The chain. The water bottles. The book. Someone had been kept here, but not violently. Not in squalor. The room was clean. There was food, water, reading material.
 
-"He wasn't torturing her," Brandon said. "This looks like he was keeping her safe."
+"He wasn't torturing her," Brandon said. "This looks like he wanted her to be comfortable. Safe."
 
 "Safe from what?" Matt asked.
 
@@ -2040,7 +2038,7 @@ Matt moved closer to Brandon, lowering his voice. "You found that bracelet prett
 
 "The dirt was disturbed in that corner."
 
-"You didn't search the whole barn. You went right to that spot."
+"You didn't have time to search the whole barn. You went right to that spot. The same spot you went to the other day."
 
 Brandon met his eyes. "Sometimes you get lucky."
 
@@ -2050,7 +2048,7 @@ Dunham came back into the room. "ISP is sending a team. They'll be here in ninet
 
 "On what charge?" Matt asked.
 
-"Kidnapping at minimum. We've got evidence someone was held here against their will. Once forensics confirms it was Sarah, we'll add more." Dunham looked around the room one more time. "This changes everything. Dale Kovacs has been sitting on this property for six months knowing Sarah Carpenter was here."
+"Kidnapping at minimum. We've got evidence someone was held here against their will and every reason to believe it was Sarah. Forensics will confirm it, but we can arrest him on what we have now." Dunham looked around the room one more time. "This changes things. Dale Kovacs has been sitting on this property for six months knowing Sarah Carpenter was here."
 
 "But she's not here now," Brandon said. "And if she died in the barn, where's her body?"
 
@@ -2058,15 +2056,15 @@ The question hung in the air. Matt looked at Brandon, and Brandon saw the realiz
 
 "He moved her," Matt said. "After she died, he moved her body."
 
-"Or someone else did," Brandon said.
+"Someone did," Brandon said.
 
 Dunham frowned. "You think there's another person involved?"
 
-"I think we need to ask Dale Kovacs some very specific questions," Brandon said. "And I think we need to do it before his lawyer shows up."
+"I think there's quite a bit more to this than we know right now," Brandon said. "We need to ask Dale Kovacs some very specific questions."
 
 They walked back outside. Dale was still sitting on the porch steps, his head in his hands. When he heard them coming, he looked up. His eyes were red.
 
-Dunham stepped forward. "Dale Kovacs, you're under arrest for kidnapping. You have the right to remain silent. Anything you say can and will be used against you in a court of law..."
+Dunham stepped forward. "Dale Kovacs, you're under arrest for the kidnapping of Sarah Carpenter. You have the right to remain silent. Anything you say can and will be used against you in a court of law..."
 
 Dale didn't resist as Harris pulled him to his feet and cuffed him. He just stood there, looking at the house, then at the barn, then at nothing.
 
@@ -2074,7 +2072,7 @@ Dale didn't resist as Harris pulled him to his feet and cuffed him. He just stoo
 
 "Protect her from what?" Matt asked.
 
-Dale shook his head. "I need my lawyer."
+Dale shook his head. "Not without a lawyer."
 
 "Where is she, Dale?" Brandon asked. His voice was very quiet. "Where's Sarah?"
 
@@ -2106,7 +2104,7 @@ Brandon looked at him. "The dirt was disturbed."
 
 "That you do." Kowalski glanced at the barn, then back at Brandon. "You think he killed her in there? Sarah?"
 
-"Evidence suggests she was there."
+"The bracelet suggests she was there."
 
 "But no body."
 
@@ -2120,15 +2118,13 @@ Kowalski nodded slowly. "Well, I hope you find her. Sarah deserves better than t
 
 He walked back to his vehicle to wait for the ISP team.
 
-Brandon watched him go. There was something in the way Kowalski had asked about the barn. Something in the way he'd watched Brandon dig. Something wrong.
-
 Matt came up beside him. "ISP will be here soon. We should document what we can before they take over."
 
 "Yeah."
 
 "You okay?"
 
-Brandon looked at his partner. "Dale was telling the truth. He was trying to protect her."
+Brandon looked at his partner. "I think Dale was telling the truth. He was trying to protect her."
 
 "From what?"
 

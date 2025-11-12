@@ -309,7 +309,6 @@ By six he was dressed and downstairs in the Quality Inn's breakfast area, a corn
 The case files were spread across the table in front of him, arranged in an order that would look haphazard to anyone else. Witness statements on the left, organized by proximity to the scene. Security footage stills in the center, sequenced by timestamp. Victimology on the right—Sarah Carpenter's life in documents and photographs.
 
 He had a cup of black coffee cooling in front of him. It was surprisingly good quality for a hotel, some regional brand.
->COMMENT: making the coffee a bit higher quality. People in the rural Midwest often take more care in their jobs. The service at a hotel like this might be strong even if the building has seen better days.
 
 Three other people occupied the breakfast area. An older couple near the waffle maker, talking quietly about their grandson's football game. A man in his forties at a table by the window, reading the local newspaper while eating a bagel. The man wore no wedding ring but had a tan line that suggested there should be one there. Recent divorce, or possibly a man looking to cheat while on the road.
 
@@ -1423,15 +1422,14 @@ And what they'd been watching during the past six months.
 
 Matt pulled onto County Road 275 just after nine AM, gravel crunching under the tires. Brandon sat in the passenger seat, quiet since they'd left the motel. He'd been like that all morning—present but distant, like his mind was already at the property they were about to visit.
 
-Dale Kovacs's place sat a half-mile down the road, a white farmhouse with dark green shutters set back from the county road. Twelve acres, according to the property records Matt had pulled that morning. The house looked well-maintained in that utilitarian way bachelor farmers kept things—paint wasn't peeling, gutters were clean, lawn was mowed, but there were no flower beds or decorative touches. A stone path led from the gravel driveway to the front porch. Beyond the house, maybe a hundred yards back, Matt could see the barn—weathered red wood, metal roof, surrounded by overgrown grass and scraggly trees.
->COMMENT: Brandon already said the property is 12 acres yesterday when they were driving by. Also, in a hint to his previous marriage could there be decorative touches that are worn and faded by time? Hint the place had once had a woman's touch.
+Dale Kovacs's place sat a half-mile down the road, a white farmhouse with dark green shutters set back from the county road. The house looked well-maintained in that utilitarian way bachelor farmers kept things—paint wasn't peeling, gutters were clean, lawn was mowed, but there were no flower beds or decorative touches. A stone path led from the gravel driveway to the front porch. Beyond the house, maybe a hundred yards back, Matt could see the barn—weathered red wood, metal roof, surrounded by overgrown grass and scraggly trees.
+>COMMENT: Also, in a hint to his previous marriage could there be decorative touches that are worn and faded by time? Hint the place had once had a woman's touch.
 
 Brandon's gaze went straight to the barn when they pulled in.
 
 "You good?" Matt asked.
 
 "Yes." Brandon's voice was flat. "Let's do this."
->COMMENT: Brandon is too precise with is language for 'Yeah' in this instance.
 
 A dark blue Silverado sat in the driveway, ten to fifteen years old, well-used but clean. Matt parked behind it and they got out. The morning was cool and still, the sky overcast but not threatening rain. A crow called from somewhere in the trees behind the barn.
 
@@ -1444,15 +1442,12 @@ The front door opened before they reached the porch. Dale Kovacs stepped out, we
 Matt showed his badge. "Agent Ellis, FBI. This is Agent Gray. We're investigating the disappearance of Sarah Carpenter. We'd like to ask you a few questions if you have a few minutes."
 
 Dale's expression didn't change much—a slight tightening around the eyes, but he nodded. "Sure. I saw you boys at the library yesterday didn't I. I already talked to the deputies back in April, but I'm happy to help however I can." He came down off the porch. "You want to come inside, or...?"
->COMMENT: Added recognition from the library, contributes to initially cooperative demeanor
 
 "Out here is fine," Matt said. "We won't take much of your time. We're just gathering information from people who knew Sarah and had contact with her around the time she disappeared."
 
 "All right." Dale folded his arms, not defensively but like he was cold. The sun was out today, but the morning was chilly and crisp. "What do you need to know?"
->COMMENT: added detail about the morning weather
 
 Matt pulled out his notebook. "We understand you are a regular patron at the Blackburn Public Library?"
->COMMENT: were to are, he still goes in regularly
 
 "That's right. I like to read. Go there a few times a month."
 
@@ -1482,41 +1477,35 @@ Dale's jaw tightened slightly. "Okay. Then I was there."
 
 "Just whatever you say when someone checks out your books. 'Have a good day,' that kind of thing."
 
-Brandon spoke for the first time, his voice quiet. "What did you do after you left the library?"
+Brandon spoke for the first time, his voice quiet. "What did you do before you arrived the library?"
 
 Dale looked at him. "Went to the Rural King. Needed some supplies."
->COMMENT: Dale was at Rural King before the library in our timeline. Is this an intentional flub from Dale or a mistake on your part
 
 "What kind of supplies?" Brandon asked.
 
-"Trail cameras. Deer season was coming up. I wanted to see what was moving through my property."
->COMMENT: Deer season in Indiana is Sept-January, again this is inconsistent. Is it intentional or a mistake?
+"Trail cameras. I'd been having some trouble on my property. I wanted to see what was moving through."
 
-Matt made a note. "How many cameras did you buy?"
+Matt made a note. "What kind of trouble were you having?"
+
+"Something was coming on my property and killing my chickens. I wanted to find out what."
+
+"How many cameras did you buy?"
 
 "Four."
 
-"That's a lot of cameras for one property."
->COMMENT: It's really not
+"Where did you place them?" Brandon asked. His gaze kept drifting toward the barn.
 
-Dale shrugged. "I've got twelve acres. I wanted good coverage."
-
-"Where did you place them?" Brandon asked. His gaze was still drifting toward the barn.
-
-"Around the property line. Couple near the road, couple out back."
->COMMENT: Four cameras isn't enough to cover all of this. 
+"Couple in front near the road, couple out back."
 
 "Near the barn?" Brandon's eyes finally settled on Dale.
 
-Dale's expression shifted—something flickered there. Wariness. "One of them, yeah."
->COMMENT: Why the barn? How did Dale know something would happen there? Sarah died in the barn, but I think she was held in the house.
+Dale's expression shifted—something flickered there. Wariness. "One of them was, yeah."
 
 Matt kept his tone conversational. "What time did you leave the Rural King?"
 
 "I don't know. Maybe six, six-fifteen."
->COMMENT: Before the time his books were checked out
 
-"And then?"
+"And what about after the library? What did you do then?"
 
 "Came home. Set up the cameras. Had dinner."
 
@@ -1524,8 +1513,7 @@ Matt kept his tone conversational. "What time did you leave the Rural King?"
 
 "No."
 
-"You didn't stop anywhere between the Rural King and home?"
->COMMENT: He was at the library after Rural King
+"You didn't stop anywhere after the library?"
 
 Dale's arms tightened slightly. "No. I came straight here."
 
@@ -1557,7 +1545,7 @@ The question hung in the air. Dale looked between them—Matt's neutral expressi
 
 "I live alone."
 
-Matt made another note. "Mr. Kovacs, Sarah's borrowing records show you checked out books on the same days she was working at least eight times in the six months before she disappeared. That seems like more than coincidence."
+Matt made another note. "Mr. Kovacs, Sarah's borrowing records show you checked out books on the same days she was working at least thirteen times in the six months before she disappeared. That seems like more than coincidence."
 
 "It's a small library. She worked most of the shifts."
 
@@ -1581,8 +1569,7 @@ Dale's eyes snapped to Brandon. "What?"
 
 "I went to check out books."
 
-"Eight times in six months," Brandon said. "Always when she was working. You knew her schedule."
->COMMENT: Barely more than once a month. Should it be more than 8 times?
+"Thirteen times in six months," Brandon said. "Always when she was working. You knew her schedule."
 
 Dale's hands flexed. "I didn't do anything wrong. Going to a library isn't a crime."
 
@@ -1595,7 +1582,6 @@ Dale's hands flexed. "I didn't do anything wrong. Going to a library isn't a cri
 "I wasn't at the Crossroads." Dale's voice had risen slightly. Not shouting, but strained. "I was here. All night."
 
 Brandon was staring at the barn again. Matt noticed Dale's eyes following his gaze, and something in his face changed. Fear, maybe. Or guilt.
->COMMENT: Keep POV Matt focused. updated to have Matt notice Dale following Brandon's gaze and his reaction. Also have Matt ask the follow-up question since he's the one watching Dale as Dale watches Brandon
 
 "That barn trouble you, Mr. Kovacs?" Matt asked.
 
@@ -1608,6 +1594,7 @@ Brandon was staring at the barn again. Matt noticed Dale's eyes following his ga
 "Not more recently?"
 
 Dale's breathing had quickened slightly. "What do you want from me?"
+>COMMENT: Twang, Dale's breathing quickening at the suggestion he was in the barn more recently. Sarah has been dead for months.
 
 Matt kept his voice level. "We want to know what happened to Sarah Carpenter."
 
@@ -1624,12 +1611,10 @@ Dale looked at Brandon for a long moment. When he spoke, his voice was tight. "I
 "No," Matt said.
 
 "Then I don't have to talk to you. And I want you off my property." Dale stepped back toward his porch. "If you want to come back, bring a warrant."
->COMMENT: Premature to have Dale mention search. Changed to "I want you off my property."
 
 Matt held up a hand. "We're not trying to railroad you, Mr. Kovacs. We're just trying to find out what happened to a young woman who disappeared six months ago. If you know anything that could help—"
 
 "She had trouble with her car. Said it wasn't starting right," Dale said suddenly. The words came out rushed, like they'd been pulled from him against his will. "The starter was bad. That's probably why she was at the Crossroads."
->COMMENT: changed language to be more consistent with a guess
 
 Matt went very still. "How do you know that?"
 
@@ -1662,7 +1647,6 @@ Neither of them spoke until they were back on Route 39, heading toward Thorndale
 "Yeah." Brandon was staring out the window.
 
 "No one ever even figured out her card had been tampered with."
->COMMENT: Because they didn't know. They didn't even figure out her car had been tampered with.
 
 "No."
 
@@ -1707,15 +1691,12 @@ They went inside. Dunham was at his desk, going through paperwork. He looked up 
 "Can't say I'm surprised." Dunham leaned back in his chair. "You get anything useful?"
 
 "Enough for a warrant, I think." Matt pulled out his notebook. "Kovacs's truck matches the witness description—Travis remembered a dark blue Silverado with a decal on the back window. He was at the Rural King buying trail cameras two hours before Sarah disappeared. And he just told us that Sarah's car wouldn't start because the starter was bad."
->COMMENT: Removed Browning, Travis never said Browning. He didn't see the decal clearly.
 
 Dunham sat up straighter. "He said that?"
 
 "Word for word. 'Her car wasn't starting right. The starter was bad.'"
->COMMENT: I changed it above to remove 'someone tampered with it.'
 
-"We knew the car wouldn't start, but we never took a close look at why," Dunham said slowly.
->COMMENT: updated dialog
+"We knew the car wouldn't start because she called triple-A. We never took a close look at why," Dunham said slowly.
 
 "I know."
 
@@ -1728,7 +1709,6 @@ Dunham looked between them. "You think he's good for this?"
 Matt hesitated. "I think there's enough to search his property. What we find there will tell us more."
 
 "All right." Dunham pulled out his phone. "I'll call Judge Morrison. She's usually pretty quick on warrants if the evidence is solid. What are you asking for?"
->COMMENT: He mentioned the judge's name being Morrison in his previous appearance
 
 "Full property search," Matt said. "House, barn, outbuildings, vehicles. We're also requesting copies of any trail camera footage from the past six months."
 
@@ -1782,16 +1762,13 @@ Henderson unlocked the gate and led Matt through the yard. They passed a minivan
 
 "I would, yeah."
 
-Henderson opened the driver's door—unlocked, key still in the ignition where Sarah had left it six months ago—and pulled the hood release. The hood lifted with a rusty squeal.
->COMMENT: Key left in the ignition twangs, it doesn't thrum.
+Henderson opened the driver's door and pulled the hood release. The hood lifted with a rusty squeal.
 
 Matt leaned over the engine. He wasn't a mechanic, but he'd changed enough oil and replaced enough batteries to know the basics. The starter was visible near the bottom of the engine, connected to the flywheel.
->COMMENT: is this an accurate detail?
 
 He pulled out his phone and turned on the flashlight, angling it to get a better look.
 
 There—on the electrical connection to the starter. The wire had been partially disconnected, just enough that it wouldn't make full contact. Not cut, not obviously damaged. Just loosened. Someone who knew what they were doing could do it in thirty seconds. And when Sarah turned the key, the engine would crank but not catch right away. The wire was still connected enough that it might catch eventually. Probably how she got it started at the library. But when she tried again at the Crossroads, nothing.
->COMMENT: Updated. Need to explain why it started at the library.
 
 It wasn't an accident. It wasn't a mechanical failure.
 

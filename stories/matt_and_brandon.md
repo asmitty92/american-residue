@@ -2429,7 +2429,7 @@ After Dunham hung up, Matt set his phone down. "At least her mother will have cl
 
 Brandon didn't respond. Anyone who'd lost someone violently knew closure was a myth. Closure was what people said when they didn't know what else to offer. Linda Carpenter would get her daughter's body back, but she'd never get Sarah back. That wasn't closure. That was just the end of waiting.
 
-His mind flashed to Ashford, Missouri. To a payphone. To a ten-year-old boy who didn't understand why his big brother wouldn't talk about that night.
+His mind flashed to Ashford, Missouri. To a payphone. Where the waiting had never ended.
 
 His laptop chimed. The email from Indianapolis with database access credentials.
 
@@ -2459,15 +2459,15 @@ While Matt searched, Brandon pulled up property tax records. The Kovacs property
 
 "Found her," Matt said. "Jennifer Harding-Powell. Lives in Bloomington now. Looks like she remarried in 2005. She's got a Facebook page, pretty active. Lots of photos."
 
-"Of the stepson?"
+"Of a son?"
 
 "Multiple kids actually. Looks like she had at least two sons." Matt was scrolling through photos. "Here's an older photo from 2008. Jennifer with a younger son at his high school graduation. Caption says 'So proud of my Tyler graduating from Bloomington High South.' And then there are older photos—wait, here. From 1997. Jennifer and Dale with two boys. The younger one looks maybe seven or eight. The older one's a teenager."
 
-Brandon moved to look at Matt's phone. The photo showed Jennifer and Dale standing with two boys in front of what looked like Dale's barn. The younger boy—Tyler, presumably—smiled at the camera. The older boy, maybe fifteen or sixteen, stood slightly apart, arms crossed, not quite looking at the camera.
+Brandon moved to look at Matt's phone. The photo was faded-a scan of an old physical photo. It showed Jennifer and Dale standing with two boys in front of what looked like Dale's barn. The younger boy—Tyler, presumably—smiled at the camera. The older boy, maybe fifteen or sixteen, stood slightly apart, arms crossed, not quite looking at the camera.
 
 "Two stepsons," Brandon said. "The younger one stayed with Jennifer after the divorce. What about the older one?"
 
-"No recent photos of him that I can find. Last one I see is from 2001—him in what looks like a church youth group photo. He'd be maybe nineteen or twenty there."
+"No recent photos of him that I can find. Last one I see is from 2001—him in what looks like a church youth group photo. He'd be maybe eighteen or nineteen there."
 
 "So he was already an adult when the divorce happened," Matt said. "Or close to it. Old enough to leave on his own."
 
@@ -2485,7 +2485,7 @@ Marcus.
 
 Matt leaned over to read the screen. "Father died when he was ten. Two years later, his mother marries Dale. He goes from losing his father to having a stepfather, moving to a new property."
 
-"Formative years," Brandon said quietly. "That barn would have been his space. His refuge, maybe."
+"Formative years," Brandon said quietly. "That barn could have been his space. His refuge, maybe."
 
 "And then the marriage falls apart when he's twenty-one. He's an adult by then, but that property—that barn specifically—would still feel like his."
 
@@ -2507,7 +2507,7 @@ Brandon shook his head. "If Marcus is our guy and he's still in contact with his
 
 Brandon checked his watch. Nine-thirty on a Sunday morning. Churches would be in service now. "We'd have to wait until afternoon to get into their offices."
 
-"Or we could talk to people after service," Matt said. "See if anyone remembers Marcus Harding from the youth group fifteen, twenty years ago."
+"Or we could talk to people after service," Matt said. "See if anyone remembers Marcus Harding from the youth group ten or twelve years ago."
 
 Brandon didn't like that approach. Too visible, too many people who might mention it to the wrong person. But they needed information, and they needed it quickly.
 
@@ -2595,36 +2595,30 @@ She was pointing at Marcus Harding.
 
 Brandon felt something cold settle in his chest. "Are you certain?"
 
-"Not certain, no. But that face—there's something familiar about it. And the age is right. He looks about seventeen or eighteen in this photo, which would match the timing."
-
-Matt showed her another photo from Jennifer's Facebook—a more recent one, though still from several years ago. Marcus at maybe twenty-five, standing next to his mother and younger brother at what looked like a family gathering.
-
-"What about him? Have you seen this man before?"
-
-Linda studied the photo carefully. "I'm not sure. The face is similar, but older. I don't think I've seen him recently, if that's what you're asking."
+"Not certain, no. She never told me his name. But that face—there's something familiar about it. And the age is right. He looks about seventeen or eighteen in this photo, which would match the timing."
 
 "Have you heard the name Marcus Harding before?" Brandon asked.
 
-"Harding..." Linda's eyes widened slightly. "Jennifer Harding. I knew a Jennifer Harding years ago. We were both young widows. We talked a few times at church, about losing our husbands, raising kids alone. She had a son—older than Sarah, but I can't remember his name."
+"Harding..." Linda's eyes widened slightly. "Jennifer Harding. I knew a Jennifer Harding years ago. We'd both been widowed young. We talked a few times at church, about losing our husbands, raising kids alone. She had two boys-one around Sarah's age and one older, but I can't remember their names."
 
 "Did Sarah and Jennifer's son know each other?"
 
-"I don't think so. Well, not as friends. They were in the same church, so they probably knew of each other. But the age difference was too big for them to run in the same circles."
+"I don't think so. Well, not as friends. They were in the same church, so they probably knew of each other."
 
 Unless the age difference was exactly what attracted Marcus to Sarah. An older teenager, grieving his father, finding a younger girl who was going through the same loss. A connection that felt special. That turned into something darker.
 
 "Mrs. Carpenter," Brandon said carefully, "do you know what happened to Jennifer Harding? Where she is now?"
 
-"She remarried and moved away. Bloomington, I think? That was years ago, maybe 2005. I haven't kept in touch."
+"She remarried and moved away. I disremember where. That was several years ago, maybe 2005. I haven't kept in touch."
 
-"And her son?"
+"And her sons?"
 
-"I have no idea. He would have been an adult by then."
+"The younger one moved with her. I have no idea about the older boy. He would have been an adult by then and may have alredy been gone."
 
 Matt pulled up the Parke County Sheriff's Office website on his phone. The staff directory page showed three deputies in the right age range:
 
-Deputy Jason Snider, 29
-Deputy Miles Kowalski, 28  
+Deputy Jason Snider, 28
+Deputy Miles Kowalski, 29  
 Deputy Aaron Bowden, 27
 
 He showed Linda the page. "Have you seen any of these men before?"
@@ -2639,11 +2633,11 @@ Linda looked at each photo carefully. When she got to Miles Kowalski, she paused
 
 Matt made a note. "Do you know if Deputy Kowalski knew Sarah from before? From when she was younger?"
 
-"I don't know. I don't remember seeing him at church back then, but like I said, there were a lot of kids in and out of that youth group over the years."
+"I don't know. I don't remember seeing him back then, but like I said, there were a lot of kids in town that I didn't know well."
 
 Brandon studied the photo of Miles Kowalski on the sheriff's department website. Clean-cut, professional, the kind of face that blended into the background. Nothing remarkable. Nothing threatening.
 
-But the age was right. Twenty-eight in 2011, which meant he was born around 1983. Close enough to the Marcus Harding timeline.
+But the age was right. Twenty-nine in 2011, which meant he was born around 1982. Close enough to the Marcus Harding timeline.
 
 And he'd been asking Sarah about her job. About how long she'd worked there. 
 
@@ -2671,9 +2665,9 @@ Linda nodded. "Thank you. For finding her. For not giving up."
 
 Outside, Matt and Brandon walked to the car in silence. Once they were inside, Matt turned to Brandon.
 
-"So we've got Marcus Harding, age twenty-nine, who lost his father at age ten. Became Dale's stepson at twelve, lived on the property for nine years. Was in the same church youth group as Sarah, made her uncomfortable when she was twelve and he was eighteen. Then he disappears from the family photos after the divorce in 2003."
+"So we've got Marcus Harding, age twenty-nine, who lost his father at age ten. Became Dale's stepson at twelve, lived on the property for at least seven years. Was in the same church youth group as Sarah, made her uncomfortable when she was twelve and he was eighteen. Then he disappears from the family photos after the divorce in 2003."
 
-"And Miles Kowalski," Brandon added, "age twenty-eight, matches the physical description from the youth group photo. Came into the library earlier this year asking Sarah questions. Right age, right access, right background."
+"And Miles Kowalski," Brandon added, "age twenty-nine, matches the physical description from the youth group photo. Came into the library earlier this year asking Sarah questions. Right age, right access, right background."
 
 "If Kowalski is Marcus Harding, he changed his name at some point."
 

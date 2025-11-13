@@ -1486,7 +1486,7 @@ Dale looked at him. "Went to the Rural King. Needed some supplies."
 
 Matt made a note. "What kind of trouble were you having?"
 
-"Something was coming on my property and killing my chickens. I wanted to find out what."
+"Something was coming on my property, I'd seen...tracks. I wanted to find out what."
 
 "How many cameras did you buy?"
 
@@ -2152,7 +2152,7 @@ The door to the interview room opened. A man in his late fifties walked in, carr
 
 Dale looked up when the lawyer entered. Relief washed over his face.
 
-"That's Gerald Hicks," Brandon said. "Local attorney. Does a little bit of everything. He's not a criminal defense specialist, but he's not incompetent either."
+"That's Gerald Hicks," Brandon said. "Local attorney. Does a little bit of everything. He's not a criminal defense specialist, but he's competent."
 
 "You looked him up?"
 
@@ -2190,7 +2190,7 @@ Brandon leaned forward slightly. "Can't or won't?"
 
 Matt opened the folder and pulled out a photo of Sarah. "Then tell us what you can. Start from the beginning."
 
-Dale stared at the photo for a long moment. When he spoke, his voice was quiet. "About two months ago—maybe late August—I started noticing signs that someone had been on my property. In my barn, specifically. Little things. Tools moved. An old blanket I kept in the loft pulled down. Footprints in the dust that weren't mine."
+Dale stared at the photo for a long moment. When he spoke, his voice was quiet. "About seven or eight months ago—late February or early March—I started noticing signs that someone had been on my property. In my barn, specifically. Little things. Tools moved. An old blanket I kept in the loft pulled down. Footprints in the dust that weren't mine."
 
 "Did you report this to the sheriff?" Matt asked.
 
@@ -2216,11 +2216,11 @@ The room went quiet. Matt could hear the hum of the fluorescent lights overhead,
 
 "Sarah," Matt said.
 
-Dale nodded. "She was in the southeast corner of the barn. Chained to one of the support posts. Unconscious. I thought she was dead at first, but then I saw her breathing."
+Dale nodded. "She was in the southeast corner of the barn. Chained to one of the support posts. On a makeshift bed made from blankets, soft ones...not the type I keep in the barn. She was unconscious. I thought she was dead at first, but then I saw her breathing."
 
 "What did you do?"
 
-"I checked for a pulse. She was alive but unresponsive. Her pupils were dilated—I thought maybe she'd been drugged." Dale wiped his face. "I got the chain off her—it wasn't locked, just wrapped around the post—and carried her to the house."
+"I checked for a pulse. She was alive but unresponsive. Her pupils were dilated—I thought maybe she'd been drugged." Dale wiped his face. "I got the chain off her—used a crowbar to break the padlock—and carried her to the house."
 
 "You didn't call 911," Brandon said. Not a question.
 
@@ -2232,17 +2232,17 @@ Dale shook his head. "I can't say. Not here."
 
 "Mr. Kovacs, if you know who took Sarah—"
 
-"I said I can't." Dale's voice rose slightly, then he forced himself to calm down. "I need you to understand. The person who did this—they have access. They'd know if I talked."
+"I said I can't." Dale's voice rose slightly, then he forced himself to calm down. "I need you to understand. The person who did this—if I say their name, they'll know I talked. And I can't... I can't put myself at risk like that. Not yet."
 
-Matt exchanged a glance with Brandon. Access. That narrowed the field considerably.
+Matt exchanged a glance with Brandon. Saw that Brandon had also recognized the fear in Dale's voice.
 
 "All right," Matt said carefully. "Tell us what happened after you brought her inside."
 
-Dale took a shaky breath. "I put her in the spare bedroom. Called a doctor I know—someone who doesn't ask questions. He came, examined her. Said she'd been drugged with something strong, probably a benzodiazepine. He gave her fluids, said she'd come around in a few hours."
+Dale took a shaky breath. "I put her in the spare bedroom. Called someone I know, a nurse. I knew she wouldn't ask questions. She came, examined her. Said she'd most likely been drugged with something strong, probably a benzodiazepine. She told me to keep her comfortable, said she'd come around in a few hours."
 
-"Did the doctor report this?"
+"Did the nurse report this?"
 
-"No. I asked him not to. Paid him extra." Dale's voice was tight with shame. "I told myself I was protecting her. That I needed time to figure out what to do."
+"No. I asked her not to. She's...an old friend." Dale's voice was tight with shame. "I told myself I was protecting Sarah. That I needed time to figure out what to do. I didn't think anyone would believe I just found her there."
 
 "How long was she there?" Brandon asked.
 
@@ -2250,7 +2250,7 @@ Dale took a shaky breath. "I put her in the spare bedroom. Called a doctor I kno
 
 "Did you try to explain?"
 
-"I tried. But how do you explain something like that? 'I found you chained in my barn, so I brought you to my house and locked you in a bedroom'?" Dale's voice cracked. "She didn't believe me. She kept asking me to let her go, to call her mother. I told her I would, that I just needed to keep her safe a little longer."
+"I did. But how do you explain something like that? 'I found you chained in my barn, so I brought you to my house and locked you in a bedroom'?" Dale's voice cracked. "She didn't believe me. She kept asking me to let her go, to call her mother. I told her I would, that I just needed to keep her safe a little longer."
 
 Matt made notes, his mind working through the timeline. "What happened on the third day?"
 
@@ -2258,11 +2258,11 @@ Dale's face went pale. "I had a job. County maintenance work in Rockville. I'd a
 
 "But someone did come," Brandon said quietly.
 
-"I checked the cameras when I got home around six-thirty. Someone had been there around two PM." Dale's voice shook. "The camera facing the house caught a vehicle pulling onto the property. Couldn't see details—too far away, wrong angle. But whoever it was went straight to the house. Broke the chain on the bedroom door and took her."
+"I checked the cameras when I got home around six-thirty. Someone had been there around two PM." Dale's voice shook. "The camera facing the house caught a vehicle pulling onto the property. Couldn't see details—too far away, wrong angle. But whoever it was went straight to the house. Broke the lock on the bedroom door and took her."
 
 "Took her where?"
 
-"The barn. The camera facing that direction caught them—just shapes, movement. I could see he was dragging her. She was fighting this time, fully conscious. But he was bigger, stronger." Dale stopped, his breathing shallow. "They went inside the barn. The camera didn't show the interior. But I listened to the audio later. I heard her screaming. Then nothing."
+"The barn. The camera facing that direction caught them—just shapes, movement. I could see he was dragging her. She was fighting though, fully conscious. But he was bigger, stronger." Dale stopped, his breathing shallow. "They went inside the barn. The camera didn't show the interior. But I listened to the audio later. I heard her screaming. Then nothing."
 
 Matt felt his chest tighten. "You got home after she was already dead."
 
@@ -2270,7 +2270,7 @@ Dale nodded, tears streaming down his face now. "I ran to the barn as soon as I 
 
 Brandon's voice was barely audible. "The bracelet."
 
-"It was still on her wrist when I found her. But it was loose—like she'd been trying to get it off, to leave it behind." Dale wiped his eyes. "I pulled it free and buried it where she'd been clawing. Thought maybe someday someone would find it. Someone who'd understand."
+"It was still on her wrist when I found her. But it was loose—like she'd been trying to get it off, to leave it behind." Dale wiped his eyes. "I pulled it free and buried it where she'd been clawing. Kinda felt like I was carrying out her last wish by doing it."
 
 "What did you do with her body?" Matt asked.
 
@@ -2302,13 +2302,13 @@ Matt closed the folder. "We'll need to recover Sarah's body. You'll have to show
 
 Dale shook his head. "Anyone who was involved in the original investigation. Anyone who had access to the files, the evidence, the witness statements."
 
-Matt thought about that. The original investigation had been handled by Dunham and Kowalski. Both had access to everything. If Dale was afraid of someone in law enforcement, someone who knew where he lived, someone who could recognize his truck from security footage—
+Matt thought about that. The original investigation had been handled by Dunham and Kowalski. But a rural sheriff's office isn't compartmentalized. Every deputy in the station has full access to everything on this case. If Dale was afraid of someone in law enforcement, someone who knew where he lived, someone who could recognize his truck from security footage—
 
 "We'll keep you in protective custody," Matt said. "Federal holding, not county. And we'll limit who knows the details of your statement."
 
 Dale nodded slowly. "Thank you."
 
-"But Mr. Kovacs," Matt leaned forward, his voice firm. "Eventually, you're going to have to tell us who killed Sarah Carpenter. Because right now, you're our only suspect. And if you want that to change, you need to help us find the real killer."
+"But Mr. Kovacs," Matt leaned forward, his voice firm. "Eventually, you're going to have to tell us who killed Sarah Carpenter. Because right now, you're our only suspect. And you've already admitted to holding someone against their will and disposing of their body. It wouldn't be a leap to convince a jury you're guilty of the murder too. If you want that to change, you need to help us find the real killer."
 
 "I know." Dale's voice was barely a whisper. "I just need time. Need to know it's safe."
 
@@ -2336,7 +2336,7 @@ They stood in silence for a moment, both of them thinking through the implicatio
 
 "Maybe he couldn't leave. The property, his job—everything he has is here." Brandon turned away from the glass. "Or maybe he's been watching. Making sure the person who killed Sarah doesn't hurt anyone else."
 
-Matt pulled out his phone. "I'm calling the U.S. Marshals. We need to get Dale out of this building and into protective custody before anyone knows what he told us."
+Matt pulled out his phone. "I'm calling the bureau field office in Indianapolis. We need to get Dale out of this building and into protective custody before anyone knows what he told us."
 
 "And then?"
 
@@ -2348,7 +2348,7 @@ Brandon looked back through the glass at Dale. "He's protecting someone. Even no
 
 "Which means it's someone he cares about. Someone he has history with."
 
-Matt held the phone to his ear, waiting for the Marshals Service to pick up. "Family, maybe. Or close to it."
+Matt held the phone to his ear, waiting for an answer on the other end. "Family, maybe. Or close to it."
 
 Brandon didn't respond, but Matt saw the slight nod. They were both thinking the same thing.
 

@@ -517,7 +517,7 @@ She sighed. "Yes. Though I don't know if it means anything. We get all kinds her
 
 "But you noticed something about this person."
 
-"I noticed Sarah finding excuses to be in the back when he came in. That's not like her. She was professional. She didn't avoid patrons." Patricia folded her hands on the table. "His name is Dale Kovacs. He's been coming here for years, always friendly, never caused problems. But about six months before Sarah disappeared, he started coming in more often. And he'd always end up at the circulation desk when Sarah was working."
+"I noticed Sarah finding excuses to be in the back when he came in. That's not like her. She was professional. She didn't avoid patrons." Patricia folded her hands on the table. "His name is Dale Kovacs. He's been coming here for years, always friendly, never caused problems. But about three months before Sarah disappeared, he started coming in more often. And he'd always end up at the circulation desk when Sarah was working."
 
 Matt was writing. "What kind of interactions did they have?"
 
@@ -529,7 +529,7 @@ Matt was writing. "What kind of interactions did they have?"
 
 "What kind of questions?"
 
-"About Sarah's schedule. Whether she'd be working on a particular day. Whether she had a boyfriend. That sort of thing." Patricia's jaw tightened. "I should have done more. Should have talked to him directly, or asked him to use a different library. But I didn't want to make accusations if nothing was actually wrong. Small town—you have to be careful about rumors."
+"About Sarah's schedule. Whether she'd be working on a particular day. Whether any male patrons had been showing interest in her. That sort of thing." Patricia's jaw tightened. "I should have done more. Should have talked to him directly, or asked him to use a different library. But I didn't want to make accusations if nothing was actually wrong. Small town—you have to be careful about rumors."
 
 "You couldn't have known," Matt said gently.
 

@@ -467,7 +467,13 @@ Brandon leaned closer. The handwriting was different from the others—smaller, 
 
 No signature.
 
-Brandon pulled out his phone and took a photo of the note. Then he opened the condolence book. More of the same—messages of grief and remembrance, names he didn't recognize but may need to cross-reference later. Teachers. Classmates. Neighbors. The whole town had signed this book.
+The note had been secured with heavy-duty packing tape, the edges pressed flat against the bulletin board. Brandon pulled his phone out with one hand and fished a small switchblade from the other. He pressed the thumb slide and the blade snapped open. Using the tip carefully, he worked under the edge of the tape, lifting it just enough to see if anything was written on the back of the note.
+
+Nothing. Just the three words on the front.
+
+He took a photo of the note, then gently pressed the tape back down. The blade closed with another click as he pocketed the knife.
+
+Then he opened the condolence book. More of the same—messages of grief and remembrance, names he didn't recognize but may need to cross-reference later. Teachers. Classmates. Neighbors. The whole town had signed this book.
 
 He flipped through the pages slowly. Most entries from April. A few scattered through the summer. And on the last page with writing, another unsigned entry: *I think about you every day. I'm sorry I couldn't help you.*
 
@@ -1163,6 +1169,8 @@ Brandon leaned forward slightly. "When you came out, what did you see?"
 
 "Her purse was on the ground by the payphone. The phone was off the hook, hanging down. Her car was still there, but she wasn't." Walton's jaw tightened. "I called 911 right away. Stayed on the line until Deputy Kowalski showed up."
 
+Brandon made a note. An abduction interrupted mid-call. He'd heard about one like that before. The person on the other end of the line never stopped hearing it.
+
 "Did you hear anything while you were inside? A scream, a car door, an engine?"
 
 "No. Marv had the radio on. And I wasn't listening for anything. Why would I be?"
@@ -1174,7 +1182,6 @@ Walton started to shake his head, then stopped. "Wait. Yeah. There was a truck p
 Brandon's pulse quickened, but he kept his expression neutral. "What kind of truck?"
 
 "Chevy. Older model. Dark color-coulda been black, but I'm almost positive it was blue. There's no lights on that side of the building, but some of the lights over the pumps caught it." Walton's eyes went distant, like he was replaying the memory. "I only noticed it because it seemed like a weird place to park. The pumps were empty, the lot was empty. Why park way over there unless you didn't want to be visible from the road?"
->QUESTION: OK to have Travis remember the truck as dark blue? Dale's truck is blue so this points to him. Actual perp, Kowalski drives a dark green Silverado. Or, should I make Kowalski's Silverado black since Travis left that open? Eyewitness testimony can be unreliable, so I'm comfortable with him saying 'almost positive it was blue' and having it turn out to be green, but I don't want the reader to feel like I cheated them.
 
 "Did you see anyone in or near the truck?"
 
@@ -1690,7 +1697,6 @@ They went inside. Dunham was at his desk, going through paperwork. He looked up 
 "Can't say I'm surprised." Dunham leaned back in his chair. "You get anything useful?"
 
 "Enough for a warrant, I think." Matt pulled out his notebook. "Kovacs's truck matches the witness description—Travis remembered a dark blue Silverado with a decal on the back window. He was at the Rural King buying trail cameras to monitor his house and yard two hours before Sarah disappeared. And he just told us that Sarah's car wouldn't start because the starter was bad."
->TWANG: This may not work. Original draft of this chapter plus Dale's first interrogation had him noticing the unlatched hood and seeing her having trouble starting it. If we have to remove this admission, is Travis's new recollection enough for the warrant? I have an idea of how to fix if needed.
 
 Dunham sat up straighter. "He said that?"
 
@@ -1951,11 +1957,13 @@ Brandon pulled a pair of latex gloves from his pocket and put them on. He produc
 
 "Maybe."
 
-Brandon pulled a small switchblade from his pocket and pushed the thumb slide. The blade punched forward and locked open. Using the knife, he began moving dirt carefully, methodically. Two inches down, he saw a glint of metal. He worked around it, exposing more of the object.
+Brandon took out his switchblade and pushed the thumb slide. The blade punched forward and locked open. Using the knife, he began moving dirt carefully, methodically. Two inches down, he saw a glint of metal. He worked around it, exposing more of the object.
 
 A bracelet. Silver, delicate, partially tarnished. It had been buried deliberately, pressed down into the soft earth.
 
 Brandon pulled it free and held it up to the light. It was distinctive—a charm bracelet with several small pendants. A book. A musical note. A tiny heart with initials he couldn't quite make out.
+
+She'd tried to leave evidence. Some victims did that—knowing they might not survive, they tried to make sure someone would know they'd been there. Brandon understood that impulse better than he wanted to.
 
 "How did you know that was there?" Kowalski's voice had an edge to it now. Suspicion.
 
@@ -2192,7 +2200,7 @@ Brandon leaned forward slightly. "Can't or won't?"
 
 Matt opened the folder and pulled out a photo of Sarah. "Then tell us what you can. Start from the beginning."
 
-Dale stared at the photo for a long moment. When he spoke, his voice was quiet. "About seven or eight months ago—late February or early March—I started noticing signs that someone had been on my property. In my barn, specifically. Little things. Tools moved. An old blanket I kept in the loft pulled down. Footprints in the dust that weren't mine."
+Dale stared at the photo for a long moment. When he spoke, his voice was quiet. "About a year ago—late October or early November—I started noticing signs that someone had been on my property. In my barn, specifically. Little things. Tools moved. An old blanket I kept in the loft pulled down. Footprints in the dust that weren't mine."
 
 "Did you report this to the sheriff?" Matt asked.
 
@@ -2200,15 +2208,23 @@ Dale stared at the photo for a long moment. When he spoke, his voice was quiet. 
 
 "What made you think it was a person and not an animal?"
 
-"The way things were disturbed. Deliberate. Like someone was... visiting." Dale's jaw tightened. "I had a suspicion who it might be, but I needed proof."
+"The way things were disturbed. Deliberate. Like someone was... visiting." Dale's jaw tightened. "I had a suspicion who it might be, but I couldn't be sure."
 
 "So you bought the trail cameras," Brandon said.
+
+"Not at first. It was harmless, and it stopped when winter set in."
+
+"When did you get worried?" asked Matt.
+
+"When the spring thaw came, it started happening more often. It got to a point that I needed to know if I was right."
+
+"So you went to Rural King and bought the cameras," Matt stated looking up from his notebook.
 
 Dale nodded. "April sixteenth. I went to the Rural King after work, bought four cameras. Planned to set them up the next morning to see if I could catch whoever was coming around."
 
 Matt made a note. "Why wait until morning?"
 
-"It was already getting dark when I got home. And I wanted to place them carefully—figure out the best angles. I wasn't in a rush." Dale's voice dropped. "I should have been."
+"It was already getting dark when I got home. And I wanted to place them carefully—figure out the best angles. I wasn't in a rush." Dale's voice dropped. "Maybe I should have been."
 
 "What happened the next morning?"
 
@@ -2707,8 +2723,7 @@ The federal holding facility was forty minutes north of Indianapolis, tucked bet
 
 Birth certificate for Marcus Robert Harding, born April 3, 1982, in Blackburn, Indiana. Mother: Jennifer Anne Harding. Father: Robert James Harding.
 
-Court petition for legal name change filed in Monroe County, Indiana, December 2004. Marcus Robert Harding to Marcus Robert Powell. Granted January 2005.
->REVISION: Thinking of adding something along the line of: Even though he was an adult he'd taken his second stepfather's name. His first attempt to run from the boy he'd been.
+Court petition for legal name change filed in Monroe County, Indiana, December 2004. Marcus Robert Harding to Marcus Robert Powell. Granted January 2005. Even though he was an adult he'd taken his second stepfather's name. His first attempt to run from the boy he'd been.
 
 Second court petition for legal name change filed in Vigo County, Indiana, March 2007. Marcus Robert Powell to Miles Robert Kowalski. Granted April 2007.
 
@@ -2719,11 +2734,9 @@ NITPICK: Too long ago. In my mind, he's been back in the area and working for th
 
 “Reinvention,” Brandon said. “Or hiding.”
 
-“Both, probably."
->REVISION: Thinking of adding this line to Matt's dialogue here: "The second maybe because he didn't want to be associated with his boyhood when he came back home to Parke County.”
+“Both, probably. The second maybe because he didn't want to be associated with his boyhood when he came back home to Parke County."
 
 They checked in at the front desk, showed their credentials, checked their weapons, and were escorted through two sets of security doors to a small conference room. Dale Kovacs sat at a metal table, wearing an orange jumpsuit, hands folded in front of him. He looked tired but calmer than he had on Saturday. Less afraid.
->REVISION: Added the small detail of them 'checking their weapons' (as in leaving them with the officer at the desk) for authenticity because they can't carry them into the interview.
 
 He looked up when they entered. “You found him.”
 
@@ -2745,12 +2758,11 @@ Matt exchanged a glance with Brandon. They’d been ninety percent certain, but 
 
 “Tell us about Marcus,” Matt said. “Everything. From the beginning.”
 
-Dale took a shaky breath. “I met Jennifer in 1993. She was a widow with two boys—Marcus was eleven, Tyler was three. Their father had died the year before. Cancer. Jennifer was struggling, working two jobs, trying to keep things together. I started helping out. We started dating and eventually got married in March ’94.”
+Dale took a shaky breath. “I met Jennifer in 1993. She was a widow with two boys—Marcus was eleven, Tyler was three. Their father had died the year before. Cancer. Jennifer was struggling, working two jobs, trying to keep things together. I started helping out. We started dating and eventually got married in June ’94.”
 
 “When did you buy the house?” Brandon asked.
 
-“June ‘94. My parents were getting older, wanted to downsize. They sold me the farm for what I could afford. Jennifer and the boys moved in right after the wedding.” Dale’s expression went distant. “Marcus had a hard time with the transition. New house, new stepfather, still grieving his dad. He’d spend hours in the barn. I fixed up the southeast corner for him—built a little space where he could be alone. Thought it might help him feel like he had something that was his.”
->NITPICK: This paragraph says "Jennifer and the boys moved in right after the wedding." But based on dates, Dale bought the property three months after the wedding. So, should we flip-flop the months? Have Dale buy the house in March and the wedding in June to make it make sense?
+"March ‘94. My parents were getting older, wanted to downsize. They sold me the farm for what I could afford. Jennifer and the boys moved in right after the wedding.” Dale’s expression went distant. “Marcus had a hard time with the transition. New house, new stepfather, still grieving his dad. He’d spend hours in the barn. I fixed up the southeast corner for him—built a little space where he could be alone. Thought it might help him feel like he had something that was his.”
 
 “How was your relationship with him?” Matt asked.
 
@@ -2767,7 +2779,6 @@ Dale was quiet for a moment. “When he was fifteen. There was a girl at church�
 “What did Marcus do?” Brandon asked.
 
 “He vandalized her family’s car. Spray-painted horrible things on it. Cruel things.” Dale’s voice shook. “The girl’s parents called the sheriff. But Jennifer and I talked to them, apologized, offered to pay for the damage. We convinced them it was just a stupid teenage prank. That Marcus was going through a hard time, still dealing with his father’s death. They agreed not to involve the police.”
->REVISION: Removed "Sexual things." Discuss?
 
 “Did you get Marcus help?” Matt asked. “Counseling, therapy?”
 
@@ -2776,7 +2787,6 @@ Dale was quiet for a moment. “When he was fifteen. There was a girl at church�
 “But it wasn’t,” Brandon said.
 
 “No.” Dale looked at the photo of Kowalski again. “About a year later, I noticed Marcus paying attention to another young girl at church. Sarah Carpenter. She’d just lost her father. She was maybe ten or eleven. Marcus was sixteen. He’d talk to her after services, ask her about her dad, how she was coping. At first I thought maybe he was genuinely trying to help—he understood what she was going through.”
->REVISION: Minor age changes. 
 
 “But then it changed,” Matt said.
 
@@ -2793,12 +2803,10 @@ Dale was quiet for a moment. “When he was fifteen. There was a girl at church�
 “Did you stay in touch with him?” Matt asked.
 
 “No. He cut contact completely. I thought that was the end of it. That he was moving on with his life.” Dale’s voice dropped. “Then late last year, I started noticing signs that someone had been in my barn. Tools moved. Things disturbed. It crossed my mind that it might be Marcus. That barn was his space when he was a kid. I think he was coming back to it.”
->REVISION: Moved barn sightings to late last year, just extending timeline a bit.
 
 “Did you confront him?”
 
 “I didn’t know how to find him. He’d changed his name, moved away. And it wasn't a huge concern. I'd only noticed signs he'd been there a couple of times. But then in January, I saw him. At the Rural King in Blackburn. He was in uniform. Deputy sheriff. He didn’t see me, but I recognized him immediately. I'm not sure I would've if I hadn't known him so well. His face had changed a lot as he grew into adulthood. That's when I started stopping by the library, where Sarah worked, more often. I was curious to know if he was watching her.”
->REVISION: moved sighting to January. Gives a little more time between sighting and Sarah's kidnapping to explain Dale's increased presence at the library.
 
 “Why not just report it to the sheriff?” Matt asked.
 
@@ -2810,8 +2818,7 @@ Dale’s face crumpled. “I suspected. I did see him at the library a couple ti
 
 “So when you found Sarah in your barn,” Matt said, “you knew immediately it was Marcus.”
 
-“Yes. The blankets, the way she was positioned in that southeast corner—it was his space. He brought her there. Maybe he thought…” Dale’s voice broke. “Maybe he thought he was protecting her too. In his twisted way.”
->TWANG: I don't see how "Maybe he thought he was protecting her too. In his twisted way." works here. Is it an attempt to show Dale's paternal affection? Are we trying to make Marcus relatable rather than a monster?
+“Yes. The blankets, the way she was positioned in that southeast corner—it was his space. He brought her there. Maybe he thought…” Dale’s voice broke. “Maybe he thought he could show her how much she meant to him.”
 
 “Tell us about Marcus’s father,” Brandon said. “Robert Harding.”
 
@@ -2820,7 +2827,6 @@ Dale’s face crumpled. “I suspected. I did see him at the library a couple ti
 “Disrupted Attachment,” Brandon said quietly.
 
 Matt looked at his partner. Brandon’s expression was carefully neutral, but Matt recognized that look. Brandon was connecting something to his own experience. Maybe to Missouri.
->REVISION: removed mention of the brother here. Matt hasn't been told that the boyfriend is Brandon's brother yet.
 
 “What do you mean?” Dale asked.
 
@@ -2839,7 +2845,6 @@ Matt looked at his partner. Brandon’s expression was carefully neutral, but Ma
 Matt made notes. They’d need to check Marcus’s background more thoroughly. College records if he went to college. Work history. Any police reports or complaints.
 
 “Dale,” Brandon said, “when you found Sarah dead in your barn, why didn’t you call 911?”
->REVISION: called out that we're talking about when she was dead rather than, 'found her that morning.' 'That morning' implies the first time he found her unconscious, but the next paragraph talks has Dale talking about having held her for three days implying that they're talking about after her death rather than after the first time.
 
 “Because I knew Marcus was a deputy. I knew he’d have access to everything—the investigation, the evidence, the reports. If I called it in, he’d know. He’d find a way to make it look like I was responsible. I’d kept her in my house for three days. Who would believe I was trying to protect her?”
 
@@ -2856,7 +2861,6 @@ They sat in silence for a moment. Dale stared at the photo of Kowalski, his expr
 Dale looked up, hope and fear mixing in his eyes. “How? You don’t have evidence. It’s just my word against his.”
 
 “We have your statement. We have the connection between Marcus Harding and Miles Kowalski. And we have corroboration from Sarah's mother confirming his childhood fixation-that he'd made her uncomfortable. We have him asking questions at the library earlier this year. It’s circumstantial, but it’s enough to bring him in for questioning.” Matt leaned forward. “And once we start digging into his life, his movements, his background—we’ll find more.”
->REVISION: Reworded the evidence of childhood fixation they have
 
 “What if he lawyers up? What if he doesn’t talk?”
 
@@ -2884,8 +2888,7 @@ Matt wanted to ask more, wanted to understand the connection Brandon was making.
 
 “Let’s get back to Indianapolis,” Matt said instead. “We need to coordinate with the field office, get a team together for the arrest.”
 
-They drove in silence, both of them thinking about Marcus Harding. About a ten-year-old boy who lost his father. About an fifteen-year-old who vandalized a car because a girl rejected him. About a twenty-nine-year-old deputy sheriff who strangled a woman in a barn because she didn’t return his feelings.
->QUESTION: Should we say with such certainty that he strangled her. He's their suspect but it's not confirmed yet. What if Dale is lying?
+They drove in silence, both of them thinking about Marcus Harding. About a ten-year-old boy who lost his father. About an fifteen-year-old who vandalized a car because a girl rejected him. About a twenty-nine-year-old deputy sheriff who they believed had strangled a woman in a barn because she didn’t return his feelings.
 
 About all the moments in between where someone could have stopped him.
 
@@ -2900,7 +2903,6 @@ Miles Kowalski lived in a small rental house on the south edge of Rockville, thr
 Matt parked two houses down at two-forty-five PM. Brandon sat in the passenger seat, watching the house. Behind them, in an unmarked sedan, were two agents from the Indianapolis field office—Agent Sarah Chen and Agent David Reeves. Both had been briefed on the situation. Both knew this was a cop they were arresting.
 
 “He’s home,” Brandon said, nodding toward the truck.
->REVISION: Removed line about "probably just got off shift" because the next paragraph establishes that he got off hours earlier on Monday morning after working the night shift.
 
 Matt checked his phone. Kowalski’s schedule showed he’d worked Sunday overnight, gotten off at seven AM Monday. He should have been sleeping, but lights were on in the house.
 
@@ -2920,8 +2922,7 @@ Miles Kowalski stood there in sweatpants and a t-shirt, barefoot, hair slightly 
 
 “Can I help you?” His voice was calm, polite.
 
-Matt held up his badge. “Special Agent Ellis, FBI. This is Special Agent Gray. We have a warrant for your arrest.”
->QUESTION: Why is he introducing them by name. They've met him before?
+Matt held up his badge. “FBI, Mr. Kowalski. We have a warrant for your arrest.”
 
 Something flickered in Kowalski’s eyes—surprise, then calculation. But his expression remained neutral. “What’s this about?”
 
@@ -2932,7 +2933,6 @@ Kowalski’s face went very still. For a moment, Matt thought he might run. But 
 “I think there’s been a mistake,” Kowalski said. “I investigated Sarah’s disappearance. I didn’t have anything to do with her death.”
 
 “We can discuss that back at our office,” Matt said. “Turn around, hands behind your back.”
->REVISION: changed "at the field office" to "at our office." Matt and Brandon aren't stationed in Indianapolis, so it isn't their office exactly, but as FBI agents in the field, any FBI office could be referred to as "our office." The expression "the field office" just feels too stilted and forced.
 
 Kowalski didn’t move. “Do I need to call my union rep?”
 
@@ -2963,7 +2963,6 @@ They put Kowalski in the back seat. Matt got behind the wheel, Brandon in the pa
 “We haven’t mentioned Dale Kovacs,” Matt said.
 
 Kowalski’s smile faltered for just a second. “He’s the guy you arrested, right? I was there, remember. You found Sarah’s body on his land. Chain in his bedroom. Pretty obvious he’s your guy.”
->REVISION: Changed "Everyone in the department knows that." to "I was there, remember." Also changed found body "in his barn" to "on his land." The body wasn't in the barn anymore.
 
 “Then why are we arresting you?” Brandon asked.
 
@@ -2995,8 +2994,7 @@ Matt and Brandon watched him through the one-way glass. Kowalski sat at the tabl
 
 “Not if we do this right.”
 
-Matt’s phone buzzed. A text from Chen: *Found something. Box in closet. Photos, newspaper clippings, library card from when he was a kid. All related to Sarah.*
->QUESTION: why the library card? Sarah didn't work at the library when he was a kid. Could we make it something from the church youth group, like a bulletin instead?
+Matt’s phone buzzed. A text from Chen: *Found something. Box in closet. Photos, newspaper clippings, church youth group bulletin fro 1998-when he was a kid. All related to Sarah.*
 
 Matt showed the message to Brandon. “Youthful fixation.”
 
@@ -3006,8 +3004,7 @@ Matt showed the message to Brandon. “Youthful fixation.”
 
 Brandon stared through the glass at Kowalski. “He’s not going to break easily.”
 
-“No. But everyone breaks eventually.”
->QUESTION: This is pithy dialogue, but is it true. Not all suspects confess. Unless Matt and Brandon are particularly good at breaking suspects and that's what they're referring to.
+“No. People like him usually do eventually—they want to be understood.”
 
 Matt’s phone rang. Dunham.
 

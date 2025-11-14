@@ -2751,7 +2751,7 @@ Dale took a shaky breath. “I met Jennifer in 1993. She was a widow with two bo
 
 “What about with other kids his age?” Brandon asked.
 
-“That was part of the problem. He didn’t connect with kids his own age. The teenagers at church, at school—he didn’t fit in. Too serious, too intense. He was more comfortable around younger kids. Tyler’s age, or even younger.” Dale’s jaw tightened. “I didn’t think much of it at first. Thought he was just mature for his age.”
+“That was part of the problem. He didn’t connect with kids his own age. The teenagers at church, at school—he didn’t fit in. Too serious, too intense. He was more comfortable around younger kids. Tyler’s age, or even younger.” Dale’s jaw tightened. “I didn’t think much of it at first. Thought he was just immature for his age.”
 
 “When did you realize it was more than that?” Matt asked.
 

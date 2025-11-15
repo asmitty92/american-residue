@@ -2727,8 +2727,7 @@ Court petition for legal name change filed in Monroe County, Indiana, December 2
 
 Second court petition for legal name change filed in Vigo County, Indiana, March 2007. Marcus Robert Powell to Miles Robert Kowalski. Granted April 2007.
 
-Social Security records showing employment history: Miles Robert Kowalski hired by Parke County Sheriff’s Department, August 2008.
-NITPICK: Too long ago. In my mind, he's been back in the area and working for the sheriff for 2-2.5 years max. That fits better with Dunham saying "he's still green" in chapter 3 or 4.
+Social Security records showing employment history: Miles Robert Kowalski hired by Parke County Sheriff’s Department, August 2009.
 
 “Two name changes,” Matt said as they walked toward the entrance. “First takes his stepfather’s name after the divorce. Then changes completely three years later.”
 
@@ -2875,6 +2874,16 @@ Dale nodded slowly. “She’ll be devastated. She always defended him. Always t
 “Parents rarely do,” Matt said.
 
 They stood to leave. Dale remained seated, still staring at Kowalski’s photo.
+
+"Dale, one last question," Brandon started. "How did you know that Sarah's car had been tampered with? If you weren't the one who took her, how did you know that?"
+
+Dale looked up at them wearily. "He pulled me over on Route 39 in late May, near the Crossroads. Said I was driving erratically. Then he started questioning me about the girl who went missing. Told me I should be careful because police were likely to be suspicious of a man living alone, especially one who drove a dark colored Silverado and had the know-how to tamper with her starter-I worked as a mechanic when he was young."
+
+"He was threatening you," Matt said.
+
+"That's how I took it, yes." Dale looked back down at the photo, lines of concern etched across his brow.
+
+Brandon and Matt turned to leave.
 
 “Agent Ellis,” Dale said as they reached the door. “When you arrest him—be careful. Marcus is good at making people underestimate him. He seems calm, reasonable, harmless. But underneath—” He stopped. “Underneath, there’s something broken. Something that never healed.”
 

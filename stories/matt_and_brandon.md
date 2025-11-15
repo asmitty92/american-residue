@@ -2877,7 +2877,7 @@ They stood to leave. Dale remained seated, still staring at Kowalski’s photo.
 
 "Dale, one last question," Brandon started. "How did you know that Sarah's car had been tampered with? If you weren't the one who took her, how did you know that?"
 
-Dale looked up at them wearily. "He pulled me over on Route 39 in late May, near the Crossroads. Said I was driving erratically. Then he started questioning me about the girl who went missing. Told me I should be careful because police were likely to be suspicious of a man living alone, especially one who drove a dark colored Silverado and had the know-how to tamper with her starter-I worked as a mechanic when he was young."
+Dale looked up at them wearily. "He pulled me over on Route 39 in late May, near the Crossroads. Said I was driving erratically. Then he started questioning me about the girl who went missing nearby. Told me I should be careful because police were likely to be suspicious of a man living alone, especially one who drove a dark colored Silverado and had the know-how to tamper with her starter. He remembered that I worked as a mechanic when he was young."
 
 "He was threatening you," Matt said.
 

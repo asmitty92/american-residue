@@ -2725,7 +2725,7 @@ Birth certificate for Marcus Robert Harding, born April 3, 1982, in Blackburn, I
 
 Court petition for legal name change filed in Monroe County, Indiana, December 2004. Marcus Robert Harding to Marcus Robert Powell. Granted January 2005. Even though he was an adult he'd taken his second stepfather's name. His first attempt to run from the boy he'd been.
 
-Second court petition for legal name change filed in Vigo County, Indiana, March 2007. Marcus Robert Powell to Miles Robert Kowalski. Granted April 2007.
+Second court petition for legal name change filed in Vigo County, Indiana, March 2008. Marcus Robert Powell to Miles Robert Kowalski. Granted April 2008.
 
 Social Security records showing employment history: Miles Robert Kowalski hired by Parke County Sheriff’s Department, August 2009.
 
@@ -3048,7 +3048,7 @@ But there were tells if you knew where to look.
 
 His right index finger moved in small circles against the table surface. Unconscious. A self-soothing gesture. And every thirty seconds or so, his eyes would flick to the mirror—not obviously, just a quick glance—checking to see if anyone was watching.
 
-Someone who thought he was in control. Someone who'd practiced being calm under pressure.
+Someone who thought he was in control. Someone who'd practiced being calm under pressure. Maybe had practiced it in front of a mirror.
 
 Someone who was working very hard to appear like he had nothing to hide.
 
@@ -3062,19 +3062,19 @@ Matt ended his call and turned. "Tom."
 
 Dunham nodded to both of them, then looked through the glass at Kowalski. "I need to hear it. All of it. Why you think one of my deputies murdered Sarah Carpenter."
 
-Matt pulled out a folder and opened it on the small desk beneath the window. "His real name is Marcus Robert Harding. He's Dale Kovacs's former stepson. He lived on that property from age twelve to twenty-one. That barn was his space."
+Matt pulled out a folder and opened it on the small desk beneath the window. "His real name is Marcus Robert Harding. He's Dale Kovacs's former stepson. He lived on that property from age twelve to twenty-one. According to Kovacs, he spent a lot of time in the barn where we found the bracelet."
 
 Dunham stared at the documents. Birth certificate. Name change petitions. Employment records.
 
-"He fixated on Sarah when she was eleven and he was sixteen," Brandon said quietly. "Both had lost their fathers. He saw it as a connection. But Sarah felt uncomfortable around him. Her mother confirmed it."
+"He developed a fixation on Sarah when she was eleven and he was seventeen," Brandon said quietly. "Both had lost their fathers. He saw it as a connection. But Sarah felt uncomfortable around him. Her mother confirmed it."
 
-"That was thirteen years ago," Dunham said. "Kids are weird. They grow out of things."
+"That was over ten years ago," Dunham said. "Kids are weird. They grow out of things."
 
 "Some do," Brandon said. "Marcus didn't. We found a box in his closet. Photos of Sarah. Newspaper clippings about her disappearance. A church bulletin from 1998 when they were both in youth group together. He's been holding onto this for over a decade."
 
 Dunham was quiet for a long moment, staring through the glass. "I hired him two years ago. Did a full background check. Nothing came up."
 
-"Because he legally changed his name twice," Matt said. "First to Marcus Powell in 2005, then to Miles Kowalski in 2007. The background check would've only shown Kowalski's record. Which is clean."
+"As far as we can tell, he doesn't have a record," Matt said. "Plus he's been through two name changes. His record is clean. But we have a statement that he lashed out at least once before when a girl rejected him. And the girl's family will be able to corroborate that."
 
 "Jesus." Dunham rubbed his face. "I worked with him almost every day. How did I not see it?"
 
@@ -3104,7 +3104,7 @@ Brandon nodded. But he took one more moment to study Kowalski through the glass.
 
 Twenty-nine years old. Deputy sheriff. Clean record. Friendly face. The kind of person who'd blend into a small town, who'd be trusted, who'd be above suspicion.
 
-But underneath all of that, Brandon could sense something else. Something frozen and broken. A ten-year-old boy who'd never processed his father's death. Who'd found another grieving child and mistaken her pain for connection. Who'd built that connection into something twisted and possessive over thirteen years.
+But Brandon could tell that friendly face was a well-rehearsed mask. Underneath lurked something frozen and broken. A ten-year-old boy who'd never fully processed his father's death. Who'd found another grieving child and mistaken her pain for connection. Who'd built that connection into something twisted and possessive over thirteen years.
 
 And when that fantasy finally shattered—when Sarah rejected him again, when Dale took her away from him, when she asked him "why"—that broken thing inside him had lashed out.
 
@@ -3128,11 +3128,11 @@ Matt closed the door and sat down across from Kowalski. Brandon took the chair b
 
 Kowalski smiled. Not nervous. Confident. "I don't think that's necessary. I didn't do anything wrong. I'm happy to answer your questions."
 
-Matt made a note on his pad. "For the record, you're waiving your right to an attorney?"
+Matt slid a form across the table. "P sign this Miranda waiver stating you are waiving your right to an attorney at this time."
 
-"That's right."
+Kowalski picked up the pen Matt handed him and scribbled his signature with one fluid stroke. He handed the pen back and placed his hands flat on the table again.
 
-Brandon watched Kowalski's hands. Still flat on the table. Still making those small circles with his index finger. The self-soothing gesture hadn't stopped.
+Brandon watched Kowalski's hands. Flat on the table. His index finger resumed making those small circles. The self-soothing gesture hadn't stopped.
 
 "Good," Matt said. "Then let's start with something simple. How long have you lived in Rockville?"
 
@@ -3144,7 +3144,7 @@ Brandon watched Kowalski's hands. Still flat on the table. Still making those sm
 
 "What did you study?"
 
-"Criminal justice. Graduated in 2007."
+"Criminal justice. Graduated in 2008."
 
 Matt nodded, writing. "And before Bloomington?"
 
@@ -3160,7 +3160,7 @@ Kowalski went very still. "How do you know my father's name?"
 
 "Because we know who you are, Marcus."
 
-The air in the room changed. Kowalski's expression didn't shift much—just a slight tightening around his eyes—but Brandon felt it. The mask cracking.
+The air in the room changed. Kowalski's expression didn't shift much—just a slight tightening around his eyes—but Brandon felt it. A slight crack appeared in his mask.
 
 "I don't know what you're talking about," Kowalski said.
 
@@ -3168,7 +3168,7 @@ Brandon spoke for the first time since entering the room. His voice was quiet, g
 
 Kowalski looked at him. "A lot of kids lose parents. It doesn't make them murderers."
 
-"We're not saying it does," Brandon said. "But it changes you. Leaves a mark. Makes it hard to form attachments later. You probably felt like part of you froze at that age. Like you were stuck being that ten-year-old boy even as you got older."
+"We're not saying it does," Brandon said. "But it changes you. Leaves a...a mark. Trauma always does. Makes it hard to form attachments later. Leaves you Feeling frozen in time. Like you were stuck being that ten-year-old boy even as you got older."
 
 Something flickered across Kowalski's face. Recognition, maybe. Or surprise that someone understood.
 
@@ -3200,13 +3200,13 @@ Kowalski stared at the documents. "People change their names. It's not illegal."
 
 "I'm not hiding anything."
 
-Matt slid another document across the table. "This is a statement from Linda Carpenter. Sarah's mother. She remembers you from church. Says you paid a lot of attention to Sarah when she was eleven years old. Right after her father died. Made her uncomfortable enough that she asked to skip youth group for a while."
+Matt slid another document across the table. "This is a statement from Linda Carpenter. Sarah's mother. She remembers you from church. Says you paid a lot of attention to Sarah when she was eleven years old. Right after HER father died. Made her uncomfortable enough that she asked to skip youth group for a while."
 
 Kowalski's jaw tightened. "I was trying to help her. She was going through what I went through. I thought I could—" He stopped himself.
 
 "You thought you could what?" Brandon asked gently.
 
-"Nothing. I was sixteen. I was trying to be nice to a kid who'd lost her dad. That's it."
+"Nothing. I was seventeen. I was trying to be nice to a kid who'd lost her dad. That's it."
 
 "But it wasn't just being nice, was it?" Brandon said. "You felt a connection to her. Someone who understood what you'd been through. Who knew what it was like to lose a parent that young."
 
@@ -3214,7 +3214,7 @@ Kowalski didn't respond.
 
 Matt pulled out another photo. The box from Kowalski's closet. Photos of Sarah spread out on a table.
 
-"We found this in your house," Matt said. "Photos of Sarah Carpenter. Newspaper clippings about her disappearance. A church bulletin from 1998 with both your names circled. You've been holding onto this for thirteen years, Marcus."
+"We found this in your house," Matt said. "Photos of Sarah Carpenter. Newspaper clippings about her disappearance. A church bulletin from 1998 with both your names circled. You've been holding onto this for twelve years, Marcus."
 
 "Stop calling me that," Kowalski said again. His voice was strained now.
 
@@ -3226,49 +3226,41 @@ Matt pulled out another photo. The box from Kowalski's closet. Photos of Sarah s
 
 "I didn't murder anyone." Kowalski's voice rose slightly. "Dale is lying to you. He's the one who had Sarah in his house. He's the one who buried her body. And you're believing him over me because of some old photos?"
 
-"We also have a witness," Matt said. "Who saw a dark-colored Silverado at the Crossroads Mini-Mart the night Sarah disappeared. With a decal on the back window. You drive a dark green Silverado. With a Browning decal on the back window."
+"We also have a witness," Matt said. "Who saw a dark-colored Silverado at the Crossroads Mini-Mart the night Sarah disappeared. It had a decal on the back window. You drive a dark green Silverado with a Browning decal on the back window."
 
 "So do half the guys in this county."
 
-"But most of them didn't know Sarah," Brandon said. "Most of them didn't have a childhood fixation on her. Most of them didn't change their name twice and come back to Parke County to work as a deputy sheriff in the same town where she lived."
+"But most of them didn't know Sarah," Brandon said. "Most of them didn't have a childhood obsession with her. Most of them didn't change their name twice and come back to Parke County to work as a deputy sheriff in the same town where she lived."
 
-Kowalski was breathing hard now. The mask was cracking wider.
+Kowalski was breathing hard now. The crack growing wider.
 
 "You started going to the library earlier this year," Matt said. "February, you told us in the car. The librarian remembers you. Says you asked Sarah questions about her job. About her schedule. You were gathering information."
 
-"I was being friendly," Kowalski said. "That's what people do in small towns. They talk to each other."
+"I was being friendly," Kowalski said. His hands formed fists on the table. "That's what people do in small towns. They talk to each other. It doesn't prove anything."
 
-"And on April sixteenth," Matt continued, "you were at the library. Checked out a book at four-thirty. James Patterson novel. Then what did you do?"
-
-"I went home."
-
-"Are you sure?" Brandon asked. "Because we have footage from the Rural King showing Dale Kovacs buying trail cameras that evening. He was setting them up on his property because someone had been coming into his barn without permission. Someone who knew that space. Who'd spent time there as a kid."
-
-Kowalski's hands had formed fists on the table. "That doesn't prove anything."
-
-"We think it was you," Brandon said quietly. "We think you'd been visiting that barn. Maybe because it reminded you of when you were younger. When things were simpler. Before Dale and your mother divorced. Before everything fell apart."
+"About six months before Sarah was murdered, Dale noticed someone had been coming on his land, spending time in his barn. We think it was you," Brandon said quietly. "We think you'd been visiting that barn. Maybe because it reminded you of when you were younger. When things were simpler. Before Dale and your mother divorced. Before everything fell apart."
 
 "You don't know what you're talking about."
 
-"And we think you saw Sarah's car at the library that day," Brandon continued. "Recognized it. Maybe you'd been watching her, waiting for an opportunity. And you sabotaged it. Loosened the connection to the starter so it wouldn't catch right. So she'd be stranded."
+"We think you were in Blackburn while you were on duty on April 16th. Saw Sarah's car at the library that day," Brandon continued. "Maybe you'd been watching her, waiting for an opportunity. And you sabotaged it. Loosened the connection to the starter so it wouldn't catch right. So she'd be stranded."
 
 "That's insane."
 
-"You knew she'd stop at the Crossroads," Matt said. "Everyone did. She always got gas there on her way home from work. So you waited. And when her car wouldn't start, when she was alone at that payphone—you approached her."
+"You knew she'd stop at the Crossroads," Matt said. "If you'd been watching her. She always got gas there on her way home from her Thursday shift. So you waited. And when her car wouldn't start, when she was alone at that payphone—you approached her."
 
 Kowalski shook his head. "No. That's not—I didn't—"
 
-"She knew you," Brandon said. "Recognized you even though you looked different. Older. You told her you were there to help. That your truck was nearby. That you could give her a ride or help her with her car."
+"She knew you," Brandon said. "Recognized the friendly deputy sheriff who sometimes stopped by the library. You told her you were there to help. That you could help her with her car."
 
 "Stop," Kowalski said.
 
-"And she went with you," Brandon said. "Because she knew you from when you were kids. Because you were a cop. Because she had no reason to think you'd hurt her."
+"She wasn't afraid at first. Not until you grabbed her and pulled her into your truck."
 
 "I said stop!"
 
-Matt leaned forward. "Where did you take her, Marcus? To Dale's barn? Your old space?"
+Matt leaned forward. "Where did you take her, Marcus? To Dale's barn? Your old hideout?"
 
-Kowalski's breathing was ragged now. His composure completely shattered. "I didn't hurt her. I was trying to protect her."
+Kowalski's breathing was ragged now. His composure crumbling. "I didn't hurt her. I was trying to protect her."
 
 "Protect her from what?" Brandon asked.
 
@@ -3280,13 +3272,13 @@ He stopped. Realized what he'd said. His face went pale.
 
 Kowalski didn't respond. His hands were shaking.
 
-"But she didn't understand, did she?" Brandon continued. "She didn't see it the way you did. She was scared. Confused. She'd been drugged—you must have given her something to keep her calm, to make her compliant. But when it wore off, when she woke up in that house, chained in that bedroom—she didn't understand that you were trying to help her."
+"You were the first officer on scene after the call came in about Sarah," Brandon continued. "You must have drugged her to make sure she wouldn't get away. Did you take her to Dale's barn before you responded to the scene or after?"
 
 Kowalski's eyes filled with tears.
 
-"Dale found her," Matt said. "Broke the chain. Kept her in his house for three days. But you knew. Because you're a cop. You had access to the investigation. You saw his truck on the security footage. You figured out where she was."
+"Dale found her," Matt said. "Broke the chain. Kept her in his house for three days. You must have realized that when you went back the next night and she wasn't in the barn where you'd left her."
 
-"And you went back for her," Brandon said. "To your barn. To save her from Dale."
+"When he finally left on the third day, you went back for her," Brandon said. "Took her to your barn. To save her from Dale."
 
 Kowalski wiped his eyes. "She was supposed to understand. I explained it to her. Told her Dale was dangerous. That I'd been watching him. That I was there to protect her. But she wouldn't listen. She kept asking to go home. Kept saying I was scaring her."
 
@@ -3312,6 +3304,6 @@ Brandon didn't answer. He just held Kowalski's gaze.
 
 The room went silent.
 
-Through the one-way mirror, Brandon knew Matt was watching. Dunham was watching. Both of them trying to understand what had just happened.
+Brandon could feel Matt's incredulous gaze boring a hole in him. And through the one-way glass, Dunham was watching. Both of them trying to understand what had just happened.
 
 But Brandon kept his eyes on Marcus Kowalski as the man across from him began to shake, his carefully constructed mask finally, completely shattered.

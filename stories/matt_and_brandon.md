@@ -239,7 +239,7 @@ Matt saw anger flare suddenly in Brandon's deep green eyes.
 "The boyfriend had nothing to do with it. He's beyond reproach."
 
 Matt was taken aback. Brandon's hands had clenched into fists on the table. He noticed, seemed to realize it, and deliberately relaxed them.
-
+o
 Matt chose his next words carefully.
 
 "Similar circumstances don't mean the same perpetrator," Matt said carefully. "Ashford to here is what, six or seven hours?"
@@ -3960,8 +3960,6 @@ Some wounds never healed.
 
 You just learned to live with them.​​​​​​​​​​​​​​​​
 
----
-
 -----
 
 The Parke County Sheriff’s Office was quiet when they arrived just after one PM. Most of the deputies were out on patrol or at lunch. The dispatcher at the front desk recognized them and waved them through.
@@ -3980,11 +3978,11 @@ They sat. Brandon noticed the file folders stacked on Dunham’s desk—personne
 
 “The name change was legal,” Brandon said. “It wouldn’t have shown up unless you specifically searched for prior names. Which no one does for standard background checks.”
 
-“I should have,” Dunham said. “I should have—” He stopped, rubbing his face. “I worked with him for two years. Rode in a patrol car with him. Had coffee with him. Talked about our families, our lives. And I never suspected. Not once.”
+“I still should have noticed something in the 2 years i supervised him,” Dunham said. “I just can't believe i missed it.”
 
 “Because he was good at hiding,” Matt said. “He’d been practicing since he was a teenager. The mask he wore—that wasn’t new. That was years of refinement.”
 
-Dunham picked up a photo from his desk. Brandon recognized it—the department’s staff photo from last year. Dunham, Kowalski, and three other deputies standing in front of the courthouse.
+Dunham picked up a photo from his desk. Brandon recognized it—the department’s staff photo from last year. Dunham, Kowalski, and the rest of the deputies standing in front of the courthouse.
 
 “Look at him,” Dunham said, pointing to Kowalski in the photo. “He looks normal. Happy. Like any other deputy just doing his job.”
 
@@ -3992,9 +3990,9 @@ Dunham picked up a photo from his desk. Brandon recognized it—the department�
 
 “But there had to be signs,” Dunham insisted. “Something I should have seen. Some behavior, some comment, something that should have tipped me off.”
 
-Matt leaned forward. “Tom, I’ve been doing this for fifteen years. I’ve investigated dozens of homicides. And I can tell you—people like Marcus don’t show obvious signs. They’re not walking around with red flags. They compartmentalize. The Marcus who showed up to work was different from the Marcus who was obsessed with Sarah Carpenter. Two separate people in the same body.”
+Matt leaned forward. “Tom, I’ve been doing this for over fifteen years. I’ve investigated dozens of homicides. And I can tell you—people like Marcus don’t show obvious signs. They’re not walking around with red flags. They compartmentalize. The Marcus who showed up to work was different from the Marcus who was obsessed with Sarah Carpenter. Two separate people in the same body.”
 
-“Agent Gray,” Dunham said, looking at Brandon. “You figured it out. You knew Marcus was wrong for this. What did you see that I didn’t?”
+“Agent Gray,” Dunham said, looking at Brandon. “You figured it out. You knew Marcus was right for this. What did you see that I didn’t?”
 
 Brandon chose his words carefully. “I didn’t see it in him. I saw it in the case. The way the investigation was handled, the evidence that was collected—or wasn’t collected. The fact that the first officer on scene was also someone who’d been visiting the library where Sarah worked. Those patterns pointed to someone with access and knowledge.”
 
@@ -4008,19 +4006,13 @@ Dunham set the photo down. “The mayor wants a press conference. Wants me to ex
 
 “What are you going to tell them?” Matt asked.
 
-“The truth. That Marcus Harding changed his name, passed a background check, and became a deputy sheriff. That he hid his obsession with Sarah Carpenter. That when we reopened the case as a cold case, he volunteered to help because he wanted to stay close to the investigation. And that he was caught because two FBI agents saw patterns we missed.” Dunham looked between them. “That about cover it?”
+“The truth. That Marcus Harding changed his name, had no criminal record, passed a background check, and became a deputy sheriff. That he hid his obsession with Sarah Carpenter. That when we reopened the case as a cold case, he volunteered to help because he wanted to stay close to the investigation. And that he was caught because two FBI agents saw patterns we missed.” Dunham looked between them. “That about cover it?”
 
 “Sounds right,” Matt said.
 
-“The county’s getting sued,” Dunham continued. “Sarah’s family. Wrongful death. Negligent hiring. They’ll probably settle. The county can’t afford a trial.”
-
-“Linda Carpenter didn’t mention a lawsuit,” Brandon said.
-
-“She hasn’t filed yet. But her lawyer will. They always do.” Dunham leaned back in his chair. “I don’t blame her. If it were my daughter—” He stopped.
-
 They sat in silence for a moment. Brandon could hear the dispatcher talking on the radio in the front office. A deputy calling in a traffic stop on Route 36.
 
-“The department will survive this,” Matt said. “It’ll be hard. The media will be brutal. Public trust will take a hit. But you’ll get through it.”
+“Your department will survive this,” Matt said. “It’ll be hard. The media will be brutal. Public trust will take a hit. But you’ll get through it.”
 
 “Will we?” Dunham asked. “Because I’m not sure. Kowalski was one of us. Wore the same uniform. Took the same oath. And he used that access to murder someone. How do we come back from that?”
 
@@ -4028,11 +4020,11 @@ They sat in silence for a moment. Brandon could hear the dispatcher talking on t
 
 Dunham nodded, but he didn’t look convinced.
 
-“Tom,” Matt said. “You called us when Sarah’s case went cold. You asked for help. You gave us full access to your files, your deputies, your investigation. You didn’t try to cover anything up or protect your own. That matters.”
+“Tom,” Matt said. "The sheriff called us when Sarah’s case went cold. You asked for help. You gave us full access to your files, your deputies, your investigation. You didn’t try to cover anything up or protect your own. That matters.”
 
 “Does it?” Dunham asked. “Because from where I’m sitting, it looks like I brought in the FBI to clean up a mess I should have prevented.”
 
-“You couldn’t have prevented this,” Brandon said firmly. “Marcus was going to fixate on Sarah regardless of what you did or didn’t do. The obsession started when he was sixteen. Long before you hired him. Long before he became a cop. You’re not responsible for what he did.”
+“You couldn’t have prevented this,” Brandon said firmly. “Marcus was going to fixate on Sarah regardless of what you did or didn’t do. The obsession started when he was seventeen. Long before you hired him. Long before he became a cop. You’re not responsible for what he did.”
 
 “But I am responsible for not seeing it,” Dunham said.
 
@@ -4052,7 +4044,7 @@ Brandon stood. “Chief Deputy, you’re going to second-guess yourself for a wh
 
 Dunham stood as well. “How long does that take? The not second-guessing yourself part?”
 
-Brandon thought about Missouri. About nineteen years of wondering if he could have done something different. “I’ll let you know when I figure it out.”
+Brandon thought about Missouri. About twenty-one years of wondering if he could have done something different. “I’ll let you know when I figure it out.”
 
 They shook hands. Dunham’s grip was firm despite the exhaustion in his face.
 
@@ -4066,7 +4058,7 @@ They shook hands. Dunham’s grip was firm despite the exhaustion in his face.
 
 Outside, walking to the car, Matt glanced at Brandon. “You think he’ll be okay?”
 
-“Eventually,” Brandon said. “He’s tougher than he thinks. He’ll get through the press conference, the lawsuit, the departmental review. It’ll be rough, but he’ll survive it.”
+“Eventually,” Brandon said. “He’s a tough one. He’ll get through the press conference, the departmental review. It’ll be rough, but he’ll survive it.”
 
 “And the second-guessing?”
 
@@ -4102,7 +4094,7 @@ Brandon felt something loosen in his chest. Something he hadn’t realized was t
 
 “Thanks,” he said.
 
-They got in the car. Matt started the engine and pulled out of the parking lot. As they drove through Rockville, heading toward the highway, Brandon looked out at the town. Small, quiet, the kind of place where everyone knew everyone. The kind of place where a murder shouldn’t happen.
+They got in the car. Matt started the engine and pulled out of the parking lot. As they drove through Rockville, heading toward the highway, Brandon looked out at the town. Small, quiet, the kind of place where people know their neighbors. The kind of place where a murder shouldn’t happen.
 
 But it had happened. And they’d solved it. And now Sarah Carpenter’s mother could bury her daughter. Dale Kovacs would serve his time. Marcus Harding would stand trial.
 
@@ -4129,3 +4121,4 @@ Matt nodded. They drove in comfortable silence, the landscape changing from smal
 But today, for a few hours, they could just drive.
 
 And that was enough.​​​​​​​​​​​​​​​​
+

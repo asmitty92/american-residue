@@ -239,7 +239,7 @@ Matt saw anger flare suddenly in Brandon's deep green eyes.
 "The boyfriend had nothing to do with it. He's beyond reproach."
 
 Matt was taken aback. Brandon's hands had clenched into fists on the table. He noticed, seemed to realize it, and deliberately relaxed them.
-o
+
 Matt chose his next words carefully.
 
 "Similar circumstances don't mean the same perpetrator," Matt said carefully. "Ashford to here is what, six or seven hours?"

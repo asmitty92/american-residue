@@ -3337,7 +3337,7 @@ Matt had worked with Brandon for three years. He'd watched his partner stand at 
 
 But this wasn't observation. This was knowledge. Specific, impossible knowledge.
 
-Kowalski's hands were shaking on the table. His breathing had gone ragged. The mask he'd worn for the entire interview—the calm, confident deputy—had shattered completely.
+Kowalski's hands were shaking on the table. His breathing had gone ragged. The mask he'd practiced so arduously—the calm, confident deputy—had shattered completely.
 
 Brandon leaned forward slightly. His voice was still gentle, almost compassionate.
 
@@ -3377,7 +3377,7 @@ Matt made notes, keeping his expression neutral. The delusion was complete. Kowa
 
 "So you left," Brandon said. "After Dale and your mother divorced."
 
-"I had to. Dale made it clear I wasn't welcome. And my mom—she always took his side. Always thought there was something wrong with me." Kowalski wiped his face again. "I changed my name. Started over. Went to college. Tried to move on."
+"I had to. Dale made it clear I wasn't welcome. He knew about Sarah. Thought there was something wrong with me. And my mom—she always took his side." Kowalski wiped his face again. "I changed my name. Started over. Went to college. Tried to move on."
 
 "But you couldn't," Matt said.
 
@@ -3385,7 +3385,7 @@ Matt made notes, keeping his expression neutral. The delusion was complete. Kowa
 
 "Safe from what?" Brandon asked.
 
-"From people like Dale. From men who'd want to hurt her." Kowalski's jaw tightened. "I became a cop so I could protect her. So I could watch over her without anyone questioning it."
+"From people who'd want to hurt her. She was so fragile after she lost her dad." Kowalski's jaw tightened. "I became a cop so I could protect her. So I could watch over her without anyone questioning it."
 
 Matt felt something cold settle in his chest. Kowalski had planned this for years. Changed his name, became a police officer, got hired in Parke County—all so he could be near Sarah without being recognized as the teenager who'd made her uncomfortable.
 
@@ -3393,9 +3393,11 @@ Matt felt something cold settle in his chest. Kowalski had planned this for year
 
 "I knew what he was capable of. I grew up with him. He had this way of watching people. Studying them. And when I saw him at the library, saw him watching Sarah—" Kowalski shook his head. "I knew I had to do something."
 
+Matt knew they could explain to him that Dale was only at the library so much because he was concerned that Kowalski still had an unhealthy interest in Sarah, but it wouldn't change how he felt about it. This 29 year old man in front of them was still processing the situation like an adolescent. 
+
 "So you took her," Matt said.
 
-"I saved her." Kowalski's voice was firm. "I saw her car at the library that day. I was on patrol in Blackburn. I knew she'd be finishing her shift soon. So I made sure her car wouldn't start. Made sure she'd be stranded."
+"I saved her." Kowalski's voice was firm. "I saw her car at the library that day. I was on patrol in Blackburn. I knew she'd be finishing her shift soon. So I made sure her car adolescentwouldn't start. Made sure she'd be stranded."
 
 "And you waited at the Crossroads," Brandon said.
 
@@ -3415,7 +3417,7 @@ Kowalski nodded. "Just enough to keep her calm. I didn't want to hurt her."
 
 "But Dale found her," Brandon said.
 
-"I had to respond to the call about her disappearance. I couldn't—I couldn't stay with her." Kowalski's hands clenched. "When I went back the next night, she was gone. Dale had taken her. Put her in his house. Chained her up like an animal."
+"I had to respond to the call about her disappearance. I couldn't—I couldn't stay with her." Kowalski's hands clenched. "When I went back the next night, she was gone. Dale had taken her. Put her in his house. Locked her up like an animal."
 
 "So you waited," Matt said. "Waited for Dale to leave."
 
@@ -3449,11 +3451,11 @@ Matt set down his pen. They had it. A full confession. On tape. Witnessed by Dun
 
 "What did you do with her body?" Matt asked.
 
-"I left her there. In the barn. In my corner. I couldn't—I couldn't move her. Couldn't touch her." Kowalski wiped his eyes. "I went home. Tried to figure out what to do. But then the next day, I got a call. Dale had found her. Reported finding her body."
+"I left her there. In the barn. In my corner. I couldn't—I couldn't move her. Couldn't touch her." Kowalski wiped his eyes. "I went home. Tried to figure out what to do. I expected there to be a call the next day. I expected Dale to report finding her body."
 
 "Except he didn't report it," Brandon said.
 
-"No. He buried her. The coward buried her." Kowalski's expression hardened. "He knew if they found her on his property, after he'd kept her in his house, they'd blame him. So he buried her and kept quiet."
+"No. He buried her. The coward buried her." Kowalski's expression hardened. "He knew if they found her on his land, after he'd kept her in his house, they'd blame him. So he buried her and kept quiet."
 
 "And you let him," Matt said. "You knew where Sarah was. You knew what had happened to her. But you kept investigating the case. Kept interviewing witnesses. Kept pretending you didn't know."
 
@@ -3461,9 +3463,9 @@ Matt set down his pen. They had it. A full confession. On tape. Witnessed by Dun
 
 "From Dale," Brandon said.
 
-"Yes. From Dale. From anyone who'd want to hurt her." Kowalski's voice was pleading now. "She was supposed to understand. We were supposed to be together. It wasn't supposed to end like this."
+"Yes. From Dale. But really from anyone who'd want to hurt her." Kowalski's voice was pleading now. "She was supposed to understand. We were supposed to be together. It wasn't supposed to end like this."
 
-Matt closed his notebook. "Marcus Robert Harding, you're under arrest for the murder of Sarah Carpenter. You'll be transported to a holding facility pending arraignment."
+Matt closed his notebook. "I think that's all we need. You'll be transported to a holding facility pending arraignment."
 
 Kowalski didn't resist. He just sat there, tears still streaming down his face, broken and defeated.
 
@@ -3513,7 +3515,7 @@ Brandon was quiet for a long moment. When he spoke, his voice was measured. "Som
 
 "You saw what happened in that barn," Matt said.
 
-"I felt it. When we were there during the search. The fear. The desperation. The moment Sarah realized she wasn't going to survive." Brandon's jaw tightened. "And I felt Marcus too. The need to make her understand. The love twisted up with control. The moment it all went wrong."
+"I felt it. Both times we were there. The fear. The desperation. The moment Sarah realized she wasn't going to survive." Brandon's jaw tightened. "And I felt Marcus too. The need to make her understand. The love twisted up with control. The moment it all went wrong."
 
 Matt sat down across from his partner. "How long have you been able to do this?"
 
@@ -3521,29 +3523,29 @@ Matt sat down across from his partner. "How long have you been able to do this?"
 
 "Missouri," Matt said.
 
-Brandon nodded slowly. "There was a case. A woman taken from a payphone. I was there. I saw—" He stopped, his expression closing. "That's when it started. The impressions. The knowing things I shouldn't know."
+Brandon nodded slowly. "The case I told you about. A woman taken from a phone booth. I went to that scene. I saw—" He stopped, his expression closing. "That's when it started. The impressions. The knowing things I shouldn't know. It's like the trauma experienced at these scenes leaves an mark that I can find."
 
 "The boyfriend," Matt said, remembering Brandon's reaction when they'd talked about the Ashford case. The anger when Matt had suggested the boyfriend might be involved. "You said he was beyond reproach."
 
 Brandon looked up, and Matt saw something in his eyes—pain, old and deep.
 
-"He was my brother," Brandon said quietly. "The woman who was taken—she was his girlfriend. He was on the phone with her when it happened. Heard the whole thing. Tried to get there in time but couldn't."
+"He was my brother, Tom," Brandon said quietly. "The woman who was taken—she was his girlfriend. His fiance really, but he hadn't bought her a ring yet. He was on the phone with her when it happened. Heard the whole thing. Tried to get there in time but couldn't."
 
 Matt felt like the air had been punched out of his lungs. "Jesus, Gray."
 
-"That case was never solved. My brother spent years trying to find answers. Trying to find her. It destroyed him." Brandon's voice was flat, carefully controlled. "And I was ten years old, trying to understand what had happened. Trying to make sense of it. And that's when I started seeing things. Knowing things. Like some part of me broke open that day and never closed."
+"That case was never solved. Early on, the town rumor mill thought Tom might have had something to do with it. My brother spent years trying to find answers. Trying to find her. It destroyed him." Brandon's voice was flat, carefully controlled. "And I was ten years old, trying to understand what had happened. Trying to make sense of it. I visited the scene multiple times, and that's when I started seeing things. Knowing things. Like some part of me broke open that day and never closed."
 
 "Is it real?" Matt asked. "Or is it just—"
 
-"I don't know." Brandon looked at him directly. "I've asked myself that for nineteen years. Is it some kind of ability? Or am I just very good at reading evidence and my brain presents it as certainty? I honestly don't know, Matt. But it works. It helps me solve cases. So I use it."
+"I don't know." Brandon looked at him directly. "I've asked myself that for over twenty years. Is it some kind of ability? Or am I just very good at reading evidence and my brain presents it as certainty? I honestly don't know, Matt. But it works. It helps me solve cases. So I use it."
 
-Matt thought about the past three years. All the times Brandon had reconstructed crime scenes with impossible accuracy. All the times he'd described victim psychology or perpetrator motivation that later proved correct. Matt had assumed it was skill and experience.
+Matt thought about the past three years. All the times Brandon had reconstructed crime scenes with uncanny accuracy. All the times he'd described victim psychology or perpetrator motivation that later proved correct. Matt had assumed it was skill and experience.
 
-But now he knew it was something else. Something inexplicable.
+It was those things, but now he knew it was also something else. Something inexplicable.
 
 "Does it always work?" Matt asked.
 
-"No. Sometimes I don't get anything. Sometimes the impressions are vague, unclear. And sometimes—" Brandon paused. "Sometimes I'm wrong. I try to verify everything I can. I don't make accusations based solely on impressions. But in interviews, when I need to break someone—"
+"No. Sometimes I don't get anything-maybe the trauma response isn't strong enough. Sometimes the impressions are vague, unclear. And sometimes—" Brandon paused. "Sometimes I'm wrong. I try to verify everything I can. I don't make accusations based solely on impressions. But in interviews, when I need to break someone—"
 
 "You use it," Matt finished.
 
@@ -3557,11 +3559,11 @@ They sat in silence for a moment. Matt's mind was still trying to process what h
 
 "How?"
 
-"I don't know, Matt. I stood in that barn and I felt what happened there. And in the interview, when Marcus was talking about Sarah, it became clearer. More specific. Like—" Brandon searched for words. "Like tuning in a radio signal. The more he talked, the more I could see."
+"I don't know, Matt. I stood in that barn and I felt what happened there."
 
 Matt leaned back in his chair. "This is going to sound crazy, but—do you think you're psychic?"
 
-"I don't believe in psychics," Brandon said. "I think there's probably a rational explanation. Maybe I'm picking up on micro-expressions, body language, environmental cues that my conscious mind doesn't register but my subconscious processes. Maybe I'm just very good at reading crime scenes and my brain fills in the gaps with educated guesses that feel like certainty."
+"I don't believe in psychics," Brandon said. "I think there's probably a rational explanation. Maybe I'm picking up on micro-expressions, body language, environmental cues that my conscious mind doesn't register but my subconscious processes. Maybe I'm just very good at reading crime scenes and my brain can fill in the gaps."
 
 "But you don't know for sure."
 
@@ -3587,7 +3589,7 @@ Matt stood as well. "The confession will hold. We have enough physical evidence 
 
 "I was afraid," Brandon said. His voice was barely audible. "Afraid you'd think I was crazy. Afraid you wouldn't want to work with me anymore. Afraid—" He stopped.
 
-Matt understood. Brandon had been carrying this alone since he was ten years old. This thing he couldn't explain, couldn't prove, could barely articulate. And he'd been afraid that if anyone knew, they'd see him as broken. As unreliable.
+Matt understood. Brandon had been carrying this alone since he was ten years old. This thing he couldn't explain, couldn't prove, could barely articulate. And he'd been afraid that if anyone knew, they'd see him as broken. As unreliable. It wasn't that different from the trauma that Marcus Harding had carried.
 
 "I don't think you're crazy," Matt said. "I think—I think you have something I don't understand. But I've seen it work. I've seen you solve cases that should have been unsolvable. So whatever this is—" He paused. "We'll figure it out. Together."
 

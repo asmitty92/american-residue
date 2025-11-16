@@ -4054,7 +4054,8 @@ They shook hands. Dunham’s grip was firm despite the exhaustion in his face.
 
 “No,” Dunham said. “It’s more than that. And you know it.”
 
------
+# Chapter Thirteen
+**Thursday Afternoon**
 
 Outside, walking to the car, Matt glanced at Brandon. “You think he’ll be okay?”
 

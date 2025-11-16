@@ -3959,3 +3959,173 @@ As they pulled away from Linda Carpenter’s house, Brandon looked back one more
 Some wounds never healed.
 
 You just learned to live with them.​​​​​​​​​​​​​​​​
+
+---
+
+-----
+
+The Parke County Sheriff’s Office was quiet when they arrived just after one PM. Most of the deputies were out on patrol or at lunch. The dispatcher at the front desk recognized them and waved them through.
+
+They found Dunham in his office, staring at his computer screen. He looked up when they knocked, and Brandon saw the exhaustion in his face. The man had aged a decade in the past week.
+
+“Ellis. Gray.” Dunham gestured to the chairs across from his desk. “Come in. Close the door.”
+
+They sat. Brandon noticed the file folders stacked on Dunham’s desk—personnel records, incident reports, years of documentation. Dunham caught him looking.
+
+“Background checks,” Dunham said. “Every deputy we’ve hired in the past five years. Going through them all again. Making sure we didn’t miss anything else.”
+
+“You won’t find anything,” Matt said. “Kowalski was clean. His background check was thorough. There was nothing to find.”
+
+“Marcus Harding,” Dunham corrected. “That’s who I hired. Marcus Harding pretending to be Miles Kowalski. And I didn’t catch it.”
+
+“The name change was legal,” Brandon said. “It wouldn’t have shown up unless you specifically searched for prior names. Which no one does for standard background checks.”
+
+“I should have,” Dunham said. “I should have—” He stopped, rubbing his face. “I worked with him for two years. Rode in a patrol car with him. Had coffee with him. Talked about our families, our lives. And I never suspected. Not once.”
+
+“Because he was good at hiding,” Matt said. “He’d been practicing since he was a teenager. The mask he wore—that wasn’t new. That was years of refinement.”
+
+Dunham picked up a photo from his desk. Brandon recognized it—the department’s staff photo from last year. Dunham, Kowalski, and three other deputies standing in front of the courthouse.
+
+“Look at him,” Dunham said, pointing to Kowalski in the photo. “He looks normal. Happy. Like any other deputy just doing his job.”
+
+“He was doing his job,” Brandon said. “That’s what made him dangerous. He was functional. Competent. He blended in perfectly because he’d learned how to mimic normalcy.”
+
+“But there had to be signs,” Dunham insisted. “Something I should have seen. Some behavior, some comment, something that should have tipped me off.”
+
+Matt leaned forward. “Tom, I’ve been doing this for fifteen years. I’ve investigated dozens of homicides. And I can tell you—people like Marcus don’t show obvious signs. They’re not walking around with red flags. They compartmentalize. The Marcus who showed up to work was different from the Marcus who was obsessed with Sarah Carpenter. Two separate people in the same body.”
+
+“Agent Gray,” Dunham said, looking at Brandon. “You figured it out. You knew Marcus was wrong for this. What did you see that I didn’t?”
+
+Brandon chose his words carefully. “I didn’t see it in him. I saw it in the case. The way the investigation was handled, the evidence that was collected—or wasn’t collected. The fact that the first officer on scene was also someone who’d been visiting the library where Sarah worked. Those patterns pointed to someone with access and knowledge.”
+
+“But if you’d worked with him every day,” Dunham pressed, “would you have known? Would you have seen it?”
+
+Brandon thought about that. About all the times he’d stood next to someone who was hiding something. About how good people could be at concealing their true nature.
+
+“Probably not,” Brandon admitted. “Not unless I was specifically looking for it. And even then—Marcus was careful. He’d been careful his entire adult life.”
+
+Dunham set the photo down. “The mayor wants a press conference. Wants me to explain how this happened. How a deputy sheriff in my department murdered a young woman and investigated his own crime for six months.”
+
+“What are you going to tell them?” Matt asked.
+
+“The truth. That Marcus Harding changed his name, passed a background check, and became a deputy sheriff. That he hid his obsession with Sarah Carpenter. That when we reopened the case as a cold case, he volunteered to help because he wanted to stay close to the investigation. And that he was caught because two FBI agents saw patterns we missed.” Dunham looked between them. “That about cover it?”
+
+“Sounds right,” Matt said.
+
+“The county’s getting sued,” Dunham continued. “Sarah’s family. Wrongful death. Negligent hiring. They’ll probably settle. The county can’t afford a trial.”
+
+“Linda Carpenter didn’t mention a lawsuit,” Brandon said.
+
+“She hasn’t filed yet. But her lawyer will. They always do.” Dunham leaned back in his chair. “I don’t blame her. If it were my daughter—” He stopped.
+
+They sat in silence for a moment. Brandon could hear the dispatcher talking on the radio in the front office. A deputy calling in a traffic stop on Route 36.
+
+“The department will survive this,” Matt said. “It’ll be hard. The media will be brutal. Public trust will take a hit. But you’ll get through it.”
+
+“Will we?” Dunham asked. “Because I’m not sure. Kowalski was one of us. Wore the same uniform. Took the same oath. And he used that access to murder someone. How do we come back from that?”
+
+“By doing the job,” Brandon said. “By being transparent about what happened and what you’re doing to prevent it from happening again. By showing the community that one bad deputy doesn’t define the entire department.”
+
+Dunham nodded, but he didn’t look convinced.
+
+“Tom,” Matt said. “You called us when Sarah’s case went cold. You asked for help. You gave us full access to your files, your deputies, your investigation. You didn’t try to cover anything up or protect your own. That matters.”
+
+“Does it?” Dunham asked. “Because from where I’m sitting, it looks like I brought in the FBI to clean up a mess I should have prevented.”
+
+“You couldn’t have prevented this,” Brandon said firmly. “Marcus was going to fixate on Sarah regardless of what you did or didn’t do. The obsession started when he was sixteen. Long before you hired him. Long before he became a cop. You’re not responsible for what he did.”
+
+“But I am responsible for not seeing it,” Dunham said.
+
+“No,” Brandon said. “You’re responsible for doing your job. Which you did. You investigated thoroughly. You called for help when you needed it. And when we identified Marcus as the killer, you supported the arrest without hesitation. That’s what you’re responsible for. The rest—that’s on Marcus.”
+
+Dunham was quiet for a long moment. Then he pulled open his desk drawer and took out a business card. He slid it across the desk to Matt.
+
+“If another case comes up,” Dunham said. “Something we can’t handle. You’ll come back?”
+
+Matt picked up the card. “You have our direct numbers. Call anytime.”
+
+“I mean it,” Dunham said. “You two—you’re good at this. You see things we miss. I’d rather call you in early than wait until it’s too late.”
+
+“We appreciate that,” Matt said.
+
+Brandon stood. “Chief Deputy, you’re going to second-guess yourself for a while. That’s normal. But eventually you’ll realize you did everything you could with the information you had. And that’s all anyone can do.”
+
+Dunham stood as well. “How long does that take? The not second-guessing yourself part?”
+
+Brandon thought about Missouri. About nineteen years of wondering if he could have done something different. “I’ll let you know when I figure it out.”
+
+They shook hands. Dunham’s grip was firm despite the exhaustion in his face.
+
+“Thank you,” Dunham said. “For solving this. For bringing Sarah home. For—for everything.”
+
+“It’s the job,” Matt said.
+
+“No,” Dunham said. “It’s more than that. And you know it.”
+
+-----
+
+Outside, walking to the car, Matt glanced at Brandon. “You think he’ll be okay?”
+
+“Eventually,” Brandon said. “He’s tougher than he thinks. He’ll get through the press conference, the lawsuit, the departmental review. It’ll be rough, but he’ll survive it.”
+
+“And the second-guessing?”
+
+“That never really stops,” Brandon said. “You just get better at living with it.”
+
+They reached the car. Matt unlocked it but didn’t get in immediately.
+
+“What you said in there,” Matt said. “About Marcus compartmentalizing. Having two separate people in the same body.”
+
+“Yeah?”
+
+“Is that what it’s like for you? With the impressions? Like there’s one version of you that works the case normally and another version that sees—that knows things?”
+
+Brandon considered that. It was a good question. One he’d never really articulated to himself.
+
+“Sometimes,” he said. “It’s like—like there are two layers. The surface layer is the evidence, the logic, the procedure. Everything you can document and prove. And underneath is the impression layer. The things I feel and know but can’t explain. Most of the time they align. But sometimes—”
+
+“Sometimes the impression layer sees things the surface layer misses,” Matt finished.
+
+“Yes.”
+
+Matt nodded slowly. “And you’re okay with that? Not understanding where it comes from or how it works?”
+
+“I don’t have a choice,” Brandon said. “It’s part of how I process crime scenes. Has been since I was ten. I can either use it or ignore it. And ignoring it—” He paused. “Ignoring it feels like a waste. Like I’m supposed to be using this thing, whatever it is, to help people.”
+
+“Even though it comes from trauma,” Matt said quietly. “From Missouri.”
+
+“Especially because it comes from that,” Brandon said. “My brother’s girlfriend was taken and never found. That case destroyed my family. If I can use what came from that destruction to solve other cases, to give other families answers—then maybe it means something. Maybe it wasn’t all pointless.”
+
+Matt was quiet for a moment. Then he said, “It means something, Gray. What you do. How you work. It means something.”
+
+Brandon felt something loosen in his chest. Something he hadn’t realized was tight.
+
+“Thanks,” he said.
+
+They got in the car. Matt started the engine and pulled out of the parking lot. As they drove through Rockville, heading toward the highway, Brandon looked out at the town. Small, quiet, the kind of place where everyone knew everyone. The kind of place where a murder shouldn’t happen.
+
+But it had happened. And they’d solved it. And now Sarah Carpenter’s mother could bury her daughter. Dale Kovacs would serve his time. Marcus Harding would stand trial.
+
+It wasn’t justice, exactly. Justice would have been Sarah living. Justice would have been Marcus getting help before he became a killer. Justice would have been someone seeing the signs and stopping this before it started.
+
+But it was resolution. And sometimes that was the best you could do.
+
+“Where to now?” Matt asked as they merged onto the highway.
+
+“Indianapolis,” Brandon said. “Write our final reports. Close the case file. Move on to the next one.”
+
+“Just like that?”
+
+“Just like that.”
+
+Matt glanced at him. “You ever wonder if we make a difference? Real difference, I mean. We solve cases, catch killers. But the people are still dead. The families are still broken. Does it actually change anything?”
+
+Brandon thought about Linda Carpenter’s face when they’d told her how Sarah died. The pain there. The grief. The answers that didn’t bring comfort.
+
+“I don’t know if we change anything,” Brandon said. “But we give people truth. And sometimes truth is all they have left.”
+
+Matt nodded. They drove in comfortable silence, the landscape changing from small town to farmland to highway. Two FBI agents heading back to the city after solving a case. Tomorrow there would be another case. Another victim. Another killer to catch.
+
+But today, for a few hours, they could just drive.
+
+And that was enough.​​​​​​​​​​​​​​​​

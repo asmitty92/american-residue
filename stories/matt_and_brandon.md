@@ -3769,3 +3769,201 @@ Brandon thought about Missouri. About being ten years old and feeling like he sh
 "Yeah," he said quietly. "I guess I am."
 
 They drove the rest of the way to Thorndale in comfortable silence.
+
+-----
+
+Linda Carpenter’s house looked different in November. The flower beds that had been mulched in October were now covered with a light dusting of frost. The American flag on the porch hung limp in the still air. A wreath on the front door—simple, understated, the kind you’d see at a funeral home.
+
+Brandon noticed these things as Matt parked on the street. Small changes that marked time passing. Six months since Sarah disappeared. One week since they’d found her body. Three days since Marcus Kowalski had confessed to killing her.
+
+“You want to take the lead on this one?” Brandon asked.
+
+Matt shook his head. “You’re better with families.”
+
+“No, you are.” Brandon looked at his partner. “You know how to give people what they need. I just tell them the truth.”
+
+“The truth is what she needs,” Matt said. But he didn’t move to get out of the car.
+
+Brandon understood the hesitation. This was the hardest part of the job. Not the investigation, not the interrogation, not even the arrest. It was this—sitting across from a mother and telling her how her daughter died. Knowing that every word would be something she’d replay in her mind for the rest of her life.
+
+“We could call Dunham,” Matt said. “Have him do this.”
+
+“We could,” Brandon agreed. “But we’re the ones who solved it. We’re the ones who got the confession. She deserves to hear it from us.”
+
+Matt nodded. They got out of the car.
+
+The front door opened before they reached the porch. Linda stood in the doorway wearing jeans and a sweatshirt, her hair pulled back. She looked older than she had two weeks ago. Thinner. Hollowed out.
+
+“Agents,” she said. Her voice was steady but flat. “I’ve been expecting you.”
+
+“Mrs. Carpenter,” Matt said. “Thank you for seeing us. May we come in?”
+
+She stepped aside. They entered the living room—the same room they’d sat in before, surrounded by photos of Sarah. But now there was something new on the coffee table. A framed photo of Sarah from high school, surrounded by candles. A memorial.
+
+“Can I get you coffee? Water?” Linda asked.
+
+“We’re fine, thank you,” Matt said.
+
+They sat on the couch. Linda took the armchair across from them, her hands folded in her lap. Waiting.
+
+“Mrs. Carpenter,” Matt started, “we wanted to update you personally on the status of the investigation. The prosecutor’s office will be reaching out formally, but we thought you should hear it from us first.”
+
+“You arrested someone,” Linda said. “The news said it was a deputy sheriff. Miles Kowalski.”
+
+“Yes ma’am,” Matt said. “His real name is Marcus Harding. He was Dale Kovacs’s stepson. He lived on Dale’s property from age twelve to twenty-one.”
+
+Linda’s expression didn’t change. Like she’d already processed this information, already accepted it. “The boy who made Sarah uncomfortable at church.”
+
+“Yes,” Brandon said. “Marcus developed an obsession with Sarah when they were both young. That obsession never went away. When he became a deputy sheriff and returned to the area, he started watching her again.”
+
+“And he killed her,” Linda said. Still flat. Still emotionless.
+
+“Yes,” Matt said. “He confessed three days ago. Gave us details about what happened. We wanted to come tell you in person, and to answer any questions you might have.”
+
+Linda was quiet for a long moment. When she spoke, her voice was very small. “Did she suffer?”
+
+Brandon had been dreading this question. But he’d known it was coming.
+
+“She was afraid,” he said gently. “Marcus took her from the Crossroads and brought her to Dale’s barn. He’d drugged her—she wasn’t fully conscious for most of it. When she woke up, she was confused. Disoriented.”
+
+“But did she suffer?” Linda asked again. Her eyes were fixed on Brandon’s face.
+
+Brandon thought about the impression from the barn. The terror. The desperate clawing at the dirt. The single word: *why*.
+
+“Yes,” he said quietly. “I’m sorry, Mrs. Carpenter. Yes, she suffered.”
+
+Linda’s hands tightened in her lap. A single tear rolled down her cheek, but her expression didn’t change.
+
+“How long?” she asked. “How long before—before she died?”
+
+“Marcus kept her in the barn initially, then Dale found her and moved her to his house,” Matt said. “She was there for three days. Then Marcus came back and took her to the barn again. That’s when—” He stopped.
+
+“That’s when he killed her,” Linda finished.
+
+“Yes ma’am.”
+
+“Was it quick?”
+
+Brandon and Matt exchanged a glance. This was the question victims’ families always asked. And the answer was never what they wanted to hear.
+
+“He strangled her,” Brandon said. “It would have taken a few minutes.”
+
+Linda closed her eyes. More tears now, streaming down her face. But still quiet. Still controlled.
+
+“Why?” she asked. “Why Sarah? She was just a girl working at a library. She wasn’t hurting anyone. Why did he—” Her voice broke.
+
+“Because he was obsessed with her,” Brandon said. “He’d built up a fantasy in his mind over thirteen years. About how they had this special connection. How he was supposed to protect her. When that fantasy shattered—when Sarah didn’t see him the way he saw her—he couldn’t accept it.”
+
+“So he killed her,” Linda said.
+
+“Yes.”
+
+“Because she didn’t love him back.”
+
+“Yes.”
+
+Linda opened her eyes. “That’s not a reason. That’s not—that doesn’t make any sense.”
+
+“It doesn’t,” Matt agreed. “People like Marcus—they don’t think the way we do. They build narratives that justify their actions. To him, he was protecting her. Saving her. Even when he was killing her.”
+
+“He told her he loved her,” Brandon said quietly. “While his hands were around her throat. He said it three times.”
+
+Linda’s face crumpled. “Oh god. Oh god, my baby.”
+
+Matt leaned forward. “Mrs. Carpenter, I know this is incredibly difficult. But I need you to know—Sarah fought. She didn’t give up. Even in those final moments, she was trying to leave evidence. Trying to make sure someone would know what happened to her.”
+
+“The bracelet,” Linda said through her tears. “The news said you found her bracelet.”
+
+“Yes,” Brandon said. “She pulled it off and buried it where Marcus couldn’t see. So we’d know she’d been there.”
+
+“That’s my Sarah,” Linda whispered. “Always thinking. Always smart.”
+
+They sat in silence for a moment. Linda crying quietly. Matt and Brandon waiting.
+
+Finally Linda wiped her eyes. “What happens now?”
+
+“Marcus is being held without bail,” Matt said. “His trial is scheduled for March. Dale Kovacs has agreed to testify about what he knows. The prosecutor is confident they’ll get a conviction.”
+
+“And Dale?” Linda asked. “What about him?”
+
+“He’s taking a plea deal,” Matt said. “Five years for kidnapping, obstruction, and improper disposal of remains. He cooperated fully with the investigation.”
+
+“Five years,” Linda said. “My daughter is dead and he gets five years.”
+
+“I know it doesn’t seem fair—”
+
+“It’s not fair,” Linda interrupted. Her voice was stronger now. Angry. “He kept her in his house for three days. He buried her body. He let Marcus get away with it for six months. And he gets five years.”
+
+“You’re right,” Brandon said. “It’s not fair. But without Dale’s cooperation, we might not have caught Marcus. The physical evidence alone wasn’t enough. We needed Dale’s testimony.”
+
+Linda shook her head. “I know. I know you did your jobs. I know you did everything you could. But it’s not fair.”
+
+“No,” Brandon agreed. “It’s not.”
+
+They sat for another moment. Then Linda stood. “I need—I need to be alone now. I’m sorry.”
+
+Matt and Brandon stood as well. “Of course,” Matt said. “We’ll go. But Mrs. Carpenter—if you have any other questions, any time, you can call us. Day or night.”
+
+He handed her his card. Linda took it without looking at it.
+
+“The prosecutor’s office will be in touch about Sarah’s remains,” Matt continued. “They’ve been released. You can make arrangements whenever you’re ready.”
+
+Linda nodded. “The funeral is Saturday. At Thorndale Community Church. Two o’clock.”
+
+“We’ll be there if you’d like us to be,” Matt said.
+
+“No.” Linda’s voice was quiet but firm. “No, I don’t think that would be appropriate. This is for family. For people who knew her. Who loved her.”
+
+Brandon understood. They were the investigators. The ones who’d brought closure. But they weren’t mourners. They didn’t belong at Sarah’s funeral.
+
+“We understand,” he said.
+
+Linda walked them to the door. As Brandon stepped onto the porch, he glanced back. Linda was standing in the doorway, one hand on the frame, looking small and broken.
+
+On the table behind her, Brandon could see Sarah’s library badge sitting next to the memorial photo. A small laminated rectangle with her smiling face. The badge she’d worn every day at work. The badge that had been found in her car six months ago.
+
+Linda was keeping it close. A piece of the daughter she’d never see again.
+
+“Mrs. Carpenter,” Brandon said, turning back. “Sarah was brave. In those final moments. I need you to know that.”
+
+Linda looked at him. “How do you know?”
+
+“I just do,” Brandon said.
+
+She held his gaze for a long moment. Then nodded. “Thank you.”
+
+She closed the door.
+
+Matt and Brandon walked back to the car in silence. Once they were inside, Matt let out a long breath.
+
+“Jesus,” he said.
+
+“Yeah.”
+
+“Did she really bury the bracelet deliberately? Or was it just—”
+
+“She buried it deliberately,” Brandon said. “She knew. In those final moments, she knew what was happening and she wanted to leave evidence.”
+
+“How do you—” Matt stopped. “Right. The impressions.”
+
+“Yes.”
+
+They sat for a moment, neither moving to start the car.
+
+“You know what the worst part is?” Matt said finally.
+
+“What?”
+
+“We gave her answers. We told her exactly what happened to her daughter. And it didn’t help. She’s not any less broken than she was before.”
+
+“No,” Brandon agreed. “She’s not. Because answers aren’t closure. They’re just… answers. The grief doesn’t go away. It just gets a story attached to it.”
+
+Matt started the engine. “One more stop. Dunham.”
+
+“Yeah.”
+
+As they pulled away from Linda Carpenter’s house, Brandon looked back one more time. The wreath on the door. The frost on the flower beds. The house where a mother would spend the rest of her life missing her daughter.
+
+Some wounds never healed.
+
+You just learned to live with them.​​​​​​​​​​​​​​​​

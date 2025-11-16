@@ -3616,3 +3616,156 @@ But now there were answers. Because Brandon Gray had stood in a barn and felt wh
 And Matt still didn't understand how. But he was starting to accept that maybe understanding wasn't the point.
 
 Maybe some things just were.
+
+# Chapter Twelve
+**Thursday Morning**
+
+The federal holding facility looked the same as it had four days ago when they'd first interviewed Dale Kovacs. Same parking lot, same industrial landscape, same sense of existing between places. Brandon watched Matt park the sedan in a visitor spot, neither of them in a hurry to get out.
+
+"You ready for this?" Matt asked.
+
+Brandon nodded. They'd spent the past three days processing Marcus Kowalski's confession, coordinating with the prosecutor's office, writing reports. The arraignment was scheduled for Monday. But today they were here for Dale.
+
+"He's taking the plea," Matt said. It wasn't a question.
+
+"He'd be stupid not to," Brandon said. "Three counts: kidnapping, obstruction of justice, improper disposal of human remains. The prosecutor's offering five years with parole eligibility after three, contingent on his testimony at trial."
+
+"Better than life without parole."
+
+"Much better." Brandon opened his door. "He cooperated. Without his statement, we might not have connected Marcus to the case. That counts for something."
+
+They walked across the parking lot. The morning was cold, the sky that flat gray that promised snow. Brandon pulled his jacket tighter. He'd barely slept the past few days. Every time he closed his eyes, he saw that barn. Felt Sarah's terror. Heard that single word: *why*.
+
+Matt glanced at him as they approached the entrance. "You okay?"
+
+"Yeah."
+
+"You sure? Because we can have someone else handle this if—"
+
+"I'm fine, Matt." Brandon stopped walking. "I appreciate you checking. But I'm fine."
+
+Matt studied him for a moment, then nodded. This was new—Matt being more attentive, more aware. Since Monday night, since the confession, things between them had shifted. Not in a bad way. Just different. Matt knew now. About the impressions, about how Brandon worked. And instead of pulling back, Matt had leaned in. Asking questions. Trying to understand.
+
+It was strange having someone know. But also—relieving.
+
+They checked in at the front desk, surrendered their weapons, went through security. The guard escorted them to the same conference room they'd used before. Dale sat at the table, wearing an orange jumpsuit, his hands folded in front of him. His lawyer, Gerald Hicks, sat beside him with a folder open.
+
+Dale looked up when they entered. He'd aged in the past week. New lines around his eyes, gray at his temples that Brandon hadn't noticed before.
+
+"Agents," Hicks said, standing to shake their hands. "Thank you for coming. I know this isn't required but Dale wanted to speak with you before we finalize the plea."
+
+"We're glad to be here," Matt said.
+
+They sat down across from Dale and Hicks. Brandon pulled out his notebook more out of habit than necessity. This wasn't an interrogation. This was closure.
+
+"The prosecutor's office sent over the final terms yesterday," Hicks said. He slid a document across the table. "Five years, credit for time served, parole eligibility after three years. In exchange for guilty pleas on all three counts and full cooperation including testimony at trial."
+
+Matt scanned the document. "This is contingent on his testimony being truthful and complete."
+
+"We understand," Hicks said. "Dale's prepared to testify to everything he told you. About Marcus, about finding Sarah, about what he did afterward."
+
+"And the prosecutor knows that testimony will include admitting he held Sarah in his house for three days without calling authorities," Matt said. "That he disposed of her body. That he destroyed evidence."
+
+"Yes." Hicks looked at Dale. "My client understands the implications. But he also understands that without his cooperation, Marcus Kowalski might never have been caught."
+
+Dale spoke for the first time. His voice was hoarse. "I want to do this. I want to testify. Sarah deserves that. Her mother deserves that."
+
+Brandon watched Dale's face. The guilt there was real. The remorse. But also fear—fear of what testifying would mean, fear of facing Marcus in court, fear of the consequences of his choices.
+
+"The trial's scheduled for March," Matt said. "You'll likely testify in early April. Defense will cross-examine you aggressively. They'll try to make you look like the real killer. Try to suggest Marcus's confession was coerced."
+
+"I know," Dale said. "Mr. Hicks explained all that."
+
+"And you're still willing?"
+
+"Yes." Dale's jaw set. "I made mistakes. Terrible mistakes. But I didn't kill Sarah. Marcus did. And I need to make sure everyone knows that."
+
+Matt nodded and pushed the document back across the table. "Then I think this is a fair deal. Agent Gray?"
+
+Brandon had been quiet, just watching. Now he leaned forward slightly. "Mr. Kovacs, do you understand that even with this plea, even with cooperation, you'll still serve time? That you'll have a felony record?"
+
+"I understand."
+
+"And you're accepting that?"
+
+"What choice do I have?" Dale's voice cracked. "I can't undo what I did. Can't bring Sarah back. The least I can do is tell the truth about what happened."
+
+"The truth helps," Brandon said. "It won't erase what you did. But it helps."
+
+Dale nodded, tears forming in his eyes. Hicks handed him a tissue.
+
+"There's one more thing," Dale said after a moment. He wiped his eyes. "Something I need to ask."
+
+"Go ahead," Matt said.
+
+Dale looked directly at Brandon. "If I'd called 911 that first morning—when I found her in the barn, when she was still alive—could I have saved her?"
+
+The room went quiet. Hicks shifted uncomfortably. Matt's pen stopped moving.
+
+Brandon held Dale's gaze. This was the question that had been eating at Dale for six months. The question that would eat at him for the rest of his life.
+
+"I don't know," Brandon said honestly. "She was drugged. Disoriented. Scared. If you'd called immediately, paramedics could have treated her. Police could have set up protection. Marcus might not have been able to get to her."
+
+"So I could have saved her," Dale said. His voice was barely a whisper.
+
+"Maybe," Brandon said. "But maybe not. Marcus was a deputy sheriff. He had access to the investigation. He knew where you lived. If he'd wanted to get to Sarah badly enough, he might have found a way regardless."
+
+"But I gave him the opportunity," Dale said. "By not calling. By trying to handle it myself."
+
+"Yes," Brandon said. There was no point in lying. "You gave him the opportunity. And that was wrong. But Dale—Marcus is the one who killed her. Not you. He strangled her. He took her life. That's on him, not you."
+
+Dale put his head in his hands. His shoulders shook.
+
+Hicks put a hand on his client's shoulder. "Dale, we should sign the plea agreement. The agents need to get back."
+
+Dale nodded without looking up. Hicks pulled out a pen and set the papers in front of Dale. After a moment, Dale lifted his head, wiped his eyes, and signed.
+
+His hand shook with every letter.
+
+---
+
+Outside, walking back to the car, Matt was quiet. Brandon knew that look. His partner was processing, thinking through implications.
+
+"You think he'll hold up at trial?" Matt asked once they were in the car.
+
+"I think so," Brandon said. "He wants to do the right thing. Finally."
+
+"Defense is going to tear him apart."
+
+"Probably. But his testimony corroborates Marcus's confession. And we have physical evidence—the box, the name changes, witness statements. Even if Dale falls apart on the stand, we have enough."
+
+Matt started the engine but didn't put the car in gear. "That question he asked. About whether he could have saved her."
+
+"Yeah."
+
+"You think he could have?"
+
+Brandon looked out the window at the gray sky. "Honestly? I don't know. If he'd called 911 immediately, if he'd told the truth about finding her—maybe. But Marcus was desperate. Obsessed. He'd been planning this for years. Even if Dale had done everything right, Marcus might have found another way."
+
+"But we'll never know."
+
+"No. We'll never know." Brandon turned to look at Matt. "That's what Dale has to live with. Not just what he did do, but what he didn't do. The call he didn't make. The choice that might have changed everything."
+
+Matt was quiet for a moment. Then he put the car in reverse and backed out of the parking spot.
+
+"Where to now?" he asked.
+
+Brandon checked his watch. Ten-thirty. "Linda Carpenter. We should tell her about the plea deal before she hears it from the prosecutor."
+
+Matt nodded and headed toward the highway. Neither of them spoke for several miles.
+
+Then Matt said, "That thing you told Dale. About Marcus being responsible, not him. You believe that?"
+
+"Yes," Brandon said. "Dale made terrible choices. But Marcus is the killer. There's a difference between enabling something and causing it."
+
+"But Dale feels responsible anyway."
+
+"Of course he does." Brandon watched the farmland roll past. "That's the thing about guilt. It doesn't care about logic or proportional responsibility. It just sits there, heavy, reminding you of what you could have done differently."
+
+Matt glanced at him. "You speaking from experience?"
+
+Brandon thought about Missouri. About being ten years old and feeling like he should have known something, should have seen something, should have saved someone he loved. About nineteen years of carrying that weight.
+
+"Yeah," he said quietly. "I guess I am."
+
+They drove the rest of the way to Thorndale in comfortable silence.

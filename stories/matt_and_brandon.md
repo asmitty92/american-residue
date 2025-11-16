@@ -3646,7 +3646,7 @@ Matt glanced at him as they approached the entrance. "You okay?"
 
 Matt studied him for a moment, then nodded. This was new—Matt being more attentive, more aware. Since Monday night, since the confession, things between them had shifted. Not in a bad way. Just different. Matt knew now. About the impressions, about how Brandon worked. And instead of pulling back, Matt had leaned in. Asking questions. Trying to understand.
 
-It was strange having someone know. But also—relieving.
+It was strange having someone know. But also—in many ways-it was a relief.
 
 They checked in at the front desk, surrendered their weapons, went through security. The guard escorted them to the same conference room they'd used before. Dale sat at the table, wearing an orange jumpsuit, his hands folded in front of him. His lawyer, Gerald Hicks, sat beside him with a folder open.
 
@@ -3656,7 +3656,7 @@ Dale looked up when they entered. He'd aged in the past week. New lines around h
 
 "We're glad to be here," Matt said.
 
-They sat down across from Dale and Hicks. Brandon pulled out his notebook more out of habit than necessity. This wasn't an interrogation. This was closure.
+They sat down across from Dale and Hicks. Brandon pulled out his notebook more out of habit than necessity. This wasn't an interrogation.
 
 "The prosecutor's office sent over the final terms yesterday," Hicks said. He slid a document across the table. "Five years, credit for time served, parole eligibility after three years. In exchange for guilty pleas on all three counts and full cooperation including testimony at trial."
 
@@ -3670,15 +3670,15 @@ Matt scanned the document. "This is contingent on his testimony being truthful a
 
 Dale spoke for the first time. His voice was hoarse. "I want to do this. I want to testify. Sarah deserves that. Her mother deserves that."
 
-Brandon watched Dale's face. The guilt there was real. The remorse. But also fear—fear of what testifying would mean, fear of facing Marcus in court, fear of the consequences of his choices.
+Brandon watched Dale's face. The guilt there was real. The remorse. But also fear—fear of what testifying would mean, fear of the consequences of his choices.
 
-"The trial's scheduled for March," Matt said. "You'll likely testify in early April. Defense will cross-examine you aggressively. They'll try to make you look like the real killer. Try to suggest Marcus's confession was coerced."
+"The trial's scheduled for March," Matt said. "You'll likely testify in early April. Defense will probably cross-examine you aggressively. Try to make you look like the real killer and suggest Marcus's confession was coerced."
 
 "I know," Dale said. "Mr. Hicks explained all that."
 
 "And you're still willing?"
 
-"Yes." Dale's jaw set. "I made mistakes. Terrible mistakes. But I didn't kill Sarah. Marcus did. And I need to make sure everyone knows that."
+"Yes." Dale's jaw set. "I made some terrible mistakes. But I didn't kill Sarah. Marcus did. And I need to make sure everyone knows that."
 
 Matt nodded and pushed the document back across the table. "Then I think this is a fair deal. Agent Gray?"
 
@@ -3708,7 +3708,7 @@ Brandon held Dale's gaze. This was the question that had been eating at Dale for
 
 "So I could have saved her," Dale said. His voice was barely a whisper.
 
-"Maybe," Brandon said. "But maybe not. Marcus was a deputy sheriff. He had access to the investigation. He knew where you lived. If he'd wanted to get to Sarah badly enough, he might have found a way regardless."
+"Maybe," Brandon said. "But maybe not. Marcus was a deputy sheriff. He had access to the investigation. He knew where you lived. If he'd wanted to get to Sarah badly enough, he might have found a way regardless. You might even have triggered him into acting sooner and killing both of you."
 
 "But I gave him the opportunity," Dale said. "By not calling. By trying to handle it myself."
 
@@ -3716,7 +3716,7 @@ Brandon held Dale's gaze. This was the question that had been eating at Dale for
 
 Dale put his head in his hands. His shoulders shook.
 
-Hicks put a hand on his client's shoulder. "Dale, we should sign the plea agreement. The agents need to get back."
+Hicks put a hand on his client's shoulder. "Dale, if you're ready, we should sign the plea agreement."
 
 Dale nodded without looking up. Hicks pulled out a pen and set the papers in front of Dale. After a moment, Dale lifted his head, wiped his eyes, and signed.
 
@@ -3732,7 +3732,7 @@ Outside, walking back to the car, Matt was quiet. Brandon knew that look. His pa
 
 "Defense is going to tear him apart."
 
-"Probably. But his testimony corroborates Marcus's confession. And we have physical evidence—the box, the name changes, witness statements. Even if Dale falls apart on the stand, we have enough."
+"Probably. But his testimony corroborates Marcus's confession. And they have physical evidence—the box, the name changes, witness statements. Even if Dale falls apart on the stand, they have enough."
 
 Matt started the engine but didn't put the car in gear. "That question he asked. About whether he could have saved her."
 
@@ -3756,7 +3756,7 @@ Matt nodded and headed toward the highway. Neither of them spoke for several mil
 
 Then Matt said, "That thing you told Dale. About Marcus being responsible, not him. You believe that?"
 
-"Yes," Brandon said. "Dale made terrible choices. But Marcus is the killer. There's a difference between enabling something and causing it."
+"Yes," Brandon said. "Dale made unfortunate choices. But Marcus is the killer. There's a difference between enabling something and causing it."
 
 "But Dale feels responsible anyway."
 
@@ -3764,7 +3764,7 @@ Then Matt said, "That thing you told Dale. About Marcus being responsible, not h
 
 Matt glanced at him. "You speaking from experience?"
 
-Brandon thought about Missouri. About being ten years old and feeling like he should have known something, should have seen something, should have saved someone he loved. About nineteen years of carrying that weight.
+Brandon thought about Missouri. About being ten years old and feeling like he should have known something, should have seen something, should have saved someone he loved. About twenty-one years of carrying that weight.
 
 "Yeah," he said quietly. "I guess I am."
 
@@ -3780,7 +3780,7 @@ Brandon noticed these things as Matt parked on the street. Small changes that ma
 
 Matt shook his head. “You’re better with families.”
 
-“No, you are.” Brandon looked at his partner. “You know how to give people what they need. I just tell them the truth.”
+I'm not sure that's true.” Brandon looked at his partner. “You know how to relate to people. I just tell them the truth.”  
 
 “The truth is what she needs,” Matt said. But he didn’t move to get out of the car.
 
@@ -3800,7 +3800,7 @@ The front door opened before they reached the porch. Linda stood in the doorway 
 
 She stepped aside. They entered the living room—the same room they’d sat in before, surrounded by photos of Sarah. But now there was something new on the coffee table. A framed photo of Sarah from high school, surrounded by candles. A memorial.
 
-“Can I get you coffee? Water?” Linda asked.
+“Would you like coffee?” Linda asked.
 
 “We’re fine, thank you,” Matt said.
 
@@ -3810,11 +3810,11 @@ They sat on the couch. Linda took the armchair across from them, her hands folde
 
 “You arrested someone,” Linda said. “The news said it was a deputy sheriff. Miles Kowalski.”
 
-“Yes ma’am,” Matt said. “His real name is Marcus Harding. He was Dale Kovacs’s stepson. He lived on Dale’s property from age twelve to twenty-one.”
+“Yes ma’am,” Matt said. “His real name is Marcus Harding. He was Dale Kovacs’s stepson. He lived with Dale just outside Thorndale from age twelve to twenty-one.”
 
 Linda’s expression didn’t change. Like she’d already processed this information, already accepted it. “The boy who made Sarah uncomfortable at church.”
 
-“Yes,” Brandon said. “Marcus developed an obsession with Sarah when they were both young. That obsession never went away. When he became a deputy sheriff and returned to the area, he started watching her again.”
+“Yes,” Brandon said. “Marcus developed an obsession with Sarah when they were both young. It never went away. When he became a deputy sheriff and returned to the area, he started watching her again.”
 
 “And he killed her,” Linda said. Still flat. Still emotionless.
 
@@ -3824,7 +3824,7 @@ Linda was quiet for a long moment. When she spoke, her voice was very small. “
 
 Brandon had been dreading this question. But he’d known it was coming.
 
-“She was afraid,” he said gently. “Marcus took her from the Crossroads and brought her to Dale’s barn. He’d drugged her—she wasn’t fully conscious for most of it. When she woke up, she was confused. Disoriented.”
+“She was afraid,” he said gently. “Marcus took her from the Crossroads and brought her to Dale’s barn. He’d drugged her—she wasn’t fully conscious for the beginning of it. When she woke up, she was confused. Disoriented.” 
 
 “But did she suffer?” Linda asked again. Her eyes were fixed on Brandon’s face.
 
@@ -3852,7 +3852,7 @@ Linda closed her eyes. More tears now, streaming down her face. But still quiet.
 
 “Why?” she asked. “Why Sarah? She was just a girl working at a library. She wasn’t hurting anyone. Why did he—” Her voice broke.
 
-“Because he was obsessed with her,” Brandon said. “He’d built up a fantasy in his mind over thirteen years. About how they had this special connection. How he was supposed to protect her. When that fantasy shattered—when Sarah didn’t see him the way he saw her—he couldn’t accept it.”
+“Because he believed she was the only person in the world who understood him,” Brandon said. “He’d built up a fantasy in his mind over thirteen years. About how they had this special connection. How he was supposed to protect her. When that fantasy shattered—when Sarah didn’t see him the way he saw her—he couldn’t accept it.”
 
 “So he killed her,” Linda said.
 
@@ -3864,9 +3864,9 @@ Linda closed her eyes. More tears now, streaming down her face. But still quiet.
 
 Linda opened her eyes. “That’s not a reason. That’s not—that doesn’t make any sense.”
 
-“It doesn’t,” Matt agreed. “People like Marcus—they don’t think the way we do. They build narratives that justify their actions. To him, he was protecting her. Saving her. Even when he was killing her.”
+“It doesn’t,” Matt agreed. “People like Marcus—they build these narratives to justify their actions. To him, he was protecting her. Even when he was killing her.”
 
-“He told her he loved her,” Brandon said quietly. “While his hands were around her throat. He said it three times.”
+“He told her he loved her,” Brandon said quietly. “While his hands were around her throat.”
 
 Linda’s face crumpled. “Oh god. Oh god, my baby.”
 
@@ -3906,9 +3906,9 @@ Matt and Brandon stood as well. “Of course,” Matt said. “We’ll go. But M
 
 He handed her his card. Linda took it without looking at it.
 
-“The prosecutor’s office will be in touch about Sarah’s remains,” Matt continued. “They’ve been released. You can make arrangements whenever you’re ready.”
+“The coroner’s office will be in touch about Sarah’s remains,” Matt continued. “They’ve been released. You can make arrangements whenever you’re ready.”
 
-Linda nodded. “The funeral is Saturday. At Thorndale Community Church. Two o’clock.”
+Linda nodded. “They called this morning. The funeral will early next-Monday or Tuesday. At Thorndale Community Church. Two o’clock.”
 
 “We’ll be there if you’d like us to be,” Matt said.
 
@@ -3940,14 +3940,6 @@ Matt and Brandon walked back to the car in silence. Once they were inside, Matt 
 
 “Yeah.”
 
-“Did she really bury the bracelet deliberately? Or was it just—”
-
-“She buried it deliberately,” Brandon said. “She knew. In those final moments, she knew what was happening and she wanted to leave evidence.”
-
-“How do you—” Matt stopped. “Right. The impressions.”
-
-“Yes.”
-
 They sat for a moment, neither moving to start the car.
 
 “You know what the worst part is?” Matt said finally.
@@ -3956,7 +3948,7 @@ They sat for a moment, neither moving to start the car.
 
 “We gave her answers. We told her exactly what happened to her daughter. And it didn’t help. She’s not any less broken than she was before.”
 
-“No,” Brandon agreed. “She’s not. Because answers aren’t closure. They’re just… answers. The grief doesn’t go away. It just gets a story attached to it.”
+“No,” Brandon agreed. “She’s not. Because answers aren’t closure. They’re just… information. The grief doesn’t go away. It just gets a story attached to it.”
 
 Matt started the engine. “One more stop. Dunham.”
 

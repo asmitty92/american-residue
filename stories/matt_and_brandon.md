@@ -11,7 +11,7 @@ The Crossroads Mini-Mart sat at the intersection of County Road 400 and State Ro
 
 The black sedan pulled into the gravel lot at four-thirty on a Wednesday afternoon in October. Two men climbed out. The air was cool and still, carrying the sweet-rot smell of harvested cornfields—that particular scent of October in the rural Midwest, somewhere between earth and decay. The first man, wearing pressed khakis and a navy button-down with the sleeves rolled precisely to mid-forearm, surveyed the property with the systematic attention of someone cataloging details. The second wore khakis that looked like they'd been slept in and a wrinkled gray oxford shirt untucked on one side. He stood by the passenger door for a long moment, staring at the building.
 
-A sheriff's deputy leaned against his cruiser near the entrance, arms crossed. He straightened when he saw them approaching.
+A sheriff's deputy leaned against his cruiser near the entrance, arms crossed. He was trying to look casual, but his eyes betrayed an alertness that didn't fit. He straightened when he saw them approaching.
 
 "You the FBI?" he asked.
 
@@ -21,15 +21,15 @@ The deputy shook Ellis's hand, then nodded at Gray, who had moved past them towa
 
 "Usually," Ellis said. "You're Deputy...?"
 
-"Kowalski. I was first on scene back in April." He pulled a pack of gum from his pocket and offered it. Ellis declined. "Sheriff said you wanted to see where it happened. Not much to see after six months later."
+"Kowalski. I was first on scene back in April." He pulled a pack of gum from his pocket and offered it. Ellis declined. "Sheriff said you wanted to see where it happened. Not much to see after six months."
 
 "We appreciate you meeting us." Ellis glanced back at Gray, who stood near the payphone, hands in his pockets, head tilted slightly as if listening to something. "Can you walk me through what we know?"
 
-Kowalski unwrapped a piece of gum. "Victim was Sarah Carpenter. Twenty-two. Worked at the public library in town. Stopped here April sixteenth, around eight-fifteen in the evening. She'd just finished her shift." He gestured toward the building. "Witness was Travis Walton. He was inside getting cigarettes when it happened."
+Kowalski unwrapped a piece of gum. "Victim was Sarah Carpenter. Twenty-two. Worked at the public library in Blackburn. Stopped here April sixteenth, around eight-fifteen in the evening. She'd just finished her shift." He gestured toward the building. "Witness was Travis Walton. He was inside getting cigarettes when it happened."
 
 "They knew each other?"
 
-"Small town. Everybody knows everybody. They weren't close, but he recognized her car in the lot." Kowalski pointed to a spot near the side of the building. "She parked over there. Security camera shows her walking to the payphone. Car wouldn't start, apparently, and she didn't have her cell. Left it at work, it was found at the library a few days later. She called AAA first before going inside to use the restroom, then came out to make another call while she waited."
+"Thorndale's a small town. Everybody kinda knows everybody. They weren't close, but he recognized her car in the lot." Kowalski pointed to a spot near the side of the building. "She parked over there. Security camera shows her walking to the payphone. Car wouldn't start, apparently, and she didn't have her cell. Left it at work, it was found at the library a few days later. She called AAA first before going inside to use the restroom, then came out to make another call while she waited."
 
 Ellis looked at the payphone. Gray was closer to it now, standing maybe two feet away, still motionless. "The camera caught the abduction?"
 
@@ -37,7 +37,7 @@ Ellis looked at the payphone. Gray was closer to it now, standing maybe two feet
 
 "But you see something."
 
-"Movement. Most of it is just their shadows. Looks like someone gets out of the driver's side. Thirty seconds later, the truck pulls out. Heads south on 39. Sarah's gone. Her purse was still by the phone. Keys in her car."
+"Movement. Most of it is just their shadows. Looks like someone gets out of the driver's side. Sixty seconds later, the truck pulls out. Heads south on 39. Sarah's gone. Her purse was still by the phone. Keys in her car."
 
 "What was Walton doing during this?"
 
@@ -45,13 +45,13 @@ Ellis looked at the payphone. Gray was closer to it now, standing maybe two feet
 
 Ellis made a note on his phone. "Any leads on the truck?"
 
-"Chevy Silverado. 10 to 15 years old based on the body style. Dark colored. We put out a BOLO, checked every registration in three counties. Found twenty-seven trucks that matched. Talked to every owner. Nothing stuck."
+"Chevy Silverado. 10 to 15 years old based on the body style. Dark colored. We put out a BOLO, checked every registration in the county. Found twenty-seven trucks that matched. Talked to every owner. Nothing stuck."
 
 Gray had moved to the door of the mini-mart. He stood in the entrance, looking back toward where the payphone was mounted on the wall. The angle put the phone about thirty feet from the door, slightly around the corner of the building.
 
 "And no trace of Sarah since?"
 
-"Nothing. No activity on her bank cards, no sightings. It's like she vanished into thin air." Kowalski folded the gum wrapper into a small square. "Sheriff reopened it as a cold case last month. That's when he reached out to you guys."
+"Nothing. No activity on her bank cards, no sightings. It's like she vanished into thin air." Kowalski folded the gum wrapper into a small square. "Sheriff decided to take another look at it last month. That's when he reached out to you guys."
 
 Ellis thanked him and walked toward the mini-mart. Gray had gone inside. Through the window, Ellis could see him standing near the register, talking to the clerk—a heavyset man in his fifties wearing a Colts jersey.
 
@@ -59,7 +59,7 @@ Ellis thanked him and walked toward the mini-mart. Gray had gone inside. Through
 
 Inside, the store smelled like stale coffee and air freshener. A radio played country music at low volume. Gray stood with his back to the door, nodding as Marv spoke.
 
-"—told the sheriff the same thing," Marv was saying. "Didn't see nothing. I was stocking the cooler in back when Travis came in. Rang him up, he left. Maybe ninety seconds total. By the time I looked out the window, that truck was gone."
+"—told the sheriff the same thing," Marv was saying. "Didn't see nothing. The Carpenter girl was in and out just to use the restroom. I was stocking the cooler in back when Travis came in. Rang him up, he left. Maybe ninety seconds total. By the time I looked out the window, the truck was gone."
 
 "You didn't hear anything?" Gray asked. His voice was quiet, even.
 
@@ -84,6 +84,8 @@ Kowalski shifted his weight. "You want me to stick around?"
 "No," Gray said bluntly. "I work better alone."
 
 The deputy looked to Ellis, who nodded. "We'll call if we need anything. Thanks for your time."
+
+Kowalski climbed into his cruiser, but he didn't leave right away. He sat watching them for a few minutes.
 
 After Kowalski drove off, Ellis walked back to the sedan and leaned against the hood. The sun hung low over the fields to the west, casting long shadows across the gravel lot. Gray stood motionless by the payphone, his hand resting on the receiver. From a distance, it looked like he might be making a call himself.
 

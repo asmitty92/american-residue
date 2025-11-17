@@ -1,3 +1,9 @@
+---
+title: "Cold Impressions"
+author: "Aaron Smith"
+date: 2025
+---
+
 # Prologue
 **Wednesday October 19, 2011 4:00PM**
 
@@ -2903,7 +2909,7 @@ About all the moments in between where someone could have stopped him.
 
 But didn’t.
 
------
+---
 
 **Monday Afternoon**
 
@@ -3770,7 +3776,7 @@ Brandon thought about Missouri. About being ten years old and feeling like he sh
 
 They drove the rest of the way to Thorndale in comfortable silence.
 
------
+---
 
 Linda Carpenter’s house looked different in November. The flower beds that had been mulched in October were now covered with a light dusting of frost. The American flag on the porch hung limp in the still air. A wreath on the front door—simple, understated, the kind you’d see at a funeral home.
 
@@ -3960,7 +3966,7 @@ Some wounds never healed.
 
 You just learned to live with them.​​​​​​​​​​​​​​​​
 
------
+---
 
 The Parke County Sheriff’s Office was quiet when they arrived just after one PM. Most of the deputies were out on patrol or at lunch. The dispatcher at the front desk recognized them and waved them through.
 

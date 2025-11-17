@@ -4054,72 +4054,166 @@ They shook hands. Dunham’s grip was firm despite the exhaustion in his face.
 
 “No,” Dunham said. “It’s more than that. And you know it.”
 
-# Chapter Thirteen
-**Thursday Afternoon**
+# Epilogue
 
-Outside, walking to the car, Matt glanced at Brandon. “You think he’ll be okay?”
+The Indianapolis FBI field office occupied the fourteenth floor of a glass and steel tower on Pennsylvania Street. Thursday afternoon sunlight cut through the windows, casting long shadows across rows of cubicles where analysts worked phones and computers, building cases one detail at a time.
 
-“Eventually,” Brandon said. “He’s a tough one. He’ll get through the press conference, the departmental review. It’ll be rough, but he’ll survive it.”
+Brandon Gray sat at a borrowed desk, typing the final paragraphs of his report. Three days of work condensed into official language: victim profile, suspect identification, interview methodology, confession obtained. The words looked sterile on the screen, stripped of the weight they carried. Nothing about standing in Dale Kovacs's barn feeling Sarah Carpenter's final moments. Nothing about watching Marcus Kowalski's mask shatter when confronted with impossible knowledge.
 
-“And the second-guessing?”
+Just facts. Evidence. Procedure.
 
-“That never really stops,” Brandon said. “You just get better at living with it.”
+Matt Ellis stood at the printer, collecting the last pages of his own report. He'd written his account separately—his observations, his interview notes, his assessment of the confession's validity. Between them, the two documents told the complete story of how Sarah Carpenter's case was solved.
 
-They reached the car. Matt unlocked it but didn’t get in immediately.
+"Almost done?" Matt asked, walking over with the printed pages.
 
-“What you said in there,” Matt said. “About Marcus compartmentalizing. Having two separate people in the same body.”
+"Last paragraph." Brandon hit a few more keys, then stopped. Stared at the cursor blinking on the screen.
 
-“Yeah?”
+Matt recognized that look. "What is it?"
 
-“Is that what it’s like for you? With the impressions? Like there’s one version of you that works the case normally and another version that sees—that knows things?”
+"Nothing. Just thinking about Missouri."
 
-Brandon considered that. It was a good question. One he’d never really articulated to himself.
+Matt set the papers down and leaned against the desk. They'd had this conversation three days ago, after Marcus's confession. But he sensed Brandon needed to say something more.
 
-“Sometimes,” he said. “It’s like—like there are two layers. The surface layer is the evidence, the logic, the procedure. Everything you can document and prove. And underneath is the impression layer. The things I feel and know but can’t explain. Most of the time they align. But sometimes—”
+"Twenty-one years," Brandon said quietly. "My brother's still looking for her. Still checking databases, following up on Jane Does, calling sheriffs in counties across three states. He can't let it go."
 
-“Sometimes the impression layer sees things the surface layer misses,” Matt finished.
+"And you?"
 
-“Yes.”
+Brandon closed the laptop. "I used to think I'd solve it someday. That whatever this ability is, I'd take it back to Ashford and finally see what happened that night. Finally give my brother answers."
 
-Matt nodded slowly. “And you’re okay with that? Not understanding where it comes from or how it works?”
+"But you don't think that anymore."
 
-“I don’t have a choice,” Brandon said. “It’s part of how I process crime scenes. Has been since I was ten. I can either use it or ignore it. And ignoring it—” He paused. “Ignoring it feels like a waste. Like I’m supposed to be using this thing, whatever it is, to help people.”
+"No." Brandon stood and walked to the window. Fourteen floors below, Indianapolis traffic moved in steady streams. People going home, going to dinner, going about their lives. "Some cases don't have answers. Some people disappear and never get found. And you can spend your whole life chasing ghosts, or you can—"
 
-“Even though it comes from trauma,” Matt said quietly. “From Missouri.”
+He stopped. Matt waited.
 
-“Especially because it comes from that,” Brandon said. “My brother’s girlfriend was taken and never found. That case destroyed my family. If I can use what came from that destruction to solve other cases, to give other families answers—then maybe it means something. Maybe it wasn’t all pointless.”
+"Or you can use what you learned from that loss to help someone else," Brandon finished. "Sarah Carpenter got answers. Linda Carpenter got to bury her daughter. That matters. That has to be enough."
 
-Matt was quiet for a moment. Then he said, “It means something, Gray. What you do. How you work. It means something.”
+"It is enough," Matt said.
 
-Brandon felt something loosen in his chest. Something he hadn’t realized was tight.
+Brandon turned from the window. "Yeah. I think it is."
 
-“Thanks,” he said.
+They stood in silence for a moment. Then Matt checked his watch. "We should brief the SAC before we leave. He'll want the highlights."
 
-They got in the car. Matt started the engine and pulled out of the parking lot. As they drove through Rockville, heading toward the highway, Brandon looked out at the town. Small, quiet, the kind of place where people know their neighbors. The kind of place where a murder shouldn’t happen.
+They walked down the hallway to the corner office where Special Agent in Charge Robert Chen sat behind a desk covered with case files. He looked up when they knocked, waved them in.
 
-But it had happened. And they’d solved it. And now Sarah Carpenter’s mother could bury her daughter. Dale Kovacs would serve his time. Marcus Harding would stand trial.
+"Ellis. Gray. Heard you closed the Carpenter case. Good work."
 
-It wasn’t justice, exactly. Justice would have been Sarah living. Justice would have been Marcus getting help before he became a killer. Justice would have been someone seeing the signs and stopping this before it started.
+"Thank you, sir," Matt said. They both remained standing. This wasn't a long conversation.
 
-But it was resolution. And sometimes that was the best you could do.
+"Confession hold up?"
 
-“Where to now?” Matt asked as they merged onto the highway.
+"Solid. Recorded, witnessed, voluntary. He waived counsel. Defense will try to suppress it, but they won't succeed."
 
-“Indianapolis,” Brandon said. “Write our final reports. Close the case file. Move on to the next one.”
+Chen nodded. "Prosecutor's office happy?"
 
-“Just like that?”
+"Very. They're expecting a conviction."
 
-“Just like that.”
+"Good. Media's been all over it. Deputy sheriff killing the woman he was supposed to protect—that's the kind of story that gets traction." Chen leaned back in his chair. "You two are getting a commendation. Should come through next month."
 
-Matt glanced at him. “You ever wonder if we make a difference? Real difference, I mean. We solve cases, catch killers. But the people are still dead. The families are still broken. Does it actually change anything?”
+"Appreciated," Matt said.
 
-Brandon thought about Linda Carpenter’s face when they’d told her how Sarah died. The pain there. The grief. The answers that didn’t bring comfort.
+Chen pulled a folder from the stack on his desk. "Since you're here, I've got something for you. Your next assignment."
 
-“I don’t know if we change anything,” Brandon said. “But we give people truth. And sometimes truth is all they have left.”
+Matt and Brandon exchanged a glance. They'd expected a few days off, time to decompress before the next case.
 
-Matt nodded. They drove in comfortable silence, the landscape changing from small town to farmland to highway. Two FBI agents heading back to the city after solving a case. Tomorrow there would be another case. Another victim. Another killer to catch.
+"I know you just finished," Chen said, reading their expressions. "But this one's time-sensitive. Missing college student in Cedar Rapids, Iowa. Twenty-year-old woman, disappeared five days ago from her apartment. Local PD thinks it's an abduction, but they're not making progress. Family's connected—father's a state senator—so there's political pressure to solve it fast."
 
-But today, for a few hours, they could just drive.
+Matt took the folder. Opened it. A photo of a young woman smiled up at him from what looked like a family portrait. Dark hair, bright eyes, whole life ahead of her.
 
-And that was enough.​​​​​​​​​​​​​​​​
+"Why us?" Brandon asked.
 
+"Because Cedar Rapids PD requested federal assistance, and because you two have a track record with missing persons cases." Chen folded his hands on the desk. "Also because the circumstances are unusual. No sign of forced entry. No indication of a struggle. Her car's in the parking lot, her purse is in her apartment, her phone is on her nightstand. But she's gone."
+
+"Sounds like she left voluntarily," Matt said, still reading the file.
+
+"That's what the locals thought at first. But her bank accounts haven't been touched. No activity on her credit cards. And according to her roommate, she had an exam the next morning—wasn't the type to just take off."
+
+Brandon looked at the photo again. Something about the case felt familiar. Not the specifics, but the pattern. A young woman who disappeared without obvious explanation. A family desperate for answers.
+
+"When do you want us in Cedar Rapids?" Matt asked.
+
+"Tonight if possible. Tomorrow morning at the latest." Chen stood. "The father—Senator Reeves—he's been calling twice a day. Wants to know what we're doing to find his daughter. I need to tell him we've got our best people on it."
+
+Matt closed the folder. "We'll head out tonight."
+
+After they left Chen's office, they walked back to the borrowed desk where Brandon had been working. His laptop sat closed, his few personal items already packed in a messenger bag. Ready to move on.
+
+"You good with this?" Matt asked. "We could push back, take a few days."
+
+"No. Let's go." Brandon picked up the bag. "That girl's been missing five days. If something happened to her, every hour matters."
+
+"And if she left on her own?"
+
+"Then we figure that out and bring her home." Brandon looked at the case file in Matt's hands. "Either way, her family deserves to know."
+
+They gathered the rest of their materials, submitted their reports to the administrative assistant, and headed for the elevator. The field office continued its work around them—phones ringing, printers humming, the steady machinery of federal law enforcement grinding through cases and evidence and the endless pursuit of truth.
+
+In the elevator, Matt opened the file again and skimmed the details. "Cedar Rapids is about six hours northwest. We can make it by nine if we leave now."
+
+"You want to drive tonight or fly out tomorrow morning?"
+
+"Drive. I want to hit the ground running." Matt looked at the photo of the missing woman again. "Her name's Emily Reeves. Sophomore at Coe College. English major. Worked part-time at a bookstore downtown. By all accounts, a good kid."
+
+"They always are," Brandon said quietly.
+
+The elevator opened on the ground floor. They walked through the lobby and out into the late afternoon cold. The parking garage was two blocks away. They walked in silence, both of them already shifting mental gears from the Carpenter case to whatever waited for them in Cedar Rapids.
+
+Matt's car was on the third level. A dark blue sedan, government issue, anonymous and practical. They loaded their bags in the trunk. Matt got behind the wheel. Brandon took the passenger seat.
+
+For a moment, neither of them moved to leave.
+
+"You ever wonder if we make a difference?" Matt asked. His hands rested on the steering wheel, eyes forward. "Real difference, I mean. We solve cases, catch killers. But the people are still dead. The families are still broken. Does it actually change anything?"
+
+Brandon thought about Linda Carpenter's face when they'd told her how Sarah died. The pain there. The grief. The answers that didn't bring comfort but did bring truth.
+
+"I don't know if we change anything," Brandon said. "But we give people truth. And sometimes truth is all they have left."
+
+He thought about Missouri again. About his brother still searching after twenty-one years. About the answers that never came and the weight of not knowing.
+
+"Sarah Carpenter's mother got to bury her daughter," Brandon continued. "She knows what happened. She knows Sarah fought. She knows her daughter tried to leave evidence so someone would find her. That's not nothing, Matt. That's something."
+
+Matt nodded slowly. "Yeah. I guess it is."
+
+He started the engine. The sedan rumbled to life, ready for another drive, another case, another family waiting for answers.
+
+"Cedar Rapids," Matt said, pulling out of the parking space. "Six hours. We should make it before the office closes if we push."
+
+"You want me to drive part of it?"
+
+"We'll see how I'm feeling around Indianapolis. Might take you up on that."
+
+They descended through the parking garage levels, past rows of cars belonging to people working normal jobs with normal hours. Out onto Pennsylvania Street, merging into evening traffic. The city moved around them—people heading home, lights coming on in office windows, the ordinary rhythm of a Thursday evening.
+
+But for Matt Ellis and Brandon Gray, Thursday evening meant the beginning of something else. Another missing person. Another family in crisis. Another chance to use what they knew, what they'd learned, what Brandon could sense in ways neither of them fully understood.
+
+The highway stretched ahead, leading northwest toward Iowa and whatever waited for them there. A college student who'd disappeared without explanation. A senator's daughter. A roommate with questions. A college town holding its breath.
+
+Matt merged onto I-65, the city falling away behind them. Brandon pulled out the case file and started reading in the fading light. Making mental notes. Building a framework for what they'd need to do when they arrived.
+
+"What are you thinking?" Matt asked after a few miles.
+
+"That it could be anything. Voluntary disappearance, abduction, something in between." Brandon closed the file. "But something about it feels wrong."
+
+"Wrong how?"
+
+"I don't know yet. Just—off. The way she left everything behind. Phone, purse, car. If you're running away, you take those things. If someone takes you against your will, there's usually signs of struggle."
+
+"Unless she knew the person," Matt said. "Went with them willingly."
+
+"Maybe." Brandon looked out at the darkening farmland. "We'll know more when we get there."
+
+They drove on as the sun dropped below the horizon and the highway lights began to flicker on. Behind them, Indianapolis faded into the distance. Ahead, somewhere in the Iowa darkness, Emily Reeves was missing. Waiting to be found. Or waiting to be understood.
+
+Matt and Brandon would do what they always did. They'd investigate. They'd interview. They'd look at the evidence and the patterns and the people until the truth revealed itself.
+
+And if they were lucky—if Brandon's ability cooperated, if the evidence was there, if they asked the right questions—they'd bring Emily home. Or at least bring her family answers.
+
+It was the job. The only job that had ever made sense to either of them.
+
+The highway stretched ahead, endless in the night. Another case. Another town. Another chance to make a difference, however small.
+
+Matt settled in for the drive. Brandon closed his eyes, already thinking about Cedar Rapids. About a bookstore and a college campus and an apartment where a young woman had disappeared.
+
+The work continued. It always did.
+
+And for now, that was enough.

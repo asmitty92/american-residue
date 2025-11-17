@@ -1,51 +1,192 @@
-# First Novella Structure
+# ELLIS & GRAY FBI SERIES - CANON REFERENCE DOCUMENT
 
-## Act 1: The Setup (Chapters 1-3)
+## MAIN CHARACTERS
 
-* Open with Billy and David arriving at a new case
-Show Billy's "process" but keep it mysterious - he examines scenes alone, takes hours, emerges exhausted
+### Special Agent Brandon Gray
+- **Age**: 31 (as of November 2011)
+- **Background**: 
+  - Born ~1980
+  - Experienced childhood trauma at age 10 (1990) in Ashford, Missouri
+  - His older brother's girlfriend was abducted from a payphone while on phone with brother
+  - Brother heard the abduction, tried to get there in time, couldn't save her
+  - Case never solved; brother still searching 21 years later
+  - This trauma "broke something open" in Brandon - the origin of his ability
+  
+- **The Ability**:
+  - Gets "impressions" at crime scenes - vivid reconstructions of what happened
+  - Feels trauma like physical marks; can sense victims' final moments and perpetrators' psychology
+  - Started after Missouri incident when he was 10
+  - Uncertain if it's supernatural or exceptional subconscious processing
+  - Refers to it as "impressions" or his "ability" - never "psychic"
+  - Doesn't always work; sometimes vague or absent
+  - Becomes clearer/stronger as he gathers more context (like "tuning a radio signal")
+  - Can know specific details he shouldn't be able to know (victim's last words, perpetrator's actions)
+  - Uses it strategically in interrogations to break suspects
+  
+- **Personality**:
+  - Quiet, analytical, observant
+  - Emotionally controlled but not cold
+  - Processes trauma through clinical detachment
+  - Introspective about his ability but pragmatic about using it
+  - Feels compelled to use his ability to help others since he couldn't save his brother's girlfriend
+  - Patient, methodical investigator
+  - Better at finding truth than comforting people
+  
+- **Physical Details**:
+  - Deep green eyes
+  - Carries a small switchblade (from academy days) - front-opening (OTF), uses thumb slide, snaps/clicks when opening
+  - Often forgets to eat when working cases
+  - Drinks coffee in mornings/late nights, Coke other times, water when thinking through complex problems
 
-* Establish that Billy never explains his methods, just provides leads
+### Special Agent Matt Ellis  
+- **Age**: Late 30s/early 40s
+- **Background**:
+  - Former Air Force (during early 1990s)
+  - Joined FBI after military service
+  - Over 15 years with FBI (as of 2011)
+  - Senior partner - chooses their cases from the queue
+  
+- **Personality**:
+  - By-the-book, procedural, organized
+  - Natural leader and case manager
+  - Better with families/emotional support than Brandon
+  - Protective of Brandon but respects his methods
+  - Sees cases as intellectual puzzles
+  - Practical, grounded, skeptical but open-minded
+  
+- **Physical Details**:
+  - Always well-pressed, professional appearance
+  - Even early morning, looks "like an FBI recruitment poster"
 
-* Make this case particularly difficult/disturbing - maybe a child victim, maybe the Unsolved Mysteries case you're basing it on is especially haunting
+### Partnership Dynamic
+- Worked together for 3 years before Carpenter case
+- Matt didn't know about Brandon's ability until the Kowalski interrogation
+- After the revelation, Matt "leaned in" - became more attentive, asking questions, trying to understand
+- Matt is senior partner, makes case selections
+- Brandon leads on crime scene analysis and impressions; Matt leads on procedure and evidence presentation
+- Comfortable silences; mutual respect
+- Matt provides grounding/skepticism; Brandon provides insight/intuition
+- Both excellent interrogators but different styles
 
-## Act 2: The Investigation (Chapters 4-7)
+## SERIES FORMAT
 
-* Billy provides increasingly specific details that make David (and readers) question how he knows
-* The psychological toll on Billy becomes more visible - he's not sleeping, drinking more, avoiding talking about it
-    * No on the drinking! I'm firm on that. We could do the reduced sleep. However, I have this idea that Billy could be a neurodivergent character who doesn't pay a "traditional" psychological toll. He's able to remain semi-detached from the horrors of what he witnesses and it manifests physically as an almost obsessive emphasis on cases. I also want to have a case that he's personally invested in that he's been unable to solve as a part of his over-arching story across all stories. The UM case I have in mind for that over-arching mystery is the Angela Hammond case.
-* Maybe a scene where someone asks "Did you see it happen?" and Billy deflects
-    * Maybe, but this could be a bit too "on the nose" if not handled well.
-* The case gets personal - maybe Billy identifies with the victim or is haunted by something specific about this crime
-    * See my previous note about the over-arching case. I think that the case in the first novella should mirror the case he's personally invested in some way. I don't want it to be close enough to be the same perpetrator because that would ruin the over-arching case being used across all the stories. I just want the current case to mirror that one enough to haunt him and for us to use that as a springboard to introduce th eover-arching case.
+### Case Types
+- Primarily cold cases (months to years old)
+- Missing persons who turn up dead
+- Unsolved homicides
+- Cases where local/state authorities are stuck
+- Requested through proper channels or flagged by FBI
+- NOT urgent/time-sensitive cases with media pressure
+- Cases that benefit from Brandon's ability to reconstruct events
 
-## Act 3: The Reveal & Resolution (Chapters 8-10)
+### Geographic Focus
+- Midwest United States
+- Small towns and mid-sized cities (75K-250K population)
+- Rural settings, but not exclusively
+- Places like: rural Indiana, Iowa cities, small Missouri towns, etc.
 
-* The reveal of Billy's true ability happens organically through the case needs or emotional breakdown
-    * Yes, what I have in mind for the reveal is that Billy and David have to help with interrogation of the suspect. And through that assistance it becomes clear Billy knows more than he could have gleaned just from the crime scene. Should Billy actually be involved in questioning the suspect or should he give information to the LEOs questioning him? A direct confrontation with the perp is more emotionally charged, but not as realistic. Unless we maybe make Billy and David both FBI agents? Agents whose job it is to specifically consult with local PDs on major cases. Something to think about.
-* This changes David's understanding of everything they've done together
-    * Initially I wanted David to already know what Billy's ability is, but I think having David in the dark for the first book will be good. Because the full explanation of the reveal can be done through dialoge rather than exposition.
-* The case resolves but we understand the true cost of what Billy does
-* End with them heading to the next case, but now WE know what Billy will experience
+### Operational Details
+- Report to supervisor at Quantico, Virginia (not field offices)
+- Work cases across multiple states
+- Coordinate with local law enforcement
+- Full access to evidence, witnesses, files
+- Stay in hotels during investigations
+- Drive between locations (government sedan)
+- Write detailed reports after each case
 
-## Key Questions
+### Narrative Structure (Based on Book 1)
+- Prologue: Third-person omniscient, often at crime scene
+- Alternating POV chapters: Brandon/Matt (first-person limited-ish third person)
+- Heavy on procedure, investigation, interviews
+- Climactic interrogation scenes
+- Denouement chapter tying up character arcs
+- Epilogue: Third-person omniscient, transitioning to next case
 
-* What's the Unsolved Mysteries case you want to base the first novella on? That will shape everything. The more emotionally devastating and psychologically complex the real case, the better foundation you have.
-    * I'm open to feedback on that. The current intro is based on the Kristin Smart case. I don't know if there's enough meat there to use that one. But, I think that it could be a good one because the missing young woman angle would mirror Angela Hammond. Also, it was complex in real life and took many years to bring the killer to justice.
+## ESTABLISHED TIMELINE & CANON
 
-* Do you want Billy's ability to be "known" to anyone at the start? Does David know? Does the FBI know? Or is Billy lying to everyone, even his partner?
-    * I initially thought David would already know. Maybe he already suspects something more is at play, but doesn't have confirmation until the reveal at the end of book 1.
+### Book 1: The Sarah Carpenter Case
+- **When**: October-November 2011
+- **Where**: Thorndale & Blackburn, Indiana (Parke County)
+- **Victim**: Sarah Carpenter, 22, library worker
+- **Crime**: Abducted April 16, 2011; murdered ~April 19, 2011
+- **Perpetrator**: Marcus Robert Harding/Miles Robert Kowalski, 29, deputy sheriff
+- **Resolution**: Full confession, body recovered, trial scheduled March 2012
 
-* What are your thoughts on the reveal timing and mechanism?
-    * I think I made a note about this above. I think it should come up organically because of his knowledge of the case. Whether that is through a direct confrontation with the perp or through a conversation with David over his knowledge is still unknown. That's a detail we'll probably unearth when we get to that point in the story.
+### Key Supporting Characters from Book 1
+- **Chief Deputy Tom Dunham**: Parke County Sheriff's Office, late 40s/early 50s, former Joliet PD (20 years), competent and ethical, struggles with having hired Marcus
+- **Dale Kovacs**: 46, owned property where crime occurred, Marcus's former stepfather, took plea deal (5 years)
+- **Linda Carpenter**: Sarah's mother, late 40s, widow, lives in Thorndale
 
-## Additional Thoughts
+### Book 2 Setup: The Emily Reeves Case
+- **When**: Starting November 2011 (9 months after murder)
+- **Where**: Cedar Rapids, Iowa
+- **Victim**: Emily Reeves, 20, Coe College sophomore, English major
+- **Crime**: Disappeared March 27, 2011; found dead 4 days later (blunt force trauma)
+- **Status**: Cold case, no suspects, Cedar Rapids PD requested FBI assistance
+- **Details**: Left apartment 10 PM voluntarily, body found 2 miles away near Cedar River, no forced entry, father is state senator
 
-* I think we might need better names for the MCs. I have Billy Branson and David Markowitz, but I'm not sure I like those anymore. Something we should talk about.
-    * Billy Branson -> Brandon Gray
-    * David Markowitz -> Matt(hew) Ellis
-* The idea of Billy being an independent consultant and David his FBI handler was based on a desire to make Billy a pseudo-Jack Reacher-esque character with a psychic rather than physical prowess. But I think that's a mistake. I think there's a better way. Right now, I'm leaning most heavily toward having them both be FBI agents on a special "cold case" assignment to aid other departments due to Billy's success in that work. I feel like we eventually need to explain how they got there, but not in the first book.
-* I think we should do POV chapters, switching between David and Billy. To make this effective, we'll need to do some fairly detailed character sketching. High level, I consider David to be a fairly straight-laced by-the-book investigator. He sees solving crimes as an intellectual puzzle. Billy, on the other hand, is a more emotional, psychology focused investigator. In addition to his ability to witness crimes, he should be good at analyzing people and understanding their motiviations and underlying psychopathology. In short, David builds cases using the clues as building blocks, Billy uses his witnessing of the crime and his deep understanding of people.
-* Is 10 chapters the right amount? Probably. I don't want these stories to drag on. I want them to be stories that readers can knock out quickly. Like a deeper, psychological focused version of old pulp crime novels. Although I never want the contents to feel pulpy.
+## WRITING STYLE NOTES
 
+### Voice & Tone
+- Spare, economical prose
+- Dialogue-driven
+- Procedurally authentic
+- Understated emotion
+- Focus on observable details, physical sensations
+- No excessive exposition or internal monologue
+- Characters reveal themselves through action/dialogue
 
+### Brandon's POV Characteristics
+- Observational, analytical
+- Notes micro-expressions, body language, environmental details
+- Describes impressions through physical sensations (weight, cold, pressure)
+- Clinical language for trauma/violence
+- Introspective but not overwrought
+
+### Matt's POV Characteristics  
+- Procedural focus
+- Notes evidence, timelines, logical connections
+- More overt emotional reactions than Brandon
+- Practical problem-solving approach
+- Observes Brandon with mixture of respect and curiosity
+
+### Technical Notes
+- Use real law enforcement procedures
+- Miranda rights, evidence handling, chain of custody matter
+- Warrants require probable cause
+- Interrogation tactics are strategic
+- Small-town geography and culture rendered authentically
+- No excessive forensic jargon
+- Crime scene descriptions balance detail with restraint
+
+## THEMATIC ELEMENTS
+
+### Core Themes
+- Truth vs. closure (they're not the same)
+- Living with unanswered questions
+- Using trauma to help others
+- The weight of knowing vs. not knowing
+- Small-town secrets and hidden darkness
+- Justice vs. resolution
+
+### Brandon's Arc Across Series
+- Learning to accept Missouri will never be solved
+- Finding meaning in helping others get answers he couldn't get
+- Becoming more comfortable with his ability
+- Opening up to Matt about how he works
+
+### Partnership Arc
+- Growing trust and understanding
+- Matt learning when to defer to Brandon's impressions
+- Both becoming better investigators together
+- Navigating the tension between procedure and intuition
+
+---
+
+## QUICK REFERENCE
+
+**Current Timeline**: November 2011, post-Carpenter case
+**Next Case**: Emily Reeves, Cedar Rapids, Iowa
+**Partnership Status**: Matt now knows about Brandon's ability; working through implications
+**Brandon's Emotional State**: Has accepted Missouri won't be solved; finding peace in current work
+**Series Format**: Midwest cold cases, alternating POV, procedural focus, 80K-90K words

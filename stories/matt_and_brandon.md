@@ -4078,7 +4078,7 @@ Matt set the papers down and leaned against the desk. They’d had this conversa
 
 “And you?”
 
-Brandon closed the laptop. “I used to think I’d solve it someday. That whatever this ability is, I’d take it back to Ashford and finally see what happened that night. Finally give my brother answers.”
+Brandon closed the laptop. “I used to think I’d solve it someday. I've been to that crime scene more times than I can count. I thought maybe my work with my work with the bureau would help me find the perpetrator. Finally give my brother answers.”
 
 “But you don’t think that anymore.”
 
@@ -4086,7 +4086,7 @@ Brandon closed the laptop. “I used to think I’d solve it someday. That whate
 
 He stopped. Matt waited.
 
-“Or you can use what you learned from that loss to help someone else,” Brandon finished. “Sarah Carpenter got answers. Linda Carpenter got to bury her daughter. That matters. That has to be enough.”
+“Or you can use what you learned from that loss to help someone else,” Brandon finished. “We spoke for Sarah Carpenter. Linda Carpenter got to bury her daughter. That matters. That has to be enough.”
 
 “It is enough,” Matt said.
 
@@ -4102,7 +4102,7 @@ They walked down the hallway to the corner office where Special Agent in Charge 
 
 “Confession hold up?”
 
-“Solid. Recorded, witnessed, voluntary. He waived counsel. Defense will try to suppress it, but they won’t succeed.”
+“Solid. Recorded, witnessed, and voluntary. He waived counsel in writing. Defense will try to suppress it, but they won’t succeed.”
 
 Chen nodded. “Good. Your SAC at Quantico will be pleased. He called yesterday, said you two have been making a name for yourselves with these cold cases.” Chen pulled a file from his desk. “This is the formal commendation for the Carpenter case. Should process through in the next month or so.”
 
@@ -4116,7 +4116,7 @@ Chen stood and shook their hands. “Well, thanks for the assist on this. Parke 
 
 “Will do.”
 
-After they left Chen’s office, they walked back to the borrowed desk where Brandon had been working. His laptop sat closed, his few personal items already packed in a messenger bag.
+After they left Chen’s office, they walked back to the borrowed desk where Brandon had been working. His laptop sat closed, his few personal items already packed in his messenger bag.
 
 Matt sat down and opened his own laptop, pulling up their case queue. A spreadsheet appeared—thirty-seven open cases, color-coded by priority and age. Red for urgent, yellow for active, blue for cold. Most were blue.
 
@@ -4146,31 +4146,19 @@ Brandon thought about standing in another place where violence had occurred. Fee
 
 “When do they expect us?”
 
-“No rush. It’s been nine months. A few more days won’t matter.” Matt looked at his partner. “But I’m thinking we head up tomorrow. Get there Friday, spend the weekend reviewing the case, start interviews on Monday.”
+“No rush. It’s been nine months. A few more days won’t matter.” Matt looked at his partner. “But I’m thinking we head up tomorrow. If we get there on a Friday, we can spend the weekend reviewing the case, start the real work on Monday.”
 
 “Works for me.”
-
-Matt closed his laptop. “Quantico approved it this morning. I just needed to pick which case felt right.”
-
-“Why this one?”
-
-“Because Emily Reeves deserves better than being an unsolved statistic. And because something about it reminds me of how we work best—cold cases where the trail’s gone dead, but the evidence is still there if you know how to look.”
-
-Brandon nodded. He understood. These were the cases they were good at. Not the urgent ones where every second mattered and the media was watching. The cold ones. The forgotten ones. The cases where families had stopped expecting answers but still deserved them.
 
 They gathered the rest of their materials, submitted their reports to the administrative assistant, and headed for the elevator. The field office continued its work around them—phones ringing, printers humming, the steady machinery of federal law enforcement grinding through cases and evidence and the endless pursuit of truth.
 
 In the elevator, Matt reopened the file on his phone and skimmed the details. “Cedar Rapids is about six hours northwest. We can drive up tomorrow morning, be there by early afternoon.”
 
-“Hotel or field office lodging?”
-
-“Hotel. We’ll be there at least a week, maybe more. Might as well be comfortable.”
-
 Brandon nodded. He was already thinking about the case. A college student who disappeared at night. A body found four days later. Blunt force trauma. No obvious suspects.
 
 The elevator opened on the ground floor. They walked through the lobby and out into the late afternoon cold. The parking garage was two blocks away. They walked in silence, both of them already shifting mental gears from the Carpenter case to whatever waited for them in Cedar Rapids.
 
-Matt’s car was on the third level. A dark blue sedan, government issue, anonymous and practical. They loaded their bags in the trunk. Matt got behind the wheel. Brandon took the passenger seat.
+Their vehicle was on the third level. A dark blue SUV, government issue, anonymous and practical. They loaded their bags in the trunk. Matt got behind the wheel. Brandon took the passenger seat.
 
 For a moment, neither of them moved to leave.
 
@@ -4180,7 +4168,7 @@ Brandon thought about Linda Carpenter’s face when they’d told her how Sarah 
 
 “I don’t know if we change anything,” Brandon said. “But we give people truth. And sometimes truth is all they have left.”
 
-He thought about Missouri again. About his brother still searching after twenty-one years. About the answers that never came and the weight of not knowing.
+He thought about Missouri again. About his brother still searching after twenty-one years. About the truth that never came and the weight of not knowing.
 
 “Sarah Carpenter’s mother got to bury her daughter,” Brandon continued. “She knows what happened. She knows Sarah fought. She knows her daughter tried to leave evidence so someone would find her. That’s not nothing, Matt. That’s something.”
 
@@ -4212,9 +4200,9 @@ Matt glanced at his partner. He’d seen Brandon work crime scenes before. Seen 
 
 “Maybe,” Brandon said. “But dead trails are our specialty.”
 
-They pulled into the hotel parking lot. A Hampton Inn on the north side of the city, functional and forgettable. They’d been staying here all week while working the Carpenter case.
+They pulled into the hotel parking lot. A Quality Inn on the southwest side of the city, functional and forgettable. They’d been staying here all week while working the Carpenter case.
 
-“Pick you up at seven?” Matt asked as they got out.
+“Breakfast at six, on the road by seven?” Matt asked as they got out.
 
 “I’ll be ready.”
 
@@ -4223,6 +4211,7 @@ They headed to their separate rooms. Brandon set his bag down and looked out the
 But tonight, he could rest. Could let the Carpenter case settle. Could prepare himself for whatever waited in Cedar Rapids.
 
 He thought about Emily Reeves. Twenty years old. English major. Worked at a bookstore. Disappeared one night and turned up dead four days later. Nine months of her family wondering why. Nine months of her killer walking free.
+>QUESTION: Does an English major working at a bookstore make Emily too similar to Sarah and the library? Can we adjust these small details.
 
 Not for much longer, if Brandon and Matt had anything to say about it.
 

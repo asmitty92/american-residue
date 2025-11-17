@@ -4134,7 +4134,7 @@ Matt opened the full case file. A photo appeared—a young woman with dark hair 
 
 Brandon studied the photo. “Why us?”
 
-“Because the locals are stuck. They’ve interviewed everyone in her life—friends, family, professors, coworkers. She worked part-time at a bookstore downtown. By all accounts, she was a good student, no enemies, no risk factors. But someone killed her, and nine months later they still don’t know who.”
+“Because the locals are stuck. They’ve interviewed everyone in her life—friends, family, professors, coworkers. She worked part-time at a coffee shop near campus. By all accounts, she was a good student, no enemies, no risk factors. But someone killed her, and nine months later they still don’t know who.”
 
 Matt scrolled through more details. “Her father’s a state senator, so there was political pressure initially. But that’s died down. Now it’s just another cold case collecting dust.”
 
@@ -4210,8 +4210,7 @@ They headed to their separate rooms. Brandon set his bag down and looked out the
 
 But tonight, he could rest. Could let the Carpenter case settle. Could prepare himself for whatever waited in Cedar Rapids.
 
-He thought about Emily Reeves. Twenty years old. English major. Worked at a bookstore. Disappeared one night and turned up dead four days later. Nine months of her family wondering why. Nine months of her killer walking free.
->QUESTION: Does an English major working at a bookstore make Emily too similar to Sarah and the library? Can we adjust these small details.
+He thought about Emily Reeves. Twenty years old. Music major. Worked at a coffee shop. Disappeared one night and turned up dead four days later. Nine months of her family wondering why. Nine months of her killer walking free.
 
 Not for much longer, if Brandon and Matt had anything to say about it.
 

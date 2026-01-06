@@ -336,15 +336,13 @@ He pulled out his phone and texted Veronica: "Talked to them. Working on it."
 
 He sat in the office until the Wyeths left an hour later. Heard them laughing as they walked out. The bell above the door chiming.
 
-Then Tommy went back to the bar and worked the rest of the night.
->NITPICK: A couple of problems here. First, I don't like Tommy "working the bar." He owns these businesses. It'd be more appropriate for him to do office work unless he's short-handed. Also, I don't like the implication
+Tommy spent the rest of the evening at his desk dealing with invoices and supply orders. The paperwork that kept things running. Normal work on an evening that had taken an abnormal turn.
 
 ## Four
 
-Tony Denlon came by the market after closing Wednesday evening. He was twenty-six, built thick, with Jeff's dark hair but a softer face. He worked Tommy's feed operation during the day. Other things when Tommy needed them.
->NITPICK: At the end of section 3, Tommy and Jeff agreed to meet after the bar closed on Tuesday night, not Wednesday evening at the Market.
+Tony Denlon came to the bar after closing Tuesday night. He was twenty-six, built thick, with Jeff's dark hair but a softer face. He worked Tommy's feed operation during the day. Other things when Tommy needed them.
 
-They met in the office. Tommy, Jeff, Tony.
+They met in the back office. Tommy, Jeff, Tony.
 
 "The Wyeths," Tommy said. "Tonight. At the farm."
 
@@ -610,8 +608,11 @@ That evening he stood at the window of his house looking out on Main Street. Lig
 
 He knew Ronnie would go back to avoiding him. He might not hear from her for years. But that was all right. She was safe. Jacob was safe. That's what mattered.
 
-Tommy put his phone away. Went downstairs to the bar. Jeff was setting up for evening.
->NITPICK: Up above, we changed it to Tommy's house, not his apartment above the bar, so we can't have him walk downstairs to the bar. Replace this paragraph with one about Jeff arriving at Tommy's house with take out from the bar for their dinner.
+An hour later Jeff's truck pulled into the driveway. He came to the door with a paper bag from the bar's kitchen. Burgers and fries.
+
+"Figured you hadn't eaten," Jeff said.
+
+They sat at the kitchen table. Ate in silence for a while.
 
 "You good?" Jeff asked.
 

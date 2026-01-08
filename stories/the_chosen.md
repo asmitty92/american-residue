@@ -2,7 +2,7 @@
 
 ## One
 
-The interview room at the Indiana Women's Prison smelled like industrial cleaner and something else underneath it—something stale and institutional that no amount of bleach could quite erase. Dr. Bradley Phillips sat across the metal table from a woman in her late sixties, her gray hair pulled back in a tight bun, her hands folded calmly in front of her. She wore the standard-issue jumpsuit with the ease of someone who'd stopped noticing it years ago.
+The interview room at the Indiana Women's Prison smelled like industrial cleaner and something else underneath it—something stale and institutional that no amount of bleach could quite erase. Dr. Bradley Phillips sat across the metal table from a woman in her late sixties, her gray hair pulled back in a tight bun, her hands folded calmly in front of her. She wore the standard-issue jumpsuit with the ease of someone who'd long forgotten the feel of regular clothing.
 
 Claire Hartley sat beside Dr. Phillips, her notebook open, pen poised. She'd interviewed three former cult members over the past two months, but this was the first time they'd been granted access to the woman herself. The one who'd led them all.
 
@@ -34,7 +34,8 @@ Eleanor looked at her directly for the first time. "The same thing that determin
 
 "But the resistant children—why weren't they—" Claire stopped, choosing her words carefully. "Why were they allowed to remain in the community?"
 
-"We don't murder children, Ms. Hartley." Eleanor's voice was soft. Almost gentle. "We believed they would come to understand. Given time."
+"We don't sacrifice children, Ms. Hartley." Eleanor's voice was soft. Almost gentle. "We believed they would come to understand. Given time."
+>REVISION: change murder to sacrifice. I don't think Eleanor would acknowledge directly that the adults were murdered
 
 "But time ran out."
 
@@ -48,27 +49,23 @@ They walked to the parking lot in silence. November wind cut across the open spa
 
 "She's a psychopath," Claire said finally. "Clinical. Textbook."
 
-"Yes." Phillips opened his door. "But that doesn't explain why an entire town followed her."
+"Yes." Phillips opened his door. "That explains why so many people died in Hudson but not why an entire town followed her."
 
 They drove back to Bloomington in near silence, Phillips lost in thought, Claire reviewing her notes. The research project had started eight months ago as Phillips's sabbatical focus—a deep dive into the Hudson cult as a case study in rural religious extremism and social breakdown. Claire had jumped at the chance to work on it. Her thesis was on social cohesion in isolated communities, and Hudson was the perfect, terrible example.
 
-But the sealed records problem kept hitting them. The court had sealed everything related to the survivors—the traveling couple who'd discovered the cult, and especially the two children they'd adopted. Names changed. Locations hidden. The state of Indiana had made them disappear as thoroughly as possible.
->NITPICK: I don't like the descriptor of "the traveling couple." I know that's what we called them in our brainstorming, but we decided to make them a couple coming to check up on a relative.
+But the sealed records problem kept hitting them. The court had sealed everything related to the survivors—the couple who'd come to check on an elderly relative and discovered the cult and the murders. And especially the two children they'd adopted. Names changed. Locations hidden. The state of Indiana had made them disappear as thoroughly as possible.
 
-"We need those interviews," Phillips said as they pulled onto State Road 37. "The inner circle give us the mechanism of control—they played the role of enforcers. Eleanor gives us the ideology. But the survivors give us the human cost. The testimony of those who resisted."
->NITPICK: calling them "the enforcers" seems out of character for an academic. Should it be "the inner circle"? I reworded it here, what do you think?
+"We still don't have the full picture. The inner circle members give us the mechanism of control—they played the role of enforcers," Phillips said as they pulled onto State Road 37. "Eleanor gives us the ideology. Survivor testimony would give us the human cost, but those people went to great lengths to disappear."
 
-"Eddie said the same thing." Claire looked out the window at the bare November fields. "He thinks survivor testimony would be invaluable for understanding the trauma response."
->NITPICK: would Eddie be in favor of needing to talk to the survivors given the twist that he's one of them and is resistant up until he decides to testify?
+"Eddie pointed that out too." Claire looked out the window at the bare November fields. "Said we can understand trauma response through the perpetrators' accounts. That survivor testimony isn't necessarily essential to the study."
 
-"Eddie's right." Phillips drummed his fingers on the steering wheel. "But without access to the sealed documents, we're stuck. I've contacted three different attorneys. The adoption and name change records are locked down tight."
+Phillips drummed his fingers on the steering wheel. "He's probably right. But without access to the sealed documents, the question's moot anyway. I've contacted three different attorneys. The adoption and name change records are locked down tight."
 
-Eddie Collins had joined the project two months ago as a consulting psychologist. His role was to help frame the interview questions to maximize their results. He taught clinical psychology at the university—had his PsyD from Ball State, practiced for a few years before finding his home in academia. Phillips had brought him in to help develop their interview protocols, particularly for the imprisoned cult members. Eddie had a quiet competence that made people trust him, and his questions during planning sessions were always sharp.
->REVISION: I expanded this paragraph a bit.
->QUESTION: We know that Eddie and Claire are in a relationship. Eddie's text to her later in chapter 1 implies it. Did their relationship begin before or after he joined the study? Did he pursue her romantically because of her involvement in the study so he could keep tabs on it?
+Eddie Collins had joined the project two months ago as a consulting psychologist. His role was to help frame the interview questions to maximize their results. He taught clinical psychology at the university—had his PsyD from Ball State, He'd practiced privately for a few years before finding his home in academia. Phillips had brought him in to help develop their interview protocols, particularly for the imprisoned cult members. Eddie had a quiet competence that made people trust him, and his questions during planning sessions were always sharp.
 
-But he'd never attended an actual interview. Always found a reason to skip them. Teaching obligations. Appointments with his own students. Claire had noticed, but hadn't pushed. Eddie was helping with the analysis, and that was enough.
->NITPICK: we don't have to fix this now, it's fine as is for the moment, but I might come back and refactor it later. I'm worried such an explicit admission of Eddie skipping interviews is too strong of a hint about who he is.
+He and Claire had been dating for six months—since spring, when they'd met at a faculty mixer. When she'd mentioned Phillips's sabbatical project that summer, Eddie had offered to consult. Claire thought it was sweet, him wanting to be involved in work that mattered to her. Phillips was just grateful to have someone with clinical expertise.
+
+But Eddie had never attended an actual interview. Always found a reason to skip them. Teaching obligations. Appointments with his own students. Claire had noticed, but hadn't pushed. Eddie was helping with the analysis, and that was enough.
 
 "Maybe we're approaching it wrong," Claire said. "The sealed records exist to protect the survivors. What if we found a way to reach out that didn't feel like an intrusion?"
 
@@ -77,7 +74,6 @@ But he'd never attended an actual interview. Always found a reason to skip them.
 "I don't know yet. But there has to be a way."
 
 Phillips was quiet for a long moment. "Be careful about getting too invested in finding them, Claire. Sometimes people hide for good reasons."
->NITPICK: Phillips started this conversation with "We need these survivor interviews" and is now warning Claire not to get too invested in finding them. That seems odd.
 
 They reached campus as dusk was settling. Phillips dropped her at the graduate student parking lot, and Claire sat in her car for a few minutes before driving home. She thought about Eleanor Whitmore's calm face. About the children who'd died in that mass suicide twenty years ago. About the two who'd survived and were now hidden somewhere, living under different names.
 

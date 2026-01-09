@@ -102,7 +102,7 @@ His sister sat at the table already, five years old, swinging her legs because t
 
 "Wash your hands," his mother said.
 
-The boy went to the sink turned on the faucet. The water came out cold and hard. He scrubbed his hands with the bar of soap, dried them on the towel hanging from the oven handle, and sat down across from his sister.
+The boy went to the sink and turned on the faucet. The water came out cold. He scrubbed his hands with the bar of soap, dried them on the towel hanging from the oven handle, and sat down across from his sister.
 
 His mother brought plates. Eggs. Toast. A slice of tomato from the ones she'd canned last summer. She sat down between them and bowed her head.
 
@@ -190,11 +190,11 @@ But lying there in the dark, listening to his parents argue about money they did
 
 The Wabash Valley Correctional Facility sat two hours south of Bloomington, just outside Carlisle. Claire made the drive with Phillips on a Wednesday morning two weeks after the Eleanor Whitmore interview. Eddie had teaching obligations—office hours with undergrads—so it was just the two of them.
 
-The man they were meeting had been part of Eleanor's inner circle. Thomas Garrett. Forty-eight years old now, serving life without parole for multiple counts of murder. He'd been one of the enforcers—the men who'd carried out Eleanor's directives when persuasion failed.
+The man they were meeting had been part of Eleanor's inner circle—her primary enforcer. Thomas Garrett. Forty-eight years old now, serving life without parole for multiple counts of murder. He was one of the men who'd carried out Eleanor's directives when persuasion failed.
 
 The interview room here was different from the women's prison. Smaller. No windows. A corrections officer stood inside with them, not outside. Garrett wore wrist restraints that were bolted to a ring in the center of the table.
 
-He was thin, balding, with the kind of prison pallor that came from decades without real sunlight. When he smiled at them his teeth were gray.
+He was thin, balding, with the kind of prison pallor that came from decades with only minimal sunlight. When he smiled at them his teeth were gray.
 
 "Dr. Phillips," he said. "And you must be the graduate student. Claire, right?"
 
@@ -206,7 +206,7 @@ He was thin, balding, with the kind of prison pallor that came from decades with
 
 "Letters. Once a month or so. They monitor them, of course. But we can write." He shrugged as much as the restraints allowed. "She likes to know how her people are doing."
 
-Claire made a note. The relationship between Eleanor and her surviving followers was something they'd been documenting. Most stayed loyal even after twenty years. Even after the trials. Even after watching their children die.
+Claire made a note. The relationship between Eleanor and her surviving followers was something they'd been documenting. Most stayed loyal even after twenty years. Even after the trials. Even after watching their loved ones die.
 
 "We're interested in the organizational structure of the community," Phillips said. "How decisions were made. How directives were communicated."
 
@@ -226,11 +226,11 @@ Phillips nodded.
 
 "What happened to the unchosen?" Claire asked. She knew the answer. Had read the autopsy reports. But she wanted to hear how he'd explain it.
 
-"They were removed. From the community. From the land." Garrett's voice stayed flat. "Eleanor said the earth couldn't be healed until the corruption was cut away. So we cut it away."
+"They were removed. From the community. Returned to the land." Garrett's voice stayed flat. "Eleanor said the earth couldn't be healed until the corruption was cut away. So we cut it away."
 
 "You killed them."
 
-"We purified the land." He looked at her directly. "You don't understand because you're not from there. But Hudson was dying. The crops failed year after year. The banks were taking farms. Good people were losing everything their families had built. Eleanor showed us why. Showed us how to fix it."
+"We purified our community." He looked at her directly. "You don't understand because you're not from there. But Hudson was dying. The crops failed year after year. The banks were taking farms. Good people were losing everything their families had built. Eleanor showed us why. Showed us how to fix it."
 
 "By murdering your neighbors."
 
@@ -300,17 +300,17 @@ She called him instead of texting.
 
 "Give me twenty minutes."
 
-Claire set her phone down and looked at her notes. At Thomas Garrett's words written in her careful handwriting. *We purified the land.*
+Claire set her phone down and looked at her notes. At Thomas Garrett's words written in her careful handwriting. *We purified our community.*
 
 Twenty years ago, two children had escaped this ideology. Had been pulled out of Hudson before the mass suicide. Before they could be told to drink the poison or whatever method Eleanor had used.
 
-Those children were adults now. In their thirties. Maybe they had families. Maybe they'd built good lives.
+Those children were adults now. In their late twenties. Maybe they had families. Maybe they'd built good lives.
 
 Maybe they'd managed to forget.
 
 Claire hoped so. Because if she ever found them, if she ever got the chance to ask them about Hudson, she wasn't sure she could live with being the one who made them remember.
 
-Eddie arrived with takeout Thai food and they ate on the couch while she told him about the interview in detail. He listened carefully, asked good questions, made notes on his phone for the analysis.
+Eddie arrived with takeout Thai food and they ate on the couch while she told him about the interview in detail. He listened carefully, asked good questions, made notes in his notebook for the analysis.
 
 "You're not missing anything by skipping the interviews," Claire said. "Trust me."
 
@@ -322,8 +322,174 @@ Eddie arrived with takeout Thai food and they ate on the couch while she told hi
 
 Claire nodded. But something in Eddie's face made her think he wouldn't. That he'd find another reason to be elsewhere when they scheduled the next prison visit.
 
-She didn't push it. Everyone had their limits.
+She didn't push it. She knew he'd given up private practice for academia because the emotional side of his job took a toll on him. Everyone had their limits.
 
 And maybe, she thought, Eddie's limit was hearing people like Thomas Garrett describe murder as purification.
 
 She couldn't blame him for that.
+
+## Four
+
+Hudson, Indiana - Summer 1990
+
+The woman arrived on a Sunday in June.
+
+The boy didn't see her come into town. Nobody did. She was just there one morning, sitting in the last pew at Hudson Community Church, listening to Pastor Williams preach about faith in difficult times.
+
+After the service she stood outside on the church steps shaking hands. The boy watched from where he sat on the tailgate of his father's truck, swinging his legs. His sister sat beside him eating animal crackers from a small box.
+
+The woman was maybe forty, with dark hair pulled back and a plain dress that looked handmade. She smiled when she talked but her eyes stayed serious. When she shook Pastor Williams's hand she held it for a long time, saying something the boy couldn't hear.
+
+"Who's that?" his mother asked his father.
+
+"Don't know. Never seen her before."
+
+They drove home without talking much. His father had the radio on but turned it off after a few minutes. The corn in the fields along the road was only knee-high. It should have been taller by now.
+
+At dinner that night his father said the woman's name was Eleanor Whitmore. She'd introduced herself to several of the men after church. Said she was passing through, looking for a place to settle. She'd grown up on a farm in southern Illinois. Knew the land. Knew what it needed.
+
+"What's it need?" the boy's mother asked.
+
+His father shrugged. "She didn't say exactly. Just that she could tell Hudson was struggling. That the earth here was sick."
+
+"The earth's fine. It's the weather that's been wrong."
+
+"That's what I said."
+
+They ate in silence for a while. Green beans from the garden. Fried chicken his mother had made that morning. Cornbread.
+
+"She's staying at the Robinsons' place," his father said. "In their spare room. Offered to help with the dairy operation in exchange for room and board."
+
+The boy's mother set down her fork. "You thinking of bringing her around here?"
+
+"No. Just telling you what I heard."
+
+But something in his father's voice made the boy think he was thinking about it.
+
+---
+
+The woman—Eleanor—started showing up places. At the farmer's market on Saturday mornings. At the grain elevator when farmers came in to buy seed or fertilizer on credit. At the diner on Main Street.
+
+She listened more than she talked. Asked questions about yields and rainfall and soil composition. She had a way of making people feel heard. The boy's father said she was smart. Understood farming better than most people who'd done it their whole lives.
+
+By July she was eating Sunday dinner with different families each week. The Burnells had her over first. Then the Ahrendts. Then the Dominy family.
+
+When she came to the boy's house it was a Tuesday evening in late July. His mother spent the afternoon cleaning even though the house was already clean. She made pot roast and mashed potatoes and used the good plates they only brought out for holidays.
+
+Eleanor arrived at six carrying a jar of honey and a loaf of bread she'd baked that morning.
+
+"Thank you for having me," she said at the door. She had a low voice, calm and steady. "Your home is lovely."
+
+The boy's mother took the honey and bread and showed Eleanor to the table. The boy and his sister sat on their side, quiet, watching this stranger in their house.
+
+Eleanor smiled at them. "And who are these two?"
+
+The boy's mother made introductions. Eleanor shook both their hands like they were adults.
+
+"It's good to meet you," she said. "Children are closer to the earth than we are. They understand things we've forgotten."
+
+The boy didn't know what that meant but he nodded anyway.
+
+Over dinner Eleanor talked about the land. About cycles and seasons and the way crops grew in rhythm with something deeper than weather patterns. She talked about how farming had changed, how people used chemicals instead of working with the soil, how that broke the natural order.
+
+"The earth provides," she said. "But only when we honor it. When we live in balance."
+
+The boy's father leaned forward. "And you think Hudson's out of balance?"
+
+"I think the whole country's out of balance. But yes. Hudson especially. The land here is tired. Disrespected. It's trying to tell you something."
+
+"Tell us what?"
+
+"That some things need to change. Some people need to change." Eleanor's eyes moved around the table. "The earth doesn't care about bank loans or market prices. It cares about purity. About respect. About understanding that we're part of it, not separate from it."
+
+The boy's mother was quiet through most of the meal. She served the food and asked if anyone wanted more but didn't join the conversation. The boy could see the way she watched Eleanor. Not suspicious exactly. Just careful.
+
+After Eleanor left—walking back to the Robinsons' place even though his father offered to drive her—the boy's mother did the dishes without speaking.
+
+"She's different," his father said finally.
+
+"She's strange."
+
+"Strange isn't always bad."
+
+"Isn't always good either."
+
+The boy lay in bed that night thinking about what Eleanor had said. About children being closer to the earth. About the land being tired and disrespected. He didn't understand most of it. But he'd watched his father's face during dinner. Seen the way he leaned in when Eleanor talked. Like she had answers to questions he'd been asking himself for months.
+
+---
+
+By August, Eleanor was holding meetings.
+
+They started small. Just a few people gathering at the Robinsons' barn on Wednesday evenings to talk about farming practices and seasonal rhythms. The boy's father went to the first one. Came back after dark with a strange look on his face.
+
+"What'd she say?" the boy's mother asked.
+
+"A lot. About working with the land instead of against it. About old ways that got forgotten." He sat down at the kitchen table. "She knows things. Real things. Not just book learning."
+
+"Like what?"
+
+"Like how to read the soil. How to know when to plant without looking at a calendar. How to—" He stopped. "It's hard to explain."
+
+The boy's mother crossed her arms. "Try."
+
+"She said the harvest has been failing because we've lost respect. We take and take and give nothing back. We use chemicals and machines and treat the earth like it's ours to control." His father's voice was low. Earnest. "But it's not. We're part of it. And when we forget that, the land gets sick. The crops fail. The whole community suffers."
+
+"That's just talk. Fancy words for bad weather."
+
+"Maybe. But maybe not." His father looked at her. "What if she's right? What if there's a way to fix this?"
+
+The boy's mother didn't answer. She turned and went upstairs.
+
+The meetings got bigger. By September more than thirty people were coming each Wednesday. They weren't just talking about farming anymore. Eleanor had started talking about purity. About chosen people who understood the truth and unchosen people who defiled the land with their ignorance.
+
+The boy's father went to every meeting. Started coming home later. Started talking differently. He used words like "corruption" and "cleansing" and "restoration."
+
+His mother stopped arguing. Just got quieter.
+
+At school, things changed too. Brian Burnell's family had started going to the meetings. So had Jimmy Ahrendt's. They talked about Eleanor at recess, repeating things their parents had said.
+
+"She says the earth is alive," Brian said one day. "And it's angry at the people who don't respect it."
+
+"That's stupid," another boy said. "The earth's just dirt."
+
+"Then why are the crops failing?" Brian's voice was sharp. "My dad says we used to get better yields. Used to make money. Now the banks are taking everything. Eleanor says that's because people like you don't understand."
+
+The boy didn't know what to say. He looked at the bare patches in the school playground where grass should have been growing. At the thin faces of kids whose families were struggling.
+
+Maybe the earth was angry. He didn't know.
+
+But he knew something had changed in Hudson.
+
+Something that felt like it was spreading through the town like roots through soil.
+
+By October, the Wednesday meetings had moved to the old community center. More than a hundred people were coming. Eleanor stood at the front speaking about truth and purity and the chosen ones who would restore balance.
+
+The boy's father took him to a meeting once. The boy sat in a folding chair beside his sister, watching Eleanor talk. Her voice was different here. Louder. More certain. She talked about sacrifice and about how some people were blessed to understand while others were cursed with blindness.
+
+"The unchosen will reveal themselves," she said. "Through their resistance. Through their corruption. And when they do, we must be ready to act."
+
+The room was silent. Everyone watching her. Believing.
+
+On the drive home the boy's father was quiet. When they got to the house the boy's mother was waiting in the kitchen. She looked at the boy and his sister.
+
+"Go to your rooms," she said.
+
+The boy went upstairs but he could hear them through the floor. His father's voice rising. His mother's staying level but firm.
+
+"This is wrong," she said. "What she's saying is wrong."
+
+"You don't understand."
+
+"I understand that woman is dangerous. That she's turning this town into something ugly."
+
+"She's trying to save us."
+
+"From what? Bad harvests? That's weather. That's economics. That's not—" His mother's voice broke. "That's not worth whatever she's asking for."
+
+The boy pressed his ear to the floor. Heard his father say something low. Heard his mother's response: "No. I won't. And you shouldn't either."
+
+That night the boy lay awake listening to the house settle. Somewhere down the hall his sister was probably asleep. In the room below his parents were maybe still arguing or maybe just sitting in silence.
+
+Outside, the wind moved through the empty fields.
+
+And somewhere in town, Eleanor Whitmore was planning what came next.

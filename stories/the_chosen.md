@@ -35,7 +35,6 @@ Eleanor looked at her directly for the first time. "The same thing that determin
 "But the resistant children—why weren't they—" Claire stopped, choosing her words carefully. "Why were they allowed to remain in the community?"
 
 "We don't sacrifice children, Ms. Hartley." Eleanor's voice was soft. Almost gentle. "We believed they would come to understand. Given time."
->REVISION: change murder to sacrifice. I don't think Eleanor would acknowledge directly that the adults were murdered
 
 "But time ran out."
 
@@ -97,13 +96,13 @@ The cornfields stretched out beyond the barn. Row after row of turned earth wait
 
 His mother's voice came from behind him. "Breakfast."
 
-He turned. She stood at the stove scrambling eggs in the cast-iron skillet his grandmother had given them. Her hair was pulled back in a ponytail and she wore the flannel shirt she always wore in the morning—his father's old one, too big for her, sleeves rolled to her elbows.
+He turned. She stood at the stove scrambling eggs in a cast-iron skillet. Her hair was pulled back in a ponytail and she wore the same flannel shirt she always wore on cold mornings—his father's old one, too big for her, sleeves rolled to her elbows.
 
 His sister sat at the table already, five years old, swinging her legs because they didn't reach the floor yet. She had a coloring book open in front of her, making careful strokes with a green crayon.
 
 "Wash your hands," his mother said.
 
-The boy went to the sink and pumped the handle. The water came out cold and hard. He scrubbed his hands with the bar of soap, dried them on the towel hanging from the oven handle, and sat down across from his sister.
+The boy went to the sink turned on the faucet. The water came out cold and hard. He scrubbed his hands with the bar of soap, dried them on the towel hanging from the oven handle, and sat down across from his sister.
 
 His mother brought plates. Eggs. Toast. A slice of tomato from the ones she'd canned last summer. She sat down between them and bowed her head.
 
@@ -133,19 +132,19 @@ The boy went to school on the bus. Hudson Elementary sat at the edge of town—a
 
 Mrs. Pritchard taught third grade. She was old, older than his grandmother had been, with white hair and hands that shook a little when she wrote on the chalkboard. But she was kind. She let them go outside for recess even when it was cold, and she read to them after lunch every day from chapter books that had no pictures.
 
-At recess the boy played with Tommy Brennan and Jeff Denlon. They built forts in the dirt under the big oak tree and threw pinecones at each other until the teacher on duty told them to stop. Tommy's grandfather owned the grain elevator in town. Jeff's family had a dairy farm north of Hudson that had been there for three generations.
+At recess the boy played with Brian Burnell and Jimmy Ahrendt. They built forts in the dirt under the big oak tree and threw pinecones at each other until the teacher on duty told them to stop. Brian's grandfather owned the grain elevator in town. Jimmy's family had a dairy farm north of Hudson that had been there for three generations.
 
-"My dad says the whole county's gonna have a bad year," Tommy said. He was building a wall with sticks. "Says the rain came too late and now it won't stop."
+"My dad says the whole county's gonna have a bad year," Brian said. He was building a wall with sticks. "Says the rain came too late and now it won't stop."
 
 "My dad says the same thing," the boy said.
 
-Jeff threw a pinecone at the trunk of the oak. "My dad says it don't matter. We got the cows. Crops can fail but people still need milk."
+Jimmy threw a pinecone at the trunk of the oak. "My dad says it don't matter. We got the cows. Crops can fail but people still need milk."
 
-The boy wanted to argue but couldn't. Jeff's family did have the cows. His family just had dirt and seeds and hope that the weather would cooperate.
+The boy wanted to argue but couldn't. Jimmy's family did have the cows. His family just had dirt and seeds and hope that the weather would cooperate.
 
 The bell rang. They ran back inside, kicking mud off their shoes at the door.
 
-That afternoon when the bus dropped him and his sister at their driveway, his father's truck wasn't there. The boy knew that meant he'd gone into town. Probably to the grain elevator to talk with Mr. Brennan about getting credit extended on their seed order.
+That afternoon when the bus dropped him and his sister at their driveway, his father's truck wasn't there. The boy knew that meant he'd gone into town. Probably to the grain elevator to talk with Mr. Burnell about getting credit extended on their seed order.
 
 Inside, his mother was kneading bread dough at the kitchen counter. Flour dusted her forearms. The radio played country music, turned down low.
 
@@ -161,7 +160,7 @@ Inside, his mother was kneading bread dough at the kitchen counter. Flour dusted
 
 His sister launched into an explanation of seeds and roots and stems while the boy went to his room. He did his homework at the small desk under the window—math problems about fractions, a worksheet about state capitals. Through the wall he could hear his sister talking to their mother, her voice high and excited.
 
-When he finished his homework he went outside. The fields stretched away in every direction. Some were his father's. Others belonged to the Kowalski family who lived a mile west, or the Robinsons who had the big dairy operation northeast of town. Hudson was fields and barns and grain silos. Three hundred people lived there, maybe a few less. Everyone knew everyone.
+When he finished his homework he went outside. The fields stretched away in every direction. Some were his father's. Others belonged to the Dominy family who lived a mile west, or the Robinsons who had the big dairy operation northeast of town. Hudson was fields and barns and grain silos. Three hundred people lived there, give or take a few. Everyone knew everyone.
 
 The boy walked to the barn and climbed up to the loft. He liked it up there. It smelled like hay and old wood and the pigeons that nested in the rafters. He sat on a bale and looked out the loft door at the fields.
 
@@ -179,7 +178,7 @@ But the boy could hear the tightness in her voice. Could see the way his father'
 
 That night the boy lay in bed listening to his parents talk in the kitchen below. Their voices rose and fell. His father said something about selling equipment. His mother said they couldn't sell what they needed to plant. The conversation went in circles.
 
-The boy closed his eyes and thought about Tommy Brennan's grandfather's grain elevator. About Jeff Denlon's cows. About the Hutchins family packing up their house and leaving for Indianapolis.
+The boy closed his eyes and thought about Brian Burnell's grandfather's grain elevator. About Jimmy Ahrendt's cows. About the Hutchins family packing up their house and leaving for Indianapolis.
 
 He didn't understand money, not really. Didn't understand debt or interest rates or crop yields. But he understood the sound of his parents' voices. The worry that lived in them now.
 

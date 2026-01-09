@@ -186,3 +186,145 @@ He didn't understand money, not really. Didn't understand debt or interest rates
 Outside, the wind moved through the bare fields. In a few weeks they'd plant if the weather allowed. And maybe the corn would grow strong and tall. Maybe the harvest would be good. Maybe everything would be fine.
 
 But lying there in the dark, listening to his parents argue about money they didn't have, the boy wasn't sure he believed it.
+
+## Three
+
+The Wabash Valley Correctional Facility sat two hours south of Bloomington, just outside Carlisle. Claire made the drive with Phillips on a Wednesday morning two weeks after the Eleanor Whitmore interview. Eddie had teaching obligations—office hours with undergrads—so it was just the two of them.
+
+The man they were meeting had been part of Eleanor's inner circle. Thomas Garrett. Forty-eight years old now, serving life without parole for multiple counts of murder. He'd been one of the enforcers—the men who'd carried out Eleanor's directives when persuasion failed.
+
+The interview room here was different from the women's prison. Smaller. No windows. A corrections officer stood inside with them, not outside. Garrett wore wrist restraints that were bolted to a ring in the center of the table.
+
+He was thin, balding, with the kind of prison pallor that came from decades without real sunlight. When he smiled at them his teeth were gray.
+
+"Dr. Phillips," he said. "And you must be the graduate student. Claire, right?"
+
+"Yes." Claire set her notebook on the table. "Thank you for agreeing to speak with us."
+
+"Not much else to do in here." Garrett's voice was flat. Midwestern accent with the hard consonants that came from rural Indiana. "Eleanor said you'd probably come see me eventually."
+
+"You're still in contact with Ms. Whitmore?" Phillips asked.
+
+"Letters. Once a month or so. They monitor them, of course. But we can write." He shrugged as much as the restraints allowed. "She likes to know how her people are doing."
+
+Claire made a note. The relationship between Eleanor and her surviving followers was something they'd been documenting. Most stayed loyal even after twenty years. Even after the trials. Even after watching their children die.
+
+"We're interested in the organizational structure of the community," Phillips said. "How decisions were made. How directives were communicated."
+
+"Eleanor decided. We communicated." Garrett's smile didn't change. "It wasn't complicated."
+
+"But there must have been some hierarchy. Some people closer to her than others."
+
+"Sure. Me, Paul Hendricks, Robert Marsh. We were her hands. When something needed doing, we did it."
+
+"And the others? The people who weren't in the inner circle?"
+
+"They did what they were told. Worked the fields. Raised their kids right. Lived according to the truth." Garrett leaned forward slightly. The chains scraped against the table. "You want to know how we kept order. That's what you're really asking."
+
+Phillips nodded.
+
+"It was easy. People wanted to belong. Wanted to believe we had answers. And most of the time, they did belong. They were chosen. Part of something pure." Garrett paused. "The ones who fought it—who defiled the land with their doubt—they made themselves unchosen. That was their choice, not ours."
+
+"What happened to the unchosen?" Claire asked. She knew the answer. Had read the autopsy reports. But she wanted to hear how he'd explain it.
+
+"They were removed. From the community. From the land." Garrett's voice stayed flat. "Eleanor said the earth couldn't be healed until the corruption was cut away. So we cut it away."
+
+"You killed them."
+
+"We purified the land." He looked at her directly. "You don't understand because you're not from there. But Hudson was dying. The crops failed year after year. The banks were taking farms. Good people were losing everything their families had built. Eleanor showed us why. Showed us how to fix it."
+
+"By murdering your neighbors."
+
+"By restoring balance." Garrett sat back. "You can call it whatever you want. I know what we did. I'd do it again if I could."
+
+The interview lasted another hour. Garrett described the rituals—simple ceremonies focused on the harvest, on the cycles of planting and reaping. He described how children were taught. How the unchosen were identified. How the inner circle carried out Eleanor's directives in the dark hours before dawn.
+
+He never showed remorse. Never wavered.
+
+When they were done, walking back to the parking lot, Claire felt sick.
+
+"He believes it," she said. "Completely. Even now."
+
+"They all do." Phillips unlocked the Volvo. "That's what makes them dangerous. And what makes them useful for the study. They'll tell us exactly what happened because they don't think they did anything wrong."
+
+They drove in silence for a while. Claire reviewed her notes, but the words blurred. She kept seeing Garrett's gray teeth. Hearing his flat voice: *We purified the land.*
+
+"Eddie was right to skip this one," she said finally. "It's—I don't know. Listening to him describe killing people like it was yard work."
+
+"That's the pathology." Phillips merged onto the highway. "Eleanor's a psychopath. But Garrett's something else. True believer. Probably was before Eleanor ever arrived. She just gave him permission."
+
+"Permission to kill."
+
+"Permission to act on what he already wanted to do."
+
+Claire looked out at the November landscape. Bare fields. Empty silos. Small towns dying slow deaths as farms consolidated and young people left for cities. She thought about Hudson in 1990. About economic collapse making people desperate. About Eleanor Whitmore arriving with answers.
+
+About children who'd grown up watching their neighbors murdered. Children who'd been told it was purification.
+
+"The survivors," she said. "The two kids who made it out. How do you think they processed this? Being told murder was righteous, then being taken away and told it was evil?"
+
+"That's exactly why their testimony would be valuable." Phillips glanced at her. "But Eddie's probably right that we can reconstruct their experience from what we're learning. The perpetrators give us the ideology and the methods. We can infer the trauma."
+
+"It's not the same as hearing it from them."
+
+"No. But sometimes we have to work with what we have."
+
+They reached Bloomington as the sun was setting. Phillips dropped her at her apartment this time—she'd left her car on campus. 
+
+"Good work today," he said. "I know it's not easy, listening to that."
+
+"It's important," Claire said. "That's what matters."
+
+Inside her apartment, Claire made tea and sat on her couch with her laptop. She opened the case files again. Found the few details about the survivors that weren't sealed.
+
+Two children. Brother and sister. Ages eight and five when the cult took over, eleven and eight when they escaped. Adopted by the couple who'd discovered Hudson. Names changed, locations sealed by court order.
+
+Somewhere out there they were living normal lives. Or trying to.
+
+Her phone buzzed. Eddie: "How'd it go with Garrett?"
+
+She called him instead of texting.
+
+"It was awful," she said when he answered. "He described killing people like he was describing pulling weeds."
+
+"That fits the profile. True believer type. Eleanor gave him ideological framework for violence he was already inclined toward."
+
+"That's what Phillips said."
+
+"Phillips is right." She heard papers rustling on Eddie's end. "You okay?"
+
+"Yeah. Just—it's a lot. Hearing someone talk about murder with no emotion."
+
+"You want me to come over?"
+
+"Would you?"
+
+"Give me twenty minutes."
+
+Claire set her phone down and looked at her notes. At Thomas Garrett's words written in her careful handwriting. *We purified the land.*
+
+Twenty years ago, two children had escaped this ideology. Had been pulled out of Hudson before the mass suicide. Before they could be told to drink the poison or whatever method Eleanor had used.
+
+Those children were adults now. In their thirties. Maybe they had families. Maybe they'd built good lives.
+
+Maybe they'd managed to forget.
+
+Claire hoped so. Because if she ever found them, if she ever got the chance to ask them about Hudson, she wasn't sure she could live with being the one who made them remember.
+
+Eddie arrived with takeout Thai food and they ate on the couch while she told him about the interview in detail. He listened carefully, asked good questions, made notes on his phone for the analysis.
+
+"You're not missing anything by skipping the interviews," Claire said. "Trust me."
+
+"I believe you." Eddie set his pad thai down. "But I should probably start attending. Phillips brought me on to help with protocols. I should see how they're working in practice."
+
+"You don't have to. We're getting good material."
+
+"I know. But still." He looked at her. "Next one. I'll go to the next one."
+
+Claire nodded. But something in Eddie's face made her think he wouldn't. That he'd find another reason to be elsewhere when they scheduled the next prison visit.
+
+She didn't push it. Everyone had their limits.
+
+And maybe, she thought, Eddie's limit was hearing people like Thomas Garrett describe murder as purification.
+
+She couldn't blame him for that.

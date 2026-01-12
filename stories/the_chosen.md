@@ -661,3 +661,249 @@ Somewhere out there, Mason Gilman was living his life. Maybe in Indiana. Maybe s
 And Eddie wanted to keep it that way.
 
 At least for now.
+
+## Six
+
+Hudson, Indiana - Winter 1991
+
+The first snow came in January, six months after Eleanor arrived.
+
+The boy woke to find everything white. The fields, the barn roof, the truck in the driveway. He pressed his hand against the cold window and watched his breath fog the glass.
+
+His sister was still asleep in her room. His mother was already downstairs—he could hear the clatter of pans, smell coffee brewing. His father's truck was gone.
+
+At breakfast his mother was quiet. She put eggs and toast on the table but didn't sit down. Just stood at the counter with her coffee, looking out the window.
+
+"Where's Dad?" the boy asked.
+
+"Meeting."
+
+"It's Saturday."
+
+"I know what day it is." Her voice was sharp. Then softer: "Eat your breakfast."
+
+The Wednesday meetings had changed. They weren't at the community center anymore. Eleanor had moved them to different houses, rotating each week. Smaller groups. More private. The boy's father came home from them late, smelling like wood smoke and something else. Something metallic that the boy couldn't place.
+
+At school, some of the kids had stopped coming. Mrs. Pritchard didn't say where they'd gone. Just rearranged the desks to fill in the empty spaces.
+
+Brian Burnell was still there. So was Jimmy Ahrendt. But they didn't play together at recess anymore. They stood in separate groups—the ones whose families went to the meetings and the ones whose families didn't.
+
+The boy didn't fit either group. His father went to the meetings but his mother didn't. That made them something in between. Something undefined.
+
+One day in February a new boy tried to talk to him at lunch. His name was Michael something. His family had moved to Hudson the year before, before Eleanor came.
+
+"My dad says your mom's unchosen," Michael said.
+
+The boy looked at him. "What?"
+
+"That's what he said. That your mom won't go to the meetings. That she's defiling the land with her doubt."
+
+"Shut up."
+
+"It's true. My dad said Eleanor's going to have to do something about it."
+
+The boy shoved him. Michael shoved back. They were on the ground, tangled together, when Mrs. Pritchard pulled them apart.
+
+She made them both apologize. But Michael's words stayed with the boy all day. *Eleanor's going to have to do something about it.*
+
+That night his parents argued again. The boy could hear them through the floor, their voices low and tense.
+
+"You have to go," his father said. "If you don't, they'll think—"
+
+"I don't care what they think."
+
+"You should. For the kids."
+
+"The kids are fine."
+
+"They're not fine. Do you know what people are saying?" His father's voice rose. "That you're unchosen. That you're poisoning the land with your resistance."
+
+"That's insane."
+
+"It doesn't matter if it's insane. It matters what Eleanor says. And if she decides you're a problem—"
+
+"Then what? She'll come for me?"
+
+Silence.
+
+The boy pressed his ear harder to the floor.
+
+"Yes," his father said finally. "She will. And I won't be able to stop her."
+
+"You could leave. We could all leave."
+
+"Where would we go? We have nothing. The farm's mortgaged. We're behind on payments. If we left now we'd lose everything."
+
+"We're going to lose more than the farm if we stay."
+
+"I can protect you. But you have to meet me halfway. Come to one meeting. Just one. Show them you understand."
+
+"I will never understand what that woman is doing to this town."
+
+More silence. Then footsteps. The door slamming.
+
+The boy lay in bed for a long time, listening. His father didn't come back that night.
+
+---
+
+In March, a girl in his sister's kindergarten class stopped coming to school. Her name was Sarah. Her family lived on the south edge of town, near the old grain mill.
+
+The boy's sister asked about her at dinner.
+
+"Where's Sarah?" she said.
+
+Their mother and father exchanged looks.
+
+"Her family moved," their mother said.
+
+"Where?"
+
+"I don't know. Somewhere else."
+
+But the boy had heard different. Had heard Brian Burnell talking at recess about how Sarah's parents were unchosen. How they'd refused to attend meetings. How one morning they were just gone.
+
+"Returned to the land," Brian had said, repeating something he'd obviously heard from adults. "That's what happens to the corrupt ones."
+
+The boy didn't know what that meant exactly. But he knew it wasn't good.
+
+More families left Hudson that spring. Or disappeared. The boy couldn't tell the difference anymore. The Dominy family who lived a mile west—gone. The Gentry family who used to sell honey at the farmer's market—gone. The old man who ran the hardware store—gone.
+>REVISION: Changed the surname Kowalski to Gentry
+
+Each time, Eleanor spoke at the next community gathering about purification. About restoring balance. About how the land was healing now that the corruption was being removed.
+
+The boy's father attended every gathering. The boy's mother stayed home.
+
+---
+
+In April, Eleanor came to their house for dinner again.
+
+The boy's mother didn't want to have her. The boy could tell from the way she moved around the kitchen that afternoon, slamming cabinet doors, banging pots on the stove.
+
+But his father had insisted. Had said it was necessary. Had said it would help.
+
+Eleanor arrived at six carrying a jar of preserves and a loaf of bread, just like before. But this time she didn't smile when the boy's mother opened the door.
+
+"Thank you for having me," Eleanor said. Her voice was cool. Formal.
+
+They sat at the table—the boy, his sister, his parents, and Eleanor. The boy's mother had made chicken and dumplings. Nobody said much.
+
+Finally Eleanor set down her fork and looked at the boy's mother.
+
+"You haven't been to any meetings," she said.
+
+"No."
+
+"May I ask why?"
+
+"Because I don't agree with what you're teaching."
+
+The room went very quiet. The boy could hear his own breathing.
+
+"And what do you think I'm teaching?" Eleanor's voice was gentle. Curious.
+
+"That some people are chosen and others aren't. That the unchosen deserve to be cast out." The boy's mother's hands were steady on the table. "I don't believe that."
+
+"You don't believe the land needs purification?"
+
+"I believe the land needs rain and good weather. Not—" She stopped. "Not what's happening here."
+
+Eleanor nodded slowly. She looked at the boy's father. "And you? Do you share your wife's beliefs?"
+
+The boy's father's face was red. "My wife is entitled to her opinions."
+
+"Of course. But the question remains—do you believe the land needs purification?"
+
+"Yes."
+
+"And do you believe some people are chosen to understand the truth while others resist it?"
+
+"Yes."
+
+"Then we have a problem." Eleanor stood. "Because your wife's resistance is corrupting your household. And your household is part of the community. And the community must be pure."
+
+The boy's mother stood too. "Get out of my house."
+
+Eleanor smiled. It was the same small, serene smile the boy had seen that first Sunday at church. "Of course. Thank you for dinner."
+
+She walked to the door. Stopped with her hand on the knob.
+
+"You have until the end of the month," she said, not turning around. "Join us, or leave Hudson. Those are your only choices."
+
+She left.
+
+The boy's father followed her outside. The boy watched through the window as they stood by Eleanor's car, talking. His father's posture was hunched. Apologetic. Eleanor's face was calm.
+
+When his father came back inside, his mother was washing dishes.
+
+"You shouldn't have done that," he said.
+
+"She came into my home and threatened me."
+
+"She gave you an option. That's more than others have gotten."
+
+The boy's mother turned. Her face was pale. "What does that mean?"
+
+His father didn't answer.
+
+"Tell me. What happened to the Dominys? To the Gentrys? To Sarah's family?"
+
+"They left."
+
+"Did they?"
+
+Silence.
+
+The boy's mother gripped the edge of the sink. "My God. You know. You've known."
+
+"I didn't have a choice."
+
+"There's always a choice."
+
+"Not when it's your family. Not when—" His father looked at the boy and his sister, standing frozen in the doorway. "Go to your rooms."
+
+They went. But the boy could still hear everything through the floor.
+
+His mother crying. His father's voice, low and urgent, explaining something the boy couldn't quite make out. The word "protect" over and over. The word "sacrifice."
+
+And then, quieter: "Eleanor says the children can be saved. That they're young enough to understand. But only if you're gone."
+
+The boy's mother's voice, broken: "You're choosing her."
+
+"I'm choosing them."
+
+---
+
+Three days later, the boy woke to find his mother gone.
+>NITPICK: Eleanor gave her until the end of the month. Is three days too soon to move this forward. Should we say "Two weeks later..." instead?
+
+His father made breakfast like normal. Eggs and toast. But his hands shook when he poured the coffee.
+
+"Where's Mom?" his sister asked.
+
+"She went to stay with your aunt for a while."
+
+"Which aunt?"
+
+"Aunt Susan. In Indianapolis."
+
+The boy didn't say anything. They didn't have an Aunt Susan. Their mother had no siblings.
+
+His father looked at him across the table. His eyes were red. "She's safe. That's all you need to know."
+
+But the boy knew. Knew from the way his father couldn't meet his eyes. Knew from the silence in the house. Knew from the way Eleanor had smiled when she left that night.
+
+*Returned to the land.*
+
+At school that day, Brian Burnell didn't talk to him. None of the chosen kids did. They looked at him and his sister like they were different now. Contaminated by association.
+
+But they weren't cast out. Weren't removed.
+
+Because two weeks later, the boy saw his father's truck parked at Eleanor's house. Saw them standing close in the doorway. Saw Eleanor touch his father's arm.
+
+His father had made a deal. The boy understood that much.
+
+His mother was gone. But he and his sister were protected.
+
+Because their father had chosen Eleanor.
+
+And in Hudson, in the spring of 1991, that's what kept you safe.

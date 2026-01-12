@@ -498,15 +498,15 @@ And somewhere in town, Eleanor Whitmore was planning what came next.
 
 Eddie's house sat on the east side of Bloomington in a neighborhood of modest post-war homes. Claire had been there dozens of times over the past six months, but it still felt temporary somehow. Like Eddie hadn't fully moved in even though he'd lived there for three years.
 
-The furniture was nice but sparse. Couch, coffee table, bookshelf. No pictures on the walls. No knick-knacks or personal touches. The only things that looked lived-in were the books—psychology texts, clinical manuals, a few novels—and the desk in the corner where Eddie did his work.
+The furniture was nice but sparse. Couch, coffee table, bookshelf. No pictures on the walls. No knick-knacks or personal touches. The only things that looked lived-in were the books—psychology texts, clinical manuals, a few dog-eared novels—and the desk in the corner where Eddie did his work.
 
 Claire sat on the couch with a glass of wine while Eddie made pasta in the kitchen. It was late November, a Tuesday night. They'd had a planning meeting earlier that afternoon—her, Eddie, and Phillips—to discuss next steps for the research.
 
 "Phillips wants to hire a lawyer," Claire said. "Someone who specializes in unsealing court records."
 
-Eddie's back was to her. She watched him stir the pot on the stove. "Did he say that at the meeting?"
+Eddie's back was to her. She watched him stir the pot on the stove. "He didn't he say that at the meeting."
 
-"After. When it was just the two of us." Claire set her wine glass down. "He thinks if we can demonstrate academic merit—show that the research serves a public interest—we might be able to get a judge to release at least some of the sealed documents."
+"No, after. When it was just the two of us." Claire set her wine glass down. "He found one who thinks if we can demonstrate academic merit—show that the research serves a public interest—we might be able to get a judge to at least grant us access to the documents without outright unsealing them."
 
 Eddie turned off the burner. Moved the pot to a different part of the stove. "What do you think?"
 
@@ -532,7 +532,7 @@ Claire stood and walked to the kitchen doorway. "You've been pushing back on thi
 
 She sat down across from him. "You're being dramatic."
 
-"Am I?" He met her eyes. "These people—the couple and the two kids—they disappeared for a reason. Changed their names. Got the court to seal everything. They don't want to be found."
+"Am I?" He met her eyes. "These people—the couple and the two kids they adopted—they disappeared for a reason. Changed their names. Got the court to seal everything. They don't want to be found."
 
 "Maybe they don't want random people finding them. But we're not random. We're researchers trying to understand—"
 
@@ -550,7 +550,7 @@ They ate in silence for a few minutes. The pasta was good—Eddie was a better c
 
 "Maybe they didn't trust the other researchers."
 
-"Or maybe they just want to be left alone."
+"Then what reason would they have for trusting us?"
 
 Claire felt frustration building. "I don't understand why you're so opposed to this. This is what we do. We study difficult things. We talk to people about trauma. That's how we learn."
 
@@ -564,7 +564,7 @@ Claire felt frustration building. "I don't understand why you're so opposed to t
 
 "Maybe not." Eddie looked at her. "But it's ethical."
 
-The word hung between them. Claire drank her wine. Outside, a car passed on the street. Someone's dog barked.
+The word hung between them. Claire sipped her wine. Outside, a car passed on the street. Someone's dog barked.
 
 "Phillips is going to move forward with the lawyer," she said. "With or without your approval."
 
@@ -592,17 +592,17 @@ Claire followed him to the kitchen. Stood close. "Eddie. Talk to me. What's real
 
 He ran water over the plates. Squirted dish soap. "Nothing's going on. I just have reservations about this approach."
 
-"You've had reservations from day one. About the survivor interviews. About pushing too hard. About—" She touched his arm. "Is this about leaving private practice? About the cases that got to you?"
+"You've had reservations from day one. About the survivor interviews. About pushing too hard. About—" She touched his arm. "Is this about you leaving private practice? About the cases that got to you?"
 
-Eddie went still. Then he turned off the water and dried his hands on a towel. "Maybe partly. I saw what it does to people when someone forces them to talk about trauma before they're ready. When researchers or therapists or lawyers decide they need answers more than the client needs boundaries."
+Eddie went still. Then he turned off the water and dried his hands on a towel. "Maybe partly. You know that when I was in private practice, I also consulted for the Marion county prosecutor's office. I counseled victims of crimes. I saw what it does to people when someone forces them to talk about trauma before they're ready. When lawyers and other therapists decide they need answers more than the client needs boundaries."
 
 "We wouldn't force anyone."
 
-"You'd unseal court records designed to protect them. You'd show up in their lives uninvited. How is that not force?"
+"You'd unseal court records designed to protect them. You'd show up in their lives uninvited. You're forcing them just by showing up on their doorstep."
 
 Claire stepped back. "You're acting like we're doing something wrong. Like trying to understand what happened in Hudson is somehow—"
 
-"I'm not saying that." Eddie's voice was gentle now. "I'm saying there are people at the center of this who have already paid a price. Who were children when it happened. Who watched things no child should see." He paused. "And I think maybe we owe them the courtesy of letting them decide if and when they want to share their story."
+"I'm not saying that." Eddie's voice was gentle now. "I'm saying there are people at the center of this who have already paid a price. Who were children when it happened. Who watched things no child should see." He paused. "Trying to understand is noble, but I think maybe we owe them the courtesy of letting them decide if and when they want to share their story."
 
 "What if they never decide?"
 
@@ -636,7 +636,7 @@ Later, lying in Eddie's bed in the dark, Claire stared at the ceiling.
 
 "If you were one of those kids—one of the survivors—would you want someone to find you?"
 
-Eddie was quiet for a long time. "I don't know. Maybe. If I trusted them."
+Eddie was quiet for a long time. "I don't know. Maybe. I do think the full story deserves to be told."
 
 "How would you know if you could trust them?"
 
@@ -657,8 +657,6 @@ She squeezed back. Outside, the wind rattled the bedroom window. November bleedi
 Claire closed her eyes.
 
 Somewhere out there, Mason Gilman was living his life. Maybe in Indiana. Maybe somewhere far away. Maybe he thought about Hudson every day or maybe he'd found a way to forget.
-
-Either way, he had no idea that the woman lying in this bed was dating the man who'd been that eight-year-old boy.
 
 And Eddie wanted to keep it that way.
 

@@ -356,7 +356,7 @@ His father shrugged. "She didn't say exactly. Just that she could tell Hudson wa
 
 "That's what I said."
 
-They ate in silence for a while. Green beans from the garden. Fried chicken his mother had made that morning. Cornbread.
+They ate in silence for a while. The boy's favorite-fried chicken, dumplings, and green beans from the garden.
 
 "She's staying at the Robinsons' place," his father said. "In their spare room. Offered to help with the dairy operation in exchange for room and board."
 
@@ -370,7 +370,7 @@ But something in his father's voice made the boy think he was thinking about it.
 
 The woman—Eleanor—started showing up places. At the farmer's market on Saturday mornings. At the grain elevator when farmers came in to buy seed or fertilizer on credit. At the diner on Main Street.
 
-She listened more than she talked. Asked questions about yields and rainfall and soil composition. She had a way of making people feel heard. The boy's father said she was smart. Understood farming better than most people who'd done it their whole lives.
+She listened more than she talked at first. Asked questions about yields and rainfall and soil composition. She had a way of making people feel heard. The boy's father said she was smart. Understood farming better than most people who'd done it their whole lives.
 
 By July she was eating Sunday dinner with different families each week. The Burnells had her over first. Then the Ahrendts. Then the Dominy family.
 

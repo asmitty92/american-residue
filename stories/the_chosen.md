@@ -767,7 +767,6 @@ But the boy had heard different. Had heard Brian Burnell talking at recess about
 The boy didn't know what that meant exactly. But he knew it wasn't good.
 
 More families left Hudson that spring. Or disappeared. The boy couldn't tell the difference anymore. The Dominy family who lived a mile west—gone. The Gentry family who used to sell honey at the farmer's market—gone. The old man who ran the hardware store—gone.
->REVISION: Changed the surname Kowalski to Gentry
 
 Each time, Eleanor spoke at the next community gathering about purification. About restoring balance. About how the land was healing now that the corruption was being removed.
 
@@ -874,7 +873,6 @@ The boy's mother's voice, broken: "You're choosing her."
 ---
 
 Three days later, the boy woke to find his mother gone.
->NITPICK: Eleanor gave her until the end of the month. Is three days too soon to move this forward. Should we say "Two weeks later..." instead?
 
 His father made breakfast like normal. Eggs and toast. But his hands shook when he poured the coffee.
 
@@ -907,3 +905,303 @@ His mother was gone. But he and his sister were protected.
 Because their father had chosen Eleanor.
 
 And in Hudson, in the spring of 1991, that's what kept you safe.
+
+## Seven
+
+Phillips called Claire into his office two weeks before Christmas.
+
+She'd been working on her thesis in the graduate student library, surrounded by case files and interview transcripts. The Hudson research had taken over her life in a way she hadn't expected. She thought about it constantly. Dreamed about it. Saw Eleanor Whitmore's calm face when she closed her eyes.
+
+"Come in, close the door," Phillips said when she arrived.
+
+His office was cluttered as always. Books stacked on every surface. Papers in precarious piles. A dying plant on the windowsill that someone should have thrown out months ago.
+>NITPICK: I don't like the wording about the dying plant
+
+Claire sat in the chair across from his desk. "What's up?"
+
+"I found someone. A lawyer." Phillips leaned forward, eyes bright. "David Rosen. He's done this kind of work before—unsealing adoption records, navigating privacy cases. He thinks we have a legitimate shot."
+
+Claire's heart beat faster. "Really?"
+
+"He says if we can demonstrate that the research serves a compelling public interest, and if we agree to certain restrictions on how we use the information, a judge might grant us limited access to the sealed records."
+
+"What kind of restrictions?"
+
+"We wouldn't be able to publish the survivors' current names or locations. We'd only be allowed to contact them through a court-appointed intermediary. They'd still have the right to refuse." Phillips pulled out a folder. "But it's a foot in the door. It's more than we've had."
+
+Claire thought about her conversation with Eddie two weeks ago. How he'd asked her to wait. How she'd agreed.
+
+"Have you talked to Eddie about this?"
+
+"Not yet. I wanted to run it by you first." Phillips studied her face. "Is there a problem?"
+
+"Eddie has concerns. About the ethics of pursuing people who clearly don't want to be found."
+
+"I know. He's mentioned it." Phillips set down the folder. "But Claire, this is good research. Important research. We can't let ethical hand-wringing prevent us from doing our jobs."
+
+"It's not hand-wringing. It's legitimate concern about violating people's privacy."
+
+"We're not violating anything. We're using proper legal channels to request access under very specific conditions. The survivors still maintain control—they can say no." He paused. "But we have to at least try to ask."
+
+Claire looked at the folder on his desk. Inside were probably Rosen's credentials, his proposal, maybe even draft court documents. Phillips had already made his decision. He was just informing her.
+
+"When are you planning to move forward?" she asked.
+
+"I'm meeting with Rosen next week. If everything looks good, we'll file the petition in January."
+
+"Without Eddie's input?"
+
+"Eddie's a consultant. A valuable one. But he doesn't have veto power over the research direction." Phillips's voice was gentle but firm. "I respect his concerns. I do. But my job is to pursue knowledge, not to protect people from uncomfortable questions."
+
+"That's not what he's asking."
+
+"Isn't it?" Phillips leaned back. "Look, I understand that you and Eddie are together. That complicates things. But you can't let your relationship compromise your academic integrity."
+
+Claire felt her face flush. "That's not what's happening."
+
+"I'm not saying it is. I'm saying be careful. You're a good researcher, Claire. You have good instincts. Don't let anyone—even someone you care about—convince you to settle for less than the truth."
+>NITPICK: There are a lot of exchanges like this where one person reacts defensively (e.g. "That's not what's happening" and the other says, "I'm not saying that it is.") I'm wondering if that's a nuance we need to distance ourselves from.
+
+She wanted to argue. Wanted to say that pursuing the truth didn't mean trampling over people who'd suffered. But Phillips wasn't wrong, exactly. They were researchers. This was their job.
+
+"I'll talk to Eddie," she said finally. "Explain what you're doing."
+
+"I'd appreciate that. I value his perspective, even if I don't always agree with it." Phillips picked up the folder. "The meeting's Tuesday at two. If he wants to join, he's welcome."
+
+Claire left the office feeling unsettled. She sat in her car in the parking lot for a while, watching students walk across campus. Finals week was approaching. Everyone looked stressed and tired.
+
+She pulled out her phone and called Eddie.
+
+"Hey," he said when he answered. "How's the library treating you?"
+
+"Phillips found a lawyer. He's moving forward with trying to access the sealed records."
+
+Silence on the other end.
+
+"Eddie?"
+
+"When?"
+
+"Meeting next week. Filing the petition in January if it looks good."
+
+"Did you know he was doing this?"
+
+"No. He just told me." Claire paused. "He said you're welcome to join the meeting. Tuesday at two."
+
+"Of course I am." Eddie's voice was tight. "Can't have the consultant causing problems."
+
+"That's not—he values your input, Eddie. He said so."
+
+"But not enough to wait. Not enough to consider that maybe some people should be left alone."
+
+Claire looked out at the gray December sky. "I told him I'd talk to you. That you had concerns."
+
+"And what did he say?"
+
+"That he respects your concerns but that his job is to pursue knowledge."
+
+"Right. Because knowledge always trumps ethics." Eddie was quiet for a moment. "Are you going to be at the meeting?"
+
+"I don't know. Do you want me there?"
+
+"I want you to think about what we talked about. About whether finding these people is worth the cost."
+
+"The survivors can still say no. That's part of the plan."
+
+"After we've already invaded their privacy. After we've already shown up in their lives. You think that's really giving them a choice?"
+
+Claire didn't have an answer for that.
+
+"I need to go," Eddie said. "I've got office hours in five minutes."
+
+"Will you come to the meeting?"
+
+"I'll think about it."
+
+He hung up.
+
+Claire sat in the car for another few minutes. Then she drove home, made tea, tried to work on her thesis. But she couldn't focus.
+
+She kept thinking about what Phillips had said. About not letting anyone compromise her academic integrity. About the job of researchers being to pursue truth.
+
+But she also kept thinking about Eddie's face when they'd argued about this. The fear she'd seen there. The way he'd said some people should be left alone.
+
+Around eight that night, Eddie texted: "Can I come over?"
+
+"Of course."
+
+He arrived twenty minutes later. She'd made coffee. They sat on her couch, not touching.
+
+"I'm sorry I was short with you earlier," he said.
+
+"You're worried. I get it."
+
+"It's more than worried." Eddie set down his coffee mug. "Claire, I've been thinking about this a lot. About what happens if you actually find these people."
+
+"They were children. They're adults now. Maybe they want to tell their story."
+
+"And maybe they don't. Maybe they've built entire lives on the foundation of that privacy. Maybe they have families who don't know. Jobs that would be compromised. Relationships that would be destroyed." He looked at her. "You're asking them to give up everything they've built for your research."
+
+"Not everything. Just—"
+
+"What? Just their anonymity? Just their safety? Just their peace?" Eddie's voice was rising. "Do you know what it's like to survive something like that? To wake up every day knowing that you watched people die? That you were part of something so evil you can't even talk about it?"
+
+Claire went still. "Eddie—"
+
+"I'm speaking hypothetically." He stood, walked to her window. "But put yourself in their position. You're eight years old. You watch the world go insane around you. You watch your mother disappear. You watch your father choose the cult leader over your family. You watch neighbors murdered. And then someone comes and saves you. Changes your name. Hides you. Lets you start over."
+
+He turned back to face her. "And twenty years later, researchers show up because they're curious. Because they want to understand. Do you really think that person owes you their story?"
+
+Claire's throat was tight. "No. But maybe—maybe they want to tell it."
+
+"Then they would have. Twenty years is a long time to stay silent if you actually want to speak."
+
+They looked at each other across her small living room.
+
+"Phillips is moving forward regardless," Claire said quietly. "With or without you. With or without me."
+
+"I know."
+
+"So what do we do?"
+
+Eddie was quiet for a long moment. "I don't know yet. But I'll be at that meeting Tuesday. And I'm going to make my case one more time."
+
+He left shortly after. Claire lay in bed that night replaying the conversation. Something about the way Eddie had talked—the specificity of it. *You watch your mother disappear. You watch your father choose the cult leader.*
+
+He'd said he was speaking hypothetically.
+
+But it hadn't sounded hypothetical.
+
+Claire stared at the ceiling in the dark and wondered what she was missing.
+
+---
+
+The meeting on Tuesday was tense from the start.
+
+David Rosen was younger than Claire expected—maybe forty, with wire-rimmed glasses and a sharp suit. He'd brought a briefcase full of documents and precedent cases.
+
+Phillips, Claire, and Eddie sat across the conference table from him in Phillips's office.
+
+"I've reviewed the case extensively," Rosen said. "Hudson, Indiana, 1993. Mass suicide, twenty-seven murders over the preceding three years. Two child survivors adopted by the couple who discovered the cult. Names and locations sealed by court order."
+
+"That's correct," Phillips said.
+
+"Your petition would be to unseal for research purposes only, with strict controls on how the information is used and disseminated."
+
+"Yes. We need survivor testimony to complete our understanding of the cult's impact."
+
+Rosen nodded. "The precedent is mixed. Some courts view academic research as compelling public interest. Others prioritize individual privacy, especially in cases involving childhood trauma." He pulled out a document. "I think we have a reasonable shot, maybe fifty-fifty, if we frame it correctly."
+
+"What's the framing?" Claire asked.
+
+"That the survivors' testimony is essential to preventing future incidents like Hudson. That understanding how children process cult indoctrination has real-world applications for child welfare, law enforcement, and mental health intervention." Rosen looked around the table. "Is that accurate?"
+
+"Yes," Phillips said.
+
+Eddie was quiet.
+
+"Mr. Collins?" Rosen looked at him. "You're the clinical psychologist on the team. Do you believe survivor testimony is essential to the research?"
+
+Eddie met his eyes. "I believe it would be valuable. I don't believe it's essential."
+
+"Can you elaborate?"
+
+"We can understand trauma response through the perpetrators' accounts. Through the case files. Through similar cases. The survivors' specific testimony would add depth, but it's not required for sound research."
+
+"But you agree it would add value?"
+
+"I agree it would add emotional testimony. Whether that constitutes academic value is debatable."
+
+Rosen made a note. "The court will want to know the research team is unified on the necessity of this approach. If you're testifying that it's not essential—"
+
+"I'm not testifying to anything," Eddie said. "Because I think this entire approach is ethically problematic."
+
+The room went quiet.
+
+Phillips leaned forward. "Eddie, we've discussed this—"
+
+"And I'm discussing it again. These people went to extraordinary lengths to protect their privacy. They were children when the trauma occurred. They've had twenty years to come forward if they wanted to. The fact that they haven't should tell us something."
+
+"It tells us they're afraid," Rosen said. "That's not the same as not wanting to share their story."
+
+"Or it tells us they've moved on. That they've built lives that don't include being defined by the worst thing that ever happened to them." Eddie looked at Phillips. "What right do we have to take that away?"
+
+"We're not taking anything," Phillips said. "We're offering an opportunity to contribute to important research. They can decline."
+
+"After their privacy has already been compromised. After their current identities have been exposed to this research team. You think that's really a choice?"
+
+Claire watched Eddie's face. He was more worked up than she'd ever seen him. His hands were clenched on the table. His jaw tight.
+
+"Eddie," she said quietly. "We can build in protections. Make sure—"
+
+"You can't protect them from this. Once you know who they are, once you show up in their lives, you can't undo that." He stood. "I'm sorry. I can't be part of this."
+
+He left.
+
+Phillips and Rosen exchanged looks.
+
+"Is he always that passionate?" Rosen asked.
+
+"Only about this," Phillips said. He looked at Claire. "You okay?"
+
+"Fine." But she wasn't fine. She was thinking about Eddie's words. About how specific they'd been. About the look on his face.
+
+She excused herself and went to the bathroom. Splashed water on her face. Stared at herself in the mirror.
+
+*Once you know who they are, once you show up in their lives, you can't undo that.*
+
+Eddie wasn't just talking about hypothetical survivors.
+
+He was talking about himself.
+
+Claire gripped the edge of the sink.
+
+Eddie was one of them. One of the children who'd survived Hudson.
+
+She didn't know how she knew. But suddenly it was obvious. The way he'd avoided the interviews. The way he'd pushed back from the beginning. The way he'd talked about watching your mother disappear, your father choosing the cult leader.
+
+He'd said he was speaking hypothetically.
+
+He'd been lying.
+
+Claire dried her hands and went back to Phillips's office. Sat through the rest of the meeting in a daze. Rosen explained timelines and procedures and probabilities. Phillips asked questions. Claire nodded when appropriate.
+
+But her mind was racing.
+
+Eddie was Mason Gilman. Or his sister. Or—no, Mason. It had to be. The age was right. Late twenties. Clinical psychology. The passion about protecting survivors.
+
+And he'd been dating her for six months, consulting on the research, knowing the entire time.
+
+Claire left campus that afternoon and drove straight to Eddie's house. Knocked on the door. Waited.
+
+He opened it, saw her face, and his expression changed.
+
+"You know," he said.
+
+"You're him. Aren't you? One of the survivors."
+
+Eddie stepped aside. Let her in. Closed the door.
+
+"Yes."
+
+Claire's legs felt weak. She sat on his couch. "How long were you planning to hide this?"
+
+"I don't know. Forever, maybe." He sat across from her. "Or until I couldn't anymore."
+
+"And now?"
+
+"Now Phillips is going to file that petition. And if it works, if he gets access to the records, he's going to find out who I am." Eddie's hands were shaking. "So I guess I'm out of time."
+
+They looked at each other across his sparse living room. All those months together. All those conversations about the research. And he'd never said a word.
+
+"What's your real name?" Claire asked.
+
+Eddie took a deep breath. "Mason. Mason Gilman. I was born in Hendricks County Hospital. My birth parents were residents of Hudson, Indiana."
+
+And there it was. The truth she'd been looking for.
+
+Sitting in her boyfriend's living room. Hidden in plain sight for six months.
+
+"Tell me," she said. "Tell me everything."
+
+And Mason—Eddie—did.

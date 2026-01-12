@@ -493,3 +493,173 @@ That night the boy lay awake listening to the house settle. Somewhere down the h
 Outside, the wind moved through the empty fields.
 
 And somewhere in town, Eleanor Whitmore was planning what came next.
+
+## Five
+
+Eddie's house sat on the east side of Bloomington in a neighborhood of modest post-war homes. Claire had been there dozens of times over the past six months, but it still felt temporary somehow. Like Eddie hadn't fully moved in even though he'd lived there for three years.
+
+The furniture was nice but sparse. Couch, coffee table, bookshelf. No pictures on the walls. No knick-knacks or personal touches. The only things that looked lived-in were the books—psychology texts, clinical manuals, a few novels—and the desk in the corner where Eddie did his work.
+
+Claire sat on the couch with a glass of wine while Eddie made pasta in the kitchen. It was late November, a Tuesday night. They'd had a planning meeting earlier that afternoon—her, Eddie, and Phillips—to discuss next steps for the research.
+
+"Phillips wants to hire a lawyer," Claire said. "Someone who specializes in unsealing court records."
+
+Eddie's back was to her. She watched him stir the pot on the stove. "Did he say that at the meeting?"
+
+"After. When it was just the two of us." Claire set her wine glass down. "He thinks if we can demonstrate academic merit—show that the research serves a public interest—we might be able to get a judge to release at least some of the sealed documents."
+
+Eddie turned off the burner. Moved the pot to a different part of the stove. "What do you think?"
+
+"I think it's worth trying. Don't you?"
+
+He didn't answer right away. Started draining the pasta in the sink. Steam rose around him.
+
+"Eddie?"
+
+"I heard you. I'm just—" He set the colander down. "I'm trying to figure out how I feel about it."
+
+Claire stood and walked to the kitchen doorway. "You've been pushing back on this from the beginning. The survivor interviews. Now the legal avenue. Why?"
+
+"Because I'm not sure it's right."
+
+"The research is important. You said that yourself when you joined the project."
+
+"The research is important," Eddie agreed. He portioned pasta onto two plates. Added sauce from another pot. "But that doesn't mean we have the right to intrude on people who've made it very clear they want privacy."
+
+"We wouldn't be intruding. We'd be asking."
+
+"After breaking down legal barriers specifically designed to protect them." Eddie carried the plates to the small dining table. "That's not asking, Claire. That's forcing our way in."
+
+She sat down across from him. "You're being dramatic."
+
+"Am I?" He met her eyes. "These people—the couple and the two kids—they disappeared for a reason. Changed their names. Got the court to seal everything. They don't want to be found."
+
+"Maybe they don't want random people finding them. But we're not random. We're researchers trying to understand—"
+
+"Trying to understand trauma they've spent twenty years trying to forget." Eddie's voice was quiet but firm. "What gives us the right to make them relive that?"
+
+Claire picked up her fork but didn't eat. "You really think talking about it would make it worse?"
+
+"I think that's not our decision to make."
+
+They ate in silence for a few minutes. The pasta was good—Eddie was a better cook than she was—but Claire barely tasted it. She kept thinking about Phillips in his office that afternoon, excited about the legal angle. About the possibility of finally talking to the survivors.
+
+"What if they want to talk?" she said finally. "What if they've been waiting for someone to ask the right way?"
+
+"Then they would have come forward by now. It's been twenty years. The case is famous. Researchers have been studying it since it happened." Eddie set down his fork. "If they wanted to tell their story, there have been plenty of opportunities."
+
+"Maybe they didn't trust the other researchers."
+
+"Or maybe they just want to be left alone."
+
+Claire felt frustration building. "I don't understand why you're so opposed to this. This is what we do. We study difficult things. We talk to people about trauma. That's how we learn."
+
+"We talk to people who consent. Who choose to participate." Eddie leaned back in his chair. "These people made a choice too. They chose silence. We should respect that."
+
+"Even if it means incomplete research?"
+
+"Yes."
+
+"That's not very academic of you."
+
+"Maybe not." Eddie looked at her. "But it's ethical."
+
+The word hung between them. Claire drank her wine. Outside, a car passed on the street. Someone's dog barked.
+
+"Phillips is going to move forward with the lawyer," she said. "With or without your approval."
+
+"I know."
+
+"And I'm going to support him. This research matters to me."
+
+"I know that too."
+
+Claire studied his face. There was something there she couldn't quite read. Not anger. Not disappointment. Something else. Something that looked almost like fear.
+
+"Are you okay?" she asked.
+
+"I'm fine."
+
+"You don't seem fine. You seem—" She stopped. "This is more than just ethical concerns, isn't it?"
+
+Eddie stood and started clearing the plates. "I just think we should be careful. That's all."
+
+"Careful how?"
+
+"Careful about assuming we have the right to answers just because we're curious." He carried the dishes to the sink. "Careful about prioritizing our research over other people's peace."
+
+Claire followed him to the kitchen. Stood close. "Eddie. Talk to me. What's really going on?"
+
+He ran water over the plates. Squirted dish soap. "Nothing's going on. I just have reservations about this approach."
+
+"You've had reservations from day one. About the survivor interviews. About pushing too hard. About—" She touched his arm. "Is this about leaving private practice? About the cases that got to you?"
+
+Eddie went still. Then he turned off the water and dried his hands on a towel. "Maybe partly. I saw what it does to people when someone forces them to talk about trauma before they're ready. When researchers or therapists or lawyers decide they need answers more than the client needs boundaries."
+
+"We wouldn't force anyone."
+
+"You'd unseal court records designed to protect them. You'd show up in their lives uninvited. How is that not force?"
+
+Claire stepped back. "You're acting like we're doing something wrong. Like trying to understand what happened in Hudson is somehow—"
+
+"I'm not saying that." Eddie's voice was gentle now. "I'm saying there are people at the center of this who have already paid a price. Who were children when it happened. Who watched things no child should see." He paused. "And I think maybe we owe them the courtesy of letting them decide if and when they want to share their story."
+
+"What if they never decide?"
+
+"Then we work with what we have. We talk to the perpetrators. We analyze the ideology. We study the community dynamics." He looked at her. "We do good research without violating anyone's privacy."
+
+Claire wanted to argue. Wanted to say that research sometimes required pushing boundaries. That understanding Hudson fully meant talking to everyone involved.
+
+But something in Eddie's face stopped her.
+
+"Okay," she said quietly.
+
+"Okay?"
+
+"I'll talk to Phillips. Tell him we should hold off on the lawyer." She met his eyes. "For now."
+
+Eddie's shoulders relaxed slightly. "Thank you."
+
+"But if an opportunity comes up—if there's a way to reach out that feels respectful—"
+
+"Then we'll talk about it." Eddie pulled her into a hug. "I'm not trying to kill the research, Claire. I just want to do it right."
+
+She leaned against him, breathing in the smell of his shirt—detergent and something else, something that was just him. "I know."
+
+They cleaned up the kitchen together. Eddie washed, Claire dried. They didn't talk much. The tension from earlier had eased but hadn't entirely disappeared.
+
+Later, lying in Eddie's bed in the dark, Claire stared at the ceiling.
+
+"Can I ask you something?" she said.
+
+"Sure."
+
+"If you were one of those kids—one of the survivors—would you want someone to find you?"
+
+Eddie was quiet for a long time. "I don't know. Maybe. If I trusted them."
+
+"How would you know if you could trust them?"
+
+"I guess that's the problem." He shifted beside her. "You wouldn't. Not until they showed up. And by then it would be too late to decide you wanted to keep hiding."
+
+Claire thought about that. About Mason Gilman and his sister, wherever they were. About whether they ever thought about Hudson. About whether some part of them wanted to tell their story but didn't know how.
+
+"I still think we should try to find them," she said.
+
+"I know you do."
+
+"But I'll wait. For now."
+
+Eddie's hand found hers in the dark. "Thank you."
+
+She squeezed back. Outside, the wind rattled the bedroom window. November bleeding into December. The research project moving forward without the one element that could make it complete.
+
+Claire closed her eyes.
+
+Somewhere out there, Mason Gilman was living his life. Maybe in Indiana. Maybe somewhere far away. Maybe he thought about Hudson every day or maybe he'd found a way to forget.
+
+Either way, he had no idea that the woman lying in this bed was dating the man who'd been that eight-year-old boy.
+
+And Eddie wanted to keep it that way.
+
+At least for now.

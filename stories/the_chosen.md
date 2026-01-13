@@ -1271,7 +1271,7 @@ Just him.
 
 The boy understood. Rebecca had been returned to the land too.
 
-After that, no one questioned Eleanor's teachings. The remaining children—maybe ten of them—went to every meeting. Participated in every ritual. Said the right words. Believed the right things.
+After that, no one questioned Eleanor's teachings. The remaining children went to every meeting. Participated in every ritual. Said the right words. Believed the right things.
 
 Or pretended to.
 

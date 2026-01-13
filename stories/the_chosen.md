@@ -26,7 +26,7 @@ Phillips nodded, writing something in his own notebook. "And those who didn't ac
 
 "They made their choice. Just as I made mine." Eleanor's eyes were pale blue, clear. Utterly calm. "We all made choices that year. Some people chose poorly."
 
-Claire felt cold despite the warmth of the small room. She'd read the case files. Knew the body count. Ninety-three dead in the mass suicide. Another twenty-seven murdered over the preceding three years. Eleanor Whitmore had pled guilty to avoid the death penalty, but she'd never shown remorse. Never wavered.
+Claire felt cold despite the warmth of the small room. She'd read the case files. Knew the body count. Ninety-three dead in the mass suicide. At least twenty-seven murdered over the preceding three years. Eleanor Whitmore had pled guilty to avoid the death penalty, but she'd never shown remorse. Never wavered.
 
 "The children," Claire said. "Some of them participated in the rituals. Others resisted. What determined which children accepted your teachings?"
 
@@ -499,17 +499,14 @@ And somewhere in town, Eleanor Whitmore was planning what came next.
 Eddie's house sat on the east side of Bloomington in a neighborhood of modest post-war homes. Claire had been there dozens of times over the past six months, but it still felt temporary somehow. Like Eddie hadn't fully moved in even though he'd lived there for three years.
 
 The furniture was nice but sparse. Couch, coffee table, bookshelf. No pictures on the walls. No knick-knacks or personal touches. The only things that looked lived-in were the books—psychology texts, clinical manuals, a few dog-eared novels—and the desk in the corner where Eddie did his work.
->REVISION: added detail to make the novels 'dog-eared' just to add some texture.
 
 Claire sat on the couch with a glass of wine while Eddie made pasta in the kitchen. It was late November, a Tuesday night. They'd had a planning meeting earlier that afternoon—her, Eddie, and Phillips—to discuss next steps for the research.
 
 "Phillips wants to hire a lawyer," Claire said. "Someone who specializes in unsealing court records."
 
 Eddie's back was to her. She watched him stir the pot on the stove. "He didn't he say that at the meeting."
->REVISION: Made final sentence a statement rather than a question. Eddie was at the meeting; he wouldn't be asking if Phillips said it. Changed start of next paragraph to start with 'No, after.' instead of just 'After' because it feels like a more natural transition now that Eddie's no longer asking a question.
 
 "No, after. When it was just the two of us." Claire set her wine glass down. "He found one who thinks if we can demonstrate academic merit—show that the research serves a public interest—we might be able to get a judge to at least grant us access to the documents without outright unsealing them."
->REVISION: Grant the researchers access without actually unsealing them. Not sure how accurate this is legally but I feel it's more respectful on the researchers' part
 
 Eddie turned off the burner. Moved the pot to a different part of the stove. "What do you think?"
 
@@ -536,7 +533,6 @@ Claire stood and walked to the kitchen doorway. "You've been pushing back on thi
 She sat down across from him. "You're being dramatic."
 
 "Am I?" He met her eyes. "These people—the couple and the two kids they adopted—they disappeared for a reason. Changed their names. Got the court to seal everything. They don't want to be found."
->REVISION: Added 'they adopted' to make it clear that the couple and the kids went into hiding together as a single family.
 
 "Maybe they don't want random people finding them. But we're not random. We're researchers trying to understand—"
 
@@ -555,7 +551,6 @@ They ate in silence for a few minutes. The pasta was good—Eddie was a better c
 "Maybe they didn't trust the other researchers."
 
 "Then what reason would they have for trusting us?"
->REVISION: This question fit the dialogue better to me than the previous statement
 
 Claire felt frustration building. "I don't understand why you're so opposed to this. This is what we do. We study difficult things. We talk to people about trauma. That's how we learn."
 
@@ -570,7 +565,6 @@ Claire felt frustration building. "I don't understand why you're so opposed to t
 "Maybe not." Eddie looked at her. "But it's ethical."
 
 The word hung between them. Claire sipped her wine. Outside, a car passed on the street. Someone's dog barked.
->REVISION: changed 'drank' to 'sipped' because it feels more inline with an academic having wine with dinner.
 
 "Phillips is going to move forward with the lawyer," she said. "With or without your approval."
 
@@ -599,20 +593,16 @@ Claire followed him to the kitchen. Stood close. "Eddie. Talk to me. What's real
 He ran water over the plates. Squirted dish soap. "Nothing's going on. I just have reservations about this approach."
 
 "You've had reservations from day one. About the survivor interviews. About pushing too hard. About—" She touched his arm. "Is this about you leaving private practice? About the cases that got to you?"
->REVISION: just added the word 'you' to the last sentence. Made the wording more smooth to me.
 
 Eddie went still. Then he turned off the water and dried his hands on a towel. "Maybe partly. You know that when I was in private practice, I also consulted for the Marion county prosecutor's office. I counseled victims of crimes. I saw what it does to people when someone forces them to talk about trauma before they're ready. When lawyers and other therapists decide they need answers more than the client needs boundaries."
->REVISION: Added detail about consulting for prosecutors to give his story texture
 
 "We wouldn't force anyone."
 
 "You'd unseal court records designed to protect them. You'd show up in their lives uninvited. You're forcing them just by showing up on their doorstep."
->REVISION: Replaced Eddie's question of "How is that not force?" with the more emphatic statement "You're forcing them just by showing up on their doorstep." I felt this shows a stronger reaction from Eddie and better suits Claire's reaction of 'stepping back' at the start of the following paragraph.
 
 Claire stepped back. "You're acting like we're doing something wrong. Like trying to understand what happened in Hudson is somehow—"
 
 "I'm not saying that." Eddie's voice was gentle now. "I'm saying there are people at the center of this who have already paid a price. Who were children when it happened. Who watched things no child should see." He paused. "Trying to understand is noble, but I think maybe we owe them the courtesy of letting them decide if and when they want to share their story."
->REVISION: Added 'trying to understand is noble' to show that he respects what they're doing with their research.
 
 "What if they never decide?"
 
@@ -647,7 +637,6 @@ Later, lying in Eddie's bed in the dark, Claire stared at the ceiling.
 "If you were one of those kids—one of the survivors—would you want someone to find you?"
 
 Eddie was quiet for a long time. "I don't know. Maybe. I do think the full story deserves to be told."
->REVISION: Replaced 'If I trusted them.' with 'I do think the full story deserves to be told.' I think this will land later because it subtly implies that Eddie knows the full story.
 
 "How would you know if you could trust them?"
 
@@ -668,7 +657,6 @@ She squeezed back. Outside, the wind rattled the bedroom window. November bleedi
 Claire closed her eyes.
 
 Somewhere out there, Mason Gilman was living his life. Maybe in Indiana. Maybe somewhere far away. Maybe he thought about Hudson every day or maybe he'd found a way to forget.
->REVISION: Removed the paragraph that attempts to reveal that Eddie is Mason. It was ham-fisted and confusingly worded. Plus, it just didn't feel natural to reveal it right now.
 
 And Eddie wanted to keep it that way.
 
@@ -927,7 +915,7 @@ She'd been working on her thesis in the graduate student library, surrounded by 
 
 "Come in, close the door," Phillips said when she arrived.
 
-His office was cluttered as always. Books stacked on every surface. Papers in precarious piles. A dying plant on the windowsill that someone should have thrown out months ago.
+His office was cluttered as always. Books sat stacked on every surface. Papers in precarious piles. A wilting plang that wouldn't quite die.
 
 Claire sat in the chair across from his desk. "What's up?"
 
@@ -971,9 +959,9 @@ Claire looked at the folder on his desk. Inside were probably Rosen's credential
 
 Claire felt her face flush. "That's not what's happening."
 
-"I'm not saying it is. I'm saying be careful. You're a good researcher, Claire. You have good instincts. Don't let anyone—even someone you care about—convince you to settle for less than the truth."
+"I'm just saying that you need to be careful. You're a good researcher, Claire. You have good instincts. Don't let anyone—even someone you care about—convince you to settle for less than the truth."
 
-She wanted to argue. Wanted to say that pursuing the truth didn't mean trampling over people who'd suffered. But Phillips wasn't wrong, exactly. They were researchers. This was their job.
+She wanted to argue. Wanted to say that pursuing the truth didn't mean trampling over people who'd suffered. But she knew that those were Eddie's words, not hers. They were researchers. This was their job.
 
 "I'll talk to Eddie," she said finally. "Explain what you're doing."
 
@@ -1049,9 +1037,9 @@ He arrived twenty minutes later. She'd made coffee. They sat on her couch, not t
 
 "It's more than worried." Eddie set down his coffee mug. "Claire, I've been thinking about this a lot. About what happens if you actually find these people."
 
-"They were children. They're adults now. Maybe they want to tell their story."
+"They were children. They're adults now. I'm sure they can handle one conversation about our project."
 
-"And maybe they don't. Maybe they've built entire lives on the foundation of that privacy. Maybe they have families who don't know. Jobs that would be compromised. Relationships that would be destroyed." He looked at her. "You're asking them to risk everything for your research."
+"And maybe they can't. Maybe they've built entire lives on the foundation of that privacy. Maybe they have families who don't know. Jobs that would be compromised. Relationships that would be destroyed." He looked at her. "You're asking them to risk everything for your research."
 
 "Not everything. Just—"
 
@@ -1083,7 +1071,7 @@ David Rosen was younger than Claire expected—maybe forty, with wire-rimmed gla
 
 Phillips, Claire, and Eddie sat across the conference table from him in Phillips's office.
 
-"I've reviewed the case extensively," Rosen said. "Hudson, Indiana, 1993. Mass suicide, twenty-seven murders over the preceding three years. Two child survivors adopted by the couple who discovered the cult. Names and locations sealed by court order."
+"I've reviewed the case extensively," Rosen said. "Hudson, Indiana, 1993. Mass suicide, at least twenty-seven murders over the preceding two years. Two child survivors adopted by the couple who discovered the cult. Names and locations sealed by court order."
 
 "That's correct," Phillips said.
 
@@ -1121,7 +1109,7 @@ The room went quiet.
 
 Phillips leaned forward. "Eddie, we've discussed this—"
 
-"And I'm discussing it again. These people went to extraordinary lengths to protect their privacy. They were children when the trauma occurred. They've had twenty years to come forward if they wanted to. The fact that they haven't should tell us something."
+"And I'm discussing it again. These people went to extraordinary lengths to protect their privacy. Two of them were children when the trauma occurred. They've had twenty years to come forward if they wanted to. The fact that they haven't should tell us something."
 
 "It tells us they're afraid," Rosen said. "That's not the same as not wanting to share their story."
 
@@ -1131,9 +1119,7 @@ Phillips leaned forward. "Eddie, we've discussed this—"
 
 "After their privacy has already been compromised. After their current identities have been exposed to this research team. You think that's really a choice?"
 
-Claire watched Eddie carefully. His hands were clenched on the table. His jaw tight. She'd never seen him this agitated.
-
-"Eddie," she said quietly. "We can build in protections. Make sure—"
+"Eddie," Claire said quietly. "We can build in protections. Make sure—"
 
 "You can't protect them from this. Once you know who they are, once you show up in their lives, you can't undo that." He stood. "I'm sorry. I can't support this approach."
 
@@ -1167,7 +1153,7 @@ Finally he opened it.
 
 He stepped aside. She followed him to the living room. They sat on opposite ends of the couch.
 
-"I'm not trying to make your life harder," Eddie said finally. "I know Phillips is your advisor. I know this research matters to you."
+"I'm not trying to make your life harder," Eddie said finally. "I know Phillips is your advisor and mentor. I know this research matters to you."
 
 "I know you're not." Claire turned to face him. "But I need to understand. Why does this matter so much to you? It's more than just ethics, isn't it?"
 
@@ -1183,7 +1169,7 @@ Eddie was quiet for a long time. "I had a case once. In private practice. Before
 
 Claire felt cold. "Eddie—"
 
-"I know it's not the same. I know you're not a journalist. But the principle is—once you expose someone who doesn't want to be found, you can't control what happens next." He met her eyes. "And I can't be part of something that might hurt people like that. Even if it means stepping away from this research."
+"I know it's not the same. I know you're not a journalist. But the principle is—once you find someone who doesn't want to be found, you can't control what happens next." He met her eyes. "And I can't be part of something that might hurt people like that. Even if it means stepping away from this research."
 
 Claire reached for his hand. "I'm sorry. I didn't know."
 

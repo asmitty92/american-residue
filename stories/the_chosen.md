@@ -26,7 +26,7 @@ Phillips nodded, writing something in his own notebook. "And those who didn't ac
 
 "They made their choice. Just as I made mine." Eleanor's eyes were pale blue, clear. Utterly calm. "We all made choices that year. Some people chose poorly."
 
-Claire felt cold despite the warmth of the small room. She'd read the case files. Knew the body count. Ninety-three dead in the mass suicide. At least twenty-seven murdered over the preceding two years. Eleanor Whitmore had pled guilty to avoid the death penalty, but she'd never shown remorse. Never wavered.
+Claire felt cold despite the warmth of the small room. She'd read the case files. Knew the body count. Ninety-three dead in the mass suicide. Another twenty-seven murdered over the preceding three years. Eleanor Whitmore had pled guilty to avoid the death penalty, but she'd never shown remorse. Never wavered.
 
 "The children," Claire said. "Some of them participated in the rituals. Others resisted. What determined which children accepted your teachings?"
 
@@ -499,14 +499,17 @@ And somewhere in town, Eleanor Whitmore was planning what came next.
 Eddie's house sat on the east side of Bloomington in a neighborhood of modest post-war homes. Claire had been there dozens of times over the past six months, but it still felt temporary somehow. Like Eddie hadn't fully moved in even though he'd lived there for three years.
 
 The furniture was nice but sparse. Couch, coffee table, bookshelf. No pictures on the walls. No knick-knacks or personal touches. The only things that looked lived-in were the books—psychology texts, clinical manuals, a few dog-eared novels—and the desk in the corner where Eddie did his work.
+>REVISION: added detail to make the novels 'dog-eared' just to add some texture.
 
 Claire sat on the couch with a glass of wine while Eddie made pasta in the kitchen. It was late November, a Tuesday night. They'd had a planning meeting earlier that afternoon—her, Eddie, and Phillips—to discuss next steps for the research.
 
 "Phillips wants to hire a lawyer," Claire said. "Someone who specializes in unsealing court records."
 
 Eddie's back was to her. She watched him stir the pot on the stove. "He didn't he say that at the meeting."
+>REVISION: Made final sentence a statement rather than a question. Eddie was at the meeting; he wouldn't be asking if Phillips said it. Changed start of next paragraph to start with 'No, after.' instead of just 'After' because it feels like a more natural transition now that Eddie's no longer asking a question.
 
 "No, after. When it was just the two of us." Claire set her wine glass down. "He found one who thinks if we can demonstrate academic merit—show that the research serves a public interest—we might be able to get a judge to at least grant us access to the documents without outright unsealing them."
+>REVISION: Grant the researchers access without actually unsealing them. Not sure how accurate this is legally but I feel it's more respectful on the researchers' part
 
 Eddie turned off the burner. Moved the pot to a different part of the stove. "What do you think?"
 
@@ -533,6 +536,7 @@ Claire stood and walked to the kitchen doorway. "You've been pushing back on thi
 She sat down across from him. "You're being dramatic."
 
 "Am I?" He met her eyes. "These people—the couple and the two kids they adopted—they disappeared for a reason. Changed their names. Got the court to seal everything. They don't want to be found."
+>REVISION: Added 'they adopted' to make it clear that the couple and the kids went into hiding together as a single family.
 
 "Maybe they don't want random people finding them. But we're not random. We're researchers trying to understand—"
 
@@ -551,6 +555,7 @@ They ate in silence for a few minutes. The pasta was good—Eddie was a better c
 "Maybe they didn't trust the other researchers."
 
 "Then what reason would they have for trusting us?"
+>REVISION: This question fit the dialogue better to me than the previous statement
 
 Claire felt frustration building. "I don't understand why you're so opposed to this. This is what we do. We study difficult things. We talk to people about trauma. That's how we learn."
 
@@ -565,6 +570,7 @@ Claire felt frustration building. "I don't understand why you're so opposed to t
 "Maybe not." Eddie looked at her. "But it's ethical."
 
 The word hung between them. Claire sipped her wine. Outside, a car passed on the street. Someone's dog barked.
+>REVISION: changed 'drank' to 'sipped' because it feels more inline with an academic having wine with dinner.
 
 "Phillips is going to move forward with the lawyer," she said. "With or without your approval."
 
@@ -593,16 +599,20 @@ Claire followed him to the kitchen. Stood close. "Eddie. Talk to me. What's real
 He ran water over the plates. Squirted dish soap. "Nothing's going on. I just have reservations about this approach."
 
 "You've had reservations from day one. About the survivor interviews. About pushing too hard. About—" She touched his arm. "Is this about you leaving private practice? About the cases that got to you?"
+>REVISION: just added the word 'you' to the last sentence. Made the wording more smooth to me.
 
 Eddie went still. Then he turned off the water and dried his hands on a towel. "Maybe partly. You know that when I was in private practice, I also consulted for the Marion county prosecutor's office. I counseled victims of crimes. I saw what it does to people when someone forces them to talk about trauma before they're ready. When lawyers and other therapists decide they need answers more than the client needs boundaries."
+>REVISION: Added detail about consulting for prosecutors to give his story texture
 
 "We wouldn't force anyone."
 
 "You'd unseal court records designed to protect them. You'd show up in their lives uninvited. You're forcing them just by showing up on their doorstep."
+>REVISION: Replaced Eddie's question of "How is that not force?" with the more emphatic statement "You're forcing them just by showing up on their doorstep." I felt this shows a stronger reaction from Eddie and better suits Claire's reaction of 'stepping back' at the start of the following paragraph.
 
 Claire stepped back. "You're acting like we're doing something wrong. Like trying to understand what happened in Hudson is somehow—"
 
 "I'm not saying that." Eddie's voice was gentle now. "I'm saying there are people at the center of this who have already paid a price. Who were children when it happened. Who watched things no child should see." He paused. "Trying to understand is noble, but I think maybe we owe them the courtesy of letting them decide if and when they want to share their story."
+>REVISION: Added 'trying to understand is noble' to show that he respects what they're doing with their research.
 
 "What if they never decide?"
 
@@ -637,6 +647,7 @@ Later, lying in Eddie's bed in the dark, Claire stared at the ceiling.
 "If you were one of those kids—one of the survivors—would you want someone to find you?"
 
 Eddie was quiet for a long time. "I don't know. Maybe. I do think the full story deserves to be told."
+>REVISION: Replaced 'If I trusted them.' with 'I do think the full story deserves to be told.' I think this will land later because it subtly implies that Eddie knows the full story.
 
 "How would you know if you could trust them?"
 
@@ -657,6 +668,7 @@ She squeezed back. Outside, the wind rattled the bedroom window. November bleedi
 Claire closed her eyes.
 
 Somewhere out there, Mason Gilman was living his life. Maybe in Indiana. Maybe somewhere far away. Maybe he thought about Hudson every day or maybe he'd found a way to forget.
+>REVISION: Removed the paragraph that attempts to reveal that Eddie is Mason. It was ham-fisted and confusingly worded. Plus, it just didn't feel natural to reveal it right now.
 
 And Eddie wanted to keep it that way.
 
@@ -906,6 +918,7 @@ Because their father had chosen Eleanor.
 
 And in Hudson, in the spring of 1991, that's what kept you safe.
 
+
 ## Seven
 
 Phillips called Claire into his office two weeks before Christmas.
@@ -914,7 +927,7 @@ She'd been working on her thesis in the graduate student library, surrounded by 
 
 "Come in, close the door," Phillips said when she arrived.
 
-His office was cluttered as always. Books sat stacked on every surface. Papers in precarious piles. A wilting plang that wouldn't quite die.
+His office was cluttered as always. Books stacked on every surface. Papers in precarious piles. A dying plant on the windowsill that someone should have thrown out months ago.
 
 Claire sat in the chair across from his desk. "What's up?"
 
@@ -958,9 +971,9 @@ Claire looked at the folder on his desk. Inside were probably Rosen's credential
 
 Claire felt her face flush. "That's not what's happening."
 
-"I'm just saying that you need to be careful. You're a good researcher, Claire. You have good instincts. Don't let anyone—even someone you care about—convince you to settle for less than the truth."
+"I'm not saying it is. I'm saying be careful. You're a good researcher, Claire. You have good instincts. Don't let anyone—even someone you care about—convince you to settle for less than the truth."
 
-She wanted to argue. Wanted to say that pursuing the truth didn't mean trampling over people who'd suffered. But she knew that those were Eddie's words, not hers. They were researchers. This was their job.
+She wanted to argue. Wanted to say that pursuing the truth didn't mean trampling over people who'd suffered. But Phillips wasn't wrong, exactly. They were researchers. This was their job.
 
 "I'll talk to Eddie," she said finally. "Explain what you're doing."
 
@@ -1036,9 +1049,9 @@ He arrived twenty minutes later. She'd made coffee. They sat on her couch, not t
 
 "It's more than worried." Eddie set down his coffee mug. "Claire, I've been thinking about this a lot. About what happens if you actually find these people."
 
-"They were children. They're adults now. I'm sure they can handle one conversation about our project."
+"They were children. They're adults now. Maybe they want to tell their story."
 
-"And maybe they can't. Maybe they've built entire lives on the foundation of that privacy. Maybe they have families who don't know. Jobs that would be compromised. Relationships that would be destroyed." He looked at her. "You're asking them to risk everything for your research."
+"And maybe they don't. Maybe they've built entire lives on the foundation of that privacy. Maybe they have families who don't know. Jobs that would be compromised. Relationships that would be destroyed." He looked at her. "You're asking them to risk everything for your research."
 
 "Not everything. Just—"
 
@@ -1070,7 +1083,7 @@ David Rosen was younger than Claire expected—maybe forty, with wire-rimmed gla
 
 Phillips, Claire, and Eddie sat across the conference table from him in Phillips's office.
 
-"I've reviewed the case extensively," Rosen said. "Hudson, Indiana, 1993. Mass suicide, at least twenty-seven murders over the preceding two years. Two child survivors adopted by the couple who discovered the cult. Names and locations sealed by court order."
+"I've reviewed the case extensively," Rosen said. "Hudson, Indiana, 1993. Mass suicide, twenty-seven murders over the preceding three years. Two child survivors adopted by the couple who discovered the cult. Names and locations sealed by court order."
 
 "That's correct," Phillips said.
 
@@ -1108,7 +1121,7 @@ The room went quiet.
 
 Phillips leaned forward. "Eddie, we've discussed this—"
 
-"And I'm discussing it again. These people went to extraordinary lengths to protect their privacy. Two of them were children when the trauma occurred. They've had twenty years to come forward if they wanted to. The fact that they haven't should tell us something."
+"And I'm discussing it again. These people went to extraordinary lengths to protect their privacy. They were children when the trauma occurred. They've had twenty years to come forward if they wanted to. The fact that they haven't should tell us something."
 
 "It tells us they're afraid," Rosen said. "That's not the same as not wanting to share their story."
 
@@ -1118,7 +1131,9 @@ Phillips leaned forward. "Eddie, we've discussed this—"
 
 "After their privacy has already been compromised. After their current identities have been exposed to this research team. You think that's really a choice?"
 
-"Eddie," Claire said quietly. "We can build in protections. Make sure—"
+Claire watched Eddie carefully. His hands were clenched on the table. His jaw tight. She'd never seen him this agitated.
+
+"Eddie," she said quietly. "We can build in protections. Make sure—"
 
 "You can't protect them from this. Once you know who they are, once you show up in their lives, you can't undo that." He stood. "I'm sorry. I can't support this approach."
 
@@ -1152,7 +1167,7 @@ Finally he opened it.
 
 He stepped aside. She followed him to the living room. They sat on opposite ends of the couch.
 
-"I'm not trying to make your life harder," Eddie said finally. "I know Phillips is your advisor and mentor. I know this research matters to you."
+"I'm not trying to make your life harder," Eddie said finally. "I know Phillips is your advisor. I know this research matters to you."
 
 "I know you're not." Claire turned to face him. "But I need to understand. Why does this matter so much to you? It's more than just ethics, isn't it?"
 
@@ -1168,7 +1183,7 @@ Eddie was quiet for a long time. "I had a case once. In private practice. Before
 
 Claire felt cold. "Eddie—"
 
-"I know it's not the same. I know you're not a journalist. But the principle is—once you find someone who doesn't want to be found, you can't control what happens next." He met her eyes. "And I can't be part of something that might hurt people like that. Even if it means stepping away from this research."
+"I know it's not the same. I know you're not a journalist. But the principle is—once you expose someone who doesn't want to be found, you can't control what happens next." He met her eyes. "And I can't be part of something that might hurt people like that. Even if it means stepping away from this research."
 
 Claire reached for his hand. "I'm sorry. I didn't know."
 
@@ -1193,3 +1208,217 @@ Claire didn't know what that meant. But she could see the wheels turning in Eddi
 Whatever he was planning, he hadn't figured it out yet.
 
 But something told her that when he did, it would change everything.
+
+## Eight
+
+Hudson, Indiana - Fall 1992
+
+The boy was ten now. Tall for his age. His sister was seven, small and quiet.
+
+They lived in the same house. Slept in the same rooms. Ate at the same table. But the house felt empty in a way it hadn't before. Like all the warmth had leaked out through the walls.
+
+Their father was hardly ever home. He stayed at Eleanor's house most nights now. When he did come back, he didn't look at them the same way. Didn't talk to them the same way.
+
+He brought food. Made sure they had clean clothes. Drove them to school.
+
+But that was all.
+
+The boy understood. His father had chosen. And the choice hadn't been them.
+
+At school, no one sat with them at lunch. No one picked them for teams at recess. Brian Burnell and Jimmy Ahrendt—the boy's friends from before—wouldn't even look at him anymore.
+
+The chosen kids stayed on one side of the playground. The boy and his sister stayed on the other. Alone.
+
+There were only about fifteen kids left in the whole school. Hudson Elementary had once held sixty students. Now most of the desks sat empty. Mrs. Pritchard taught all the grades together in one room. She was the only teacher left.
+
+Some mornings she looked at the boy and his sister with something in her eyes. Something sad. But she never said anything. Just taught the lessons and sent them home.
+
+The town had changed too. Main Street was mostly empty now. The diner had closed. The hardware store sat dark. Only the grain elevator still operated, run by Brian's grandfather and a few of the chosen men.
+
+The boy counted thirty-seven houses in Hudson. Maybe a hundred and fifty people left. Everyone else had either joined Eleanor's meetings or disappeared.
+
+Or been returned to the land.
+
+The boy knew what that meant now. Had figured it out from overheard conversations. From the way people stopped talking when he walked past. From the freshly turned earth in the fields behind Eleanor's house.
+
+His mother was under that earth. Along with the Dominys. The Gentrys. Sarah's family. All the unchosen who'd refused to leave.
+
+The boy tried not to think about it. Tried to focus on getting through each day.
+
+His sister didn't talk much anymore. Used to chatter all the time—about school, about her drawings, about everything. Now she was silent most days. Just colored in her books and stared out windows.
+
+At night, the boy heard her crying through the wall between their rooms. He wanted to go to her. Tell her it would be okay. But he didn't know if that was true.
+
+So he just lay in his bed and listened. And sometimes he cried too.
+
+---
+
+In October, something changed at school.
+
+A girl named Rebecca started sitting alone at lunch. She was nine, from one of the chosen families. Her father was part of Eleanor's inner circle. But Rebecca had stopped going to the community meetings.
+
+The boy watched her from across the cafeteria. She picked at her food. Kept her head down. The other chosen kids whispered about her.
+
+At recess, she stood by the fence. The boy walked over.
+
+"You okay?" he asked.
+
+She looked at him. Her eyes were red. "They killed my mom."
+
+The boy went very still.
+
+"She said she was done," Rebecca continued. Her voice was flat. Empty. "Said she didn't believe anymore. That it was all wrong. My dad told Eleanor." She looked back at the school building. "Two days later my mom was gone. Dad said she left us. But I know. I heard them talking."
+
+The boy didn't know what to say.
+
+"I'm next," Rebecca said. "If I don't start going to meetings again. If I don't act chosen." She looked at him. "How do you do it? How do you stay safe when they think you're unchosen?"
+
+"My dad," the boy said quietly. "He's with Eleanor. So we're protected. But you—"
+
+"My dad's with Eleanor too. But it doesn't matter. Not if I won't go along." She wiped her eyes. "I hate him. I hate all of them."
+
+The next week, Rebecca wasn't at school.
+
+Mrs. Pritchard said her family had moved to Fort Wayne. But the boy saw Rebecca's father at the grain elevator that Saturday. Alone. No Rebecca. No wife.
+
+Just him.
+
+The boy understood. Rebecca had been returned to the land too.
+
+After that, no one questioned Eleanor's teachings. The remaining children—maybe ten of them—went to every meeting. Participated in every ritual. Said the right words. Believed the right things.
+
+Or pretended to.
+
+The boy and his sister were the only ones who didn't attend. The only ones still marked as other.
+
+But they were safe. Because their father shared Eleanor's bed.
+
+---
+
+Winter came early that year. Snow in November. The fields lay frozen and empty.
+
+The boy's father came home on Thanksgiving. Cooked a chicken he'd brought from Eleanor's house. Set the table with three plates.
+
+They ate in silence.
+
+"You're doing well in school," his father said finally. "Mrs. Pritchard says you're a good student."
+
+The boy nodded.
+
+"And you?" His father looked at the boy's sister. "How's first grade treating you?"
+
+She didn't answer. Just pushed peas around her plate with her fork.
+
+Their father set down his napkin. "I know this is hard. I know you don't understand. But I'm keeping you safe. That's all that matters."
+
+"Is it?" The boy heard himself ask.
+
+His father looked at him. "What?"
+
+"Is that all that matters? Keeping us safe?"
+
+"Yes."
+
+"What about Mom? Didn't keeping her safe matter?"
+
+His father's face went red. "Your mother made her choice."
+
+"She didn't choose to die."
+
+"She chose to defy Eleanor. That's the same thing."
+
+The boy stared at his father. At this man who looked like his father but wasn't. Not anymore.
+
+"You killed her," the boy said. "Maybe you didn't do it yourself. But you let them. You chose Eleanor over her. Over us."
+
+His father stood. The chair scraped against the floor. "I chose to keep you alive. Both of you. That's all I've been doing for two years. Everything I've done has been for you."
+
+"We didn't ask you to."
+
+"You're children. You don't know what you're asking for."
+
+The boy's sister started crying. Quiet tears running down her face.
+
+Their father looked at her. Something flickered in his eyes. Something that might have been pain. But it passed.
+
+"Finish your dinner," he said. "I need to get back."
+
+He left before they'd taken another bite.
+
+---
+
+In January, strangers came to Hudson.
+
+A couple. Man and woman, maybe in their thirties. They drove a blue sedan that looked out of place on Hudson's dirt roads.
+
+The boy saw them at the grain elevator. Talking to Brian's grandfather. Asking questions.
+
+He was there with his father, who'd come to pick up feed. The boy stayed in the truck while his father went inside.
+
+Through the window, the boy watched the couple. The woman had short dark hair and wore a winter coat from somewhere that wasn't Hudson. The man was tall, with glasses. They both looked concerned.
+
+Brian's grandfather shook his head at whatever they were asking. Pointed down the road. The couple thanked him and left.
+
+When the boy's father came back to the truck, his face was tight.
+
+"Who were they?" the boy asked.
+
+"Nobody. Don't worry about it."
+
+But that night, the boy heard his father on the phone with someone. Heard him say "Couple asking questions" and "Relative in town" and "Eleanor should know."
+
+Two days later, the boy saw the couple again. This time at the old house at the end of Fletcher Road. The house where Mrs. Patterson had lived before she disappeared last spring.
+
+The couple knocked on doors around the neighborhood. Talked to people. Looked worried.
+
+The boy was walking home from school with his sister when the couple saw them. The woman smiled. Waved them over.
+
+"Hi there," she said. "Do you live around here?"
+
+The boy nodded.
+
+"We're looking for my aunt. Helen Patterson. She used to live in that house." The woman pointed. "Have you seen her recently?"
+
+The boy knew what had happened to Mrs. Patterson. Everyone did. But he also knew he couldn't say it.
+
+"No, ma'am," he said. "Haven't seen her."
+
+"Do you know where she might have gone?"
+
+The boy shook his head.
+
+The man knelt down to their level. "It's okay. You can tell us. We just want to make sure she's safe."
+
+The boy's sister gripped his hand tighter.
+
+"We have to go," the boy said. "Our dad's waiting."
+
+They walked away fast. But the boy looked back once. Saw the couple watching them. Saw the woman say something to the man. Saw them look at each other with faces that said they knew something was wrong.
+
+Very wrong.
+
+That night, Eleanor called a special meeting. The boy's father went. Came back late, smelling like smoke again. Like that metallic smell the boy had learned to recognize.
+
+The next morning at school, Mrs. Pritchard asked if anyone had seen a blue sedan around town.
+
+No one answered.
+
+The boy thought about the couple. About the woman's smile. About the man kneeling down to talk to them like children mattered.
+
+He thought about Mrs. Patterson's empty house. About his mother under the earth. About Rebecca who wasn't at school anymore.
+
+And he thought about what the couple might find if they kept looking.
+
+What Eleanor would do if they found it.
+
+The boy didn't sleep well that night. Kept thinking about the blue sedan. About where it might be. About whether the couple was still alive to drive it.
+
+He hoped they'd left Hudson.
+
+He hoped they'd run.
+
+But something told him they were still here.
+
+Still asking questions.
+
+And in Hudson, in the winter of 1993, asking questions was the most dangerous thing you could do.

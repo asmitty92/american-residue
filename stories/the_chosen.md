@@ -1408,3 +1408,227 @@ But something told him they were still here.
 Still asking questions.
 
 And in Hudson, in the winter of 1993, asking questions was the most dangerous thing you could do.
+
+## Nine
+
+Eddie called Phillips three days after the meeting with Rosen.
+
+Claire was in Phillips's office when the call came. They'd been discussing her thesis chapters—or trying to. Both of them kept circling back to Eddie walking out. To the look on his face. To what it might mean for the research.
+
+Phillips answered his office phone on the second ring. "Bradley Phillips."
+
+Claire watched his expression change. Surprise, then something like relief.
+
+"Eddie. Good to hear from you." Phillips put the phone on speaker. "Claire's here too."
+
+"Hi Eddie," Claire said.
+
+"Hey." Eddie's voice sounded different. Calmer than it had been at the meeting. More measured. "I've been thinking about what Rosen said. About the intermediary requirement."
+
+"Okay," Phillips said carefully.
+
+"I want to do it. I want to be the court-appointed intermediary."
+
+Phillips and Claire exchanged looks.
+
+"Eddie, I appreciate that," Phillips said. "But you made your position pretty clear the other day. I don't want you doing something you're not comfortable with."
+
+"I'm not comfortable with any of this. But if it's going to happen anyway—and it is—then I want to make sure it's done right." Eddie paused. "The survivors need someone who understands trauma. Who won't push too hard. Who'll respect their boundaries even while asking difficult questions."
+
+"That's you," Claire said quietly.
+
+"That's me." 
+
+Phillips leaned back in his chair. "Walk me through your thinking."
+
+"Rosen said the intermediary would be the only one with access to the sealed records. The only one who could contact the survivors directly. Right?"
+
+"That's correct."
+
+"So I'd be the buffer. The one who determines how much contact there is, how questions are asked, whether the survivors are willing to participate." Eddie's voice was steady. Professional. "I can protect them while still serving the research. Make sure we get what we need without causing harm."
+
+Claire could see Phillips processing this. Could see him realizing that Eddie was offering the perfect solution.
+
+"The court would have to approve you," Phillips said. "They'd want to see your credentials, your experience with trauma cases."
+
+"I worked with crime victims for the Marion County prosecutor's office for three years. I have experience counseling people who've survived cult-like environments—that case I told Claire about, and others. I've published on trauma response and memory." Eddie paused. "I'm qualified."
+
+"You are," Phillips agreed. "But Eddie, this is a big commitment. You'd be taking on a lot of responsibility."
+
+"I know. That's why I'm doing it."
+
+Phillips looked at Claire. She nodded.
+
+"Alright," Phillips said. "I'll call Rosen. Set up a meeting to discuss the logistics. If you're serious about this—"
+
+"I'm serious."
+
+"Then let's do it."
+
+After Eddie hung up, Phillips and Claire sat in silence for a moment.
+
+"That was unexpected," Phillips said finally.
+
+"But good, right?" Claire asked. "Having Eddie involved means he'll feel like the survivors are protected. And we get someone with actual clinical expertise handling the contact."
+
+"It's very good." Phillips stood, walked to his window. "I just wonder what changed. Three days ago he walked out of a meeting. Now he's volunteering to be the intermediary."
+
+"He cares about doing it right. You heard him."
+
+"I did." Phillips turned back to her. "And I'm grateful. I just hope he knows what he's signing up for."
+
+---
+
+The legal process moved slowly.
+
+Rosen filed the petition in early January. The court scheduled a hearing for February. Eddie submitted his credentials—his PsyD, his clinical experience, his publications, letters of recommendation from former supervisors at the prosecutor's office.
+
+The judge approved him as intermediary in late February, with specific conditions:
+
+Only Eddie would have access to the sealed records.
+Only Eddie could initiate contact with the survivors.
+The research team would receive information about the survivors only if and when the survivors explicitly consented.
+Eddie would serve as the sole point of contact for all communications.
+Any violation of these terms would result in immediate revocation of access and potential legal consequences.
+
+Phillips accepted the conditions without hesitation. They were strict, but they were access. More than they'd had before.
+
+Claire met with Eddie the night after the judge's ruling. He came to her apartment with takeout Chinese food and a bottle of wine.
+
+"Congratulations," she said when he arrived. "You're officially the gatekeeper."
+
+"Lucky me." But he smiled when he said it.
+
+They ate on her couch, talking about everything except Hudson. Her thesis progress. His spring semester teaching load. A faculty party they'd both attended where the dean had gotten slightly drunk and told embarrassing stories.
+
+Finally, over fortune cookies, Claire asked: "When are you going to reach out to them?"
+
+Eddie cracked open his cookie. Read the fortune. Set it aside. "Soon. I need to review the sealed records first. Understand who I'm dealing with."
+
+"Two adults and two kids. Well, adults now."
+
+"Right." Eddie picked up his wine glass. "The couple who discovered the cult adopted both children. All four of them went into hiding together. New names, new locations."
+
+"Do you think they're still together? The family?"
+
+"I don't know. Twenty years is a long time." Eddie sipped his wine. "But I'll find out."
+
+"And then?"
+
+"And then I'll reach out. Carefully. See if anyone's willing to talk."
+
+Claire studied his face. He looked tired but determined. Like someone preparing for a difficult task he couldn't avoid.
+
+"What if they say no?" she asked.
+
+"Then they say no. And I'll tell Phillips we tried."
+
+"He'll push you to try again."
+
+"Probably." Eddie set down his glass. "But there are limits to how hard you can push people who've already survived the worst thing imaginable. Phillips will have to accept that."
+
+They cleaned up the takeout containers together. Eddie helped her wash the dishes. When he left that night, he kissed her at the door.
+
+"Thank you," he said.
+
+"For what?"
+
+"For understanding. For not making this harder than it has to be."
+
+"I just want you to be okay with all this."
+
+"I will be." He touched her cheek. "Once I figure out how to do it right."
+
+---
+
+Three weeks passed.
+
+Claire didn't ask about the survivors. Didn't push. She worked on her thesis and attended Phillips's research meetings and tried to be patient.
+
+But she thought about them constantly. The two children who'd survived Hudson. Who'd been eight and five when Eleanor arrived. Who'd watched their town transform into something nightmarish. Who'd somehow gotten out alive.
+
+She wondered what they were like now. What they did. Whether they ever talked about what happened.
+
+Whether they wanted to.
+
+On a Tuesday in late March, Eddie called her.
+
+"Can you come over tonight?" he asked. "I need to talk to you and Phillips."
+
+"About the survivors?"
+
+"Yeah."
+
+"Did you reach them?"
+
+"Just come over. Seven o'clock. I'll order pizza."
+
+Claire called Phillips immediately. They arrived at Eddie's house together, just after seven. Eddie had set out paper plates and napkins. Had pizza boxes open on his coffee table. But he looked too tense to eat.
+
+They sat down. Eddie poured water for everyone.
+
+"I accessed the sealed records two weeks ago," he said. "Took me some time to process what I found. To figure out the right approach."
+
+Phillips leaned forward. "And?"
+
+"The couple who discovered Hudson—they're both still alive. Still together. They adopted both children legally in 1994. The whole family moved to Michigan. Changed their names. The court sealed everything."
+
+"Were you able to contact them?" Claire asked.
+
+"Yes." Eddie looked at his hands. "I sent a letter first. Explained who I was, what we're researching, why we'd like to talk. Made it very clear they could refuse. That I was there to protect their privacy, not violate it."
+
+"And?" Phillips asked.
+
+"I got a response yesterday." Eddie met their eyes. "One member of the family has agreed to meet with you. To share their story."
+
+Claire felt her heart race. "Which one?"
+
+"I can't tell you that yet. They want to meet on neutral ground. Somewhere they feel safe." Eddie paused. "And they want me there. As the intermediary. To make sure the conversation stays appropriate."
+
+"Of course," Phillips said. "Whatever they need."
+
+"When?" Claire asked.
+
+"Two weeks from Saturday. April tenth. I'll send you the location details closer to the date." Eddie looked at them both. "But I need you to understand something. This person is doing us a favor. A huge favor. They don't owe us their story. They don't owe us anything. So we approach this with respect. With humility. And if at any point they want to stop, we stop. No pushing. No pressure. Understood?"
+
+"Understood," Phillips said.
+
+"Claire?"
+
+She nodded. "Understood."
+
+Eddie relaxed slightly. "Okay. Good."
+
+They ate pizza and talked logistics. How long the interview might last. What questions to prioritize. How to make the survivor feel comfortable.
+
+But the whole time, Claire kept thinking: *One member of the family.*
+
+Not both children. Not both adults. Just one.
+
+She wondered who it would be. The adoptive mother or father? The younger sibling who'd been five?
+
+Or the older one. The one who'd been eight when Eleanor arrived. Who'd watched it all happen.
+
+Who'd somehow survived to tell the story.
+
+Two weeks, she thought. Two weeks and they'd finally know.
+
+Finally understand what it had been like inside Hudson when the world went mad.
+
+She looked at Eddie across his coffee table. At the careful way he was explaining the ground rules. At the protective stance he'd taken toward these people he'd never met.
+
+Or said he'd never met.
+
+Claire pushed the thought away. Of course he hadn't met them. He was the intermediary. He'd sent a letter. Gotten a response.
+
+That's how it worked.
+
+Still, something about the way he talked about them—the careful language, the obvious concern—made her wonder.
+
+Made her think Eddie understood these survivors better than a few letters could explain.
+
+But she didn't ask. Not then.
+
+She'd find out in two weeks.
+
+When whoever had agreed to meet them finally told their story.

@@ -1441,7 +1441,7 @@ Phillips and Claire exchanged looks.
 
 Phillips leaned back in his chair. "Walk me through your thinking."
 
-"Rosen said the intermediary would be the only one with access to the sealed records. The only one who could contact the survivors directly. Right?"
+"Rosen said the intermediary would be the only one with access to the sealed records. The only one who would know the survivors' new identities. Be responsible for contacting them. Right?"
 
 "That's correct."
 
@@ -1451,7 +1451,7 @@ Claire could see Phillips processing this. Could see him realizing that Eddie wa
 
 "The court would have to approve you," Phillips said. "They'd want to see your credentials, your experience with trauma cases."
 
-"I worked with crime victims for the Marion County prosecutor's office for three years. I have experience counseling people who've survived cult-like environments—that case I told Claire about, and others. I've published on trauma response and memory." Eddie paused. "I'm qualified."
+"I worked with crime victims for the Marion County prosecutor's office for three years. I have experience counseling people who've survived traumatic, life-altering events—that case I told Claire about, and others. I've published on trauma response and memory." Eddie paused. "I'm qualified."
 
 "You are," Phillips agreed. "But Eddie, this is a big commitment. You'd be taking on a lot of responsibility."
 

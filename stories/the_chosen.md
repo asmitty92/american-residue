@@ -1639,8 +1639,7 @@ Hudson, Indiana - February 1993
 
 The couple didn't leave.
 
-The boy saw their blue sedan parked behind the old Patterson house three days in a row. Saw them walking through town. Talking to the few people who weren't part of Eleanor's inner circle. Asking questions.
->NITPICK: I'm confused by the "few people who weren't part of Eleanor's inner circle" comment
+The boy saw their blue sedan parked behind the old Patterson house three days in a row. Saw them walking through town. Talking to the anyone they could find who might not be under Eleanor's control. Asking questions.
 
 Nobody would talk to them. The boy could see it from his window as he did his homework. People would shake their heads. Hurry away. Close their doors.
 
@@ -1750,8 +1749,7 @@ The couple was waiting inside. They'd parked the gray car behind the building wh
 
 "You're not really looking for your aunt, are you?" the boy asked.
 
-Sarah shook her head. "My aunt died three years ago. In a nursing home in Fort Wayne." She paused. "But I needed a reason to be here. To ask questions."
->NITPICK: This is inconsistent with known details about Helen Patterson. In fact, about 4 paragraphs after this, you have the boy tell her that she was killed by the cult.
+Sarah shook her head. "I'm not really her niece. I never met Helen Patterson." She paused. "But I needed a cover story. A reason to be here asking questions."
 
 "Why?"
 
@@ -1763,7 +1761,7 @@ The boy felt his throat tighten.
 
 The boy looked at his sister. She was crying silently. Just tears running down her face like they did most nights.
 
-"They kill people," the boy said. "The ones who don't believe. They call it purification. Returning them to the land." He looked at Sarah. "Your aunt. Mrs. Patterson. She's dead. They killed her because she wouldn't join the meetings."
+"They kill people," the boy said. "The ones who don't believe. They call it purification. Returning them to the land." He looked at Sarah. "Mrs. Patterson. She's dead. They killed her and any others who wouldn't follow Eleanor."
 
 Sarah's face went pale. "Are you sure?"
 
@@ -1795,8 +1793,7 @@ Sarah and Tom exchanged looks again.
 
 The boy nodded. "Okay."
 
-"Midnight," Sarah repeated. "Behind your house. Pack whatever you can carry. But don't tell anyone. Not your father. Not anyone."
->NITPICK: The boy and his sister live on a farm. They can't meet "behind their house" because there are just fields back there
+"Midnight," Sarah repeated. "At the road in front of your house. Pack whatever you can carry. But don't tell anyone. Not your father. Not anyone."
 
 They left through different exits. The couple waited five minutes. Then the boy and his sister walked home through the fading light.
 
@@ -1817,10 +1814,8 @@ They ate in silence. The boy watched his father. Tried to see the man who used t
 But that man was gone. Had been gone for two years.
 
 This was just someone who looked like him.
->BRAINSTORM: Could we introduce early in the book, the boy's idea that this is no longer his father but a monster who's taken his place? That's a childlike explanation for this type of change his father went through. Might add some interesting texture to his tale.
 
-After dinner, the boy and his sister went to their rooms. The boy set his alarm for eleven-thirty. Lay in bed fully clothed.
->NITPICK: an alarm is dangerous, what if his dad is still in the house. I think he just stays awake.
+After dinner, the boy and his sister went to their rooms. The boy knew an alarm would be too risk. He wasn't sure whether his father would still be home come midnight. He lay down in bed fully clothed. Wide awake. Watching the clock.
 
 Waited.
 
@@ -1832,7 +1827,7 @@ At eleven-thirty, the boy got his sister. They put on their coats. Grabbed their
 
 The night was cold. Clear. The boy could see his breath.
 
-They waited behind the barn.
+They walked down the driveway to the road.
 
 At midnight exactly, the gray car pulled up with its headlights off. Sarah opened the back door.
 

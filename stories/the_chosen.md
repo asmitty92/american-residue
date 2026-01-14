@@ -1640,6 +1640,7 @@ Hudson, Indiana - February 1993
 The couple didn't leave.
 
 The boy saw their blue sedan parked behind the old Patterson house three days in a row. Saw them walking through town. Talking to the few people who weren't part of Eleanor's inner circle. Asking questions.
+>NITPICK: I'm confused by the "few people who weren't part of Eleanor's inner circle" comment
 
 Nobody would talk to them. The boy could see it from his window as he did his homework. People would shake their heads. Hurry away. Close their doors.
 
@@ -1750,6 +1751,7 @@ The couple was waiting inside. They'd parked the gray car behind the building wh
 "You're not really looking for your aunt, are you?" the boy asked.
 
 Sarah shook her head. "My aunt died three years ago. In a nursing home in Fort Wayne." She paused. "But I needed a reason to be here. To ask questions."
+>NITPICK: This is inconsistent with known details about Helen Patterson. In fact, about 4 paragraphs after this, you have the boy tell her that she was killed by the cult.
 
 "Why?"
 
@@ -1783,7 +1785,7 @@ Sarah knelt down. Took the girl's hands. "Yes. We can get you out. Both of you."
 
 "Tonight. We'll come back at midnight. Be ready."
 
-"What about our dad?"
+"What about our dad?" his sister asked.
 
 Sarah and Tom exchanged looks again.
 
@@ -1794,6 +1796,7 @@ Sarah and Tom exchanged looks again.
 The boy nodded. "Okay."
 
 "Midnight," Sarah repeated. "Behind your house. Pack whatever you can carry. But don't tell anyone. Not your father. Not anyone."
+>NITPICK: The boy and his sister live on a farm. They can't meet "behind their house" because there are just fields back there
 
 They left through different exits. The couple waited five minutes. Then the boy and his sister walked home through the fading light.
 
@@ -1814,8 +1817,10 @@ They ate in silence. The boy watched his father. Tried to see the man who used t
 But that man was gone. Had been gone for two years.
 
 This was just someone who looked like him.
+>BRAINSTORM: Could we introduce early in the book, the boy's idea that this is no longer his father but a monster who's taken his place? That's a childlike explanation for this type of change his father went through. Might add some interesting texture to his tale.
 
 After dinner, the boy and his sister went to their rooms. The boy set his alarm for eleven-thirty. Lay in bed fully clothed.
+>NITPICK: an alarm is dangerous, what if his dad is still in the house. I think he just stays awake.
 
 Waited.
 
@@ -1855,9 +1860,9 @@ By dawn, there were agents in the room. Men in suits. A woman who said she was a
 
 Where were the bodies buried? Behind Eleanor's house. In the fields.
 
-How many people were left in Hudson? Maybe a hundred and fifty. Maybe less.
+How many people were left in Hudson? Maybe a hundred. Maybe less.
 
-Were they armed? The boy didn't know. Probably.
+Were they armed? Probably. Hunting rifles and shotguns mostly.
 
 Would they resist? Yes. Eleanor would never surrender.
 

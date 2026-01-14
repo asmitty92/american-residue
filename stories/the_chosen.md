@@ -2016,22 +2016,23 @@ They entered.
 The room was small but comfortable. A table with six chairs. Windows overlooking the parking lot. Coffee and water set up on a side table.
 
 Eddie stood near the windows. He wore jeans and a button-down shirt—more casual than Claire had ever seen him. He looked tired but composed.
+>NITPICK: Claire and Eddie are dating but she's never seen him in jeans and a button down?
 
 Beside him stood a woman Claire guessed was in her early fifties. She had short graying hair and kind eyes. She wore slacks and a sweater. Her hands were clasped in front of her, and she looked nervous but determined.
 
 "Dr. Phillips, Claire," Eddie said. "Thank you for coming."
 
-"Of course," Phillips said. He extended his hand to the woman. "I'm Bradley Phillips."
+"Of course," Phillips said. He extended his hand to the woman. "I'm Dr. Bradley Phillips."
 
-"Sarah," the woman said, shaking his hand. Then Claire's. "Sarah Brennan."
+"Sarah," the woman said, shaking his hand. Then Claire's. "Sarah Broshanan."
 
-Claire's mind raced. Brennan. Not one of the names from the court documents, obviously—those had been sealed. This was her new name. The one she'd been living under for twenty years.
+Claire's mind took in the name. Sarah Broshanan. The woman who had helped uncover the corruption in Hudson.
 
 They all stood there for a moment. The air felt heavy with anticipation.
 
 Then Eddie took a breath and spoke.
 
-"Before we sit down, before we start, I need to tell you something." He looked directly at Phillips, then at Claire. His voice was steady. Clear. "My name isn't Eddie Collins. I was born Mason Gilman. I was eight years old when Eleanor Whitmore arrived in Hudson, Indiana. I'm one of the two children who survived." He gestured to Sarah. "This is my mother. My adoptive mother. She and her husband Tom are the couple who discovered what was happening in Hudson and got us out."
+"Before we sit down, before we start, I need to tell you something." He looked directly at Phillips, then at Claire. His voice was steady. Clear. "My name isn't Eddie Collins. I was born Mason Gilman in Hendricks County hospital in 1982. My parents were Robert and Loretta Gilman of Hudson, Indiana I was eight years old when Eleanor Whitmore arrived in Hudson. I'm one of the two children who survived." He gestured to Sarah. "This is my mother. My adoptive mother. She and her husband Tom are the couple who discovered what was happening in Hudson and got us out."
 
 The room went absolutely silent.
 
@@ -2055,7 +2056,7 @@ They sat. Claire felt numb. She looked at Eddie—she couldn't think of him as M
 
 "Why?" Phillips asked. His voice was shaky. "Why didn't you tell us from the beginning?"
 
-"Because I needed to control the process." Eddie's—Mason's—hands were flat on the table. "When Claire mentioned your research last summer, when she said you were studying Hudson, I knew I had to get involved. Had to make sure that if you found me, it happened on my terms."
+"Because I needed to control the process." Eddie's—hands were flat on the table. "When I heard about your research last summer, that you were studying Hudson, I knew I had to get involved. Had to make sure that if you found me, it happened on my terms."
 
 "So you volunteered to consult," Claire said. Her voice sounded distant to her own ears.
 
@@ -2063,19 +2064,19 @@ They sat. Claire felt numb. She looked at Eddie—she couldn't think of him as M
 
 "You manipulated us," Phillips said.
 
-"I controlled the situation," Mason corrected. "There's a difference."
+"I controlled the situation," Eddie corrected. "There's a difference."
 
-Sarah reached over and touched her son's hand. "He was protecting all of us. Me, Tom, his sister. We've spent twenty years building new lives. New identities. The thought of researchers showing up unannounced, exposing us without our consent—" She shook her head. "Mason did what he had to do."
+Sarah reached over and touched her son's hand. "He was protecting all of us. Me, Tom, his sister. We've spent twenty years building new lives. New identities. The thought of researchers showing up unannounced, exposing us without our consent—" She shook her head. "Eddie did what he had to do."
 
-Claire looked at Sarah. "Where's Tom? And—and Mason's sister?"
+Claire looked at Sarah. "Where's Tom? And—and Eddie's sister?"
 
-"Tom's at home in Michigan. He wanted to be here, but we thought—" Sarah glanced at Mason. "We thought it would be overwhelming. Too many people."
+"Tom's at home in Michigan. He wanted to be here, but we thought—" Sarah glanced at Eddie. "We thought it would be overwhelming. Too many people."
 
-"And my sister asked not to participate," Mason said. "She's not ready. May never be ready. That's her choice, and I respect it."
+"And my sister asked not to participate," Eddie said. "You have to understand, she was just five years old when it all started. Six when our mother was taken from us and our father all but abandoned us. She blamed herself for a very long time. She's not ready to revisit what happened. That's her choice, and I respect it."
 
 "But you're ready," Phillips said.
 
-"I'm here, aren't I?" Mason met his eyes. "I've been carrying this for twenty years. And yes, part of me has wanted to tell the story. To make sure people understand what happened. What Eleanor did. How an entire town could fall into that kind of darkness." He paused. "But I needed it to be my choice. Not yours. Not the court's. Mine."
+"I'm here, aren't I?" Eddie met his eyes. "I've been carrying this for twenty years. And yes, part of me has wanted to tell the story. To make sure people understand what happened. What Eleanor did. How an entire town could fall into that kind of darkness." He paused. "But I needed it to be my choice. Not yours. Not the court's. Mine."
 
 Claire's throat was tight. She thought about all the conversations they'd had. About Eddie's passion for protecting the survivors. About his anger at the idea of forcing people to share their trauma.
 
@@ -2085,27 +2086,27 @@ He'd been speaking from experience.
 
 "The woman you told me about," Claire said. "The patient who killed herself after being exposed by a journalist. Was she real?"
 
-Mason looked at her. "Yes. That case was real. And it informed everything I believed about this process." He paused. "But I also used it as cover. To explain my position without revealing myself."
+Eddie looked at her. "Yes. That case was real. And it informed everything I believed about this process." He paused. "But I also used it as cover. To explain my position without revealing myself."
 
 "Jesus," Phillips whispered. He leaned back in his chair, rubbing his face. "I need a minute. I need to—" He stood up. Walked to the window. Stared out at the parking lot.
 
-Claire sat frozen. Looking at Mason. At this man she thought she knew.
+Claire sat frozen. Looking at Eddie. At this man she thought she knew.
 
-"Are you angry?" Mason asked her quietly.
+"Are you angry?" Eddie asked her quietly.
 
 "I don't know what I am."
 
 "That's fair."
 
-Sarah cleared her throat. "I know this is a shock. Believe me, I understand. But Mason and I are here now. We're ready to tell you what happened. To give you the testimony you need for your research." She looked between Claire and Phillips. "If you still want it."
+Sarah cleared her throat. "I know this is a shock. Believe me, I understand. But Eddie and I are here now. We're ready to tell you what happened. To give you the testimony you need for your research." She looked between Claire and Phillips. "If you still want it."
 
 Phillips turned from the window. "If we—" He laughed, but there was no humor in it. "Of course we want it. This is—" He shook his head. "I don't even know what this is."
 
-"It's what you've been looking for," Mason said. "The survivor perspective. The child's experience of cult indoctrination and escape. The long-term trauma and recovery." He gestured to his mother. "And the adult perspective. What it was like to discover Hudson. To make the decision to intervene. To live with the aftermath."
+"It's what you've been looking for," Eddie said. "The survivor perspective. The child's experience of cult indoctrination and escape. The long-term trauma and recovery." He gestured to his mother. "And the adult perspective. What it was like to discover Hudson. To make the decision to intervene. To live with the aftermath."
 
 "And what you want in return?" Phillips asked carefully.
 
-"Our identities stay sealed. Our current names, locations, all of it—none of that appears in your research. You refer to us as we were in Hudson. The boy, the sister, the couple." Mason's voice was firm. "And Claire and I need to have a very different conversation. Privately. Before any of this goes further."
+"Our identities stay sealed. Our current names, locations, all of it—none of that appears in your research. You refer to us as we were in Hudson. The boy, the sister, the couple." Eddie's voice was firm. "And Claire and I need to have a very different conversation. Privately. Before any of this goes further."
 
 Claire looked up at that. Met his eyes.
 
@@ -2113,33 +2114,33 @@ Claire looked up at that. Met his eyes.
 
 Phillips nodded slowly. "Alright. If those are the terms, I accept them." He sat back down at the table. Opened his notebook. "Where do you want to start?"
 
-Sarah and Mason looked at each other.
+Sarah and Eddie looked at each other.
 
 "The beginning," Sarah said. "We'll start with how Tom and I found out about Hudson. About Eleanor Whitmore. About why we decided to go there in the first place."
 
 And so they did.
 
-For the next four hours, Sarah and Mason told the story.
+For the next four hours, Sarah and Eddie told the story.
 
 Sarah explained how she and Tom had been following reports of missing persons in rural Indiana. How they'd noticed a pattern in counties surrounding Hendricks. How the name Eleanor Whitmore had come up in connection with a previous group in Illinois that had ended badly.
 
-Mason described Hudson before Eleanor. The economic struggles. His family. The fear and desperation that made the town vulnerable.
+Eddie described Hudson before Eleanor. The economic struggles. His family. The fear and desperation that made the town vulnerable.
 
 Together they walked through Eleanor's arrival. Her gradual takeover. The division between chosen and unchosen. The murders that started slowly and accelerated.
 
 Sarah told them about arriving in Hudson with the cover story about Helen Patterson. About the fear they'd felt. About how empty the town had seemed.
 
-Mason described his mother's disappearance. His father's relationship with Eleanor. Living as pariahs. Rebecca's death. The isolation and terror of those final months.
+Eddie described his mother's disappearance. His father's relationship with Eleanor. Living as pariahs. Rebecca's death. The isolation and terror of those final months.
 
 Sarah explained their decision to reach out to the children directly. How desperate and dangerous it had been.
 
-Mason walked them through the escape. The drive to Indianapolis. The FBI response.
+Eddie walked them through the escape. The drive to Indianapolis. The FBI response.
 
-And then, together, they described the mass suicide. The moment when they learned that everyone was dead. Mason's father. The other children. Ninety-three people who'd drunk poison rather than face the outside world.
+And then, together, they described the mass suicide. The moment when they learned that everyone was dead. Eddie's father. The other children. Ninety-three people who'd drunk poison rather than face the outside world.
 
 Phillips took notes the entire time. Asked careful questions. Clarified timeline points.
 
-Claire mostly listened. She watched Mason's face as he talked. Saw him slip between present and past. Between Eddie Collins and the boy who'd survived Hudson.
+Claire mostly listened. She watched Eddie's face as he talked. Saw him slip between present and past. Between Eddie Collins and the boy who'd survived Hudson.
 
 When they finally finished, when the story had been told, Phillips set down his pen.
 
@@ -2147,11 +2148,11 @@ When they finally finished, when the story had been told, Phillips set down his 
 
 "It wasn't," Sarah said. "But it needed to be done."
 
-Mason looked at Claire. "Can we talk? Just the two of us?"
+Eddie looked at Claire. "Can we talk? Just the two of us?"
 
 She nodded.
 
-Phillips and Sarah stepped outside. Left Mason and Claire alone in the conference room.
+Phillips and Sarah stepped outside. Left Eddie and Claire alone in the conference room.
 
 They sat across from each other at the table. Six months of a relationship between them. Six months of trust that had just revealed itself to be built on a lie.
 
@@ -2159,19 +2160,19 @@ Or a carefully managed truth.
 
 Claire didn't know which.
 
-"Say something," Mason said finally.
+"Say something," Eddie said finally.
 
 "I don't know what to say." Claire looked at her hands. "I've been sleeping with you. I've been falling for you. And the entire time, you were lying to me."
 
 "I wasn't lying. I was protecting myself."
 
-"By not telling me the truth. That's lying, Mason. Or Eddie. Or whoever you actually are."
+"By not telling me the truth. That's lying, Eddie. Or Eddie. Or whoever you actually are."
 
 "I'm both." He leaned forward. "Eddie Collins is who I became. Mason Gilman is who I was. They're both real."
 
 "But you let me think I knew you. You let me believe—" Claire's voice broke. "You watched me get excited about finding the survivors. About potentially interviewing them. Knowing the whole time that I was talking about you."
 
-"I know. And I'm sorry." Mason's hands were shaking slightly. "But Claire, if I'd told you from the beginning, what would you have done?"
+"I know. And I'm sorry." Eddie's hands were shaking slightly. "But Claire, if I'd told you from the beginning, what would you have done?"
 
 "I don't know."
 
@@ -2187,7 +2188,7 @@ Claire felt tears on her face. "I don't know if I can trust you anymore."
 
 "Do you? Because you've been controlling this entire thing from the start. And now you're here, telling your story, but only because you decided it was time. Only because you set it up exactly how you wanted it." She wiped her eyes. "How do I know you're not still manipulating me?"
 
-Mason sat back. Was quiet for a long moment.
+Eddie sat back. Was quiet for a long moment.
 
 "You don't," he said finally. "You don't know. And maybe you can't trust me right now. Maybe that's something I destroyed when I made the choice to hide who I was." He looked at her. "But I need you to understand why I did it. I need you to understand that for twenty years, the only thing that kept me safe was control. Control over my identity. Control over my story. Control over who knew what." His voice was raw now. "And then you came along, and Phillips came along, and suddenly that control was threatened. So yes, I manipulated the situation. Because the alternative was losing everything I'd built. Everything I'd become."
 
@@ -2203,13 +2204,13 @@ Claire understood. She did. But understanding didn't make it hurt less.
 
 "Can you?" Claire looked at him. "Or is that just what you're telling me because it's what I need to hear?"
 
-Mason flinched. "That's fair. I deserve that." He stood up. Walked to the window. "My sister's name is Lily. That's not her birth name—that's what Tom and Sarah named her when they adopted us. She lives in Michigan. Works as a librarian. She's married, has two kids. They don't know about Hudson. About her past. She's built a whole life around not being the girl who survived a cult." He turned back to Claire. "That's a secret. One I've never told anyone outside my family. Now you know it."
+Eddie flinched. "That's fair. I deserve that." He stood up. Walked to the window. "My sister's name is Lily. That's not her birth name—that's what Tom and Sarah named her when they adopted us. She lives in Michigan. Works as a librarian. She's married, has two kids. They don't know about Hudson. About her past. She's built a whole life around not being the girl who survived a cult." He turned back to Claire. "That's a secret. One I've never told anyone outside my family. Now you know it."
 
 Claire sat with that. With the weight of what he'd just shared.
 
 "Why?" she asked.
 
-"Because you asked for honesty. For complete truth. So here it is." Mason's eyes were red. "I'm terrified right now. Terrified that I've lost you. Terrified that this was all a mistake. But I'm doing it anyway. Because you deserve to know who I actually am. Not just the trauma. Not just the survivor. But the person I built from what was left."
+"Because you asked for honesty. For complete truth. So here it is." Eddie's eyes were red. "I'm terrified right now. Terrified that I've lost you. Terrified that this was all a mistake. But I'm doing it anyway. Because you deserve to know who I actually am. Not just the trauma. Not just the survivor. But the person I built from what was left."
 
 Claire stood up. Walked over to him. They faced each other by the window.
 
@@ -2219,13 +2220,13 @@ Claire stood up. Walked over to him. They faced each other by the window.
 
 "And I don't know if you can be with someone who's going to write about Hudson. About what happened to you. Even if we keep your identity sealed, it's still going to be out there. Part of the academic record."
 
-"I know that too." Mason touched her face gently. "But I think—I think maybe that's what I need. For it to be out there. For people to understand. Even if I can't be publicly connected to it."
+"I know that too." Eddie touched her face gently. "But I think—I think maybe that's what I need. For it to be out there. For people to understand. Even if I can't be publicly connected to it."
 
 They stood together in the quiet conference room. The story told. The truth revealed. The future uncertain.
 
 "What happens now?" Claire asked.
 
-"Now Phillips writes his research. You finish your thesis. And we figure out if we can rebuild what I broke." Mason's hand dropped from her face. "If you want to."
+"Now Phillips writes his research. You finish your thesis. And we figure out if we can rebuild what I broke." Eddie's hand dropped from her face. "If you want to."
 
 "I don't know yet."
 
@@ -2233,7 +2234,7 @@ They stood together in the quiet conference room. The story told. The truth reve
 
 Sarah knocked on the door gently. "Everything alright?"
 
-"Yeah," Mason said. He looked at Claire. "We're okay."
+"Yeah," Eddie said. He looked at Claire. "We're okay."
 
 Claire wasn't sure that was true. But she nodded anyway.
 

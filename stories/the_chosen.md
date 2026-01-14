@@ -1632,3 +1632,359 @@ But she didn't ask. Not then.
 She'd find out in two weeks.
 
 When whoever had agreed to meet them finally told their story.
+
+## Ten
+
+Hudson, Indiana - February 1993
+
+The couple didn't leave.
+
+The boy saw their blue sedan parked behind the old Patterson house three days in a row. Saw them walking through town. Talking to the few people who weren't part of Eleanor's inner circle. Asking questions.
+
+Nobody would talk to them. The boy could see it from his window as he did his homework. People would shake their heads. Hurry away. Close their doors.
+
+But the couple kept trying.
+
+On the fourth day, they were gone.
+
+The boy's father came home that night later than usual. He went straight to the shower without saying anything. When he came out, the smell of smoke was gone. But his eyes were red.
+
+"Are they dead?" the boy asked.
+
+His father looked at him. "Who?"
+
+"The people with the blue car. The ones looking for Mrs. Patterson."
+
+His father's jaw tightened. "I don't know what you're talking about."
+
+"Yes you do."
+
+They stared at each other across the kitchen.
+
+"Go to your room," his father said finally.
+
+The boy went. But he knew. Could see it in his father's face.
+
+The couple was gone. Just like his mother. Just like Rebecca. Just like everyone who asked too many questions.
+
+Returned to the land.
+
+---
+
+Except they weren't.
+
+Two days later, the boy was walking home from school with his sister when a car pulled up beside them. Not the blue sedan. A different car. Gray. Older.
+
+The passenger window rolled down. The woman from before leaned over from the driver's seat.
+
+"Hi," she said. "Remember us?"
+
+The boy grabbed his sister's hand. Started to walk faster.
+
+"Please," the man said. He was in the passenger seat now. "We need to talk to you. Just for a minute."
+
+"We're not supposed to talk to strangers," the boy said.
+
+"We know. And we wouldn't ask if it wasn't important." The woman's voice was gentle. "We're looking for my aunt. Helen Patterson. But we think—we think something's happened to her. And to a lot of other people."
+
+The boy kept walking.
+
+"You don't have to tell us anything," the man said. "But if you're scared. If you need help. We can help you."
+
+The boy stopped.
+
+His sister tugged at his hand. "We should go."
+
+But the boy looked at the couple. At their concerned faces. At the way they were offering something he hadn't felt in two years.
+
+A way out.
+
+"Not here," he said quietly. "They watch everything."
+
+"Where then?"
+
+The boy thought. "The old grain mill. South edge of town. Tomorrow after school. Four o'clock."
+
+The woman nodded. "We'll be there."
+
+The car drove away.
+
+The boy and his sister walked home in silence. When they got there, his father's truck was in the driveway. He was standing on the porch, watching the road.
+
+"Who was that?" he asked.
+
+"Nobody," the boy said. "Someone asking for directions."
+
+His father studied his face. The boy kept his expression blank. Neutral.
+
+Finally his father nodded. Went back inside.
+
+That night, the boy couldn't sleep. He lay in bed thinking about the couple. About what might happen if he went to meet them. About what might happen if he didn't.
+
+He thought about his mother. About Rebecca. About all the unchosen who'd disappeared.
+
+About whether running was better than staying.
+
+About whether he and his sister would even make it out alive if they tried.
+
+But when he closed his eyes, he saw his mother's face. Heard her voice that last night: "You're choosing her."
+
+His father had chosen Eleanor.
+
+Maybe it was time for the boy to choose something else.
+
+---
+
+The next afternoon, he told his sister to come with him.
+
+"Where?" she asked.
+
+"Just come."
+
+They walked to the grain mill. It was abandoned now—had been since Mr. Gentry disappeared. The big wheel sat still in the creek. The building's windows were dark.
+
+The couple was waiting inside. They'd parked the gray car behind the building where it couldn't be seen from the road.
+
+"Thank you for coming," the woman said. "I'm Sarah. This is my husband, Tom."
+
+"You're not really looking for your aunt, are you?" the boy asked.
+
+Sarah shook her head. "My aunt died three years ago. In a nursing home in Fort Wayne." She paused. "But I needed a reason to be here. To ask questions."
+
+"Why?"
+
+"Because something's wrong in this town. Has been for years." Tom knelt down to the boy's level. "We've been watching. Talking to people outside Hudson. We know about Eleanor Whitmore. About what she's teaching. About the people who've disappeared."
+
+The boy felt his throat tighten.
+
+"We want to help," Sarah said gently. "But we need someone to tell us the truth. About what's really happening here."
+
+The boy looked at his sister. She was crying silently. Just tears running down her face like they did most nights.
+
+"They kill people," the boy said. "The ones who don't believe. They call it purification. Returning them to the land." He looked at Sarah. "Your aunt. Mrs. Patterson. She's dead. They killed her because she wouldn't join the meetings."
+
+Sarah's face went pale. "Are you sure?"
+
+"I'm sure." The boy's voice was steady. Flat. "My mother's dead too. She refused to join. They took her in April last year. Said she'd left us. But she didn't leave. They buried her in the fields behind Eleanor's house."
+
+Tom and Sarah looked at each other.
+
+"How many?" Tom asked quietly.
+
+"I don't know. Twenty? Thirty?" The boy thought about all the empty houses. All the families that had vanished. "Maybe more."
+
+"Jesus," Tom whispered.
+
+"Can you help us?" The boy's sister spoke for the first time. Her voice was so small. "Can you get us out?"
+
+Sarah knelt down. Took the girl's hands. "Yes. We can get you out. Both of you."
+
+"When?" the boy asked.
+
+"Tonight. We'll come back at midnight. Be ready."
+
+"What about our dad?"
+
+Sarah and Tom exchanged looks again.
+
+"He's with Eleanor," the boy said. "He's one of them now. He chose her over us."
+
+"Then we leave without him," Tom said. "We get you two to safety. Then we bring back the police. The FBI. We shut this down."
+
+The boy nodded. "Okay."
+
+"Midnight," Sarah repeated. "Behind your house. Pack whatever you can carry. But don't tell anyone. Not your father. Not anyone."
+
+They left through different exits. The couple waited five minutes. Then the boy and his sister walked home through the fading light.
+
+Their father wasn't there yet. The boy went to his room and packed a small backpack. Extra clothes. His mother's necklace that he'd hidden under his mattress. A photo of his family from before.
+
+His sister packed her coloring books and crayons. The boy didn't tell her those wouldn't matter. Let her have them.
+
+At dinner, their father asked if they'd had a good day at school.
+
+"Fine," the boy said.
+
+"And you?" He looked at the sister.
+
+She nodded.
+
+They ate in silence. The boy watched his father. Tried to see the man who used to read him bedtime stories. Who used to carry his sister on his shoulders. Who used to love their mother.
+
+But that man was gone. Had been gone for two years.
+
+This was just someone who looked like him.
+
+After dinner, the boy and his sister went to their rooms. The boy set his alarm for eleven-thirty. Lay in bed fully clothed.
+
+Waited.
+
+At eleven-twenty, he heard his father's truck start up. Heard him drive away to Eleanor's house.
+
+Good.
+
+At eleven-thirty, the boy got his sister. They put on their coats. Grabbed their bags. Crept downstairs and out the back door.
+
+The night was cold. Clear. The boy could see his breath.
+
+They waited behind the barn.
+
+At midnight exactly, the gray car pulled up with its headlights off. Sarah opened the back door.
+
+"Come on," she whispered.
+
+They got in. Tom drove slowly down the driveway, still no lights. Only when they reached the main road did he turn them on.
+
+Then he drove fast.
+
+The boy watched Hudson disappear through the rear window. The houses getting smaller. The grain elevator fading into the dark.
+
+His sister was crying. Sarah held her. Made soothing sounds.
+
+The boy didn't cry. Just watched until he couldn't see anything anymore.
+
+---
+
+They drove to Indianapolis. Three hours in the dark.
+
+Tom and Sarah had a hotel room already. They put the boy and his sister in one of the beds. Made phone calls from the room phone.
+
+The boy heard words like "FBI" and "mass murder" and "cult" and "children in danger."
+
+By dawn, there were agents in the room. Men in suits. A woman who said she was a social worker. They asked questions. The boy answered them.
+
+Where were the bodies buried? Behind Eleanor's house. In the fields.
+
+How many people were left in Hudson? Maybe a hundred and fifty. Maybe less.
+
+Were they armed? The boy didn't know. Probably.
+
+Would they resist? Yes. Eleanor would never surrender.
+
+The agents made more calls. By noon, there was a plan.
+
+The boy and his sister would stay at the hotel with the social worker. Tom and Sarah would go back with the FBI. Show them Hudson. Show them where to look.
+
+"We'll be back soon," Sarah promised. She hugged the boy. "You're safe now. You're both safe."
+
+The boy nodded. But he didn't feel safe.
+
+Wouldn't feel safe until he knew it was over.
+
+They left. The social worker ordered room service. Turned on the TV. Tried to distract them.
+
+But the boy just sat by the window. Watching the parking lot.
+
+Waiting.
+
+---
+
+Tom and Sarah came back seventeen hours later.
+
+The social worker opened the door. Sarah's face was pale. Tom's hands were shaking.
+
+"What happened?" the boy asked.
+
+Sarah sat down heavily on the bed. "They're all dead."
+
+The boy felt the room tilt.
+
+"What?"
+
+"Eleanor—when she found out you'd escaped, when she knew the FBI was coming—" Sarah's voice broke. "She gathered everyone. Had them drink poison. It was fast. The agents said it was fast."
+
+"Everyone?" The boy's voice sounded far away.
+
+"Ninety-three people. They found them in the community center." Tom sat beside his wife. "The FBI said it looked like—like they all went willingly. Like Eleanor told them it was time to return to the land. To complete the purification."
+
+The boy thought about Brian Burnell. About Jimmy Ahrendt. About all the kids who'd once been his friends.
+
+"And Eleanor?" he asked.
+
+"She's alive. Her and three others from the inner circle. They didn't drink. The FBI arrested them."
+
+The boy's sister was crying. The social worker held her. Made those soothing sounds that meant nothing.
+
+"What about our dad?" the boy asked.
+
+Sarah looked at him. Her eyes were full of tears.
+
+"He's gone, sweetheart. I'm so sorry."
+
+The boy nodded. Felt something crack inside his chest.
+
+His father had chosen Eleanor. Had stood with her until the end. Had drunk the poison she'd given him.
+
+Had left them just like he'd left their mother.
+
+"Can we see him?" the boy heard himself ask.
+
+"No," Tom said gently. "That's not—you don't need to see that."
+
+The boy nodded again. Sat down on the edge of the bed.
+
+His sister crawled into his lap. Buried her face against his shoulder. Sobbed.
+
+The boy held her. Stared at nothing.
+
+Hudson was gone. Everyone was gone.
+
+His mother. His father. His friends. His town.
+
+All of it. Gone.
+
+Eleanor had finished what she started. Had purified the land the only way she knew how.
+
+By destroying everything on it.
+
+The boy sat there holding his sister while she cried.
+
+And he thought: We're the only ones left.
+
+Just us.
+
+The chosen ones who survived because we ran away.
+
+He didn't know if that made them lucky or cursed.
+
+Didn't know if he'd spend the rest of his life being grateful they'd escaped or guilty they'd survived.
+
+All he knew was that the boy who'd lived in Hudson—who'd played in those fields, who'd climbed in that barn, who'd had a mother and a father and a home—was gone.
+
+As dead as everyone they'd left behind.
+
+And whoever he was now, whoever he was going to become, would have to be someone else.
+
+Someone who could live with what he knew.
+
+Someone who could carry all those ghosts.
+
+The social worker was talking to Tom and Sarah. Making arrangements. Discussing next steps.
+
+But the boy didn't listen.
+
+Just held his sister and stared out the window at Indianapolis.
+
+At the world that had always been there while Hudson fell apart.
+
+The world they'd have to figure out how to live in now.
+
+Without their parents.
+
+Without their past.
+
+Without anything except each other and the couple who'd been brave enough to save them.
+
+Sarah touched his shoulder. "We're going to take care of you," she said softly. "Both of you. For as long as you need."
+
+The boy looked at her. At this stranger who'd saved his life.
+
+"Okay," he said.
+
+Because what else was there to say?
+
+What else was there to do except survive?
+
+So that's what he did.
+
+He survived.

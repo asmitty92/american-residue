@@ -2015,8 +2015,7 @@ They entered.
 
 The room was small but comfortable. A table with six chairs. Windows overlooking the parking lot. Coffee and water set up on a side table.
 
-Eddie stood near the windows. He wore jeans and a button-down shirt—more casual than Claire had ever seen him. He looked tired but composed.
->NITPICK: Claire and Eddie are dating but she's never seen him in jeans and a button down?
+Eddie stood near the windows. He wore jeans and a button-down shirt—more casual than usual. He looked tired but composed.
 
 Beside him stood a woman Claire guessed was in her early fifties. She had short graying hair and kind eyes. She wore slacks and a sweater. Her hands were clasped in front of her, and she looked nervous but determined.
 
@@ -2162,116 +2161,78 @@ Claire didn't know which.
 
 "Say something," Eddie said finally.
 
-"I don't know what to say." Claire looked at her hands. "I've been sleeping with you. I've been falling for you. And the entire time, you were lying to me."
+"I don't know what to say." Claire looked at her hands. "I've been sleeping with you. I've been falling for you. And the entire time, you were someone else."
 
-"I wasn't lying. I was protecting myself."
+"I wasn't someone else. I was exactly who you knew." He leaned forward. "Eddie Collins is who I became. Mason Gilman is who I was. They're both real. Both me."
 
-"By not telling me the truth. That's lying, Eddie. Or Mason. Or whoever you actually are."
+"But you let me think I knew all of you." Claire's voice broke. "You watched me get excited about finding the survivors. About interviewing them. Knowing the whole time that I was talking about you."
 
-"I'm both." He leaned forward. "Eddie Collins is who I became. Mason Gilman is who I was. They're both real."
+"I know." Eddie's hands were shaking slightly. "And every time you did, I wanted to tell you. Wanted to just—" He stopped. "But I couldn't. Not until I knew I could control how it happened."
 
-"But you let me think I knew you. You let me believe—" Claire's voice broke. "You watched me get excited about finding the survivors. About potentially interviewing them. Knowing the whole time that I was talking about you."
+Claire wiped her eyes. "That patient you told me about. The woman who killed herself after being exposed. Was that even real?"
 
-"I know. And I'm sorry." Eddie's hands were shaking slightly. "But Claire, if I'd told you from the beginning, what would you have done?"
+"Yes. Every word of that was true." Eddie looked at her. "Nothing I've ever told you has been a lie. I've only lied by omission. But I needed you to understand why this mattered so much to me without telling you it was personal. Without admitting that I was terrified of the same thing happening to my family."
 
-"I don't know."
+"So you've been carrying this alone. For twenty years."
 
-"You would have told Phillips. And Phillips would have made me part of the research whether I wanted to be or not. Would have pushed me to share my story before I was ready. Before I could control how it happened." He met her eyes. "I couldn't let that happen."
+"Not alone. I have Sarah and Tom. My sister. But yes—alone in the sense that no one except them knew who I really was." His voice grew quieter. "Do you know what that's like? To build your entire adult life on hiding the most fundamental thing about yourself?"
 
-"So you manipulated us instead."
+Claire shook her head.
 
-"So I protected myself instead. And my family. And yes, that meant not telling you. Not telling Phillips. Letting you both think I was just a consultant with strong opinions about ethics." He paused. "But everything I said about protecting survivors, about respecting boundaries, about not forcing people to relive trauma—all of that was true. I meant every word."
+"It's exhausting." Eddie stood, walked to the window. "Every time someone asks about my childhood, I have to remember the cover story. Every time I meet new people, I have to be careful not to slip. Not to mention Hudson or Indiana or anything that could give me away." He turned to face her. "And then I met you. And for the first time in twenty years, I wanted someone to know me. Really know me. Not just Eddie Collins, clinical psychologist. But Mason Gilman. The boy who survived."
 
-Claire felt tears on her face. "I don't know if I can trust you anymore."
+"Then why didn't you tell me?"
 
-"I understand."
+"Because I was afraid." His eyes were red now. "Afraid you'd look at me differently. Afraid you'd see the research subject instead of the person. Afraid you'd tell Phillips and I'd lose control of my own story."
 
-"Do you? Because you've been controlling this entire thing from the start. And now you're here, telling your story, but only because you decided it was time. Only because you set it up exactly how you wanted it." She wiped her eyes. "How do I know you're not still manipulating me?"
+Claire felt her chest tighten. "Eddie—"
 
-Eddie sat back. Was quiet for a long moment.
+"I know it's not fair. I know I should have trusted you. Should have given you the chance to make that choice." He looked at her. "But I've spent two decades learning that the only person I can trust to protect me is myself. That's what survival taught me. And I couldn't just—I couldn't turn that off."
 
-"You don't," he said finally. "You don't know. And maybe you can't trust me right now. Maybe that's something I destroyed when I made the choice to hide who I was." He looked at her. "But I need you to understand why I did it. I need you to understand that for twenty years, the only thing that kept me safe was control. Control over my identity. Control over my story. Control over who knew what." His voice was raw now. "And then you came along, and Phillips came along, and suddenly that control was threatened. So yes, I manipulated the situation. Because the alternative was losing everything I'd built. Everything I'd become."
-
-Claire understood. She did. But understanding didn't make it hurt less.
-
-"I need time," she said. "To process this. To figure out what it means for us."
-
-"Okay."
-
-"And I need you to be honest with me. Completely honest. No more secrets. No more carefully managed truths."
-
-"I can do that."
-
-"Can you?" Claire looked at him. "Or is that just what you're telling me because it's what I need to hear?"
-
-Eddie flinched. "That's fair. I deserve that." He stood up. Walked to the window. "My sister's name is Lily. That's not her birth name—that's what Tom and Sarah named her when they adopted us. She lives in Michigan. Works as a librarian. She's married, has two kids. They don't know about Hudson. About her past. She's built a whole life around not being the girl who survived a cult." He turned back to Claire. "That's a secret. One I've never told anyone outside my family. Now you know it."
-
-Claire sat with that. With the weight of what he'd just shared.
-
-"Why?" she asked.
-
-"Because you asked for honesty. For complete truth. So here it is." Eddie's eyes were red. "I'm terrified right now. Terrified that I've lost you. Terrified that this was all a mistake. But I'm doing it anyway. Because you deserve to know who I actually am. Not just the trauma. Not just the survivor. But the person I built from what was left."
-
-Claire stood up. Walked over to him. They faced each other by the window.
-
-"I love you," she said. "I think I've loved you for months. But I don't know if that's enough. I don't know if I can be with someone who could keep something this big from me for so long."
+"I need time," Claire said quietly. "To process this. To understand what it means."
 
 "I know."
 
-"And I don't know if you can be with someone who's going to write about Hudson. About what happened to you. Even if we keep your identity sealed, it's still going to be out there. Part of the academic record."
+"And I need you to be honest with me. Completely honest. No more hiding."
 
-"I know that too." Eddie touched her face gently. "But I think—I think maybe that's what I need. For it to be out there. For people to understand. Even if I can't be publicly connected to it."
+Eddie was quiet for a long moment. Then he spoke. "My sister's name is Lily. That's what she chose...when we changed our identities. She lives in Michigan. Works as a librarian. She's married, has two kids who don't know anything about Hudson." He met Claire's eyes. "She's buried it so deep that sometimes I think she's forgotten it herself. Or convinced herself it happened to someone else."
 
-They stood together in the quiet conference room. The story told. The truth revealed. The future uncertain.
+"And you?"
 
-"What happens now?" Claire asked.
+"I've never forgotten. Not for a single day." Eddie's voice cracked slightly. "I remember my mother's face. My father choosing Eleanor over us. Watching Hudson disappear through that car window. Finding out everyone was dead." He paused. "And I remember deciding that the boy who lived through that had to die too. That Mason Gilman had to become someone else if he was going to survive."
 
-"Now Phillips writes his research. You finish your thesis. And we figure out if we can rebuild what I broke." Eddie's hand dropped from her face. "If you want to."
+Claire stood up. Walked over to him by the window.
 
-"I don't know yet."
+"Is that what you did?" she asked softly. "Kill the boy you were?"
 
-"That's okay."
+"I tried to." Eddie looked at her. "But he's still here. Still inside me. And today—telling the story, revealing myself—I think maybe I need to let him exist again. Not as who I am now. But as part of where I came from."
 
-Sarah knocked on the door gently. "Everything alright?"
+"That's why you're doing this. Not just for the research."
 
-"Yeah," Eddie said. He looked at Claire. "We're okay."
+"Not just for the research," he agreed. "But for me. To finally stop hiding. To let someone besides my family know the truth." His hand found hers. "I'm terrified. Of what this means. Of what happens next. But I'm doing it anyway."
+
+They stood together in the quiet conference room. The truth between them now. Raw and exposed.
+
+"I love you," Claire said. "But I don't know if that's enough right now. I don't know what happens with us after this."
+
+"I don't know either."
+
+"And I'm going to write about Hudson. About what happened. Even if we can't be together."
+
+"I know." Eddie touched her face gently. "I think—I think maybe that's what I need. For the story to be out there. For people to understand. Even if my name isn't attached."
+
+Sarah knocked on the door. "Everything alright?"
+
+"Yeah," Eddie said. "We're okay."
 
 Claire wasn't sure that was true. But she nodded anyway.
 
-They had the story now. The testimony they'd been searching for.
+---
 
-Everything else—the relationship, the trust, the future—would have to wait.
+They had the story now. The testimony they'd been searching for. Everything else—the relationship, the trust, the future—would have to wait. First, they had to get Hudson down on paper. Make sure the world understood what happened when a town died from the inside out and what it cost the two children who survived.
 
-First, they had to get Hudson down on paper.
+Everything, Claire thought as she watched Eddie gather his notes. It had cost them everything they'd been and everything they might have become. The boy named Mason Gilman who should have grown up in Hudson, who should have had a mother and a father and a normal childhood—that boy was gone, as dead as everyone they'd left behind. In his place was Eddie Collins, built from survival and secrecy, carrying ghosts that no one except his family had ever been allowed to see.
 
-Make sure the world understood what happened when a town died from the inside out.
+Until today. Until he'd chosen to step out from behind the mask and let the truth exist in the world. Not for the research alone, but for himself. To finally stop hiding. To let the boy he'd been have a voice again, even if that voice could never carry his real name.
 
-And what it cost the two children who survived.
-
-Everything, Claire thought.
-
-It cost them everything.
-
-Even if they were still standing.
-
-Even if they'd survived.
-
-The cost was everything they'd been.
-
-And everything they might have become.
-
-If Hudson had never fallen.
-
-If Eleanor had never arrived.
-
-If one boy named Mason Gilman had just stayed a boy.
-
-Instead of becoming someone else entirely.
-
-Someone who could live with ghosts.
-
-Someone who could carry the weight.
-
-Someone who could survive.
-
-Even when survival was the hardest thing of all.
+Claire didn't know if they could survive this revelation. Didn't know if love was enough to rebuild trust shattered by six months of careful omission. But she knew that Eddie—Mason—whoever he was now, had done something impossibly brave. Had taken the weight he'd carried alone for twenty years and finally shared it. And whatever happened between them, she would make sure his story was told with the respect and care it deserved. Even if survival was the hardest thing of all.

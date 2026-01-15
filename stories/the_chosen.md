@@ -2166,7 +2166,7 @@ Claire didn't know which.
 
 "I wasn't lying. I was protecting myself."
 
-"By not telling me the truth. That's lying, Eddie. Or Eddie. Or whoever you actually are."
+"By not telling me the truth. That's lying, Eddie. Or Mason. Or whoever you actually are."
 
 "I'm both." He leaned forward. "Eddie Collins is who I became. Mason Gilman is who I was. They're both real."
 

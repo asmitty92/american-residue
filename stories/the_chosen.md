@@ -2413,60 +2413,80 @@ Eddie came back. Sat beside her.
 
 Claire laughed. "She's protective."
 
-"She's my sister." Eddie's voice was soft. "And she's been protecting me longer than anyone except Sarah and Tom."
+"She is." Eddie leaned back against the couch. Closed his eyes. "God, I'm exhausted."
 
-"Does she know? About the book?"
+"Long day."
 
-"She knows. She's read it. She called me crying after she finished." Eddie looked at his hands. "Said she was glad someone finally told the truth about what happened. Even if her name couldn't be in it."
+"Long year." He opened his eyes. Looked at her. "Are you hungry? We should probably eat something."
 
-"Maybe someday."
+Claire checked her watch. Almost seven. "Yeah. What do you want?"
 
-"Maybe." Eddie stood. Walked to the window again. "You know what the strangest thing is?"
+"I don't know. Whatever's easy." Eddie rubbed his face. "There's leftover Thai in the fridge. Or we could order pizza."
 
-"What?"
+"Thai sounds good."
 
-"For twenty years, I thought if anyone found out who I really was, my life would be over. That I'd lose everything I'd built." He turned back to her. "But now Phillips knows. You know. Sarah and Tom always knew. Lily knows. And I'm still here. Still Eddie. Still whole."
+They went to the kitchen. Eddie pulled containers from the refrigerator while Claire got plates. Normal things. Ordinary things. The kind of things people did on a Thursday night in December.
 
-"More whole than before, maybe."
+Eddie heated the food in the microwave. They ate standing at the counter, not bothering with the table.
 
-"Maybe." Eddie came back to the couch. Sat close to her. "Thank you."
+"You have class tomorrow?" Claire asked.
 
-"For what?"
+"Yeah. Abnormal psych at ten. Then office hours." Eddie ate some pad thai. "You?"
 
-"For seeing me. For staying. For making me believe that being known doesn't mean being destroyed."
+"Thesis meeting with Phillips in the afternoon. And I need to finish revisions on chapter three."
 
-Claire leaned against him. They sat together as darkness fell outside. As December turned the world cold and quiet.
+They finished eating. Cleaned up. Eddie loaded the dishwasher while Claire wiped down the counter.
 
-Somewhere in a prison cell, Eleanor Whitmore was alone with her delusions. Somewhere in Michigan, Lily was putting her kids to bed. Somewhere in the academic world, people were reading about Hudson and learning from it.
+"You want to stay?" Eddie asked.
 
-And here, in a modest house in Bloomington, Eddie Collins—once Mason Gilman, once a boy who survived—was finally at peace.
+"Yeah."
 
-Not because the trauma was gone. Not because the memories had faded.
+They moved to the living room. Eddie turned on the TV. Found a basketball game. IU playing somewhere. He sat on the couch. Claire sat beside him.
 
-But because he'd learned that survival wasn't about forgetting. It was about integrating. About letting the past exist without letting it control the present.
+"I don't think I can watch this," Eddie said after a few minutes. "I'm too tired to follow it."
 
-About becoming someone who could carry ghosts without being haunted.
+"We could just go to bed."
 
-Eddie took Claire's hand. Squeezed it.
+"Yeah." But Eddie didn't move. Just sat there, looking at the TV without really seeing it.
 
-"I love you," he said.
+Claire took his hand. "You okay?"
 
-"I love you too."
+"I don't know. Maybe." Eddie was quiet for a moment. "I keep waiting to feel something big. Some kind of revelation or relief or—I don't know. Something."
 
-And for the first time in twenty years, Mason Gilman's story was complete.
+"And?"
 
-Not finished—stories like that are never finished.
+"And I just feel tired. And hungry. And like I need to grade papers this weekend." He looked at her. "Is that weird?"
 
-But told. Witnessed. Understood.
+"No," Claire said. "I don't think so."
 
-And the man who'd lived it could finally rest.
+They sat together. The basketball game played on the TV. Outside, December darkness had settled over Bloomington.
 
-Not because the weight was gone.
+After a while, Eddie stood up. "Come on. Let's go to bed."
 
-But because he'd learned to carry it.
+They went upstairs. Got ready for bed like they had a hundred times before. Eddie set his alarm. Claire plugged in her phone.
 
-And he wasn't carrying it alone anymore.
+They got into bed. Eddie turned off the light.
 
-Even if survival was the hardest thing of all.
+In the darkness, Claire heard him breathing. Settling into the mattress. Shifting position.
+
+"Claire?" Eddie said quietly.
+
+"Yeah?"
+
+"Thanks for coming with me today."
+
+"Of course."
+
+Silence for a moment. Then: "Goodnight."
+
+"Goodnight."
+
+And that was it. No grand resolution. No dramatic closure. Just two people in a bed in Bloomington, exhausted from a long day, with work to do tomorrow and Thai food sitting heavy in their stomachs.
+
+Somewhere Eleanor Whitmore was in her cell. Somewhere Lily was in Michigan. Somewhere Hudson existed only in memories and court documents and a book sitting on Phillips's desk.
+
+But here, Eddie was just tired. Just ready to sleep.
+
+And maybe that was enough.
 
 THE END

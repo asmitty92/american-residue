@@ -42,6 +42,8 @@ work_dir="works/$work_slug"
 meta="$work_dir/metadata/book.yaml"
 manuscript_dir="$work_dir/manuscript"
 output_file="$work_dir/compiled/${work_slug}.${format}"
+cover_file="$work_dir/assets/cover.png"
+cover_stub=""
 
 if [[ ! -f "$meta" ]]; then
   echo "Error: Missing metadata file: $meta"
@@ -60,10 +62,34 @@ if [[ "$chapter_count" -eq 0 ]]; then
   exit 1
 fi
 
+if [[ -f "$cover_file" ]]; then
+  cover_stub="$(mktemp)"
+  cat > "$cover_stub" << EOF
+![Cover image]($cover_file)
+
+\\newpage
+EOF
+  markdown_files=("$cover_stub" "${markdown_files[@]}")
+fi
+
+mkdir -p "$work_dir/compiled"
+
+cleanup() {
+  if [[ -n "$cover_stub" ]] && [[ -f "$cover_stub" ]]; then
+    rm -f "$cover_stub"
+  fi
+}
+trap cleanup EXIT
+
 echo -e "${BLUE}Compiling ${work_slug}...${NC}"
 echo "  Chapters: $chapter_count"
 echo "  Format: $format"
 echo "  Output: $output_file"
+if [[ -f "$cover_file" ]]; then
+  echo "  Cover: $cover_file"
+else
+  echo "  Cover: none"
+fi
 
 case "$format" in
   pdf)
@@ -82,12 +108,12 @@ case "$format" in
       --toc-depth=1
     ;;
   epub)
-    if [[ -f "$work_dir/cover.png" ]]; then
+    if [[ -f "$cover_file" ]]; then
       pandoc "${markdown_files[@]}" \
         -o "$output_file" \
         --toc \
         --toc-depth=2 \
-        --epub-cover-image="$work_dir/cover.png"
+        --epub-cover-image="$cover_file"
     else
       pandoc "${markdown_files[@]}" \
         -o "$output_file" \

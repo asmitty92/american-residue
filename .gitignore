@@ -1,2 +1,21 @@
+# Build artifacts
+*.pdf
+*.docx
+*.epub
+
+# OS files
 .DS_Store
-.venv/
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Personal notes (if you want to keep some things private)
+/meta/private-notes.md
+
+# Compiled manuscripts
+/books/*/compiled/

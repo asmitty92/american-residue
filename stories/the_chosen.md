@@ -2481,12 +2481,8 @@ Silence for a moment. Then: "Goodnight."
 
 "Goodnight."
 
-And that was it. No grand resolution. No dramatic closure. Just two people in a bed in Bloomington, exhausted from a long day, with work to do tomorrow and Thai food sitting heavy in their stomachs.
+Eddie hovered between asleep and awake for a little while thinking. Thinking about Eleanor Whitmore in her cell. Thinking about Lily in Michigan. Thinking about the memory of Hudson, now existing only in the minds of the few who survived. And court documents. And a book sitting on Phillips's desk.
 
-Somewhere Eleanor Whitmore was in her cell. Somewhere Lily was in Michigan. Somewhere Hudson existed only in memories and court documents and a book sitting on Phillips's desk.
-
-But here, Eddie was just tired. Just ready to sleep.
-
-And maybe that was enough.
+Then sleep took him.
 
 THE END

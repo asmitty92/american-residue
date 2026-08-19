@@ -19,3 +19,7 @@ Thumbs.db
 
 # Compiled manuscripts
 /books/*/compiled/
+
+# Per-work compiled outputs
+/works/*/compiled/*
+!/works/*/compiled/.gitkeep

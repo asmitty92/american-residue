@@ -55,12 +55,19 @@ if [[ ! -d "$manuscript_dir" ]]; then
   exit 1
 fi
 
-mapfile -t markdown_files < <(find "$manuscript_dir" -maxdepth 1 -type f -name "*.md" | sort)
+shopt -s nullglob
+markdown_files=("$manuscript_dir"/*.md)
+shopt -u nullglob
+
 chapter_count="${#markdown_files[@]}"
 if [[ "$chapter_count" -eq 0 ]]; then
   echo "Error: No markdown files found in $manuscript_dir"
   exit 1
 fi
+
+# Ensure deterministic ordering across macOS and Linux while avoiding bash 4-only features.
+IFS=$'\n' markdown_files=($(printf '%s\n' "${markdown_files[@]}" | sort))
+unset IFS
 
 if [[ -f "$cover_file" ]]; then
   cover_stub="$(mktemp)"

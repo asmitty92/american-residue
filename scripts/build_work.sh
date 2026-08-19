@@ -41,7 +41,7 @@ fi
 work_dir="works/$work_slug"
 meta="$work_dir/metadata/book.yaml"
 manuscript_dir="$work_dir/manuscript"
-output_file="$work_dir/${work_slug}.${format}"
+output_file="$work_dir/compiled/${work_slug}.${format}"
 
 if [[ ! -f "$meta" ]]; then
   echo "Error: Missing metadata file: $meta"

@@ -45,6 +45,12 @@ Build all works:
 scripts/build_all.sh
 ```
 
+Scaffold a new work:
+
+```bash
+scripts/scaffold_work.sh <snake_case_slug>
+```
+
 Prepare release tag guidance:
 
 ```bash

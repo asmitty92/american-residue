@@ -2,9 +2,10 @@
 
 ## Daily writing flow
 
-1. Edit manuscript files under works/<slug>/manuscript/.
-2. Keep work-specific metadata in works/<slug>/metadata/book.yaml.
-3. Store generated artifacts in works/<slug>/compiled/.
+1. Create a new work scaffold: scripts/scaffold_work.sh <snake_case_slug>
+2. Edit manuscript files under works/<slug>/manuscript/.
+3. Keep work-specific metadata in works/<slug>/metadata/book.yaml.
+4. Store generated artifacts in works/<slug>/compiled/.
 
 ## Build flow
 

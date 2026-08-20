@@ -4,13 +4,13 @@
 
 The phone woke Jeff at 5:47 in the morning.
 
-He reached for it in the dark, knocking over the glass of water on his nightstand. The cold splash barely registered as he squinted at the screen. The number wasn’t saved in his contacts, but he recognized the area code. Back home. Millstone.
+He reached for it in the dark, knocking over the glass of water on his nightstand. The cold splash barely registered as he squinted at the screen. The number wasn’t saved in his contacts, but he recognized the prefix. Back home. Millstone.
 
 “Hello?”
 
 “Jeff.” The voice came through rough, like gravel sliding down a slope. “It’s Josh.”
 
-Jeff sat up. His brother’s name hit him harder than the water soaking into the sheets. He couldn’t remember the last time they’d spoken. Five years? Six?
+Jeff sat up. His brother’s name hit him harder than the cold water pooling on the floor. He couldn’t remember the last time they’d spoken. Five years? Six?
 
 “Josh,” he said.
 
@@ -22,7 +22,7 @@ Jeff sat up. His brother’s name hit him harder than the water soaking into the
 
 “Blame me for what?”
 
-“For Mama sending me to live with Uncle Tom. I know you didn’t have anything to do with that. She made that call on her own.”
+“For Mama sending me to live with Uncle Roy. I know you didn’t have anything to do with that. She made that call on her own.”
 
 Jeff’s throat tightened. “Josh, that was twenty-seven years ago.”
 
@@ -54,15 +54,11 @@ The call didn’t make sense. Josh sounded like he was saying goodbye, but that 
 
 Jeff tried the number again. Voicemail.
 
-He showered and dressed, though it was still before six. His wife, Caroline, slept through the noise. She had a gift for that—sleeping through anything. Their daughter Emma’s room was dark as he passed it in the hall. She’d be up in an hour for school.
+He showered and dressed, though it was still before six. His wife, Caroline, slept through the noise. She had a gift for that—sleeping through anything. Their daughter Emma’s room was dark as he passed it in the hall. She’d be up within the hour for school.
 
 He made coffee and sat at the kitchen table with his phone in front of him. Every few minutes he picked it up and tried Josh’s number again. Nothing.
 
-By seven he was pacing. By eight, when he should have been heading to his civil engineering firm downtown, he was trying to figure out where Josh might be. He googled the number Josh had called from but found nothing—just a generic carrier message about privacy settings. The old town still pulled at the edges of his thoughts though. If Josh was in trouble, that’s where it would have started.
-
-He hadn’t been back there in fifteen years.
-
-Caroline found him at the kitchen table when she came down at eight-thirty. She wore her hospital scrubs—she was a surgical nurse and had a shift starting at ten.
+Caroline found him at the kitchen table when she came down at six-forty-five. She wore her hospital scrubs—she was a surgical nurse and had a shift starting at seven-thirty.
 
 “You’re still here,” she said.
 
@@ -106,11 +102,13 @@ She was right. He would worry. He was already worrying.
 
 “I’ll make some calls,” he said.
 
-After Caroline and Emma left, Jeff sat alone in the too-quiet house. He didn’t know who to call. He didn’t have Josh’s address. Didn’t know where he worked or who his friends were. The only connection he had was Uncle Tom.
+After Caroline left for her shift and Emma left for school, Jeff sat alone in the too-quiet house. By seven he was pacing. By eight, when he should have been arriving at his civil engineering firm downtown, he was still trying to figure out where Josh might be. He googled the number Josh had called from but found nothing—just a generic carrier message about privacy settings. His hometown still pulled at the edges of his thoughts though. If Josh was in trouble, that’s where it would have started.
 
-He hadn’t spoken to Tom in even longer than Josh. Not since their mother’s funeral eight years ago. Tom had shown up drunk and left early. Jeff remembered standing by the grave watching his uncle weave his way back to a rusted Silverado, Josh walking beside him with his hands in his pockets.
+He hadn’t been back there in fifteen years. He didn’t know who to call. He didn’t have Josh’s address. Didn’t know where he worked or who his friends were. The only connection he had was Uncle Roy.
 
-Finding Tom’s number took twenty minutes of searching through old contacts and finally calling his cousin Rena, who still lived back home. She gave him the number and a warning.
+He hadn’t spoken to Roy in even longer than Josh. Not since their mother’s funeral eight years ago. Roy had shown up drunk and left early. Jeff remembered standing by the grave watching his uncle weave his way back to a rusted Silverado, Josh walking beside him with his hands in his pockets.
+
+Finding Roy’s number took twenty minutes of searching through old contacts and finally calling his cousin Rena, who still lived in Millstone. She gave him the number and a warning.
 
 “He’s not doing great,” she said. “The drinking’s gotten worse.”
 
@@ -120,25 +118,25 @@ Finding Tom’s number took twenty minutes of searching through old contacts and
 
 “I don’t know. Maybe. He called me this morning and said some weird things.”
 
-Rena was quiet for a moment. “Be careful, Jeff. That whole world—it’s not like when we were kids. It’s gotten meaner.”
+Rena was quiet for a moment. “Be careful, Jeff. Things aren’t like they were when we were kids. People out here have gotten meaner. Especially the people Josh was mixed up with.”
 
 “I’m just making a phone call.”
 
 “Sure,” she said, but she didn’t sound convinced.
 
-Jeff dialed Tom’s number. It rang six times before someone picked up.
+Jeff dialed Roy’s number. It rang six times before someone picked up.
 
 “Yeah.” The voice was phlegmy and irritated.
 
-“Uncle Tom? It’s Jeff. Jeff Denlon.”
+“Uncle Roy? It’s Jeff. Jeff Denlon.”
 
 Silence. Then, “Jesus Christ. What do you want?”
 
 “I’m looking for Josh. He called me this morning and now I can’t reach him. I thought you might know where he is.”
 
-More silence. Jeff heard Tom breathing on the other end, wet and labored.
+More silence. Jeff heard Roy breathing on the other end, wet and labored.
 
-“You don’t know,” Tom said finally.
+“You don’t know,” Roy said finally.
 
 “Don’t know what?”
 
@@ -148,11 +146,11 @@ The kitchen tilted. Jeff gripped the edge of the table.
 
 “What?”
 
-“Your brother’s dead. They called me an hour ago to identify the body.” Tom’s voice was flat, emptied out. “Funeral’s probably going to be Friday. I’ll text you the details.”
+“Your brother’s dead. They called me an hour ago to identify the body.” Roy’s voice was flat, emptied out. “Funeral’s probably going to be Friday. I’ll text you the details.”
 
 “Wait—”
 
-But Tom had already hung up.
+But Roy had already hung up.
 
 Jeff sat at the table holding his phone. The coffee maker gurgled in the corner. Outside, a neighbor’s dog barked. Normal sounds in a normal morning, but nothing felt normal anymore.
 
@@ -162,11 +160,11 @@ His brother had known he was going to die.
 
 ## Two
 
-The funeral home sat on Main Street across from what used to be Pritchard’s Diner. Pritchard’s had been where all the kids hung out when Josh and Jeff were teenagers. Jeff pulled into the gravel lot. His new Honda Ridgeline stood in sharp contrast to the older Chevy and Ford trucks in the parking lot. He sat for a moment looking at the white clapboard building with its black shutters. A hand-painted sign above the door read ‘Breslin Funeral Home’ in faded gold letters.
+The funeral home sat on Main Street across from what used to be Pritchard’s Diner. Pritchard’s had been where all the kids hung out when Josh and Jeff were teenagers. Jeff pulled into the gravel lot. His new white Nissan Titan, paint still gleaming, stood in sharp contrast to the older Chevy and Ford trucks in the parking lot. He sat for a moment looking at the white clapboard building with its black shutters. A hand-painted sign above the door read ‘Breslin Funeral Home’ in faded gold letters.
 
 He’d told Caroline he was going alone. She’d offered to come, offered to bring Emma, but he’d declined. This wasn’t the kind of town where he wanted his family. Rena’s warning still echoed in his head.
 
-The lot held maybe a dozen vehicles, most of them pickups at least ten years old. A rusted Silverado sat near the entrance. Uncle Tom’s truck, still running after all these years.
+The lot held maybe a dozen vehicles, most of them pickups at least ten years old. A rusted Silverado sat near the entrance. Uncle Roy’s truck, still running after all these years.
 
 Jeff got out and straightened his tie. He wore the same dark suit he’d worn to his mother’s funeral eight years ago. It fit a little tighter now around the middle.
 
@@ -174,43 +172,43 @@ Inside, the funeral home smelled like lilies and old carpet. A woman in a black 
 
 The casket sat at the far end of the room, closed. Jeff felt a small relief at that. He wasn’t sure he wanted to see his brother’s face again after all these years, especially not like this.
 
-Maybe fifteen people scattered among the folding chairs. Jeff recognized a few faces from back home—people who’d aged badly, their features weathered by lives he’d worked hard to escape. Uncle Tom stood near the casket talking to a woman Jeff didn’t know. His uncle had aged too. The man who’d seemed imposing in Jeff’s childhood now looked shrunken, his suit hanging loose on his frame.
+Maybe fifteen people scattered among the folding chairs. Jeff recognized a few faces from childhood—people who’d aged badly, their features weathered by lives he’d worked hard to escape. Uncle Roy stood near the casket talking to a woman Jeff didn’t know. His uncle had aged too. The man who’d seemed imposing in Jeff’s childhood now looked shrunken, his suit hanging loose on his frame.
 
-Tom saw him and stopped mid-sentence. The woman followed his gaze, then excused herself quietly.
+Roy saw him and stopped mid-sentence. The woman followed his gaze, then excused herself quietly.
 
-“Didn’t think you’d show,” Tom said as Jeff approached.
+“Didn’t think you’d show,” Roy said as Jeff approached.
 
 “He was my brother.”
 
-“Yeah.” Tom’s eyes were red-rimmed but dry. “I suppose that’s true.”
+“Yeah.” Roy’s eyes were red-rimmed but dry. “I suppose that’s true.”
 
 They stood in uncomfortable silence. Up close, Jeff could smell the whiskey on his uncle’s breath. Not fresh—probably from last night—but still lingering.
 
 “Who found him?” Jeff asked.
 
-“Couple kids driving to work at the ethanol plant. Saw something in the ditch.” Tom’s voice was flat, mechanical. “Deputies said he’d been dead a couple hours by then.”
+“Couple kids driving to work at the ethanol plant. Saw something in the ditch.” Roy’s voice was flat, mechanical. “Deputies said he’d been dead a couple hours by then.”
 
 He’d died not long after the phone call. Josh had known exactly what was coming.
 
 “Do they know who did it?”
 
-Tom gave him a look. “You really want to talk about this here?”
+Roy gave him a look. “You really want to talk about this here?”
 
 “I do. I want to know what happened to my brother.”
 
-“Your brother got himself killed doing what he did. That’s what happened.” Tom turned back toward the casket. “You been gone a long time, Jeff. You don’t remember how things work anymore.”
+“Your brother got himself killed doing what he did. That’s what happened.” Roy turned back toward the casket. “You been gone a long time, Jeff. You don’t remember how things work anymore.”
 
 “Then tell me.”
 
-Tom shook his head. “Later. After. Come find me after and we’ll talk.”
+Roy shook his head. “Later. After. Come find me after and we’ll talk.”
 
-A preacher Jeff didn’t recognize entered the room and began organizing papers at a small podium. People started taking their seats. Jeff found a chair in the back row while Tom moved to the front.
+A preacher Jeff didn’t recognize entered the room and began organizing papers at a small podium. People started taking their seats. Jeff found a chair in the back row while Roy moved to the front.
 
 The service was brief. The preacher clearly hadn’t known Josh—his eulogy consisted of generic platitudes about a life taken too soon and God’s mysterious plans. A few people got up to speak. One woman talked about Josh helping her fix her water heater last year. A man with a scar across his cheek mentioned that Josh had been a good friend, always there when you needed him.
 
-Nobody mentioned what Josh had done for a living. Nobody talked about Uncle Tom or the life Josh had led between leaving home at eleven and reaching adulthood. It was as if those years had been carefully edited out of existence.
+Nobody mentioned what Josh had done for a living. Nobody talked about Uncle Roy or the life Josh had led between leaving home at eleven and reaching adulthood. It was as if those years had been carefully edited out of existence.
 
-Jeff watched his uncle sit rigid in the front row, staring at the casket. Tom didn’t cry. Didn’t speak. Just sat there with his hands folded in his lap.
+Jeff watched his uncle sit rigid in the front row, staring at the casket. Roy didn’t cry. Didn’t speak. Just sat there with his hands folded in his lap.
 
 When it ended, people filed past the casket. Jeff joined the line, moving slowly toward the front. When his turn came, he stood looking at the polished wood surface and tried to remember the last time he’d actually seen Josh’s face. That court appearance six years ago? Seven? His brother had looked tired then, worn down by a life that had been grinding at him since childhood.
 
@@ -218,89 +216,89 @@ When it ended, people filed past the casket. Jeff joined the line, moving slowly
 
 Behind him, someone cleared their throat. Jeff moved on.
 
-Outside, the afternoon sun felt too bright after the dim funeral home. Jeff loosened his tie and looked for Tom. His uncle stood by the Silverado smoking a cigarette and talking to two men Jeff didn’t recognize. When he saw Jeff approaching, he said something to the men and they drifted away.
+Outside, the afternoon sun felt too bright after the dim funeral home. Jeff loosened his tie and looked for Roy. His uncle stood by the Silverado smoking a cigarette and talking to two men Jeff didn’t recognize. When he saw Jeff approaching, he said something to the men and they drifted away.
 
-“You still want to talk?” Tom asked.
+“You still want to talk?” Roy asked.
 
 “Yes.”
 
-Tom took a long drag on his cigarette and flicked the ash onto the gravel. “Get in the truck. We’ll go somewhere quieter.”
+Roy took a long drag on his cigarette and flicked the ash onto the gravel. “Get in the truck. We’ll go somewhere quieter.”
 
 Jeff hesitated. Getting in his uncle’s truck could be the first step on a dangerous path. But he got in anyway.
 
-As Tom fired up the engine, the smell of motor oil and stale cigarettes hung in the air. Tom drove without speaking, navigating roads Jeff half-remembered from childhood. They passed the consolidated school he and Josh had attended—now with a sagging roof and cracked parking lot. The Dollar General where they’d bought candy stood vacant with boarded windows.
+As Roy fired up the engine, the smell of motor oil and stale cigarettes hung in the air. Roy drove without speaking, navigating roads Jeff half-remembered from childhood. They passed the consolidated school he and Josh had attended—now with a sagging roof and cracked parking lot. The Dollar General where they’d bought candy stood vacant with boarded windows.
 
-Tom pulled into the parking lot of a dive bar called The Painted Horse. Even in the afternoon, a few trucks sat outside.
+Roy pulled into the parking lot of a dive bar called The Painted Horse. Even in the afternoon, a few trucks sat outside.
 
 “Seriously?” Jeff asked.
 
-“You wanted to talk, and I need a drink.” Tom got out without waiting for a response.
+“You wanted to talk, and I need a drink.” Roy got out without waiting for a response.
 
-Inside, the bar was dark and nearly empty. A bartender with tattooed forearms nodded at Tom like he was a regular. Probably was. Tom ordered a whiskey neat and looked at Jeff.
+Inside, the bar was dark and nearly empty. A bartender with tattooed forearms nodded at Roy like he was a regular. Probably was. Roy ordered a whiskey neat and looked at Jeff.
 
 “Nothing for me,” Jeff said.
 
-They took a booth in the back. Tom downed half his drink in one swallow and set the glass on the scarred table between them.
+They took a booth in the back. Roy downed half his drink in one swallow and set the glass on the scarred table between them.
 
-“Josh was doing collections,” Tom said without preamble. “Working for Vernon Pike. You know what collections means?”
+“Josh was doing collections,” Roy said without preamble. “Working for Vernon Pike. You know what collections means?”
 
 “Vernon's still lending money under the table.”
 
-“That and extorting money from local businesses and calling it protection.” Tom finished his drink and signaled for another. The bartender brought over the bottle and refilled Tom’s glass. “Josh was good at it. He could be persuasive without being violent. Most of the time, anyway.”
+“That and extorting money from local businesses and calling it protection.” Roy finished his drink and signaled for another. The bartender brought over the bottle and refilled Roy’s glass. “Josh was good at it. He could be persuasive without being violent. Most of the time, anyway.”
 
 “What happened?”
 
-Tom leaned back in the booth. “There was this woman. Widowed mother, two kids. She’d borrowed money for her kid’s medical bills and fallen behind on payments. Vernon wanted Josh to lean on her. Make her understand that debt doesn’t just go away.”
+Roy leaned back in the booth. “There was this woman. Widowed mother, two kids. She’d borrowed money for her kid’s medical bills and fallen behind on payments. Vernon wanted Josh to lean on her. Make her understand that debt doesn’t just go away.”
 
 Jeff waited.
 
-“Josh paid the interest on her debt out of his own pocket,” Tom continued. “Not just once. Three, four times over the past six months. But Vernon found out last week.”
+“Josh paid the interest on her debt out of his own pocket,” Roy continued. “Not just once. Three, four times over the past six months. But Vernon found out last week.”
 
 “And killed him for it?”
 
-“Not Vernon himself.” Tom stared into his glass. “But yeah. That’s why Josh is dead. Because he couldn’t get in line and just do the job.”
+“Not Vernon himself.” Roy stared into his glass. “But yeah. That’s why Josh is dead. Because he couldn’t get in line and just do the job.”
 
 The bar’s jukebox played something country and mournful. Jeff felt the weight of it settling on him—his brother had died trying to protect someone who felt scared and helpless.
 
 “The sheriff know?”
 
-Tom laughed, bitter and short. “The sheriff’s department don’t give a single shit about Josh Denlon. Small-time criminal gets shot in a ditch? Case is already going cold.”
+Roy laughed, bitter and short. “The sheriff’s department don’t give a single shit about Josh Denlon. Small-time criminal gets shot in a ditch? Case is already going cold.”
 
 “So Vernon and whoever did the dirty work just walk away.”
 
-“That’s how it works.” Tom met Jeff’s eyes. “You should go home to your nice house and your nice family and forget about all this. Your brother made his choices. He knew the risks crossing Pike.”
+“That’s how it works.” Roy met Jeff’s eyes. “You should go home to your nice house and your nice family and forget about all this. Your brother made his choices. He knew the risks crossing Pike.”
 
 “He called me that morning. Before he died.”
 
-Something shifted in Tom’s expression. “What’d he say?”
+Something shifted in Roy’s expression. “What’d he say?”
 
 “That he didn’t blame me. For Mama sending him away.” Jeff paused. “And he talked about us being twins. About how we came from one cell before we split.”
 
-Tom was quiet for a long moment. “He'd mention that sometimes. When he'd been hitting the whiskey too hard. About you being twins. About how different you turned out. And sometimes other things…about your daddy.” He finished his second drink. “No, he never blamed you. He was proud-a you. Talked about you like you’d done something special, leaving town.”
+Roy was quiet for a long moment. “He'd mention that sometimes. When he'd been hitting the whiskey too hard. About you being twins. About how different you turned out. And sometimes other things…about your daddy.” He finished his second drink. “No, he never blamed you. He was proud-a you. Talked about you like you’d done something special, leaving town.”
 
 “I should have stayed in touch.”
 
-“Maybe. Maybe not. It’s too late now.” Tom stood up. “Come on. I’ll haul you back to your car.”
+“Maybe. Maybe not. It’s too late now.” Roy stood up. “Come on. I’ll haul you back to your car.”
 
-They drove in silence. When Tom pulled into the funeral home parking lot, he kept the engine running.
+They drove in silence. When Roy pulled into the funeral home parking lot, he kept the engine running.
 
 “Go home, Jeff,” he said. “There ain't nothing for ya here anymore.”
 
 Jeff got out but leaned back in through the open window. “Where would I find Vernon Pike these days?”
 
-Tom’s face hardened. “You thick boy or just not listenin.”
+Roy’s face hardened. “You thick boy or just not listenin.”
 
 “Josh was my brother.”
 
-Tom looked carefully at Jeff for a moment before reaching under the front seat. “If yer gonna keep pushing this, you oughtta take this. It was Josh’s. You might need it.”
+Roy looked carefully at Jeff for a moment before reaching under the front seat. “If yer gonna keep pushing this, you oughtta take this. It was Josh’s. You might need it.”
 
-Jeff looked at Tom’s outstretched hand and saw he was holding a handgun out for Jeff to take.
+Jeff looked at Roy’s outstretched hand and saw he was holding a handgun out for Jeff to take.
 
 “I don’t think I’ll need that,” Jeff said.
 
 “If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose. You go messing that up, and you’re gonna roust something. Mind you, I’m not endorsin that. I still think you should go home and leave it alone.”
 
-Jeff reached out and took the gun. It was heavier than he expected. After he took it, Tom abruptly shut the door and unceremoniously drove away.
+Jeff reached out and took the gun. It was heavier than he expected. After he took it, Roy abruptly shut the door and unceremoniously drove away.
 
 Jeff stood in the parking lot watching the Silverado pull away. The sun was lower now, throwing long shadows across the gravel. His phone buzzed in his pocket. A text from Caroline asking how it went.
 
@@ -312,7 +310,7 @@ He needed someone who knew the area. Someone still connected to that world but w
 
 Jeff pulled up her number and called.
 
-“Hey,” she said, surprised. “I saw you leave the funeral with Tom. Are you still in Millstone?”
+“Hey,” she said, surprised. “I saw you leave the funeral with Roy. Are you still in Millstone?”
 
 “I am, but I'm about to head home.” He paused. “Rena, I need to ask you something. Do you know where I can find Vernon Pike?”
 
@@ -322,7 +320,7 @@ The line went quiet.
 
 “Why are you asking about Vernon?” Her voice had changed, become careful.
 
-“Tom said Josh was working for him. That’s why he got killed.”
+“Roy said Josh was working for him. That’s why he got killed.”
 
 “Jeff, you need to leave this alone.”
 
@@ -340,7 +338,7 @@ The line went quiet.
 
 Jeff sat in his car as the sun continued its descent. The funeral home was dark now, everyone gone. Just him alone in a parking lot in a town he’d spent half his life trying to forget.
 
-He should listen to Tom. To Rena. Go home and let the sheriff’s department handle it, even if they never did.
+He should listen to Roy. To Rena. Go home and let the sheriff’s department handle it, even if they never did.
 
 But Josh had called him that morning for a reason. Had talked about the one cell, about being brothers, about protection. Josh had known he was going to die and had wanted Jeff to know something. What exactly, Jeff wasn’t sure yet.
 
@@ -568,7 +566,7 @@ At eleven-thirty, Jeff got in his car and drove southeast.
 
 The Painted Horse looked worse in daylight. The paint was peeling, the parking lot full of potholes. Only two trucks sat outside. Jeff parked and went in.
 
-The interior was dark despite the afternoon sun. It took a moment for his eyes to adjust. A bartender—different from the one who’d served Tom—stood behind the bar wiping glasses. Two men sat at separate tables, both nursing beers.
+The interior was dark despite the afternoon sun. It took a moment for his eyes to adjust. A bartender—different from the one who’d served Roy—stood behind the bar wiping glasses. Two men sat at separate tables, both nursing beers.
 
 “We just opened,” the bartender said. “Kitchen’s not running yet.”
 
@@ -838,7 +836,7 @@ The fields seemed to tilt. Jeff forced himself to breathe normally. “Have I?�
 
 “You’ve been watching me.”
 
-“Of course. You’re driving a silver Honda Ridgeline, license plate—well, I won’t bore you with details you already know. You’re parked on the shoulder of County Road 550. You’ve been sitting there for just about three minutes now.”
+“Of course. You’re driving a silver Dodge Ram, license plate—well, I won’t bore you with details you already know. You’re parked on the shoulder of County Road 550. You’ve been sitting there for just about three minutes now.”
 
 Jeff scanned the fields, the road. He didn’t see anyone. No black Ram. No men standing around.
 
@@ -958,7 +956,7 @@ He wasn’t sure if she believed it.
 
 Pike Lumber and Supply sat on State Road 136, about a mile outside town. The main building was a long metal structure with lumber racks and equipment visible through chain-link fencing. A smaller office building sat at the front of the lot with a sign that read “Pike Lumber - Family Owned Since 1987.”
 
-Jeff parked across the road. Eight fifty-five.
+Jeff parked across the road. The dashboard clock read nine-twenty-three.
 
 He could still leave. Drive home. Call the sheriff. Do the smart thing.
 
@@ -1098,7 +1096,7 @@ He stared at the ceiling until morning.
 
 Four weeks later, Jeff stood at Josh’s grave. The marker was simple: Joshua Thomas Denlon. Beloved Son and Brother.
 
-Uncle Tom had picked it out. Paid for it too, though he’d never said as much.
+Uncle Roy had picked it out. Paid for it too, though he’d never said as much.
 
 Jeff set down the flowers and knelt in the grass. The cemetery was empty except for a groundskeeper working several rows away.
 

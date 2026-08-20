@@ -25,7 +25,7 @@ archive/
 ## Current Works
 
 - loyalty
-- one-cell-rural
+- one-cell
 - quantum-leap
 - season
 - the-chosen

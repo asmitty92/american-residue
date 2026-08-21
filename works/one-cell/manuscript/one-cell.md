@@ -222,11 +222,11 @@ Outside, the afternoon sun felt too bright after the dim funeral home. Jeff loos
 
 “Yes.”
 
-Roy took a long drag on his cigarette and flicked the ash onto the gravel. “Get in the truck. We’ll go somewhere quieter.”
+Roy took a long drag on his cigarette and flicked the butt onto the gravel. “Get in the truck. We’ll go somewhere quieter.”
 
 Jeff hesitated. Getting in his uncle’s truck could be the first step on a dangerous path. But he got in anyway.
 
-As Roy fired up the engine, the smell of motor oil and stale cigarettes hung in the air. Roy drove without speaking, navigating roads Jeff half-remembered from childhood. They passed the consolidated school he and Josh had attended—now with a sagging roof and cracked parking lot. The Dollar General where they’d bought candy stood vacant with boarded windows.
+As Roy fired up the engine, the smell of motor oil and stale cigarettes hung in the air. Roy drove without speaking, navigating roads Jeff half-remembered from childhood. They passed the consolidated school he and Josh had attended—now with a sagging roof and cracked parking lot. The Git-n-Go convenience store where they’d bought candy stood vacant with boarded windows.
 
 Roy pulled into the parking lot of a dive bar called The Painted Horse. Even in the afternoon, a few trucks sat outside.
 
@@ -348,11 +348,11 @@ He started the car and drove home. But he didn’t stop thinking about Vernon Pi
 
 Jeff made it two days before going back to Millstone.
 
-He’d tried to focus on work. Sat through meetings client meetings about load calculations and structural integrity while his mind drifted to ditches and closed caskets. Caroline asked him twice if he was okay. He told her he was fine.
+He’d tried to focus on work. Sat through client meetings about load calculations and structural integrity while his mind drifted to ditches and closed caskets. Caroline asked him twice if he was okay. He told her he was fine.
 
 On Wednesday afternoon, he left the office early and drove southeast toward home. He told himself he was just looking around. Seeing how things had changed. He didn’t have a plan.
 
-The Dollar General sat boarded up like a headstone. He drove past it slowly, taking in the changes. Some buildings had been torn down. Others had new paint and new purposes. On the corner where Mizell’s barber shop used to be, a small restaurant called Pritchard’s had taken its place.
+The Git-n-Go sat boarded up like a headstone. He drove past it slowly, taking in the changes. Some buildings had been torn down. Others had new paint and new purposes. On the corner where Mizell’s barber shop used to be, a small restaurant called Pritchard’s had taken its place.
 
 Jeff recognized the name. Mrs. Pritchard had run a diner on Main Street when he was a kid. He and Josh used to go there after school sometimes. Mrs. Pritchard was an old friend of their mom. She’d give them free sodas if they were polite.
 
@@ -452,9 +452,9 @@ She stared out the window. She was twelve and getting better at silence as a wea
 
 At home, Caroline was already making dinner. She gave him a look that said they’d talk about this later. Emma went straight to her room.
 
-Jeff helped with dinner in silence. Set the table. Poured drinks. Normal movements in a normal evening, but nothing felt normal. His mind kept going back to Mrs. Pritchard. To Josh asking about their father. To the man on the corner watching him drive away.
+Jeff helped with dinner in silence. Set the table. Poured drinks. Routine movements in a normal evening, but nothing felt normal. His mind kept going back to Mrs. Pritchard. To Josh asking about their father. To the man on the corner watching him drive away.
 
-After dinner, after Emma had gone to bed, Caroline found him on the back porch.
+Later, after Emma had gone to bed, Caroline found him on the back porch.
 
 “What’s going on with you?” she asked.
 
@@ -496,7 +496,7 @@ His phone buzzed. A text from a number he didn’t recognize.
 
 “Stop asking questions.”
 
-That was all it said. No name. No context. Just four words.
+That was all it said. There was no name. No context. Just three words.
 
 Jeff stared at the message, his pulse ticking up—not from fear, but from something else. Recognition, maybe. The acknowledgment that things were moving forward now, becoming concrete.
 
@@ -606,11 +606,11 @@ Jeff brought his beer over and sat down. Up close, Dale looked older. His hands 
 
 “You don’t know?”
 
-“I know he’s dead. I know Vernon Pike is responsible. I want to know why.”
+“I know he’s dead. I'm told Vernon Pike is responsible. I want to know why.”
 
 Dale shook his head. “You shouldn’t be asking about that.”
 
-“So I’ve been told.” Jeff leaned forward. “But I’m asking anyway.”
+“I'm hearing that a lot lately.” Jeff leaned forward. “But I’m asking anyway.”
 
 Dale drank the rest of his beer in one long swallow and signaled the bartender for another. When it came, he took a long pull before speaking.
 
@@ -618,9 +618,9 @@ Dale drank the rest of his beer in one long swallow and signaled the bartender f
 
 “Josh didn’t seem like the type to rough people up.”
 
-“That was mostly me. Josh'd do it if had to, but he didn't like it.” Dale held up his right hand. Three fingers were normal. The pinky and ring finger were shorter, ending at the first knuckle. “When I screwed up, Vernon made sure I remembered. Josh was smarter. He talked to people. Convinced them. Most of the time it worked.”
+“That was mostly me. Josh'd do it if he had to, but he didn't like it.” Dale held up his right hand. Three fingers were normal. The pinky and ring finger were shorter, ending at the first knuckle. “When I screwed up, Vernon made sure I remembered. Josh was smarter. He talked to people. Convinced them. Most of the time it worked.”
 
-Jeff’s stomach turned. “What happened when it didn’t work?”
+Jeff’s stomach turned. “What happened when it didn’t work?” 
 
 “Then I’d step in.” Dale looked at his mangled hand. “Josh hated that part. He’d try every way he could to get people to pay before it came to that.”
 
@@ -630,7 +630,7 @@ Dale’s expression darkened. “Sophie Martin. Two kids, seven and nine. Her yo
 
 “Josh paid it for her.”
 
-“Yeah. First time, Vernon didn’t notice. But Josh kept doing it. Every week, he’d pay Sophie’s interest out of his own pocket. Figured Vernon wouldn’t know the difference.” Dale shook his head. “But Vernon knows everything. He’s got eyes everywhere. When he found out, he called Josh in.”
+“Yeah. First time, Vernon didn’t notice. But Josh kept doing it. Every time she came up short, he’d pay Sophie’s interest out of his own pocket. Figured Vernon wouldn’t know the difference.” Dale shook his head. “But Vernon knows everything. He’s got eyes everywhere. When he found out, he called Josh in.”
 
 “What happened?”
 
@@ -646,7 +646,7 @@ Jeff felt something tighten in his chest. “When was this?”
 
 “What did you tell him?”
 
-“I told him family’s family. That blood matters, even when everything else is shit.” Dale looked away. “I didn’t know he was going to call you that morning. Didn’t know Vernon had already put out the order.”
+“I told him family’s family. That blood matters, even when everything else is shit.” Dale looked away.
 
 “Who killed him?”
 
@@ -654,7 +654,7 @@ Dale shook his head. “I can’t tell you that.”
 
 “Can’t or won’t?”
 
-“Both.” Dale stood up slowly. “Listen to me. Josh was my friend. One of the few good people I knew in this whole goddamn world. But he’s gone now, and you going after Vernon or his people won’t bring him back. It’ll just get you killed too.”
+“Can’t, not for sure. Could’ve been one of a half-dozen of Vernon’s guys.” Dale stood up slowly. “But even if I knew, I wouldn’t tell ya. You listen here. Josh was my friend. One of the few good people I knew in this whole goddamn world. But he’s gone now, and you going after Vernon or his people won’t bring him back. It’ll just get you killed too.”
 
 “I’m not afraid of Vernon.”
 

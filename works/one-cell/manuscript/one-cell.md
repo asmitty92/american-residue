@@ -102,13 +102,13 @@ She was right. He would worry. He was already worrying.
 
 “I’ll make some calls,” he said.
 
-After Caroline left for her shift and Emma left for school, Jeff sat alone in the too-quiet house. By seven he was pacing. By eight, when he should have been arriving at his civil engineering firm downtown, he was still trying to figure out where Josh might be. He googled the number Josh had called from but found nothing—just a generic carrier message about privacy settings. His hometown still pulled at the edges of his thoughts though. If Josh was in trouble, that’s where it would have started.
+After Caroline left for her shift and Emma left for school, Jeff paced through the empty house. By seven he’d tried Josh’s number a dozen more times. By eight, when he should have been arriving at his civil engineering firm downtown, he called his assistant instead and told her to clear his morning—a headache, he said, nothing serious. He spent the next few hours doing the same useless things over and over: refreshing his phone, googling the number Josh had called from and finding nothing but a generic carrier message about privacy settings, standing at the window like Josh might just walk up the driveway. His hometown still pulled at the edges of his thoughts though. If Josh was in trouble, that’s where it would have started.
 
-He hadn’t been back there in fifteen years. He didn’t know who to call. He didn’t have Josh’s address. Didn’t know where he worked or who his friends were. The only connection he had was Uncle Roy.
+He hadn’t been back there in fifteen years. He didn’t know who to call. He didn’t have Josh’s address. Didn’t know where he worked or who his friends were. By midmorning, the only connection he could think of was Uncle Roy.
 
 He hadn’t spoken to Roy in even longer than Josh. Not since their mother’s funeral eight years ago. Roy had shown up drunk and left early. Jeff remembered standing by the grave watching his uncle weave his way back to a rusted Silverado, Josh walking beside him with his hands in his pockets.
 
-Finding Roy’s number took twenty minutes of searching through old contacts and finally calling his cousin Rena, who still lived in Millstone. She gave him the number and a warning.
+Finding Roy’s number took another twenty minutes of searching through old contacts and finally calling his cousin Rena, who still lived in Millstone. It was nearly eleven-thirty by the time she picked up. She gave him the number and a warning.
 
 “He’s not doing great,” she said. “The drinking’s gotten worse.”
 
@@ -146,7 +146,7 @@ The kitchen tilted. Jeff gripped the edge of the table.
 
 “What?”
 
-“Your brother’s dead. They called me an hour ago to identify the body.” Roy’s voice was flat, emptied out. “Funeral’s probably going to be Friday. I’ll text you the details.”
+“Your brother’s dead. They called me a little while ago, said they needed someone to identify the body.” Roy’s voice was flat, emptied out. “Funeral’s probably going to be Friday. I’ll text you the details.”
 
 “Wait—”
 
@@ -564,9 +564,9 @@ He spent them reading about Vernon Pike, or trying to. There wasn't much online�
 
 At eleven-thirty, Jeff got in his car and drove southeast.
 
-The Painted Horse looked worse in daylight. The paint was peeling, the parking lot full of potholes. Only two trucks sat outside. Jeff parked and went in.
+The Painted Horse looked no better than it had on the day of the funeral—paint peeling, the parking lot pitted with potholes. Only two trucks sat outside. Jeff parked and went in.
 
-The interior was dark despite the afternoon sun. It took a moment for his eyes to adjust. A bartender—different from the one who’d served Roy—stood behind the bar wiping glasses. Two men sat at separate tables, both nursing beers.
+The interior was dark despite the late-morning sun. It took a moment for his eyes to adjust. A bartender—different from the one who’d served Roy—stood behind the bar wiping glasses. Two men sat at separate tables, both nursing beers.
 
 “We just opened,” the bartender said. “Kitchen’s not running yet.”
 

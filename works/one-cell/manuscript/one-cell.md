@@ -532,7 +532,7 @@ He called Rena.
 
 Silence. Then, “I thought you were done with this.”
 
-“I can’t let it go Rena. Someone threatened me last night. Told me to stop asking questions.”
+“I can’t let it go, Rena. Someone threatened me last night. Told me to stop asking questions.”
 
 “Jesus, Jeff.” He heard her moving, probably sitting up in bed. “That’s exactly why you need to stop.”
 

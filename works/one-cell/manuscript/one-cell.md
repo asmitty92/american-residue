@@ -118,7 +118,7 @@ Finding Roy’s number took another twenty minutes of searching through old cont
 
 “I don’t know. Maybe. He called me this morning and said some weird things.”
 
-Rena was quiet for a moment. “Be careful, Jeff. Things aren’t like they were when we were kids. People out here have gotten meaner. Especially the people Josh was mixed up with.”
+Rena was quiet for a moment. “Josh has been running with a rough crowd out here, Jeff. It might be better to leave it alone.”
 
 “I’m just making a phone call.”
 
@@ -282,8 +282,6 @@ Roy was quiet for a long moment. “He'd mention that sometimes. When he'd been 
 
 They drove in silence. When Roy pulled into the funeral home parking lot, he kept the engine running.
 
-“Go home, Jeff,” he said. “There ain't nothing for ya here anymore.”
-
 Jeff got out but leaned back in through the open window. “Where would I find Vernon Pike these days?”
 
 Roy’s face hardened. “You thick boy or just not listenin.”
@@ -296,7 +294,7 @@ Jeff looked at Roy’s outstretched hand and saw he was holding a handgun out fo
 
 “I don’t think I’ll need that,” Jeff said.
 
-“If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose. You go messing that up, and you’re gonna roust something. Mind you, I’m not endorsin that. I still think you should go home and leave it alone.”
+“If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose but he has a death grip on this town. You go tryin to mess with that, and you’re gonna roust something. Mind you, I’m not endorsin that.”
 
 Jeff reached out and took the gun. It was heavier than he expected. After he took it, Roy abruptly shut the door and unceremoniously drove away.
 
@@ -332,9 +330,7 @@ The line went quiet.
 
 “Josh understood what happened. He made a choice and he paid for it. That’s all you need to know.”
 
-“Rena—”
-
-“No. I’m serious. Go home to Caroline and Emma. Remember Josh however you want to remember him. But do not go looking for Vernon Pike.” She hung up.
+“Rena—," he began, but she had already hung up.
 
 Jeff sat in his car as the sun continued its descent. The funeral home was dark now, everyone gone. Just him alone in a parking lot in a town he’d spent half his life trying to forget.
 
@@ -620,7 +616,7 @@ Dale drank the rest of his beer in one long swallow and signaled the bartender f
 
 “That was mostly me. Josh'd do it if he had to, but he didn't like it.” Dale held up his right hand. Three fingers were normal. The pinky and ring finger were shorter, ending at the first knuckle. “When I screwed up, Vernon made sure I remembered. Josh was smarter. He talked to people. Convinced them. Most of the time it worked.”
 
-Jeff’s stomach turned. “What happened when it didn’t work?” 
+Jeff’s stomach turned. “What happened when it didn’t work?”
 
 “Then I’d step in.” Dale looked at his mangled hand. “Josh hated that part. He’d try every way he could to get people to pay before it came to that.”
 
@@ -666,7 +662,7 @@ Dale shook his head. “I can’t tell you that.”
 
 Dale walked out of the bar, leaving Jeff alone with his shitty beer and the bartender who had definitely been listening to every word.
 
-Jeff sat there for another ten minutes contemplating Dale's words. Maybe it was anger, but not the heated, irrational anger Dale meant. He was feeling the same cold, icy rage that he felt as a child every time his father had put his hands on Josh. He stood up from the booth and walked outside.
+Jeff sat there for another ten minutes contemplating Dale's words. Maybe it was anger, but not the heated, irrational anger Dale meant. He was feeling the same cold, icy rage that he felt as a child every time his father had put his hands on Josh. Finally, he stood and walked out into the sunlight.
 
 In his car, he pulled out his phone. He had Sophie Martin’s name now. A real person Josh had died protecting. He could find her, talk to her, understand what had been so important that his brother had chosen death over compliance.
 
@@ -760,7 +756,7 @@ Jeff climbed the deck steps. Sophie didn’t invite him inside, just gestured to
 
 “And you told him you couldn’t pay?”
 
-“I didn’t have to tell him. He could see it.” She sat down heavily in one of the plastic chairs. “I work two jobs. I pay what I can. But the interest—it never went down. I was drowning.” Sophie was quiet for minute before continuing. “You look just like him. It’s strange.”
+“I didn’t have to tell him. He could see it.” Her body visibly slumped deeper into the chair. “I work two jobs. I pay what I can. But the interest—it never went down. I was drowning.” Sophie was quiet for a minute before continuing. “You look just like him. It’s strange.”
 
 “We were twins.”
 
@@ -794,7 +790,7 @@ Sophie stood up quickly. “I’ll be right in, baby.” She looked at Jeff. “
 
 Jeff stood too. He looked at the boy. Dark hair, big eyes. Still thin from being sick, probably. This was the kid Josh had died for. A seven-year-old who needed surgery.
 
-He turned to leave but Sophie touched his arm. “Vernon Pike is just about the scariest man in the whole world. What I mean is, sometimes it's better to let sleeping dogs lie Mr. Denlon.”
+He turned to leave but Sophie touched his arm. “Vernon Pike has his fist wrapped around this whole town. What I mean is, sometimes it's better to let sleeping dogs lie Mr. Denlon.”
 
 She went inside and closed the door. Jeff heard the lock click.
 
@@ -1012,7 +1008,7 @@ The room went still.
 
 Vernon stared at him. “What?”
 
-“I left school that morning. Walked home. It was me Mrs. Pritchard saw that day. My father was asleep—he worked nights at the grain elevator. I took his Buck knife  from his dresser.” Jeff’s voice was steady, clinical. “He didn’t wake up until after I'd already stabbed him. Right in the throat. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father.”
+“I left school that morning. Walked home. It was me Mrs. Pritchard saw that day. My father was asleep—he worked nights at the grain elevator. I took his Buck knife from his dresser.” Jeff’s voice was steady, clinical. “He didn’t wake up until after I'd already stabbed him. Right in the throat. He tried to fight back, but he was half-asleep, confused. I was eleven years old and I killed my father.”
 
 Vernon’s expression shifted. Calculation replacing certainty.
 
@@ -1113,3 +1109,11 @@ He brushed off his pants.
 Jeff stood there for another moment, looking at his brother’s name carved in stone.
 
 Then he walked back to his car. As he drove out of the cemetery, he didn’t look back.
+
+His phone buzzed. A text from Caroline.
+
+“Doctor’s appointment at 2. Don’t forget.”
+
+He typed back: “I’ll be there.”
+
+Jeff turned onto the main road and headed north, away from the old town. Toward his family. Toward whatever came next.

@@ -118,7 +118,7 @@ Finding Roy’s number took another twenty minutes of searching through old cont
 
 “I don’t know. Maybe. He called me this morning and said some weird things.”
 
-Rena was quiet for a moment. “Josh has been running with a rough crowd out here, Jeff. It might be better to leave it alone.”
+Rena was quiet for a moment. “This town has changed, Jeff. People out here have gotten meaner, and Josh has been running with a rough crowd. This isn't your world anymore.”
 
 “I’m just making a phone call.”
 
@@ -294,7 +294,7 @@ Jeff looked at Roy’s outstretched hand and saw he was holding a handgun out fo
 
 “I don’t think I’ll need that,” Jeff said.
 
-“If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose but he has a death grip on this town. You go tryin to mess with that, and you’re gonna roust something. Mind you, I’m not endorsin that.”
+“If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose but he has this town under his thumb. You go tryin to mess with that, and you’re gonna roust something. Mind you, I’m not endorsin that.”
 
 Jeff reached out and took the gun. It was heavier than he expected. After he took it, Roy abruptly shut the door and unceremoniously drove away.
 
@@ -330,7 +330,7 @@ The line went quiet.
 
 “Josh understood what happened. He made a choice and he paid for it. That’s all you need to know.”
 
-“Rena—," he began, but she had already hung up.
+“Rena—" he began, but she had already hung up.
 
 Jeff sat in his car as the sun continued its descent. The funeral home was dark now, everyone gone. Just him alone in a parking lot in a town he’d spent half his life trying to forget.
 
@@ -530,9 +530,9 @@ He called Rena.
 
 “I need a favor.”
 
-Silence. Then, “I told you to leave this alone.”
+Silence. Then, “I thought you were done with this.”
 
-“I can’t. Someone threatened me last night. Told me to stop asking questions.”
+“I can’t let it go Rena. Someone threatened me last night. Told me to stop asking questions.”
 
 “Jesus, Jeff.” He heard her moving, probably sitting up in bed. “That’s exactly why you need to stop.”
 
@@ -666,7 +666,7 @@ Jeff sat there for another ten minutes contemplating Dale's words. Maybe it was 
 
 In his car, he pulled out his phone. He had Sophie Martin’s name now. A real person Josh had died protecting. He could find her, talk to her, understand what had been so important that his brother had chosen death over compliance.
 
-But Uncle Roy’s and Rena's words echoed in his head. Go home. Take care of your family. Let Josh rest.
+But Uncle Roy’s words echoed in his head. Go home. Take care of your family.
 
 Jeff started the car but didn’t drive anywhere. Just sat in the parking lot watching The Painted Horse’s front door. After a while, a black Dodge Ram pulled up. Two men got out and went inside. They didn’t look like afternoon drinkers.
 
@@ -756,7 +756,7 @@ Jeff climbed the deck steps. Sophie didn’t invite him inside, just gestured to
 
 “And you told him you couldn’t pay?”
 
-“I didn’t have to tell him. He could see it.” Her body visibly slumped deeper into the chair. “I work two jobs. I pay what I can. But the interest—it never went down. I was drowning.” Sophie was quiet for a minute before continuing. “You look just like him. It’s strange.”
+“I didn’t have to tell him. He could see it.” She slumped deeper into the chair. “I work two jobs. I pay what I can. But the interest—it never went down. I was drowning.” Sophie was quiet for a minute before continuing. “You look just like him. It’s strange.”
 
 “We were twins.”
 
@@ -790,7 +790,7 @@ Sophie stood up quickly. “I’ll be right in, baby.” She looked at Jeff. “
 
 Jeff stood too. He looked at the boy. Dark hair, big eyes. Still thin from being sick, probably. This was the kid Josh had died for. A seven-year-old who needed surgery.
 
-He turned to leave but Sophie touched his arm. “Vernon Pike has his fist wrapped around this whole town. What I mean is, sometimes it's better to let sleeping dogs lie Mr. Denlon.”
+He turned to leave but Sophie touched his arm. “Vernon Pike has his fist wrapped around this whole town. Sometimes it's better to let sleeping dogs lie, Mr. Denlon.”
 
 She went inside and closed the door. Jeff heard the lock click.
 

@@ -804,51 +804,51 @@ Jeff’s phone rang. Unknown number.
 
 He almost didn’t answer. But something made him pick up.
 
-“Mr. Denlon.” The voice was calm, measured. A rural accent but educated, controlled. “I hope I’m not catching you at a bad time.”
+“Mr. Denlon.” The voice was calm, measured. A rural accent but educated, controlled. “Hope I’m not catchin’ you at a bad time.”
 
 Jeff’s hand tightened on the phone. “Who is this?”
 
-“Name’s Vernon Pike. I believe you’ve been looking for me.”
+“Name’s Vernon Pike. Believe you’ve been lookin’ for me.”
 
 The fields seemed to tilt. Jeff forced himself to breathe normally. “Have I?”
 
-“Please. Let’s not insult each other’s intelligence.” Vernon’s tone remained pleasant, almost friendly. “You’ve been asking questions. Talking to people. Mrs. Pritchard. Dale Hutchins. And now Sophie Martin. I admire your persistence.”
+“Now, let’s not do each other the disservice of pretendin’.” Vernon’s tone remained pleasant, almost friendly. “You’ve been askin’ around town. Mrs. Pritchard. Dale Hutchins. Now Sophie Martin.” A short laugh. “I’ll give you this much — you don’t quit.”
 
 “You’ve been watching me.”
 
-“Of course. You’re driving a white Nissan Titan. A truck like that sticks out in these parts. You’re parked on the shoulder of County Road 550. You’ve been sitting there for just about three minutes now.”
+“Of course I have. Man drives a truck that shiny ’round here, he sticks out.” A pause. “You’re parked on the shoulder of 550 right now. Been sittin’ there about three minutes.”
 
 Jeff scanned the fields, the road. He didn’t see anyone. No black Ram. No men standing around.
 
 “What do you want?”
 
-“Same thing you want, I think. To talk.” Vernon paused. “Your brother was a good man, Mr. Denlon. Misguided, but good. I understand why you want to know what happened to him.”
+“Same thing you want, I expect. Talk.” Vernon paused. “Your brother was a good man, Mr. Denlon. Misguided. But good. I don’t blame you for wantin’ to know what happened to him.”
 
 “You had him killed.”
 
-“I did, yes.” No hesitation. No attempt to deny it. “He made mistakes that left me no choice. Surely you understand that. You’re an engineer, right? You solve problems. Sometimes the solution is… unpleasant.”
+“I did, yeah.” No hesitation. No attempt to deny it. “He made his choices. Left me nothin’ else to do about it. You’re an engineer, that right? You solve problems for a livin’. Sometimes the fix isn’t clean.”
 
 Jeff said nothing.
 
-“I know about your life,” Vernon continued. “Your wife Caroline, she’s a surgical nurse. Your daughter Emma plays soccer. You live in a very nice neighborhood up near Indianapolis. You’ve built something good for yourself. Something clean. You should be proud.”
+“I know about your life, Jeff. Mind if I call you Jeff?” He didn’t wait for an answer. “Caroline, the nurse. Little Emma and her soccer. That nice quiet street up by Indianapolis.” A pause, almost warm. “You built something good up there. Something clean. Man oughta be proud of that.”
 
 The threat was there, wrapped in compliments. Jeff’s throat went dry.
 
 “Why are you calling me?”
 
-“Because I think we can help each other avoid an unfortunate situation.” Vernon’s voice remained calm, reasonable. “You’re not like your brother, Mr. Denlon. Josh was… emotional. He let his feelings cloud his judgment. But you—you’re educated. Rational. And I think you understand how my world works even if you don’t live in it anymore.”
+“Because I think you and I can keep this from turnin’ into somethin’ neither one of us wants.” Vernon’s voice remained calm, reasonable. “You’re not like your brother, Mr. Denlon. Josh let his feelings run the show. You’re educated. You think things through. I expect you understand how my business works, even if you don’t live around it anymore.”
 
 “I understand you murdered my brother.”
 
-“You’re grieving. That’s natural. Human.” Vernon paused. “Come see me. Let’s talk face to face. I think you’ll find I’m not the monster you imagine.”
+“You’re grievin’. That’s natural. Human enough.” Vernon paused. “Come see me. Let’s talk face to face. I expect you’ll find I’m not the monster you’ve got in your head.”
 
 “Where?”
 
-“I have a lumberyard on State Road 136. Pike Lumber and Supply. You probably passed it on your way into town. Do you know it?”
+“Got a lumberyard on State Road 136. Pike Lumber and Supply. You probably passed it comin’ into town. Know it?”
 
 “I do.”
 
-“Good. Come tonight. Nine-thirty. Just you, of course. No sheriff, no foolish gestures.” The pleasantness in Vernon’s voice sharpened slightly. “You strike me as a smart man, Mr. Denlon. Smart men know when to listen. Smart men protect what matters to them.”
+“Good. Come tonight. Nine-thirty. Just you — no sheriff, no dumb ideas.” The pleasantness in Vernon’s voice sharpened slightly. “You strike me as a smart man, Mr. Denlon. Smart men know when to listen. And smart men look after what’s theirs.”
 
 The line went dead.
 
@@ -950,57 +950,57 @@ Footsteps. The door opened.
 
 Vernon Pike stood there alone. No bodyguard. No muscle. Just him in jeans and a flannel shirt with the sleeves rolled up. He looked like what he was—a man who made his living with his hands and his will, comfortable in his own domain.
 
-“Mr. Denlon. Jeff.” Vernon smiled and stepped aside. “Thanks for coming. Please.”
+“Mr. Denlon. Jeff.” Vernon smiled and stepped aside. “Thanks for comin’. Come on in.”
 
 Jeff hesitated, then stepped inside. The office was small. A desk with papers. Filing cabinets. A couple of chairs. Pictures on the wall of Vernon with various local officials, all smiles and handshakes.
 
 “No one working with you tonight?” Jeff asked.
 
-“Lumberyard closes at 8. Everyone else has been gone since 8:30.” Vernon walked to his desk but didn’t sit. “I thought we could speak privately. Just the two of us.”
+“Yard closes at eight. Everybody’s been gone since eight-thirty.” Vernon walked to his desk but didn’t sit. “Figured we’d talk better without an audience. Just the two of us.”
 
 Jeff remained standing near the door.
 
-“Suit yourself.” Vernon leaned against the edge of his desk, casual. “Can I offer you something? Coffee? Water?”
+“Suit yourself.” Vernon leaned against the edge of his desk, casual. “Somethin’ to drink? Coffee, water?”
 
 “No.”
 
-“Straight to business, then.” Vernon folded his arms. “Your brother worked for me for two years. Made good money. He was reliable. Effective.”
+“Straight to business, then.” Vernon folded his arms. “Your brother worked for me two years. Made good money doin’ it. Reliable. Good at his job.”
 
 “Until he wasn’t.”
 
-“Until he made a choice.” Vernon’s expression remained neutral. “Sophie Martin. Two kids, medical bills. She borrowed money she couldn’t repay. Josh decided to help her. On my dime.”
+“Until he made a choice.” Vernon’s expression remained neutral. “Sophie Martin. Two kids, medical bills. Borrowed money she couldn’t pay back. Josh took it on himself to help her out. On my dime.”
 
 “Interesting way to put it. Seems to me he did it on his dime.”
 
-“He exceeded his authority.” Vernon’s voice was calm. “I gave him opportunities to correct his mistake. He refused. So I removed the problem.”
+“He wasn’t authorized to do that.” Vernon’s voice was calm. “I gave him more than one chance to fix it. He wouldn’t. So I took care of it.”
 
 Jeff’s hands clenched. “You removed...the problem?”
 
-“I did.” No hesitation. No attempt to soften it. “Your brother knew the consequences of his actions. He accepted them.”
+“I did.” No hesitation. No attempt to soften it. “Your brother knew what he was riskin’. He made his peace with it.”
 
 “He died protecting someone who needed it.”
 
-“He died for a foolish ideal.” Vernon’s voice remained calm. “Sophie still struggles. Still works two jobs. Josh threw away his life for feelings.” He paused. “You know, it’s interesting. Of the two of you, Josh was always the one more familiar with how things work out here. He understood it. Knew how to handle himself when necessary, even if he preferred to avoid it. But you—you built a nice life far away from all that. Engineer. Suburban home. Soccer practice.”
+“He died for nothin’.” Vernon’s voice remained calm. “Sophie’s still strugglin’. Still workin’ two jobs. Josh threw his life away over a feelin’.” He paused. “Here’s the funny part. Out of you two, Josh was always the one who knew how this town works. Knew how to handle himself when he had to, even if he didn’t care for it. You went and built yourself a nice life clear away from all that. Engineer. House in the suburbs. Kid’s soccer games.”
 
 Jeff said nothing.
 
-“I’ve done my research, Jeff. You’re the brother who left. The one who escaped.” Vernon smiled slightly. “So I have to wonder what you think you’re doing here. What you imagine all this will accomplish.”
+“I did some diggin’ on you, Jeff. You’re the brother who left. The one who got out.” Vernon smiled slightly. “So I got to wonder what you think you’re doin’ here. What you figure this accomplishes.”
 
 “I wanted to understand.”
 
-“And do you? Do you understand why people like your brother die while I survive?” Vernon pushed off the desk and walked to the window. “It’s because I understand reality. Josh never did. He thought being noble mattered. That protection mattered. That doing the right thing made a difference.”
+“And do you? You understand why fellas like your brother end up dead and I’m still standin’ here?” Vernon pushed off the desk and walked to the window. “Because I know how this town actually runs. Josh never wanted to learn it. Kept thinkin’ bein’ decent was gonna count for somethin’.”
 
 “It does matter.”
 
-“Does it?” Vernon turned back. “You’re proof it doesn’t. You escaped this town by being smart. By being rational. By not letting emotion cloud your judgment.” He moved closer. “You’re not like your brother, Mr. Denlon. You’re like me.”
+“Does it?” Vernon turned back. “You’re livin’ proof it don’t. You got out of this town by keepin’ your head. Not lettin’ feelin’s run things.” He moved closer. “You’re not like your brother, Jeff. You’re like me.”
 
 “I’m nothing like you.”
 
-“No?” Vernon’s smile widened. “Then why are you here? What did you think would happen when you walked in my door?”
+“No?” Vernon’s smile widened. “Then why’re you here? What’d you think was gonna happen, you walkin’ through my door?”
 
 Jeff met his eyes. “I’m here because twenty-seven years ago, someone killed our father. Stabbed him in his bed with a Buck knife. We were eleven years old.”
 
-Vernon’s smile faded slightly. “Whole town knows the story. Josh disappeared from school that day. Mrs. Pritchard saw him. Your mama knew the truth. That’s why she sent him away to live with her brother.”
+Vernon’s smile faded slightly. “Whole town knows that story. Josh went missin’ from school that day. Mrs. Pritchard saw him. Your mama knew the truth of it. That’s why she shipped him off to her brother’s.”
 
 “Josh didn’t kill our father,” Jeff said quietly. “I did. I bet the town rumor mill never told you that.”
 
@@ -1036,7 +1036,7 @@ He released Vernon and stepped back. Vernon sagged against the desk, breathing h
 
 Jeff reached into his jacket and pulled out Josh’s gun. He chambered a round. The sound was loud in the small office.
 
-Vernon turned slowly, his face pale. “You’re making a mistake.”
+Vernon turned slowly, his face pale. “You’re makin’ a mistake here.”
 
 “No. Josh made a mistake. He thought he could be better than our father. Better than what we came from.” Jeff’s hand was steady. “I always thought once he was gone, we’d be able to escape the shadow of our father’s violent nature. But I guess I was wrong.”
 

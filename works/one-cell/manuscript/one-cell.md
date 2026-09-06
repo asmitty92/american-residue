@@ -146,7 +146,7 @@ The kitchen tilted. Jeff gripped the edge of the table.
 
 “What?”
 
-“Your brother’s dead. They called me a little while ago, said they needed someone to identify the body.” Roy’s voice was flat, emptied out. “Funeral’s probably going to be Friday. I’ll text you the details.”
+“Your brother’s dead. They called me a little while ago, said they needed someone to identify the body.” Roy’s voice was flat, emptied out. “Funeral’s probably gonna be Friday. I’ll text you the details.”
 
 “Wait—”
 
@@ -186,7 +186,7 @@ They stood in uncomfortable silence. Up close, Jeff could smell the whiskey on h
 
 “Who found him?” Jeff asked.
 
-“Couple kids driving to work at the ethanol plant. Saw something in the ditch.” Roy’s voice was flat, mechanical. “Deputies said he’d been dead a couple hours by then.”
+“Couple kids drivin’ to work at the ethanol plant. Saw somethin’ in the ditch.” Roy’s voice was flat, mechanical. “Deputies said he’d been dead a couple hours by then.”
 
 He’d died not long after the phone call. Josh had known exactly what was coming.
 
@@ -196,7 +196,7 @@ Roy gave him a look. “You really want to talk about this here?”
 
 “I do. I want to know what happened to my brother.”
 
-“Your brother got himself killed doing what he did. That’s what happened.” Roy turned back toward the casket. “You been gone a long time, Jeff. You don’t remember how things work anymore.”
+“Your brother got hisself killed doin’ what he did. That’s what happened.” Roy turned back toward the casket. “You been gone a long time, Jeff. You don’t remember how things work no more.”
 
 “Then tell me.”
 
@@ -240,15 +240,15 @@ Inside, the bar was dark and nearly empty. A bartender with tattooed forearms no
 
 They took a booth in the back. Roy downed half his drink in one swallow and set the glass on the scarred table between them.
 
-“Josh was doing collections,” Roy said without preamble. “Working for Vernon Pike. You know what collections means?”
+“Josh was doin’ collections,” Roy said without preamble. “Workin’ for Vernon Pike. You know what collections means?”
 
 “Vernon’s still lending money under the table.”
 
-“That and extorting money from local businesses and calling it protection.” Roy finished his drink and signaled for another. The bartender brought over the bottle and refilled Roy’s glass. “Josh was good at it. He could be persuasive without being violent. Most of the time, anyway.”
+“That and extortin’ money off local businesses and callin’ it protection.” Roy finished his drink and signaled for another. The bartender brought over the bottle and refilled Roy’s glass. “Josh was good at it. He could be persuasive without bein’ violent. Most of the time, anyway.”
 
 “What happened?”
 
-Roy leaned back in the booth. “There was this woman. Widowed mother, two kids. She’d borrowed money for her kid’s medical bills and fallen behind on payments. Vernon wanted Josh to lean on her. Make her understand that debt doesn’t just go away.”
+Roy leaned back in the booth. “There was this woman. Widowed mother, two kids. She’d borrowed money for her kid’s medical bills and fallen behind on payments. Vernon wanted Josh to lean on her. Make her understand that debt don’t just go away.”
 
 Jeff waited.
 
@@ -256,17 +256,17 @@ Jeff waited.
 
 “And killed him for it?”
 
-“Not Vernon himself.” Roy stared into his glass. “But yeah. That’s why Josh is dead. Because he couldn’t get in line and just do the job.”
+“Not Vernon hisself.” Roy stared into his glass. “But yeah. That’s why Josh is dead. Because he couldn’t get in line and just do the job.”
 
 The bar’s jukebox played something country and mournful. Jeff felt the weight of it settling on him—his brother had died trying to protect someone.
 
 “The sheriff know?”
 
-Roy laughed, bitter and short. “The sheriff’s department don’t give a single shit about Josh Denlon. Small-time criminal gets shot in a ditch? Case is already going cold.”
+Roy laughed, bitter and short. “The sheriff’s department don’t give a single shit about Josh Denlon. Small-time criminal gets shot in a ditch? Case is already goin’ cold.”
 
 “So Vernon and whoever did the dirty work just walk away.”
 
-“That’s how it works.” Roy met Jeff’s eyes. “You should go home to your nice house and your nice family and forget about all this. Your brother made his choices. He knew the risks crossing Pike.”
+“That’s how it works.” Roy met Jeff’s eyes. “You should go on home to your nice house and your nice family and forget about all this. Your brother made his choices. He knew the risk of crossin’ Pike.”
 
 “He called me that morning. Before he died.”
 
@@ -274,7 +274,7 @@ Something shifted in Roy’s expression. “What’d he say?”
 
 “That he didn’t blame me. For Mama sending him away.” Jeff paused. “And he talked about us being twins. About how we came from one cell before we split.”
 
-Roy was quiet for a long moment. “He’d mention that sometimes. When he’d been hitting the whiskey too hard. About you being twins. About how different you turned out. And sometimes other things…about your daddy.” He finished his second drink. “No, he never blamed you. He was proud-a you. Talked about you like you’d done something special, leaving town.”
+Roy was quiet for a long moment. “He’d mention that sometimes. When he’d been hittin’ the whiskey too hard. About you bein’ twins. About how different you turned out. And sometimes other things…about your daddy.” He finished his second drink. “No, he never blamed you. He was proud-a you. Talked about you like you’d done somethin’ special, leavin’ town.”
 
 “I should have stayed in touch.”
 
@@ -284,17 +284,17 @@ They drove in silence. When Roy pulled into the funeral home parking lot, he kep
 
 Jeff got out but leaned back in through the open window. “Where would I find Vernon Pike these days?”
 
-Roy’s face hardened. “You thick boy or just not listenin.”
+Roy’s face hardened. “You thick boy or just not listenin’.”
 
 “Josh was my brother.”
 
-Roy looked carefully at Jeff for a moment before reaching under the front seat. “If yer gonna keep pushing this, you oughtta take this. It was Josh’s. You might need it.”
+Roy looked carefully at Jeff for a moment before reaching under the front seat. “If yer gonna keep pushin’ this, you oughtta take this. It was Josh’s. You might need it.”
 
 Jeff looked at Roy’s outstretched hand and saw he was holding a handgun out for Jeff to take.
 
 “I don’t think I’ll need that,” Jeff said.
 
-“If you’re gonna keep asking around after Vernon, you just might. He keeps a low profile on purpose but he has this town under his thumb. You go tryin to mess with that, and you’re gonna roust something. Mind you, I’m not endorsin that.”
+“If you’re gonna keep askin’ around after Vernon, you just might. He keeps a low profile on purpose but he has this town under his thumb. You go tryin’ to mess with that, and you’re gonna roust somethin’. Mind you, I’m not endorsin’ that.”
 
 Jeff reached out and took the gun. It was heavier than he expected. After he took it, Roy abruptly shut the door and unceremoniously drove away.
 

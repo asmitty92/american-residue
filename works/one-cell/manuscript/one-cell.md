@@ -54,7 +54,7 @@ The call didn’t make sense. Josh sounded like he was saying goodbye, but that 
 
 Jeff tried the number again. Voicemail.
 
-He showered and dressed, though it was still before six. His wife, Caroline, slept through the noise. She had a gift for that—sleeping through anything. Their daughter Emma’s room was dark as he passed it in the hall. She’d be up within the hour for school.
+He showered and dressed, though it was still before six. Tuesday meant an hour of Krav Maga before work — a routine he’d kept for almost fifteen years, ever since he’d first walked into a gym on a whim and never really left — but this morning he canceled without a second thought. His wife, Caroline, slept through the noise. She had a gift for that—sleeping through anything. Their daughter Emma’s room was dark as he passed it in the hall. She’d be up within the hour for school.
 
 He made coffee and sat at the kitchen table with his phone in front of him. Every few minutes he picked it up and tried Josh’s number again. Nothing.
 
@@ -290,7 +290,7 @@ Roy’s face hardened. “You thick boy or just not listenin’.”
 
 Roy looked carefully at Jeff for a moment before reaching under the front seat. “If yer gonna keep pushin’ this, you oughtta take this. It was Josh’s. You might need it.”
 
-Jeff looked at Roy’s outstretched hand and saw he was holding a handgun out for Jeff to take.
+Jeff looked at Roy’s outstretched hand and saw he was holding a handgun out for Jeff to take. It wasn’t the first time Roy had put one in his hand. He could still remember standing in a field behind Roy’s place at maybe nine years old, Roy’s hand steadying his elbow, Josh laughing at how bad his aim was. That had felt like nothing. This felt like something else entirely.
 
 “I don’t think I’ll need that,” Jeff said.
 
@@ -558,6 +558,8 @@ The bar wouldn’t be open until noon. Jeff had a few hours to kill.
 
 He spent them reading about Vernon Pike, or trying to. There wasn’t much online—the man kept a low profile. A few mentions in local news articles about his legitimate businesses. One article from three years ago mentioned Pike being questioned in connection to a missing meth dealer. No charges were filed.
 
+At some point he found himself in the garage, working the heavy bag he kept back there, though he couldn’t have said when he’d walked out or how long he’d been at it. His knuckles were raw by the time he noticed. He wrapped them, put the bag away, and went back inside.
+
 At eleven-thirty, Jeff got in his car and drove southeast.
 
 The Painted Horse looked no better than it had on the day of the funeral—paint peeling, the parking lot pitted with potholes. Only two trucks sat outside. Jeff parked and went in.
@@ -662,7 +664,13 @@ Dale shook his head. “I can’t tell you that.”
 
 Dale walked out of the bar, leaving Jeff alone with his shitty beer and the bartender who had definitely been listening to every word.
 
-Jeff sat there for another ten minutes contemplating Dale’s words. Maybe it was anger, but not the heated, irrational anger Dale meant. He was feeling the same cold, icy rage that he felt as a child every time his father had put his hands on Josh. Finally, he stood and walked out into the sunlight.
+Jeff sat there for another ten minutes contemplating Dale’s words. Maybe it was anger, but not the heated, irrational anger Dale meant. It was colder than that. Quieter.
+
+He’d felt it exactly twice before. Once as a boy, standing in a doorway watching his father’s hands close around Josh’s arm. And once in his twenties, a few years after he’d left Millstone for good, when a man who’d known his family back home tracked him down outside a bar in Bloomington — half a favor for somebody, half a shakedown, the details didn’t matter anymore — and put a hand on his shoulder like he owned him. Jeff didn’t remember deciding to do anything. He remembered the man on the ground, and the strange, total stillness that came over him while it happened, and how long it took him to feel anything again afterward. Nobody called the police. Jeff made sure of that himself, then drove home and threw up in his own driveway.
+
+He started training two months later. Told himself it was for exercise, for discipline, for something to do with his hands that wasn’t this. Fifteen years on, he still hadn’t decided if it worked.
+
+Finally, he stood and walked out into the sunlight.
 
 In his car, he pulled out his phone. He had Sophie Martin’s name now. A real person Josh had died protecting. He could find her, talk to her, understand what had been so important that his brother had chosen death over compliance.
 
@@ -1024,7 +1032,7 @@ Jeff moved faster.
 
 He grabbed Vernon’s wrist, twisted hard. Vernon grunted and swung with his other hand. The punch glanced off Jeff’s shoulder. Jeff didn’t react. Didn’t flinch. He drove his knee into Vernon’s stomach, then slammed him face-first onto the desk.
 
-Vernon struggled. Jeff pressed his forearm across the back of Vernon’s neck, pinning him. His movements were precise. Mechanical. Like solving an engineering problem—identify the load-bearing points, apply pressure, maintain control.
+Vernon struggled. Jeff pressed his forearm across the back of Vernon’s neck, pinning him. His movements were precise. Mechanical. The same stillness he’d first felt outside a bar in Bloomington half a lifetime ago, and had spent fifteen years in a gym trying to put a name to. Like solving an engineering problem—identify the load-bearing points, apply pressure, maintain control.
 
 “Stop—” Vernon gasped.
 

@@ -522,35 +522,27 @@ He made coffee and sat at the kitchen table with his laptop. The threatening tex
 
 Good.
 
-He needed to find someone who’d known Josh. Someone who’d worked with him. But he didn’t have names, didn’t know where to start.
+He needed to find someone who’d known Josh. Someone who’d worked with him. But he didn’t have names, didn’t know where to start. Roy would.
 
-He called Rena.
+He called him.
 
-“Jeff, it’s still early,” she said, groggy.
+“Yeah.” Roy’s voice was thick with sleep, or something worse.
 
-“I need a favor.”
+“It’s Jeff. I need a favor.”
 
-Silence. Then, “I thought you were done with this.”
+Silence, then a wet cough. “Already gave you the gun. What else you want.”
 
-“I can’t let it go, Rena. Someone threatened me last night. Told me to stop asking questions.”
+“A name. Somebody Josh ran with. Somebody who’d know about Vernon.”
 
-“Jesus, Jeff.” He heard her moving, probably sitting up in bed. “That’s exactly why you need to stop.”
+Roy didn’t answer right away. Jeff could hear him moving around, a lighter clicking somewhere in the background. “Why should I help you get yourself in deeper?”
 
-“Who would Josh have worked with? Someone close to him. Someone who’d know about Vernon.”
+“Because you already know I’m not going to stop.”
 
-“I’m not helping you get yourself killed.”
+A short laugh with no humor in it. “Dale Hutchins. Him and Josh ran together some. Drinks out at the Painted Horse most days, if he ain’t passed out somewhere.”
 
-“Rena, please. Just a name. That’s all I’m asking.”
+“Thank you.”
 
-She was quiet for a long time. “There’s a guy named Dale Hutchins. He and Josh ran together sometimes. He drinks at that bar on Old 37, the one with the horse painted on it.”
-
-“The Painted Horse?”
-
-“Yeah. How’d you know?”
-
-“Lucky guess.” Jeff paused. “Thank you.”
-
-“Don’t thank me. If you get yourself killed, I’m going to feel responsible.” She hung up.
+“Don’t thank me. Just don’t call again.” Roy hung up.
 
 Jeff looked up Dale Hutchins. Found a couple of arrest records going back fifteen years. Petty theft, assault, possession. Nothing recent. Either he’d cleaned up or gotten better at not getting caught.
 
@@ -576,9 +568,9 @@ The bartender poured him something amber and set it down. Jeff paid in cash.
 
 The bartender’s expression didn’t change, but something shifted in his posture. “Don’t know him.”
 
-“He drinks here. My cousin told me.”
+“He drinks here. My uncle told me.”
 
-“Your cousin’s wrong.” The bartender went back to wiping glasses.
+“Your uncle’s wrong.” The bartender went back to wiping glasses.
 
 Jeff sipped his beer. It was terrible. He waited.
 

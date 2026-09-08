@@ -874,7 +874,7 @@ Jeff started the car and drove toward his house. He needed to think. He needed a
 
 Jeff arrived home at just before six-thirty. Caroline’s car was parked in the garage. The porch light was on. Everything looked normal.
 
-He sat in the car for a moment, his mind drifting to Josh’s gun in his glove compartment. He’d checked it before driving away from Sophie’s trailer. He hadn’t handled a gun in a long time, but he remembered how to use one. But life isn’t a movie and taking a gun to a meeting with a man like Vernon would be beyond foolish.
+He sat in the car for a moment, his mind drifting to Josh’s gun in his glove compartment. He’d checked it before driving away from Sophie’s trailer. He hadn’t handled a gun in a long time, but he remembered how to use one. Taking it to a meeting with a man like Vernon would be beyond foolish, he told himself. He put it in his jacket pocket anyway.
 
 Inside, Caroline was making dinner. Emma sat at the kitchen table doing homework. Normal. Peaceful.
 
@@ -946,19 +946,21 @@ A gravel path led to the office building. Light showed through the windows. A bl
 
 Jeff walked to the door and knocked.
 
-Footsteps. The door opened.
+Footsteps. The door opened on a big man in a canvas jacket, not Vernon. He looked Jeff over once, unhurried, then stepped back and held out a hand, palm up, waiting.
 
-Vernon Pike stood there alone. No bodyguard. No muscle. Just him in jeans and a flannel shirt with the sleeves rolled up. He looked like what he was—a man who made his living with his hands and his will, comfortable in his own domain.
+Jeff raised his arms. The pat-down was quick and found Josh’s gun inside his jacket in seconds. The man drew it out without a word, checked it, and jerked his head toward a short hallway.
 
-“Mr. Denlon. Jeff.” Vernon smiled and stepped aside. “Thanks for comin’. Come on in.”
+Jeff followed him back to a small office. A desk with papers. Filing cabinets. A couple of chairs. Pictures on the wall of Vernon with various local officials, all smiles and handshakes. Vernon stood waiting behind the desk. The man set the gun down in front of him, then stepped back out and pulled the door shut.
 
-Jeff hesitated, then stepped inside. The office was small. A desk with papers. Filing cabinets. A couple of chairs. Pictures on the wall of Vernon with various local officials, all smiles and handshakes.
+Alone now, Vernon looked almost ordinary — just a man in jeans and a flannel shirt with the sleeves rolled up. He looked like what he was—someone who’d made his living with his hands and his will, comfortable enough in his own domain to send the one man who could stop trouble right out of the room.
 
-“No one working with you tonight?” Jeff asked.
-
-“Yard closes at eight. Everybody’s been gone since eight-thirty.” Vernon walked to his desk but didn’t sit. “Figured we’d talk better without an audience. Just the two of us.”
+“Mr. Denlon. Jeff.” Vernon smiled. “Thanks for comin’. Sorry about the pat-down. Sit if you want.”
 
 Jeff remained standing near the door.
+
+“Just the one man?” Jeff asked.
+
+“Yard closes at eight. Rest of the crew’s been gone since eight-thirty.” Vernon nodded toward the door. “Figured we’d talk better without much of an audience.”
 
 “Suit yourself.” Vernon leaned against the edge of his desk, casual. “Somethin’ to drink? Coffee, water?”
 
@@ -1018,13 +1020,13 @@ Vernon’s expression shifted. Calculation replacing certainty.
 
 “Because you miscalculated.” Jeff’s voice was quiet. “You thought Josh was the brother familiar with violence. But Josh spent his whole life trying to be better than what we came from. Trying to protect people. Me—I just learned to hide what I am.”
 
-Vernon’s hand moved toward his desk drawer. Fast.
+Vernon’s hand moved toward the gun on the desk. Fast.
 
 Jeff moved faster.
 
-He grabbed Vernon’s wrist, twisted hard. Vernon grunted and swung with his other hand. The punch glanced off Jeff’s shoulder. Jeff didn’t react. Didn’t flinch. He drove his knee into Vernon’s stomach, then slammed him face-first onto the desk.
+He got there first, closing his hand over Vernon’s on the grip and slamming it flat against the desk before Vernon’s finger ever found the trigger. Vernon grunted and swung with his other hand. The punch glanced off Jeff’s shoulder. Jeff didn’t react. Didn’t flinch. He drove his knee into Vernon’s stomach, then slammed him face-first onto the desk, the gun still trapped beneath both their hands.
 
-Vernon struggled. Jeff pressed his forearm across the back of Vernon’s neck, pinning him. His movements were precise. Mechanical. The same stillness he’d first felt outside a bar in Bloomington half a lifetime ago, and had spent fifteen years in a gym trying to put a name to. Like solving an engineering problem—identify the load-bearing points, apply pressure, maintain control.
+Vernon struggled. Jeff pried the gun free finger by finger, then pressed his forearm across the back of Vernon’s neck, pinning him. His movements were precise. Mechanical. The same stillness he’d first felt outside a bar in Bloomington half a lifetime ago, and had spent fifteen years in a gym trying to put a name to. Like solving an engineering problem—identify the load-bearing points, apply pressure, maintain control.
 
 “Stop—” Vernon gasped.
 
@@ -1032,9 +1034,9 @@ Jeff grabbed Vernon’s reaching arm and wrenched it behind his back. Vernon cri
 
 “You were right about one thing,” Jeff said quietly. “Josh and I did understand violence differently. He tried to escape it. Me—I just learned when to use it.”
 
-He released Vernon and stepped back. Vernon sagged against the desk, breathing hard, his arm hanging at an awkward angle.
+He released Vernon and stepped back, Josh’s gun steady in his hand. Vernon sagged against the desk, breathing hard, his arm hanging at an awkward angle. He didn’t reach for anything else. There was nothing left to reach for.
 
-Jeff reached into his jacket and pulled out Josh’s gun. He chambered a round. The sound was loud in the small office.
+Jeff chambered a round. The sound was loud in the small office.
 
 Vernon turned slowly, his face pale. “You’re makin’ a mistake here.”
 
@@ -1050,9 +1052,17 @@ Jeff fired again.
 
 Then he lowered the gun. Stood there for a moment, breathing normally. His hands weren’t shaking. He felt nothing. Just the familiar emptiness he’d felt at eleven years old, standing over his father’s body.
 
+The door opened behind him.
+
+The man from the hallway stood in the doorway, one hand still on the frame. He looked at Vernon on the floor, then at Jeff, then at the gun in Jeff’s hand. Neither of them moved for what felt like a long time.
+
+Jeff didn’t raise the gun. He held the man’s eyes instead and let him do the math on his own — that Vernon was dead either way now, that whatever came next in this town would come without him, that a dead boss bought no loyalty from a man who’d only ever been paid to stand outside a door.
+
+The man looked at Vernon a moment longer. Then he stepped back, pulled the door shut, and Jeff heard his footsteps going the other way, out toward the yard.
+
 He wiped down the gun with his shirt, set it on Vernon’s desk, and walked out.
 
-The parking lot was empty. The road was quiet. Jeff got in his car and drove away, taking back roads, staying under the speed limit. Normal. Careful.
+The lot outside was empty. The black Ram was gone. The road was quiet. Jeff got in his car and drove away, taking back roads, staying under the speed limit. Normal. Careful.
 
 By the time he pulled into his driveway, his heart rate was steady. Caroline’s car was still there. The porch light still on. Everything normal.
 

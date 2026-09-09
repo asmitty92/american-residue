@@ -1048,8 +1048,6 @@ The shot was deafening in the enclosed space.
 
 Vernon fell backward, hitting the filing cabinet before sliding to the floor. His eyes were wide, surprised.
 
-Jeff fired again.
-
 Then he lowered the gun. Stood there for a moment, breathing normally. His hands weren’t shaking. He felt nothing. Just the familiar emptiness he’d felt at eleven years old, standing over his father’s body.
 
 The door opened behind him.
@@ -1086,17 +1084,17 @@ He stared at the ceiling until morning.
 
 Four weeks later, Jeff stood at Josh’s grave. The marker was simple: Joshua Thomas Denlon. Beloved Son and Brother.
 
-Uncle Roy had picked it out. Paid for it too, though he’d never said as much.
+Uncle Roy had picked it out. He must’ve paid for it too, though he’d never said as much.
 
 Jeff set down the flowers and knelt in the grass. The cemetery was empty except for a groundskeeper working several rows away.
 
-“They found Vernon Pike dead in his office,” Jeff said quietly. “Suicide, they’re saying. Two shots. His own gun.” He paused. “A deputy called about two weeks later. Asked if I’d known him, where I’d been that week. I told him I was in town for your funeral, nothing more. He thanked me and never called again.”
+“They found Vernon Pike dead in his office,” Jeff said quietly. “Suicide, they’re saying.” He paused. “A deputy called about a week later. Asked if I’d known him, why Vernon had called me, and where I’d been that week. I told him I was in town for your funeral, nothing more, and Vernon called to offer his condolences. He thanked me and never called again.”
 
 A breeze moved through the cemetery trees.
 
-“Nobody’s looking too hard. Nobody cares. The bartender at that bar never said who I was asking after. Dale didn’t either. Sophie kept quiet, same as she was told to. Whoever else was in that building that night never said a word — I expect he had his own reasons.” He paused. “Same sheriff’s department that couldn’t be bothered with your case, Josh. I suppose I should be grateful for that, in a way I’m not proud of.”
+“Nobody’s looking too hard. Nobody cares. The bartender at that bar never said who I was asking after. Dale didn’t either. Sophie kept quiet, same as she was told to. Whoever else was in that building that night never said a word — I expect he had his own reasons.” He paused. “Same sheriff’s department that let Vernon run the town and couldn’t be bothered with your case, Josh. I suppose I should be grateful for that. I’m certainly not proud of it.”
 
-“Sophie and her kids are okay. I set up a fund for them. Anonymous. Her son’s surgery went well.”
+“Sophie and her kids are okay. I offered her a job as an assistant at my firm — part-time hours, but full pay and full benefits. Her son will have real medical coverage.”
 
 Jeff touched the cold stone marker.
 

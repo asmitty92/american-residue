@@ -1090,9 +1090,11 @@ Uncle Roy had picked it out. Paid for it too, though he’d never said as much.
 
 Jeff set down the flowers and knelt in the grass. The cemetery was empty except for a groundskeeper working several rows away.
 
-“They found Vernon Pike dead in his office,” Jeff said quietly. “Suicide, they’re saying. Two shots. His own gun.” He paused. “Nobody’s looking too hard. Nobody cares.”
+“They found Vernon Pike dead in his office,” Jeff said quietly. “Suicide, they’re saying. Two shots. His own gun.” He paused. “A deputy called about two weeks later. Asked if I’d known him, where I’d been that week. I told him I was in town for your funeral, nothing more. He thanked me and never called again.”
 
 A breeze moved through the cemetery trees.
+
+“Nobody’s looking too hard. Nobody cares. The bartender at that bar never said who I was asking after. Dale didn’t either. Sophie kept quiet, same as she was told to. Whoever else was in that building that night never said a word — I expect he had his own reasons.” He paused. “Same sheriff’s department that couldn’t be bothered with your case, Josh. I suppose I should be grateful for that, in a way I’m not proud of.”
 
 “Sophie and her kids are okay. I set up a fund for them. Anonymous. Her son’s surgery went well.”
 

@@ -412,7 +412,7 @@ Jeff pulled out his phone and searched for the address of the consolidated schoo
 
 The building looked smaller than he remembered. Most things did. The brick facade had darkened with age and the playground equipment was rusted, but the basic shape remained the same. He and Josh had spent six years inside those walls.
 
-The day their father died, the boys walked to school together. But they weren’t both there all day. Mrs. Pritchard had seen Josh walking away from the school that morning. Their mother had been at work at the nursing home. Their father, who worked nights at the grain elevator, was home asleep when someone entered their house and stabbed him in his bed with his own Buck knife.
+The day their father died, the boys walked to school together. But they weren’t both there all day. Mrs. Pritchard told the sheriff she had seen Josh walking away from the school that morning, but nobody followed up. Their mother had been at work at the nursing home. Their father, who worked nights at the grain elevator, was home asleep when someone entered their house and stabbed him in his bed with his own Buck knife.
 
 Jeff’s phone rang. Caroline.
 
